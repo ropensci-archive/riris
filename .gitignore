@@ -1,0 +1,5 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data-raw/solr_dumps/5-23-2016/*.xml
