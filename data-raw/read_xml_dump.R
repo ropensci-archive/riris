@@ -20,7 +20,6 @@ for(i in files){
   filepath <- file.path("data-raw/solr_dumps/5-23-2016",paste(i, sep=''))
   i <- str_replace_all(i, '.xml', '_xml')
   assign(i, xmlParse(filepath))
-  # assign(i, xpathSApply(xmlParse(filepath), c("//*/arr", "//*/file")))
 }
 
 
@@ -39,40 +38,121 @@ read_in <- function(x){
   xmlParse(x)
 }
 
-xml_data <- lapply(paste(filepath, files, sep = '/'), read_in)
+
+xml_data <- lapply(paste(filepath, Files, sep = '/'), read_in)
+
+# Returns unique entries---------------------------------------------------
+# Propose use of these dataframes: exploring the IRIS repository 
+# by parameters of interest
+
+# Extract based on a list of attributes only (PID not extracted; need str for that)
+
+xml_data_ext <- xml_data %>%
+  llply(., xpathApply, path = c("//*/arr"))
+
+val <- xml_data_ext %>%
+  flatten(.) %>%
+  llply(., xmlValue)
+
+att <- xml_data_ext %>%
+  flatten(.) %>%
+  llply(., xmlAttrs) %>%
+  unlist(.) %>%
+  paste(.) %>%
+  unique(.)
 
 
-attrs <- as.data.frame(t(xmlSApply(xml_data[[1]]["/record/solr/response/result/doc/arr"],xmlAttrs)),
-                       stringsAsFactors=FALSE)
+# Need to find a way to preserve the attribute's name! ------------------------------------------
+
+all_attrs <- map(xml_data, xpathApply, paste("//arr[@name= '",att,"']", sep = ""), 
+                 getChildrenStrings) %>%
+  unlist(.)%>%
+  paste(.) %>%
+  unique(.)
+
+# Extracting individually
+authors <- xml_data %>%
+  map(., xpathApply, "//arr[@name= 'iris.instrument.author']", getChildrenStrings) %>%
+  unlist(.) %>%
+  paste(.) %>%
+  unique(.)
+
+instrument_types <- xml_data %>%
+  map(., xpathApply, "//arr[@name= 'iris.instrument.instrumentType']", getChildrenStrings) %>%
+  unlist(.) %>%
+  str_split(., " / ") %>% 
+  unlist(.)%>%
+  paste(.) %>%
+  unique(.)
+
+research_areas <- xml_data %>%
+  map(., xpathApply, "//arr[@name= 'iris.instrument.researchArea']", getChildrenStrings) %>%
+  unlist(.) %>%
+  str_split(., " / ") %>% 
+  unlist(.)%>%
+  paste(.) %>%
+  unique(.)
 
 
-values <- as.data.frame(t(xmlSApply(xml_data[[1]]["/record/solr/response/result/doc/arr"],xmlValue)),
-                        stringsAsFactors=FALSE)
+# Returns values ------------------------------------------------
+PID <- xml_data %>%
+  map(., xpathApply, "//str[@name= 'PID']",xmlValue) %>%
+  unlist
+
+value <- xml_data %>%
+  map(., xpathApply, "//arr[@name= 'dc.creator']",xmlValue) %>%
+  unlist
+
+
+
+# Work with stuff above here for now.
+
 
 ## Create dataframes of query possibilities--------------------------
-xml_data_ext <- llply(xml_data, xpathSApply, path = c("//*/arr", "//*/file", "//*/str"))
-val <- llply(flatten(xml_data_ext), xmlValue)
-att <- llply(flatten(xml_data_ext), xmlAttrs)
+xml_data_ext <- xml_data %>%
+  llply(., xpathApply, path = c("//*/arr", "//*/file", "//*/str"))
+
+val <- xml_data_ext %>%
+  flatten(.) %>%
+  llply(., xmlValue)
+
+att <- xml_data_ext %>%
+  flatten(.) %>%
+  llply(., xmlAttrs)
 
 xml_d <- lst(att, val)
 
+unique_attrs <- xml_d %>%
+  unlist(att) %>%
+  unique(.)
+  
+unique_vals  <- xml_d %>%
+  unlist(val) %>%
+  unique(.)
 
-unique_attrs <- unique(as.character(unlist(xml_d$att)))
-unique_vals <- unique(as.character(unlist(xml_d$val)))
-
-uid <- as.data.frame(unlist(xml_d$val[which(xml_d$att == 'PID')])) %>%
+uid <- xml_d$val[which(xml_d$att == 'PID')] %>%
+  unlist(.) %>%
+  as.data.frame(.) %>%
   setNames(., 'uid')
 
-iris_instrument_authors <- as.data.frame(unlist(xml_d$val[which(xml_d$att == 'iris.instrument.author')])) %>%
+iris_instrument_authors <- xml_d$val[which(xml_d$att == 'iris.instrument.author')] %>%
+  unlist(.) %>%
+  as.data.frame(.) %>%
   setNames(., 'instrument_authors') 
 
-instrument_type <- as.data.frame(unlist(xml_d$val[which(xml_d$att == 'iris.instrument.instrumentType')])) %>%
+instrument_type <- xml_d$val[which(xml_d$att == 'iris.instrument.instrumentType')] %>%
+  unlist(.) %>%
+  as.data.frame(.) %>%
   setNames(., 'instrument_type')
 
-instrument_research_area <- as.data.frame(unlist(xml_d$val[which(xml_d$att == 'iris.instrument.researchArea')]))  %>%
+instrument_research_area <- xml_d$val[which(xml_d$att == 'iris.instrument.researchArea')] %>%
+  unlist(.) %>%
+  as.data.frame(.) %>%
   setNames(., 'instrument_research_area')
 
-participant_type <- as.data.frame(unlist(xml_d$val[which(xml_d$att == 'iris.participants.participantType')])) %>%
+participant_type <- xml_d$val[which(xml_d$att == 'iris.participants.participantType')] %>%
+  unlist(.) %>%
+  as.data.frame(.) %>%
   setNames(., 'participant_type')
 
 iris_meta <- bind_cols(uid, iris_instrument_authors, instrument_type,
@@ -80,25 +160,60 @@ iris_meta <- bind_cols(uid, iris_instrument_authors, instrument_type,
 
 # Not the same length; fields missing in xml files-------------------------------------
 
-# instrument_subject <- unlist(xml_d$val[which(xml_d$att == 'dc.subject')])
-  
-# instrument_source_language <- unlist(xml_d$val[which(xml_d$att == 'iris.instrument.sourceLanguage')])
+instrument_subject <- xml_d$val[which(xml_d$att == 'dc.subject')] %>%
+  unlist(.) %>%
+  as.data.frame(.) %>%
+  setNames(., 'instrument_subject')
 
-# instrument_data_type <- unlist(xml_d$val[which(xml_d$att == 'iris.instrument.dataType')])
+instrument_source_language <- xml_d$val[which(xml_d$att == 'iris.instrument.sourceLanguage')] %>%
+  unlist(.) %>%
+  as.data.frame(.) %>%
+  setNames(., 'instrument_source_lang')
 
-# instrument_linguistic_target <- unlist(xml_d$val[which(xml_d$att == 'iris.instrument.linguisticTarget')])
+instrument_data_type <- xml_d$val[which(xml_d$att == 'iris.instrument.dataType')] %>%
+  unlist(.) %>%
+  as.data.frame(.) %>%
+  setNames(., 'instrument_data_type')
 
-# participant_target_language <- unlist(xml_d$val[which(xml_d$att == 'iris.participants.targetLanguage')])
+instrument_linguistic_target <- xml_d$val[which(xml_d$att == 'iris.instrument.linguisticTarget')] %>%
+  unlist(.) %>%
+  as.data.frame(.) %>%
+  setNames(., 'instrument_ling_target')
 
-# participant_first_language <- unlist(xml_d$val[which(xml_d$att == 'iris.participants.firstLanguage')])
+participant_target_language <- xml_d$val[which(xml_d$att == 'iris.participants.targetLanguage')] %>%
+  unlist(.) %>%
+  as.data.frame(.) %>%
+  setNames(., 'participant_target_lang')
 
-# participant_proficiency <- unlist(xml_d$val[which(xml_d$att == 'iris.participants.proficiencyLearner')])
+participant_first_language <- xml_d$val[which(xml_d$att == 'iris.participants.firstLanguage')] %>%
+  unlist(.) %>%
+  as.data.frame(.) %>%
+  setNames(., 'participant_first_lang')
 
-#-------------------------------------------------------------------
-iris_author_id <- 1:length(iris_instrument_authors)
+participant_proficiency <- xml_d$val[which(xml_d$att == 'iris.participants.proficiencyLearner')] %>%
+  unlist(.) %>%
+  as.data.frame(.) %>%
+  setNames(., 'participant_proficiency')
+                                    
 
-authors <- as.data.frame(cbind(iris_author_id, iris_instrument_authors))
-  
+
+# Junk? --------------------------------------------------------------------
+
+attrs <- xml_data[[1]]["/record/solr/response/result/doc/arr"] %>%
+  xmlSApply(., xmlAttrs) %>%
+  t(.) %>%
+  as.data.frame(., stringsAsFactors = FALSE) %>%
+  setNames(., 'attrs')
+
+values <- xml_data[[1]]["/record/solr/response/result/doc/arr"] %>%
+  xmlSApply(., xmlValue) %>%
+  t(.) %>%
+  as.data.frame(., stringsAsFactors = FALSE) %>%
+  setNames(., 'values')
+
+# Notes --------------------------------------------------
+# splice large xml dataset by pid, test for presence of variable, 
+# extract variable if TRUE, return NA if FALSE; create dataframe
 
 
 
