@@ -1,0 +1,27 @@
+Package: riris
+Type: Package
+Title: riris: R Functions for Accessing the Digital Repository of Data
+    Collection Instruments for Research into Second Language Learning
+    and Teaching
+Version: 0.1.0
+Author: Geoff LaFlair
+Maintainer: Geoff LaFlair <gtlaflair@gmail.com>
+Description: Contains functions for searching, accessing, and using data
+    collection instruments in the IRIS online repository 
+    (https://www.iris-database.org).
+Depends: R (>= 2.10)
+Date: 2016-8-3
+License: GPL-3
+LazyData: TRUE
+Imports:
+    dplyr,
+    magrittr,
+    plyr,
+    psych,
+    purrr,
+    readr,
+    stats,
+    stringr,
+    tidyr, 
+    XML,
+    xml2,
