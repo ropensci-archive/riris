@@ -41,13 +41,15 @@ data_top <- xml_data %>%
 
 attribs <- data_top %>%
   map(., xpathSApply, c("//*/arr", "//*/str[@name= 'PID']", 
-                        "//*/str[@name= 'iris.hasmaterials']"), xmlAttrs) 
+                        "//*/str[@name= 'iris.hasmaterials']"), xmlGetAttr, 'name')  %>%
+  .[1:length(.)-1]
 
 
 
 values <- data_top %>%
   map(., xpathSApply, c("//*/arr", "//*/str[@name= 'PID']", 
                         "//*/str[@name= 'iris.hasmaterials']"), getChildrenStrings)%>%
+  .[1:length(.)-1] %>%
   at_depth(., 2, str_c, collapse = "; ") %>%
   map(., as_data_frame, validate = FALSE) 
 
@@ -55,13 +57,18 @@ values <- data_top %>%
 for (i in 1:length(values)) {
   
   colnames(values[[i]]) <- attribs[[i]]
-  colnames(values[[i]]) <- gsub("\\.","_",names(values[[i]]))
+  colnames(values[[i]]) <- gsub("\\.","_", names(values[[i]]))
   colnames(values[[i]]) <- tolower(gsub("([A-Z])", '_\\1', names(values[[i]])))
+  colnames(values[[i]]) <- gsub("_p_i_d", "iris_pid", names(values[[i]]))
+  colnames(values[[i]]) <- gsub("dc", "iris", names(values[[i]]))
   
 }
   
 iris_meta <- values %>%
-  map(., select, contains('iris.')) 
+  map(., select, contains('iris_')) 
+
+
+iris_metadata <- reduce(iris_meta, full_join)
 
 
 devtools::use_data(iris_meta, overwrite = TRUE, internal = TRUE)
@@ -78,15 +85,30 @@ ns <- data_top %>%
 
 # Extract based on a list of attributes only (PID not extracted; need str for that)
 
+author <- xml_data %>%
+  map(., xpathApply, c("//*/str[@name= 'PID']",
+                       "//arr[@name= 'iris.instrument.author']"), getChildrenStrings)%>%
+  .[1:length(.)-1] %>%
+  at_depth(., 2, str_c, collapse = "; ") %>%
+  map(., as_data_frame, validate = FALSE) %>%
+  map(., set_names, c('PID', 'iris_instrument_author')) %>%
+  ldply(., data.frame)
+
+
+
+
+
 iris_instrument_author <- xml_data %>%
-  map(., xpathApply, c("//arr[@name= 'iris.instrument.author']"), getChildrenStrings) %>%
+  map(., xpathApply, c("//arr[@name= 'iris.instrument.author']"), 
+      getChildrenStrings) %>%
   unlist(.) %>%
   unique(.) %>%
   data_frame(.) %>%
   set_names(., 'iris_instrument_author')
 
 iris_instrument_instrument_type <- xml_data %>%
-  map(., xpathApply, "//arr[@name= 'iris.instrument.instrumentType']", getChildrenStrings) %>%
+  map(., xpathApply, "//arr[@name= 'iris.instrument.instrumentType']", 
+      getChildrenStrings) %>%
   unlist(.) %>%
   unique(.) %>%
   data_frame(.) %>%
