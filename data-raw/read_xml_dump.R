@@ -71,7 +71,7 @@ iris_meta <- values %>%
 iris_metadata <- reduce(iris_meta, full_join)
 
 
-devtools::use_data(iris_meta, overwrite = TRUE, internal = TRUE)
+devtools::use_data(iris_metadata, overwrite = TRUE, internal = TRUE)
 
 # For when I need to acces the file
 # "//*/file"
