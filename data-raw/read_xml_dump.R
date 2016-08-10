@@ -1,5 +1,5 @@
-library(XML); library(xml2); library(plyr); library(dplyr); library(tidyr)
-library(stringr); library(magrittr); library(purrr); library(reshape2)
+library(XML); library(xml2); library(plyr); library(purrr); library(dplyr); library(tidyr)
+library(stringr); library(magrittr); library(reshape2)
 
 
 ## Read in solr dump------------------------------------
@@ -40,10 +40,14 @@ data_top <- xml_data %>%
   map(., xmlRoot)
 
 attribs <- data_top %>%
-  map(., xpathSApply, c("//*/arr", "//*/str[@name= 'PID']"), xmlGetAttr, "name") 
+  map(., xpathSApply, c("//*/arr", "//*/str[@name= 'PID']", 
+                        "//*/str[@name= 'iris.hasmaterials']"), xmlAttrs) 
+
+
 
 values <- data_top %>%
-  map(., xpathSApply, c("//*/arr", "//*/str[@name= 'PID']"), getChildrenStrings)%>%
+  map(., xpathSApply, c("//*/arr", "//*/str[@name= 'PID']", 
+                        "//*/str[@name= 'iris.hasmaterials']"), getChildrenStrings)%>%
   at_depth(., 2, str_c, collapse = "; ") %>%
   map(., as_data_frame, validate = FALSE) 
 
@@ -51,12 +55,16 @@ values <- data_top %>%
 for (i in 1:length(values)) {
   
   colnames(values[[i]]) <- attribs[[i]]
+  colnames(values[[i]]) <- gsub("\\.","_",names(values[[i]]))
+  colnames(values[[i]]) <- tolower(gsub("([A-Z])", '_\\1', names(values[[i]])))
   
 }
   
-iris_meta <- values
+iris_meta <- values %>%
+  map(., select, contains('iris.')) 
 
-devtools::use_data(iris_meta, overwrite = TRUE)
+
+devtools::use_data(iris_meta, overwrite = TRUE, internal = TRUE)
 
 # For when I need to acces the file
 # "//*/file"
@@ -70,93 +78,93 @@ ns <- data_top %>%
 
 # Extract based on a list of attributes only (PID not extracted; need str for that)
 
-authors <- xml_data %>%
-  map(., xpathApply, "//arr[@name= 'iris.instrument.author']", getChildrenStrings) %>%
+iris_instrument_author <- xml_data %>%
+  map(., xpathApply, c("//arr[@name= 'iris.instrument.author']"), getChildrenStrings) %>%
   unlist(.) %>%
   unique(.) %>%
   data_frame(.) %>%
-  set_names(., 'authors')
+  set_names(., 'iris_instrument_author')
 
-instrument_types <- xml_data %>%
+iris_instrument_instrument_type <- xml_data %>%
   map(., xpathApply, "//arr[@name= 'iris.instrument.instrumentType']", getChildrenStrings) %>%
   unlist(.) %>%
   unique(.) %>%
   data_frame(.) %>%
-  set_names(., 'instrument_types')
+  set_names(., 'iris_instrument_instrument_type')
 
-research_areas <- xml_data %>%
+iris_instrument_research_area <- xml_data %>%
   map(., xpathApply, "//arr[@name= 'iris.instrument.researchArea']", getChildrenStrings) %>%
   unlist(.) %>%
   unique(.) %>%
   data_frame(.) %>%
-  set_names(., 'research_areas')
+  set_names(., 'iris_instrument_research_area')
 
-linguistic_features <- xml_data %>%
+iris_instrument_linguistic_target <- xml_data %>%
   map(., xpathApply, "//arr[@name= 'iris.instrument.linguisticTarget']", getChildrenStrings) %>%
   unlist(.) %>%
   unique(.) %>%
   data_frame(.) %>%
-  set_names(., 'linguistic_features')
+  set_names(., 'iris_instrument_linguistic_target')
 
-data_types <- xml_data %>%
+iris_instrument_data_type <- xml_data %>%
   map(., xpathApply, "//arr[@name= 'iris.instrument.dataType']", getChildrenStrings) %>%
   unlist(.) %>%
   unique(.) %>%
   data_frame(.) %>%
-  set_names(., 'data_types')
+  set_names(., 'iris_instrument_data_type')
 
-learner_proficiency <- xml_data %>%
+iris_participants_proficiency_learner <- xml_data %>%
   map(., xpathApply, "//arr[@name= 'iris.participants.proficiencyLearner']", getChildrenStrings) %>%
   unlist(.) %>%
   unique(.) %>%
   data_frame(.) %>%
-  set_names(., 'learner_proficiency')
+  set_names(., 'iris_participants_proficiency_learner')
 
-language_domains <- xml_data %>%
+iris_participants_domain_of_use <- xml_data %>%
   map(., xpathApply, "//arr[@name= 'iris.participants.domainOfUse']", getChildrenStrings) %>%
   unlist(.) %>%
   unique(.) %>%
   data_frame(.) %>%
-  set_names(., 'language_domains')
+  set_names(., 'iris_participants_domain_of_use')
 
-participant_types <- xml_data %>%
+iris_participants_participant_type <- xml_data %>%
   map(., xpathApply, "//arr[@name= 'iris.participants.participantType']", getChildrenStrings) %>%
   unlist(.) %>%
   unique(.) %>%
   data_frame(.) %>%
-  set_names(., 'participant_types')
+  set_names(., 'iris_participants_participant_type')
 
-funders <- xml_data %>%
+iris_instrument_funder <- xml_data %>%
   map(., xpathApply, "//arr[@name= 'iris.instrument.funder']", getChildrenStrings) %>%
   unlist(.) %>%
   unique(.) %>%
   data_frame(.) %>%
-  set_names(., 'funders')
+  set_names(., 'iris_instrument_funder')
 
-participant_target_language <- xml_data %>%
+iris_participants_target_language <- xml_data %>%
   map(., xpathApply, "//arr[@name= 'iris.participants.targetLanguage']", getChildrenStrings) %>%
   unlist(.) %>%
   unique(.) %>%
   data_frame(.) %>%
-  set_names(., 'participant_target_language')
+  set_names(., 'iris_participants_target_language')
 
-participant_first_language <- xml_data %>%
+iris_participants_first_language <- xml_data %>%
   map(., xpathApply, "//arr[@name= 'iris.participants.firstLanguage']", getChildrenStrings) %>%
   unlist(.) %>%
   unique(.) %>%
   data_frame(.) %>%
-  set_names(., 'participant_first_language') 
+  set_names(., 'iris_participants_first_language') 
 
-devtools::use_data(authors, overwrite = TRUE)
-devtools::use_data(instrument_types, overwrite = TRUE)
-devtools::use_data(research_areas, overwrite = TRUE)
-devtools::use_data(linguistic_features, overwrite = TRUE)
-devtools::use_data(data_types, overwrite = TRUE)
-devtools::use_data(learner_proficiency, overwrite = TRUE)
-devtools::use_data(language_domains, overwrite = TRUE)
-devtools::use_data(participant_types, overwrite = TRUE)
-devtools::use_data(participant_target_language, overwrite = TRUE)
-devtools::use_data(participant_first_language, overwrite = TRUE)
+devtools::use_data(iris_instrument_author, overwrite = TRUE)
+devtools::use_data(iris_instrument_instrument_type, overwrite = TRUE)
+devtools::use_data(iris_instrument_research_area, overwrite = TRUE)
+devtools::use_data(iris_instrument_linguistic_target, overwrite = TRUE)
+devtools::use_data(iris_instrument_data_type, overwrite = TRUE)
+devtools::use_data(iris_participants_proficiency_learner, overwrite = TRUE)
+devtools::use_data(iris_participants_domain_of_use, overwrite = TRUE)
+devtools::use_data(iris_participants_participant_type, overwrite = TRUE)
+devtools::use_data(iris_participants_target_language, overwrite = TRUE)
+devtools::use_data(iris_participants_first_language, overwrite = TRUE)
 
 
 # Returns ID information  ------------------------------------------------
@@ -177,8 +185,10 @@ has_materials <- xml_data %>%
 # Attempt to extract all (not working well) ---------------------------------------------------------------
 
 
+# Use this idea to pull URL and meta data from sysdata
+
 xml_data_ext <- xml_data %>%
-  llply(., xpathApply, path = c("//*/arr"))
+  map(., xpathApply, path = c("//*/arr", "//str[@name= 'PID']"))
 
 val <- xml_data_ext %>%
   flatten(.) %>%
