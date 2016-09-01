@@ -1,13 +1,13 @@
 library(XML); library(xml2); library(plyr); library(purrr); library(dplyr); library(tidyr)
-library(stringr); library(magrittr); library(reshape2)
+library(stringr); library(magrittr); library(reshape2); library(listless)
 
 
 ## Read in solr dump------------------------------------
-
-download.file("http://dlib.york.ac.uk/irisdump.zip", 
-         destfile="data-raw/solr_dumps/5-23-2016/irisdump.zip", mode="wb") 
-unzip ("data-raw/solr_dumps/5-23-2016/irisdump.zip", 
-       exdir = "data-raw/solr_dumps/5-23-2016", overwrite = TRUE)
+# 
+# download.file("http://dlib.york.ac.uk/irisdump.zip", 
+#          destfile="data-raw/solr_dumps/5-23-2016/irisdump.zip", mode="wb") 
+# unzip ("data-raw/solr_dumps/5-23-2016/irisdump.zip", 
+#        exdir = "data-raw/solr_dumps/5-23-2016", overwrite = TRUE)
 
 
 
@@ -57,7 +57,7 @@ for (i in 1:length(values)) {
 }
   
 iris_meta <- values %>%
-  map(., select, contains('iris_')) %>%
+  map(., select, contains('iris_'))
   
 
 
