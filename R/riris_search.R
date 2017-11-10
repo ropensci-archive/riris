@@ -1,6 +1,6 @@
 
 
-iris_search <- function(..., iris_instrument_author,
+riris_search <- function(..., iris_instrument_author,
                         iris_instrument_instrument_type,
                         iris_instrument_research_area,
                         iris_instrument_linguistic_target,
