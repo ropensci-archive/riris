@@ -26,6 +26,7 @@ filepath <- file.path("data-raw/solr_dumps/5-23-2016",paste(files, sep=''))
 xml_data <- map(filepath, xmlParse, useInternalNodes = TRUE, encoding = "ISO-8859-1")
 
 
+
 # Begin making large searchable list of data frames --------------------------------
 
 data_top <- xml_data %>%
