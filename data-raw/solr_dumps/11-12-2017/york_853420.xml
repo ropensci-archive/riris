@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:853420">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">466</int>
+            <lst name="params">
+               <str name="q">PID:york?853420</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:853420</str>
+               <arr name="dc.creator">
+                  <str>Ordin, Mikhail</str>
+                  <str>Polyanskaya, Leona</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2007</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:853420</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>Stimulated recall</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Ordin, Mikhail</str>
+                  <str>Polyanskaya, Leona</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2007</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:853420</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>Stimulated recall</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Ordin, Mikhail</str>
+                  <str>Polyanskaya, Leona</str>
+               </arr>
+               <date name="fgs.createdDate">2015-06-11T12:15:21.646Z</date>
+               <date name="fgs.dateCreated.sort">2015-06-11T12:15:21.646Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-03T20:54:26.949Z</date>
+               <str name="fgs.ownerId">iris-47b5d6b7-f287-4410-972d-a29c7e4d1bc8</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>mikhail.ordin@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Ordin, Mikhail</str>
+                  <str>Polyanskaya, Leona</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>Alexander von Humboldt Foundation</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>Stimulated recall</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">elicited imitation protocol / sentence repetition task elicited imitation protocol / sentence repetition task elicited imitation stimulated recall stimulated recall  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Acoustic</str>
+                  <str>Phonology</str>
+                  <str>Codas</str>
+                  <str>Stress</str>
+                  <str>Syllable</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Stimulated recall</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Phonology</str>
+                  <str>Pronunciation</str>
+                  <str>Prosody</str>
+                  <str>Speaking / Oral production</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Sound</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>First language learners</str>
+                  <str>Native speakers</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Native</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2007_Bunta_Ingram_The acquisition of speech rhythm by bilingual. Spanish- and English-speaking four-and five-year-old children</str>
+                  <str>in press_Ordin_Polyanskaya_Acquisition of speech rhythm in first language</str>
+               </arr>
+               <str name="iris.references.allauthors">Ordin &amp; Polyanskaya (in press)</str>
+               <arr name="iris.references.author">
+                  <str>Bunta, Ferenc</str>
+                  <str>Ingram, David</str>
+                  <str>Ordin, Mikhail</str>
+                  <str>Polyanskaya, Leona</str>
+               </arr>
+               <str name="iris.references.author.lastnames">buntaingramordinpolyanskaya</str>
+               <arr name="iris.references.author.noack">
+                  <str>Ordin, Mikhail</str>
+                  <str>Polyanskaya, Leona</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Journal of Acoustical Society of America</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2007</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2007</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>mikhail.ordin@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Ordin, Mikhail</str>
+                  <str>Polyanskaya, Leona</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>Alexander von Humboldt Foundation</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>Stimulated recall</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">elicited imitation protocol / sentence repetition task elicited imitation protocol / sentence repetition task elicited imitation stimulated recall stimulated recall  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Acoustic</str>
+                  <str>Phonology</str>
+                  <str>Codas</str>
+                  <str>Stress</str>
+                  <str>Syllable</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Stimulated recall</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Phonology</str>
+                  <str>Pronunciation</str>
+                  <str>Prosody</str>
+                  <str>Speaking / Oral production</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Sound</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>First language learners</str>
+                  <str>Native speakers</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Native</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2007_Bunta_Ingram_The acquisition of speech rhythm by bilingual. Spanish- and English-speaking four-and five-year-old children</str>
+                  <str>in press_Ordin_Polyanskaya_Acquisition of speech rhythm in first language</str>
+               </arr>
+               <str name="iris2.references.allauthors">Ordin &amp; Polyanskaya (in press)</str>
+               <arr name="iris2.references.author">
+                  <str>Bunta, Ferenc</str>
+                  <str>Ingram, David</str>
+                  <str>Ordin, Mikhail</str>
+                  <str>Polyanskaya, Leona</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">buntaingramordinpolyanskaya</str>
+               <arr name="iris2.references.journal">
+                  <str>Journal of Acoustical Society of America</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2007</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2007</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:853420/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT3" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:853420/asset/INSTRUMENT3?download=true"/>
+      <file id="INSTRUMENT4" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:853420/asset/INSTRUMENT4?download=true"/>
+      <file id="INSTRUMENT5" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:853420/asset/INSTRUMENT5?download=true"/>
+      <file id="INSTRUMENT6" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:853420/asset/INSTRUMENT6?download=true"/>
+      <file id="INSTRUMENT7" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:853420/asset/INSTRUMENT7?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:820862">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">525</int>
+            <lst name="params">
+               <str name="q">PID:york?820862</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:820862</str>
+               <arr name="dc.creator">
+                  <str>Cajkler, Wasyl</str>
+                  <str>Hall, Bernadette</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2009</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>This questionnaire is modelled on the NQT surveys constructed by the then Training and Development Agency. The questionnaire was a Local Authority survey used by the late Bernadette Hall in her work for the Local Authority in Leicester. We would like to thank Leicester City Council for kindly granting permission for the questionnaire to be made available on IRIS.</str>
+               </arr>
+               <str name="dc.title">NQT Survey Questionnaire</str>
+               <str name="dc.title.sort">NQT Survey Questionnaire</str>
+               <arr name="dc.type">
+                  <str>Biographical questionnaire</str>
+                  <str>Self-efficacy questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Cajkler, Wasyl</str>
+                  <str>Hall, Bernadette</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2009</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>This questionnaire is modelled on the NQT surveys constructed by the then Training and Development Agency. The questionnaire was a Local Authority survey used by the late Bernadette Hall in her work for the Local Authority in Leicester. We would like to thank Leicester City Council for kindly granting permission for the questionnaire to be made available on IRIS.</str>
+               </arr>
+               <str name="dc2.title">NQT Survey Questionnaire</str>
+               <arr name="dc2.type">
+                  <str>Biographical questionnaire</str>
+                  <str>Self-efficacy questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Cajkler, Wasyl</str>
+                  <str>Hall, Bernadette</str>
+               </arr>
+               <str name="dc3.title">NQT Survey Questionnaire</str>
+               <date name="fgs.createdDate">2014-03-13T16:01:36.341Z</date>
+               <date name="fgs.dateCreated.sort">2014-03-13T16:01:36.341Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-15T20:20:34.898Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>wc4@leicester.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Cajkler, Wasyl</str>
+                  <str>Hall, Bernadette</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Self-efficacy questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">biographical questionnaire biographical questionnaire  self-efficacy questionnaire self-efficacy questionnaire  attitude questionnaire attitude questionnaire  language background questionnaire language background questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">This questionnaire is modelled on the NQT surveys constructed by the then Training and Development Agency. The questionnaire was a Local Authority survey used by the late Bernadette Hall in her work for the Local Authority in Leicester. We would like to thank Leicester City Council for kindly granting permission for the questionnaire to be made available on IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Attitude questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Self-efficacy</str>
+                  <str>Teacher education</str>
+                  <str>Teacher cognition</str>
+                  <str>Bilingualism</str>
+                  <str>Community and heritage languages</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Biographical questionnaire</str>
+                  <str>Questionnaire &gt; Self-efficacy questionnaire</str>
+                  <str>Questionnaire &gt; Language background questionnaire</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>NQT Survey Questionnaire</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Language users</str>
+                  <str>Teachers</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2009_Cajkler_Hall_'When they first come in what do you do?' English as an additional language and newly qualified teachers</str>
+               </arr>
+               <str name="iris.references.allauthors">Cajkler &amp; Hall (2009)</str>
+               <arr name="iris.references.author">
+                  <str>Cajkler, Wasyl</str>
+                  <str>Hall, Bernadette</str>
+               </arr>
+               <str name="iris.references.author.lastnames">cajklerhall</str>
+               <arr name="iris.references.author.noack">
+                  <str>Cajkler, Wasyl</str>
+                  <str>Hall, Bernadette</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language and Education</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>wc4@leicester.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Cajkler, Wasyl</str>
+                  <str>Hall, Bernadette</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Self-efficacy questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">biographical questionnaire biographical questionnaire  self-efficacy questionnaire self-efficacy questionnaire  attitude questionnaire attitude questionnaire  language background questionnaire language background questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Attitude questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Self-efficacy</str>
+                  <str>Teacher education</str>
+                  <str>Teacher cognition</str>
+                  <str>Bilingualism</str>
+                  <str>Community and heritage languages</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Biographical questionnaire</str>
+                  <str>Questionnaire &gt; Self-efficacy questionnaire</str>
+                  <str>Questionnaire &gt; Language background questionnaire</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Language users</str>
+                  <str>Teachers</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2009_Cajkler_Hall_'When they first come in what do you do?' English as an additional language and newly qualified teachers</str>
+               </arr>
+               <str name="iris2.references.allauthors">Cajkler &amp; Hall (2009)</str>
+               <arr name="iris2.references.author">
+                  <str>Cajkler, Wasyl</str>
+                  <str>Hall, Bernadette</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">cajklerhall</str>
+               <arr name="iris2.references.journal">
+                  <str>Language and Education</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:820862/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

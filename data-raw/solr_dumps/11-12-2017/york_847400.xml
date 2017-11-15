@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:847400">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">478</int>
+            <lst name="params">
+               <str name="q">PID:york?847400</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:847400</str>
+               <arr name="dc.creator">
+                  <str>Bisson, Marie-Josée</str>
+                  <str>Van Heuven, Walter J.B.</str>
+                  <str>Conklin, Kathy</str>
+                  <str>Tunney, Richard J.</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2013</str>
+                  <str>2014</str>
+                  <str>1980</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>Both Phase One incidental learning - letter-search task and Phase Two explicit learning - translation recognition task used in this study are linked in IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:847400</str>
+               </arr>
+               <str name="dc.title">Phase One incidental learning - letter-search task</str>
+               <str name="dc.title.sort">Phase One incidental learning - letter-search task</str>
+               <arr name="dc.type">
+                  <str>Instructional material / Intervention activities / Teaching activities</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Bisson, Marie-Josée</str>
+                  <str>Van Heuven, Walter J.B.</str>
+                  <str>Conklin, Kathy</str>
+                  <str>Tunney, Richard J.</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2013</str>
+                  <str>2014</str>
+                  <str>1980</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>Both Phase One incidental learning - letter-search task and Phase Two explicit learning - translation recognition task used in this study are linked in IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:847400</str>
+               </arr>
+               <str name="dc2.title">Phase One incidental learning - letter-search task</str>
+               <arr name="dc2.type">
+                  <str>Instructional material / Intervention activities / Teaching activities</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Bisson, Marie-Josée</str>
+                  <str>Van Heuven, Walter J.B.</str>
+                  <str>Conklin, Kathy</str>
+                  <str>Tunney, Richard J.</str>
+               </arr>
+               <str name="dc3.title">Phase One incidental learning - letter-search task</str>
+               <date name="fgs.createdDate">2015-01-08T14:00:53.535Z</date>
+               <date name="fgs.dateCreated.sort">2015-01-08T14:00:53.535Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2015-05-01T16:12:43.655Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>m.bisson@lboro.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Bisson, Marie-Josée</str>
+                  <str>Van Heuven, Walter J.B.</str>
+                  <str>Conklin, Kathy</str>
+                  <str>Tunney, Richard J.</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">Both Phase One incidental learning - letter-search task and Phase Two explicit learning - translation recognition task used in this study are linked in IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Instructional / Intervention / Teaching / Training materials</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Lexicon (vocabulary)</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Phase One incidental learning - letter-search task</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Welsh</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2013_Bisson_Van Heuven_Conklin_Tunney_Ncidental acquisition of foreign language vocabulary through brief multi-modal exposure</str>
+                  <str>2014_Bisson_Van Heuven_Conklin_Tunney_The role of repeated exposure to multimodal input in incidental acquisition of foreign language vocabulary</str>
+                  <str>1980_Snodgrass_Vanderwart_A standardized set of 260 pictures: Norms for name agreement, image agreement, familiarity, and visual complexity</str>
+               </arr>
+               <str name="iris.references.allauthors">Bisson, Van Heuven, et al. (2014); </str>
+               <arr name="iris.references.author">
+                  <str>Bisson, Marie-Josée</str>
+                  <str>Van Heuven, W.J.B</str>
+                  <str>Conklin, Kathy</str>
+                  <str>Tunney, R.J.</str>
+                  <str>Bisson, Marie-Josée</str>
+                  <str>Van Heuven, Walter J.B.</str>
+                  <str>Conklin, Kathy</str>
+                  <str>Tunney, Richard J.</str>
+                  <str>Snodgrass, J.G</str>
+                  <str>Vanderwart, M</str>
+               </arr>
+               <str name="iris.references.author.lastnames">bissonvan heuvenconklintunneybissonvan heuvenconklintunneysnodgrassvanderwart</str>
+               <arr name="iris.references.author.noack">
+                  <str>Bisson, Marie-Josée</str>
+                  <str>Van Heuven, Walter J.B.</str>
+                  <str>Conklin, Kathy</str>
+                  <str>Tunney, Richard J.</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2013</str>
+                  <str>2014</str>
+                  <str>1980</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2013</str>
+                  <str>2014</str>
+                  <str>1980</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>m.bisson@lboro.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Bisson, Marie-Josée</str>
+                  <str>Van Heuven, Walter J.B.</str>
+                  <str>Conklin, Kathy</str>
+                  <str>Tunney, Richard J.</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Instructional / Intervention / Teaching / Training materials</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Lexicon (vocabulary)</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Welsh</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2013_Bisson_Van Heuven_Conklin_Tunney_Ncidental acquisition of foreign language vocabulary through brief multi-modal exposure</str>
+                  <str>2014_Bisson_Van Heuven_Conklin_Tunney_The role of repeated exposure to multimodal input in incidental acquisition of foreign language vocabulary</str>
+                  <str>1980_Snodgrass_Vanderwart_A standardized set of 260 pictures: Norms for name agreement, image agreement, familiarity, and visual complexity</str>
+               </arr>
+               <str name="iris2.references.allauthors">Bisson, Van Heuven, et al. (2014); </str>
+               <arr name="iris2.references.author">
+                  <str>Bisson, Marie-Josée</str>
+                  <str>Van Heuven, W.J.B</str>
+                  <str>Conklin, Kathy</str>
+                  <str>Tunney, R.J.</str>
+                  <str>Bisson, Marie-Josée</str>
+                  <str>Van Heuven, Walter J.B.</str>
+                  <str>Conklin, Kathy</str>
+                  <str>Tunney, Richard J.</str>
+                  <str>Snodgrass, J.G</str>
+                  <str>Vanderwart, M</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">bissonvan heuvenconklintunneybissonvan heuvenconklintunneysnodgrassvanderwart</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2013</str>
+                  <str>2014</str>
+                  <str>1980</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2013</str>
+                  <str>2014</str>
+                  <str>1980</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

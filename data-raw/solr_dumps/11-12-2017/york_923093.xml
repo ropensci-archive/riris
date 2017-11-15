@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:923093">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">535</int>
+            <lst name="params">
+               <str name="q">PID:york?923093</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:923093</str>
+               <arr name="dc.creator">
+                  <str>Denhovska, Nadiia</str>
+                  <str>Serratrice, Ludovica</str>
+                  <str>Payne, John</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2016</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The records for the pretraining phase vocabulary test, implicit training phase and explicit training phase materials and testing-phase gap-fill production task are all linked on IRIS. Please note, Operation Span (OS) and Reading Span (RS) tests (Unsworth, Heitz, Schrock,&amp; Engle, 2005) were used as measures of WM. Participants were also asked if they had noticed any rules or systematic patterns in the sentences presented to them on completion of all tasks.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:923093</str>
+               </arr>
+               <str name="dc.title">Training phase materials (implicit)</str>
+               <str name="dc.title.sort">Training phase materials (implicit)</str>
+               <arr name="dc.type">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Denhovska, Nadiia</str>
+                  <str>Serratrice, Ludovica</str>
+                  <str>Payne, John</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2016</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The records for the pretraining phase vocabulary test, implicit training phase and explicit training phase materials and testing-phase gap-fill production task are all linked on IRIS. Please note, Operation Span (OS) and Reading Span (RS) tests (Unsworth, Heitz, Schrock,&amp; Engle, 2005) were used as measures of WM. Participants were also asked if they had noticed any rules or systematic patterns in the sentences presented to them on completion of all tasks.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:923093</str>
+               </arr>
+               <str name="dc2.title">Training phase materials (implicit)</str>
+               <arr name="dc2.type">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Denhovska, Nadiia</str>
+                  <str>Serratrice, Ludovica</str>
+                  <str>Payne, John</str>
+               </arr>
+               <str name="dc3.title">Training phase materials (implicit)</str>
+               <date name="fgs.createdDate">2016-02-03T14:18:50.908Z</date>
+               <date name="fgs.dateCreated.sort">2016-02-03T14:18:50.908Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2016-02-22T15:13:51.238Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>ndenhovska@uclan.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Denhovska, Nadiia</str>
+                  <str>Serratrice, Ludovica</str>
+                  <str>Payne, John</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The records for the pretraining phase vocabulary test, implicit training phase and explicit training phase materials and testing-phase gap-fill production task are all linked on IRIS. Please note, Operation Span (OS) and Reading Span (RS) tests (Unsworth, Heitz, Schrock,&amp; Engle, 2005) were used as measures of WM. Participants were also asked if they had noticed any rules or systematic patterns in the sentences presented to them on completion of all tasks.</str>
+               <str name="iris.instrument.primaryInstrumentType">Instructional / Intervention / Teaching / Training materials</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Implicit learning</str>
+                  <str>Working memory</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris.instrument.software">
+                  <str>EPrime</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Training phase materials (implicit)</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str/>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Russian</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2016_Denhovska_Serratrice_Payne_Acquisition of second language grammar under incidental learning conditions: The role of frequency and working memory</str>
+               </arr>
+               <str name="iris.references.allauthors">Denhovska, Serratrice, et al. (2016)</str>
+               <arr name="iris.references.author">
+                  <str>Denhovska, Nadiia</str>
+                  <str>Serratrice, Ludovica</str>
+                  <str>Payne, John</str>
+               </arr>
+               <str name="iris.references.author.lastnames">denhovskaserratricepayne</str>
+               <arr name="iris.references.author.noack">
+                  <str>Denhovska, Nadiia</str>
+                  <str>Serratrice, Ludovica</str>
+                  <str>Payne, John</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>ndenhovska@uclan.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Denhovska, Nadiia</str>
+                  <str>Serratrice, Ludovica</str>
+                  <str>Payne, John</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Instructional / Intervention / Teaching / Training materials</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Implicit learning</str>
+                  <str>Working memory</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris2.instrument.software">
+                  <str>EPrime</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str/>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Russian</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2016_Denhovska_Serratrice_Payne_Acquisition of second language grammar under incidental learning conditions: The role of frequency and working memory</str>
+               </arr>
+               <str name="iris2.references.allauthors">Denhovska, Serratrice, et al. (2016)</str>
+               <arr name="iris2.references.author">
+                  <str>Denhovska, Nadiia</str>
+                  <str>Serratrice, Ludovica</str>
+                  <str>Payne, John</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">denhovskaserratricepayne</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:808697">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">687</int>
+            <lst name="params">
+               <str name="q">PID:york?808697</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:808697</str>
+               <arr name="dc.creator">
+                  <str>Toyoshima, Saeko</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>My main method is interview while the subsidiary one is questionnaires.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+                  <str>Japanese</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Learner strategies</str>
+                  <str>Learner attitudes</str>
+                  <str>Learning style</str>
+                  <str>Identity</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Biographical questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Learning style questionnaire</str>
+                  <str>Learning strategy questionnaire</str>
+                  <str>Interview protocol</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Toyoshima, Saeko</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>My main method is interview while the subsidiary one is questionnaires.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+                  <str>Japanese</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Learner strategies</str>
+                  <str>Learner attitudes</str>
+                  <str>Learning style</str>
+                  <str>Identity</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Biographical questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Learning style questionnaire</str>
+                  <str>Learning strategy questionnaire</str>
+                  <str>Interview protocol</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Toyoshima, Saeko</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Learner strategies</str>
+                  <str>Learner attitudes</str>
+                  <str>Learning style</str>
+                  <str>Identity</str>
+               </arr>
+               <date name="fgs.createdDate">2013-03-01T09:43:23.934Z</date>
+               <date name="fgs.dateCreated.sort">2013-03-01T09:43:23.934Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-10T16:23:15.247Z</date>
+               <str name="fgs.ownerId">iris-14c92116-b5a6-4e96-84b2-d3b7daaff312</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>stoyo@tsuda.ac.jp</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Toyoshima, Saeko</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Qualitative</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Learning style questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Learning strategy questionnaire</str>
+                  <str>Interview protocol / schedule</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">biographical questionnaire biographical questionnaire  language background questionnaire language background questionnaire  learning style questionnaire learning style questionnaire learner style questionnaire learning strategy questionnaire learning strategy questionnaire learner strategy questionnaire interview protocol / schedule interview protocol / schedule interview schedule </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">My main method is interview while the subsidiary one is questionnaires.</str>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Learning strategy questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Learner strategies</str>
+                  <str>Learner attitudes</str>
+                  <str>Learning style</str>
+                  <str>Identity</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Biographical questionnaire</str>
+                  <str>Questionnaire &gt; Language background questionnaire</str>
+                  <str>Questionnaire &gt; Learning style questionnaire</str>
+                  <str>Interview protocol / schedule</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+                  <str>School - subject(s) other than language</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate/advanced</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Toyoshima_Evidence from learning histories elicited through structured conversations: Continuity in English language learning in Japan</str>
+               </arr>
+               <str name="iris.references.allauthors">Toyoshima (2008)</str>
+               <arr name="iris.references.author">
+                  <str>Toyoshima, Saeko</str>
+               </arr>
+               <str name="iris.references.author.lastnames">toyoshima</str>
+               <arr name="iris.references.author.noack">
+                  <str>Toyoshima, Saeko</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>stoyo@tsuda.ac.jp</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Toyoshima, Saeko</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Qualitative</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Learning style questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Learning strategy questionnaire</str>
+                  <str>Interview protocol / schedule</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">biographical questionnaire biographical questionnaire  language background questionnaire language background questionnaire  learning style questionnaire learning style questionnaire learner style questionnaire learning strategy questionnaire learning strategy questionnaire learner strategy questionnaire interview protocol / schedule interview protocol / schedule interview schedule </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Learning strategy questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Learner strategies</str>
+                  <str>Learner attitudes</str>
+                  <str>Learning style</str>
+                  <str>Identity</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Biographical questionnaire</str>
+                  <str>Questionnaire &gt; Language background questionnaire</str>
+                  <str>Questionnaire &gt; Learning style questionnaire</str>
+                  <str>Interview protocol / schedule</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+                  <str>School - subject(s) other than language</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate/advanced</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Toyoshima_Evidence from learning histories elicited through structured conversations: Continuity in English language learning in Japan</str>
+               </arr>
+               <str name="iris2.references.allauthors">Toyoshima (2008)</str>
+               <arr name="iris2.references.author">
+                  <str>Toyoshima, Saeko</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">toyoshima</str>
+               <arr name="iris2.references.publicationDate">
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str/>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:808697/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:808697/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:808697/asset/INSTRUMENT2?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:822314">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">498</int>
+            <lst name="params">
+               <str name="q">PID:york?822314</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:822314</str>
+               <arr name="dc.creator">
+                  <str>Sheen, Younghee</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2000</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The writing test is linked in IRIS to the narration tasks, language anxiety questionnaire, speed dictation test and error correction test used in the referenced study (Sheen, 2008).</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:822314</str>
+               </arr>
+               <str name="dc.title">Writing test</str>
+               <str name="dc.title.sort">Writing test</str>
+               <arr name="dc.type">
+                  <str>Writing test</str>
+                  <str>Narration / Story retelling</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Sheen, Younghee</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2000</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The writing test is linked in IRIS to the narration tasks, language anxiety questionnaire, speed dictation test and error correction test used in the referenced study (Sheen, 2008).</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:822314</str>
+               </arr>
+               <str name="dc2.title">Writing test</str>
+               <arr name="dc2.type">
+                  <str>Writing test</str>
+                  <str>Narration / Story retelling</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Sheen, Younghee</str>
+               </arr>
+               <str name="dc3.title">Writing test</str>
+               <date name="fgs.createdDate">2014-05-26T16:29:09.675Z</date>
+               <date name="fgs.dateCreated.sort">2014-05-26T16:29:09.675Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2016-02-29T12:20:45.884Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>sheen@american.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Sheen, Younghee</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Writing test</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">writing test writing test  narration / story retelling  narration / story retelling   </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Articles</str>
+               </arr>
+               <str name="iris.instrument.notes">The writing test is linked in IRIS to the narration tasks, language anxiety questionnaire, speed dictation test and error correction test used in the referenced study (Sheen, 2008).</str>
+               <str name="iris.instrument.primaryInstrumentType">Writing test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Error correction / Corrective feedback</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Writing</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Narration / Story retelling </str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Writing test</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Polish</str>
+                  <str>Spanish</str>
+                  <str>Korean</str>
+                  <str>Japanese</str>
+                  <str>Russian</str>
+                  <str>Chinese</str>
+                  <str>Turkish</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2000_Muranoi_Focus on form through interaction enhancement: Integrating formal instruction into a communicative task in EFL classrooms</str>
+                  <str>2008_Sheen_Recasts, language anxiety, modified output, and L2 learning</str>
+               </arr>
+               <str name="iris.references.allauthors">Sheen (2008); </str>
+               <arr name="iris.references.author">
+                  <str>Muranoi, H.</str>
+                  <str>Sheen, Younghee</str>
+               </arr>
+               <str name="iris.references.author.lastnames">muranoisheen</str>
+               <arr name="iris.references.author.noack">
+                  <str>Sheen, Younghee</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2000</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2000</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>sheen@american.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Sheen, Younghee</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Writing test</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">writing test writing test  narration / story retelling  narration / story retelling   </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Articles</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Writing test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Error correction / Corrective feedback</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Writing</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Narration / Story retelling </str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Polish</str>
+                  <str>Spanish</str>
+                  <str>Korean</str>
+                  <str>Japanese</str>
+                  <str>Russian</str>
+                  <str>Chinese</str>
+                  <str>Turkish</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2000_Muranoi_Focus on form through interaction enhancement: Integrating formal instruction into a communicative task in EFL classrooms</str>
+                  <str>2008_Sheen_Recasts, language anxiety, modified output, and L2 learning</str>
+               </arr>
+               <str name="iris2.references.allauthors">Sheen (2008); </str>
+               <arr name="iris2.references.author">
+                  <str>Muranoi, H.</str>
+                  <str>Sheen, Younghee</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">muranoisheen</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2000</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2000</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

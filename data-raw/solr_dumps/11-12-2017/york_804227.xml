@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:804227">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">452</int>
+            <lst name="params">
+               <str name="q">PID:york?804227</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:804227</str>
+               <arr name="dc.creator">
+                  <str>Dewaele, Jean-Marc</str>
+                  <str>Pavlenko, A</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2010</str>
+                  <str>2008</str>
+                  <str>2005</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>Please see the separate document for additional publications in which this instrument was used.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Bilingualism</str>
+               </arr>
+               <str name="dc.title">Bilingualism and emotions questionnaire</str>
+               <str name="dc.title.sort">Bilingualism and emotions questionnaire</str>
+               <arr name="dc.type">
+                  <str>Attitude questionnaire</str>
+                  <str>Language Awareness questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Language preferences or dominance questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Dewaele, Jean-Marc</str>
+                  <str>Pavlenko, A</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2010</str>
+                  <str>2008</str>
+                  <str>2005</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>Please see the separate document for additional publications in which this instrument was used.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Bilingualism</str>
+               </arr>
+               <str name="dc2.title">Bilingualism and emotions questionnaire</str>
+               <arr name="dc2.type">
+                  <str>Attitude questionnaire</str>
+                  <str>Language Awareness questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Language preferences or dominance questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Dewaele, Jean-Marc</str>
+                  <str>Pavlenko, A</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Bilingualism</str>
+               </arr>
+               <str name="dc3.title">Bilingualism and emotions questionnaire</str>
+               <date name="fgs.createdDate">2012-07-30T10:42:13.59Z</date>
+               <date name="fgs.dateCreated.sort">2012-07-30T10:42:13.59Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-08T09:38:10.931Z</date>
+               <str name="fgs.ownerId">fedoraAdmin</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>j.dewaele@bbk.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Dewaele, Jean-Marc</str>
+                  <str>Pavlenko, A</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Closed response format</str>
+                  <str>Open response</str>
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language awareness questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language preferences or dominance questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Other questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">attitude questionnaire attitude questionnaire  language awareness questionnaire language awareness questionnaire  biographical questionnaire biographical questionnaire  language background questionnaire language background questionnaire  language preferences or dominance questionnaire language preferences or dominance questionnaire  other questionnaire questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">Please see the separate document for additional publications in which this instrument was used.</str>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Other questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Bilingualism</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Attitude questionnaire</str>
+                  <str>Questionnaire &gt; Language awareness questionnaire</str>
+                  <str>Questionnaire &gt; Biographical questionnaire</str>
+                  <str>Questionnaire &gt; Language background questionnaire</str>
+                  <str>Questionnaire &gt; Language preferences or dominance questionnaire</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Bilingualism and emotions questionnaire</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Bilinguals</str>
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+                  <str>Language users</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2010_Dewaele_Emotions in multiple languages</str>
+                  <str>2008_Dewaele_Petrides_Furnham_The effects of trait emotional intelligence and sociobiographical variables on communicative anxiety and foreign language anxiety among adult multilinguals: A review and empirical investigation</str>
+                  <str>2005_Pavlenko_Emotions and multilingualism</str>
+               </arr>
+               <str name="iris.references.allauthors">Dewaele (2010); Dewaele, Petrides, et al. (2008); Pavlenko (2005)</str>
+               <arr name="iris.references.author">
+                  <str>Dewaele, Jean-Marc</str>
+                  <str>Dewaele, Jean-Marc</str>
+                  <str>Petrides, K</str>
+                  <str>Furnham, Adrian</str>
+                  <str>Pavlenko, A</str>
+               </arr>
+               <str name="iris.references.author.lastnames">dewaeledewaelepetridesfurnhampavlenko</str>
+               <arr name="iris.references.author.noack">
+                  <str>Dewaele, Jean-Marc</str>
+                  <str>Dewaele, Jean-Marc</str>
+                  <str>Petrides, K</str>
+                  <str>Furnham, Adrian</str>
+                  <str>Pavlenko, A</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris.references.placeOfPublication">
+                  <str>Basingstoke</str>
+                  <str>Cambridge, MA</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2010</str>
+                  <str>2008</str>
+                  <str>2005</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2010</str>
+                  <str>2008</str>
+                  <str>2005</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Book</str>
+                  <str>Journal Article</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris.references.publisher">
+                  <str>Hodder and Stoughton</str>
+                  <str>Cambridge University Press</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>j.dewaele@bbk.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Dewaele, Jean-Marc</str>
+                  <str>Pavlenko, A</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Closed response format</str>
+                  <str>Open response</str>
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language awareness questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language preferences or dominance questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Other questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">attitude questionnaire attitude questionnaire  language awareness questionnaire language awareness questionnaire  biographical questionnaire biographical questionnaire  language background questionnaire language background questionnaire  language preferences or dominance questionnaire language preferences or dominance questionnaire  other questionnaire questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Other questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Bilingualism</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Attitude questionnaire</str>
+                  <str>Questionnaire &gt; Language awareness questionnaire</str>
+                  <str>Questionnaire &gt; Biographical questionnaire</str>
+                  <str>Questionnaire &gt; Language background questionnaire</str>
+                  <str>Questionnaire &gt; Language preferences or dominance questionnaire</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Bilinguals</str>
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+                  <str>Language users</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2010_Dewaele_Emotions in multiple languages</str>
+                  <str>2008_Dewaele_Petrides_Furnham_The effects of trait emotional intelligence and sociobiographical variables on communicative anxiety and foreign language anxiety among adult multilinguals: A review and empirical investigation</str>
+                  <str>2005_Pavlenko_Emotions and multilingualism</str>
+               </arr>
+               <str name="iris2.references.allauthors">Dewaele (2010); Dewaele, Petrides, et al. (2008); Pavlenko (2005)</str>
+               <arr name="iris2.references.author">
+                  <str>Dewaele, Jean-Marc</str>
+                  <str>Dewaele, Jean-Marc</str>
+                  <str>Petrides, K</str>
+                  <str>Furnham, Adrian</str>
+                  <str>Pavlenko, A</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">dewaeledewaelepetridesfurnhampavlenko</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris2.references.placeOfPublication">
+                  <str>Basingstoke</str>
+                  <str>Cambridge, MA</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2010</str>
+                  <str>2008</str>
+                  <str>2005</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2010</str>
+                  <str>2008</str>
+                  <str>2005</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Book</str>
+                  <str>Journal Article</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris2.references.publisher">
+                  <str>Hodder and Stoughton</str>
+                  <str>Cambridge University Press</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:804227/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:804227/asset/INSTRUMENT1?download=true"/>
+   </files>
+</record>

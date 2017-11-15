@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:819313">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">550</int>
+            <lst name="params">
+               <str name="q">PID:york?819313</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:819313</str>
+               <arr name="dc.creator">
+                  <str>Marsden, Emma</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2005</str>
+                  <str>2006</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>This instrument contains activities first used in the author's PhD thesis (Marsden, 2004). Activities used in this PhD thesis appear on IRIS in the following 9 instruments: Intervention activities (Processing Instruction, present tense); Intervention activities (Enriched Input, present tense); Explicit Grammar Information for intervention activities (present tense); Intervention activities (Processing Instruction, perfect tense); Intervention activities (Enriched Input, perfect tense); Explicit Grammar Information for intervention activities (perfect tense); Intervention activities (Processing Instruction, present vs perfect tense); Intervention activities (Enriched Input, present vs perfect tense); Explicit Grammar Information for intervention activities (present vs perfect tense). The following abbreviations have been used: PI = Processing Instruction; EI = Enriched Input; EGI = Explicit Grammar Information; List = listening; Read = reading; Ref = referential; Affect = affective; Pres = Present; Perf = perfect; Pres vs perf = present vs perfect; Comp for = comparison for.</str>
+               </arr>
+               <str name="dc.title">Explicit Grammar Information for intervention activities (present tense)</str>
+               <str name="dc.title.sort">Explicit Grammar Information for intervention activities (present tense)</str>
+               <arr name="dc.type">
+                  <str>Instructional material / Intervention activities / Teaching activities</str>
+                  <str>Listening test</str>
+                  <str>Reading test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Marsden, Emma</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2005</str>
+                  <str>2006</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>This instrument contains activities first used in the author's PhD thesis (Marsden, 2004). Activities used in this PhD thesis appear on IRIS in the following 9 instruments: Intervention activities (Processing Instruction, present tense); Intervention activities (Enriched Input, present tense); Explicit Grammar Information for intervention activities (present tense); Intervention activities (Processing Instruction, perfect tense); Intervention activities (Enriched Input, perfect tense); Explicit Grammar Information for intervention activities (perfect tense); Intervention activities (Processing Instruction, present vs perfect tense); Intervention activities (Enriched Input, present vs perfect tense); Explicit Grammar Information for intervention activities (present vs perfect tense). The following abbreviations have been used: PI = Processing Instruction; EI = Enriched Input; EGI = Explicit Grammar Information; List = listening; Read = reading; Ref = referential; Affect = affective; Pres = Present; Perf = perfect; Pres vs perf = present vs perfect; Comp for = comparison for.</str>
+               </arr>
+               <str name="dc2.title">Explicit Grammar Information for intervention activities (present tense)</str>
+               <arr name="dc2.type">
+                  <str>Instructional material / Intervention activities / Teaching activities</str>
+                  <str>Listening test</str>
+                  <str>Reading test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Marsden, Emma</str>
+               </arr>
+               <str name="dc3.title">Explicit Grammar Information for intervention activities (present tense)</str>
+               <date name="fgs.createdDate">2014-01-15T17:11:42.388Z</date>
+               <date name="fgs.dateCreated.sort">2014-01-15T17:11:42.388Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-01T14:45:50.747Z</date>
+               <str name="fgs.ownerId">iris-cf0e435a-b839-436b-b870-789b06a436ba</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>emma.marsden@york.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Marsden, Emma</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+                  <str>Listening / Aural test</str>
+                  <str>Reading test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks listening / aural test listening / aural test aural test reading test reading test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Tense</str>
+                  <str>Number</str>
+               </arr>
+               <str name="iris.instrument.notes">This instrument contains activities first used in the author's PhD thesis (Marsden, 2004). Activities used in this PhD thesis appear on IRIS in the following 9 instruments: Intervention activities (Processing Instruction, present tense); Intervention activities (Enriched Input, present tense); Explicit Grammar Information for intervention activities (present tense); Intervention activities (Processing Instruction, perfect tense); Intervention activities (Enriched Input, perfect tense); Explicit Grammar Information for intervention activities (perfect tense); Intervention activities (Processing Instruction, present vs perfect tense); Intervention activities (Enriched Input, present vs perfect tense); Explicit Grammar Information for intervention activities (present vs perfect tense). The following abbreviations have been used: PI = Processing Instruction; EI = Enriched Input; EGI = Explicit Grammar Information; List = listening; Read = reading; Ref = referential; Affect = affective; Pres = Present; Perf = perfect; Pres vs perf = present vs perfect; Comp for = comparison for.</str>
+               <str name="iris.instrument.primaryInstrumentType">Instructional / Intervention / Teaching / Training materials</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Processing instruction</str>
+                  <str>Reading</str>
+                  <str>Listening</str>
+                  <str>Effectiveness of teaching</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Listening / Aural test</str>
+                  <str>Reading test</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Explicit Grammar Information for intervention activities (present tense)</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Sound</str>
+                  <str>Still Image</str>
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Adolescent learners</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Marsden_Teaching and learning of French verb inflections: A classroom experiment using processing instruction</str>
+                  <str>2005_Marsden_Input-based grammar pedagogy: A comparison of two possibilities</str>
+                  <str>2006_Marsden_Exploring input processing in the classroom: An experimental comparison of processing instruction and enriched input</str>
+               </arr>
+               <str name="iris.references.allauthors">Marsden (2004); Marsden (2005); Marsden (2006)</str>
+               <arr name="iris.references.author">
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+               </arr>
+               <str name="iris.references.author.lastnames">marsdenmarsdenmarsden</str>
+               <arr name="iris.references.author.noack">
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>The Language Learning Journal</str>
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2005</str>
+                  <str>2006</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2005</str>
+                  <str>2006</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>emma.marsden@york.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Marsden, Emma</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+                  <str>Listening / Aural test</str>
+                  <str>Reading test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks listening / aural test listening / aural test aural test reading test reading test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Tense</str>
+                  <str>Number</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Instructional / Intervention / Teaching / Training materials</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Processing instruction</str>
+                  <str>Reading</str>
+                  <str>Listening</str>
+                  <str>Effectiveness of teaching</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Listening / Aural test</str>
+                  <str>Reading test</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Sound</str>
+                  <str>Still Image</str>
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Adolescent learners</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Marsden_Teaching and learning of French verb inflections: A classroom experiment using processing instruction</str>
+                  <str>2005_Marsden_Input-based grammar pedagogy: A comparison of two possibilities</str>
+                  <str>2006_Marsden_Exploring input processing in the classroom: An experimental comparison of processing instruction and enriched input</str>
+               </arr>
+               <str name="iris2.references.allauthors">Marsden (2004); Marsden (2005); Marsden (2006)</str>
+               <arr name="iris2.references.author">
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">marsdenmarsdenmarsden</str>
+               <arr name="iris2.references.journal">
+                  <str>The Language Learning Journal</str>
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2005</str>
+                  <str>2006</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2005</str>
+                  <str>2006</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2006</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:819313/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:819313/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:819313/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:819313/asset/INSTRUMENT3?download=true"/>
+      <file id="INSTRUMENT4" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:819313/asset/INSTRUMENT4?download=true"/>
+      <file id="INSTRUMENT5" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:819313/asset/INSTRUMENT5?download=true"/>
+   </files>
+</record>

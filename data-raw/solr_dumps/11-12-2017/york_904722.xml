@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:904722">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">462</int>
+            <lst name="params">
+               <str name="q">PID:york?904722</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:904722</str>
+               <arr name="dc.creator">
+                  <str>Tang, Chanchan</str>
+                  <str>Treffers-Daller, Jeanine</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>in press</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The records for the reading comprehension tasks (5 tasks) and vocabulary test used in this study are all linked on IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:904722</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Reading comprehension test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Tang, Chanchan</str>
+                  <str>Treffers-Daller, Jeanine</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>in press</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The records for the reading comprehension tasks (5 tasks) and vocabulary test used in this study are all linked on IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:904722</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Reading comprehension test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Tang, Chanchan</str>
+                  <str>Treffers-Daller, Jeanine</str>
+               </arr>
+               <date name="fgs.createdDate">2015-12-18T09:44:18.178Z</date>
+               <date name="fgs.dateCreated.sort">2015-12-18T09:44:18.178Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-08T03:24:23.204Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>j.c.treffers-daller@reading.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Tang, Chanchan</str>
+                  <str>Treffers-Daller, Jeanine</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Comprehension test</str>
+                  <str>Reading</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">reading reading comprehension test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The records for the reading comprehension tasks (5 tasks) and vocabulary test used in this study are all linked on IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Comprehension test &gt; Reading</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Comprehension</str>
+                  <str>Reading</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Chinese</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>in press_Tang_Treffers-Daller_Assessing incidental vocabulary learning by Chinese EFL learners: A test of the Involvement Load Hypothesis</str>
+               </arr>
+               <str name="iris.references.allauthors">Tang &amp; Treffers-Daller (in press)</str>
+               <arr name="iris.references.author">
+                  <str>Tang, Chanchan</str>
+                  <str>Treffers-Daller, Jeanine</str>
+               </arr>
+               <str name="iris.references.author.lastnames">tangtreffers-daller</str>
+               <arr name="iris.references.author.noack">
+                  <str>Tang, Chanchan</str>
+                  <str>Treffers-Daller, Jeanine</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>Assessing incidental vocabulary learning by Chinese EFL learners: A test of the Involvement Load Hypothesis</str>
+                  <str>Assessing Chinese learners of English: Language constructs, consequences and conundrums</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Yu, Guoxing</str>
+                  <str>Jin, Yan</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Chapter</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>j.c.treffers-daller@reading.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Tang, Chanchan</str>
+                  <str>Treffers-Daller, Jeanine</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Comprehension test</str>
+                  <str>Reading</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">reading reading comprehension test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Comprehension test &gt; Reading</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Comprehension</str>
+                  <str>Reading</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Chinese</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>in press_Tang_Treffers-Daller_Assessing incidental vocabulary learning by Chinese EFL learners: A test of the Involvement Load Hypothesis</str>
+               </arr>
+               <str name="iris2.references.allauthors">Tang &amp; Treffers-Daller (in press)</str>
+               <arr name="iris2.references.author">
+                  <str>Tang, Chanchan</str>
+                  <str>Treffers-Daller, Jeanine</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">tangtreffers-daller</str>
+               <arr name="iris2.references.booktitle">
+                  <str>Assessing incidental vocabulary learning by Chinese EFL learners: A test of the Involvement Load Hypothesis</str>
+                  <str>Assessing Chinese learners of English: Language constructs, consequences and conundrums</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Yu, Guoxing</str>
+                  <str>Jin, Yan</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Chapter</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:904722/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:904722/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:904722/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:904722/asset/INSTRUMENT3?download=true"/>
+      <file id="INSTRUMENT4" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:904722/asset/INSTRUMENT4?download=true"/>
+   </files>
+</record>

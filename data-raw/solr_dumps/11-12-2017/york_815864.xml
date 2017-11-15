@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:815864">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">613</int>
+            <lst name="params">
+               <str name="q">PID:york?815864</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:815864</str>
+               <arr name="dc.creator">
+                  <str>Imaz Agirre, Ainara</str>
+                  <str>García Mayo, María Del Pilar</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2013</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:815864</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Acquisition</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Picture description</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Imaz Agirre, Ainara</str>
+                  <str>García Mayo, María Del Pilar</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2013</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:815864</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Acquisition</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Picture description</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Imaz Agirre, Ainara</str>
+                  <str>García Mayo, María Del Pilar</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Acquisition</str>
+               </arr>
+               <date name="fgs.createdDate">2013-09-12T19:54:38.567Z</date>
+               <date name="fgs.dateCreated.sort">2013-09-12T19:54:38.567Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-06-11T15:20:25.037Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>ainara.imaz@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Imaz Agirre, Ainara</str>
+                  <str>García Mayo, María Del Pilar</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">picture description picture description  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Animacy</str>
+                  <str>Pronouns</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Picture description</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2013_Imaz Agirre_García Mayo_Gender agreement in L3 English by Basque/Spanish bilinguals</str>
+               </arr>
+               <str name="iris.references.allauthors">Imaz Agirre &amp; García Mayo (2013)</str>
+               <arr name="iris.references.author">
+                  <str>Imaz Agirre, Ainara</str>
+                  <str>García Mayo, María Del Pilar</str>
+               </arr>
+               <str name="iris.references.author.lastnames">imaz agirregarcía mayo</str>
+               <arr name="iris.references.author.noack">
+                  <str>Imaz Agirre, Ainara</str>
+                  <str>García Mayo, María Del Pilar</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Linguistic Approaches to Bilingualism</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>ainara.imaz@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Imaz Agirre, Ainara</str>
+                  <str>García Mayo, María Del Pilar</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">picture description picture description  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Animacy</str>
+                  <str>Pronouns</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Picture description</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2013_Imaz Agirre_García Mayo_Gender agreement in L3 English by Basque/Spanish bilinguals</str>
+               </arr>
+               <str name="iris2.references.allauthors">Imaz Agirre &amp; García Mayo (2013)</str>
+               <arr name="iris2.references.author">
+                  <str>Imaz Agirre, Ainara</str>
+                  <str>García Mayo, María Del Pilar</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">imaz agirregarcía mayo</str>
+               <arr name="iris2.references.journal">
+                  <str>Linguistic Approaches to Bilingualism</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:815864/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:818850">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">606</int>
+            <lst name="params">
+               <str name="q">PID:york?818850</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:818850</str>
+               <arr name="dc.creator">
+                  <str>Lindstromberg, Seth</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2014</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:818850</str>
+               </arr>
+               <str name="dc.title">Assonance in common collocations</str>
+               <str name="dc.title.sort">Assonance in common collocations</str>
+               <arr name="dc.type">
+                  <str>Stimuli for laboratory studies (audio)</str>
+                  <str>Stimuli for laboratory studies (visual - verbal)</str>
+                  <str>Word list</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Lindstromberg, Seth</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2014</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:818850</str>
+               </arr>
+               <str name="dc2.title">Assonance in common collocations</str>
+               <arr name="dc2.type">
+                  <str>Stimuli for laboratory studies (audio)</str>
+                  <str>Stimuli for laboratory studies (visual - verbal)</str>
+                  <str>Word list</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Lindstromberg, Seth</str>
+               </arr>
+               <str name="dc3.title">Assonance in common collocations</str>
+               <date name="fgs.createdDate">2013-11-22T18:45:18.234Z</date>
+               <date name="fgs.dateCreated.sort">2013-11-22T18:45:18.234Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2016-11-22T13:50:42.447Z</date>
+               <str name="fgs.ownerId">iris-8bb20237-f459-4b3f-81e3-cbbca0188a66</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>sethl@hilderstone.net</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Lindstromberg, Seth</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Audio</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Verbal</str>
+                  <str>Word list</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">audio stimuli for laboratory studies (audio)  verbal stimuli for laboratory studies (visual - verbal)  word list word list  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Open class</str>
+                  <str>Syntax</str>
+                  <str>Noun-adjective collocations</str>
+                  <str>Collocations/lexical chunks</str>
+                  <str>Adjectives</str>
+                  <str>Adverbs</str>
+                  <str>Nouns</str>
+                  <str>Verbs</str>
+                  <str>Other</str>
+                  <str>Passive / active voice</str>
+                  <str>Part of speech / Agent-patient</str>
+                  <str>Other syntax</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Word list</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Learner strategies</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Phonology</str>
+                  <str>Sentence processing</str>
+                  <str>Working memory</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Stimuli for laboratory studies &gt; Audio</str>
+                  <str>Stimuli for laboratory studies &gt; Visual &gt; Verbal</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Assonance in common collocations</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Dutch</str>
+                  <str>French</str>
+                  <str>Russian</str>
+                  <str>Latvian (Lettish)</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2014_Boers_Lindstromberg_Eyckmans_When does assonance make L2 lexical phrases memorable?</str>
+               </arr>
+               <str name="iris.references.allauthors">Boers, Lindstromberg, et al. (2014)</str>
+               <arr name="iris.references.author">
+                  <str>Boers, Frank</str>
+                  <str>Lindstromberg, Seth</str>
+                  <str>Eyckmans, June</str>
+               </arr>
+               <str name="iris.references.author.lastnames">boerslindstrombergeyckmans</str>
+               <arr name="iris.references.author.noack">
+                  <str>Boers, Frank</str>
+                  <str>Lindstromberg, Seth</str>
+                  <str>Eyckmans, June</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>European Journal of Applied Linguistics and TEFL</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Electronic Resource</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>sethl@hilderstone.net</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Lindstromberg, Seth</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Audio</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Verbal</str>
+                  <str>Word list</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">audio stimuli for laboratory studies (audio)  verbal stimuli for laboratory studies (visual - verbal)  word list word list  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Open class</str>
+                  <str>Syntax</str>
+                  <str>Noun-adjective collocations</str>
+                  <str>Collocations/lexical chunks</str>
+                  <str>Adjectives</str>
+                  <str>Adverbs</str>
+                  <str>Nouns</str>
+                  <str>Verbs</str>
+                  <str>Other</str>
+                  <str>Passive / active voice</str>
+                  <str>Part of speech / Agent-patient</str>
+                  <str>Other syntax</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Word list</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Learner strategies</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Phonology</str>
+                  <str>Sentence processing</str>
+                  <str>Working memory</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Stimuli for laboratory studies &gt; Audio</str>
+                  <str>Stimuli for laboratory studies &gt; Visual &gt; Verbal</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Dutch</str>
+                  <str>French</str>
+                  <str>Russian</str>
+                  <str>Latvian (Lettish)</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2014_Boers_Lindstromberg_Eyckmans_When does assonance make L2 lexical phrases memorable?</str>
+               </arr>
+               <str name="iris2.references.allauthors">Boers, Lindstromberg, et al. (2014)</str>
+               <arr name="iris2.references.author">
+                  <str>Boers, Frank</str>
+                  <str>Lindstromberg, Seth</str>
+                  <str>Eyckmans, June</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">boerslindstrombergeyckmans</str>
+               <arr name="iris2.references.journal">
+                  <str>European Journal of Applied Linguistics and TEFL</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Electronic Resource</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.ms-excel" url="https://www.iris-database.org/iris/api/resource/york:818850/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

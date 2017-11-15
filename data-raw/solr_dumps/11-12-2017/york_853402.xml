@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:853402">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">480</int>
+            <lst name="params">
+               <str name="q">PID:york?853402</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:853402</str>
+               <arr name="dc.creator">
+                  <str>Sonbul, Suhad</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The records for the on-line eye-tracking experiment, off-line rating task used in this study are linked on IRIS. The 3K and 5K levels of the VLT (Schmitt, Schmitt &amp; Clapham, 2001) were also administered to all participants. Two levels of the 3K and 5K VLT were administered as a distractor task in between the on-line eye-tracking experiment and the off-line rating task.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:853402</str>
+               </arr>
+               <str name="dc.title">On-line eye-tracking experiment</str>
+               <str name="dc.title.sort">On-line eye-tracking experiment</str>
+               <arr name="dc.type">
+                  <str>Script for psycholinguistic techniques (eye tracking - reading)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Sonbul, Suhad</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The records for the on-line eye-tracking experiment, off-line rating task used in this study are linked on IRIS. The 3K and 5K levels of the VLT (Schmitt, Schmitt &amp; Clapham, 2001) were also administered to all participants. Two levels of the 3K and 5K VLT were administered as a distractor task in between the on-line eye-tracking experiment and the off-line rating task.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:853402</str>
+               </arr>
+               <str name="dc2.title">On-line eye-tracking experiment</str>
+               <arr name="dc2.type">
+                  <str>Script for psycholinguistic techniques (eye tracking - reading)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Sonbul, Suhad</str>
+               </arr>
+               <str name="dc3.title">On-line eye-tracking experiment</str>
+               <date name="fgs.createdDate">2015-06-11T10:32:18.478Z</date>
+               <date name="fgs.dateCreated.sort">2015-06-11T10:32:18.478Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2015-06-11T10:32:24.153Z</date>
+               <str name="fgs.ownerId">iris-ce9f7bc3-da6b-43d0-aa72-6a00503b339f</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>sssonbul@uqu.edu.sa</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Sonbul, Suhad</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Script for psycholinguistic techniques</str>
+                  <str>Eye tracking</str>
+                  <str>Reading</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">reading script for psycholinguistic techniques (eye tracking - reading)  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Collocations/lexical chunks</str>
+               </arr>
+               <str name="iris.instrument.notes">The records for the on-line eye-tracking experiment, off-line rating task used in this study are linked on IRIS. The 3K and 5K levels of the VLT (Schmitt, Schmitt &amp; Clapham, 2001) were also administered to all participants. Two levels of the 3K and 5K VLT were administered as a distractor task in between the on-line eye-tracking experiment and the off-line rating task.</str>
+               <str name="iris.instrument.primaryInstrumentType">Script for psycholinguistic techniques &gt; Eye tracking &gt; Reading</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Native / Non-native</str>
+                  <str>Processing</str>
+                  <str>Proficiency</str>
+                  <str>Lexicon (vocabulary)</str>
+               </arr>
+               <arr name="iris.instrument.software">
+                  <str>Experiment builder</str>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>On-line eye-tracking experiment</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str/>
+                  <str>Native speakers</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Sonbul_Fatal mistake, awful mistake, or extreme mistake? Frequency effects on off-line/on-line collocational processing</str>
+               </arr>
+               <str name="iris.references.allauthors">Sonbul (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Sonbul, Suhad</str>
+               </arr>
+               <str name="iris.references.author.lastnames">sonbul</str>
+               <arr name="iris.references.author.noack">
+                  <str>Sonbul, Suhad</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Bilingualism: Language and Cognition</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>sssonbul@uqu.edu.sa</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Sonbul, Suhad</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Script for psycholinguistic techniques</str>
+                  <str>Eye tracking</str>
+                  <str>Reading</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">reading script for psycholinguistic techniques (eye tracking - reading)  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Collocations/lexical chunks</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Script for psycholinguistic techniques &gt; Eye tracking &gt; Reading</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Native / Non-native</str>
+                  <str>Processing</str>
+                  <str>Proficiency</str>
+                  <str>Lexicon (vocabulary)</str>
+               </arr>
+               <arr name="iris2.instrument.software">
+                  <str>Experiment builder</str>
+                  <str/>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str/>
+                  <str>Native speakers</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Sonbul_Fatal mistake, awful mistake, or extreme mistake? Frequency effects on off-line/on-line collocational processing</str>
+               </arr>
+               <str name="iris2.references.allauthors">Sonbul (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Sonbul, Suhad</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">sonbul</str>
+               <arr name="iris2.references.journal">
+                  <str>Bilingualism: Language and Cognition</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

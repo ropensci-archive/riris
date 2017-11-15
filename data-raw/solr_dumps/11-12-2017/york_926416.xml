@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:926416">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">476</int>
+            <lst name="params">
+               <str name="q">PID:york?926416</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:926416</str>
+               <arr name="dc.creator">
+                  <str>Heidari-Shahreza, Mohammad Ali</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2012</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+                  <str>Farsi</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:926416</str>
+               </arr>
+               <str name="dc.title">Word stress patterns</str>
+               <str name="dc.title.sort">Word stress patterns</str>
+               <arr name="dc.type">
+                  <str>Vocabulary test (receptive)</str>
+                  <str>Listening / Aural test</str>
+                  <str>Lexical decision task</str>
+                  <str>Word stress patterns (Musically-simulated)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Heidari-Shahreza, Mohammad Ali</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2012</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+                  <str>Farsi</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:926416</str>
+               </arr>
+               <str name="dc2.title">Word stress patterns</str>
+               <arr name="dc2.type">
+                  <str>Vocabulary test (receptive)</str>
+                  <str>Listening / Aural test</str>
+                  <str>Lexical decision task</str>
+                  <str>Word stress patterns (Musically-simulated)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Heidari-Shahreza, Mohammad Ali</str>
+               </arr>
+               <str name="dc3.title">Word stress patterns</str>
+               <date name="fgs.createdDate">2016-05-28T07:15:08.933Z</date>
+               <date name="fgs.dateCreated.sort">2016-05-28T07:15:08.933Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-07-15T20:27:48.1Z</date>
+               <str name="fgs.ownerId">iris-13faa948-2591-4414-984c-d9619780a76c</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>heidari1387@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Heidari-Shahreza, Mohammad Ali</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Open response</str>
+                  <str>Oral comprehension</str>
+                  <str>Written comprehension</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+                  <str>Listening / Aural test</str>
+                  <str>Lexical decision task</str>
+                  <str>Word stress patterns (Musically-simulated)</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">receptive vocabulary test (receptive)  listening / aural test listening / aural test aural test lexical decision task lexical decision task  word stress patterns (musically-simulated)</str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Phonetics</str>
+                  <str>Acoustic</str>
+                  <str>Articulatory</str>
+                  <str>Auditory</str>
+                  <str>Other phonetics</str>
+                  <str>Phonology</str>
+                  <str>Codas</str>
+                  <str>Stress</str>
+                  <str>Syllable</str>
+                  <str>Nonwords</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Lexical decision task</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Effectiveness of teaching</str>
+                  <str>Learner attitudes</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Listening</str>
+                  <str>Phonology</str>
+                  <str>Prosody</str>
+                  <str>Pronunciation</str>
+                  <str>Other teaching method</str>
+                  <str>Innovative teaching methods and techniques</str>
+                  <str>Task-based language teaching (TBLT)</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Vocabulary test &gt; Receptive</str>
+                  <str>Listening / Aural test</str>
+                  <str>Other</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+                  <str>Farsi</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Word stress patterns</str>
+                  <str>Musically-simulated word stress patterns</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Sound</str>
+                  <str>Still Image</str>
+                  <str>Software</str>
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Farsi</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str/>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Near beginner</str>
+                  <str>Pre-intermediate</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2012_Heidari-Shahreza_Moinzadeh_Teaching Word Stress Patterns Of English Using A Musically-simulated Technique</str>
+               </arr>
+               <str name="iris.references.allauthors">Heidari-Shahreza &amp; Moinzadeh (2012)</str>
+               <arr name="iris.references.author">
+                  <str>Heidari-Shahreza, Mohammad Ali</str>
+                  <str>Moinzadeh, Ahmad</str>
+               </arr>
+               <str name="iris.references.author.lastnames">heidari-shahrezamoinzadeh</str>
+               <arr name="iris.references.author.noack">
+                  <str>Heidari-Shahreza, Mohammad Ali</str>
+                  <str>Moinzadeh, Ahmad</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>GEMA Online&#8482; Journal of Language Studies</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>heidari1387@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Heidari-Shahreza, Mohammad Ali</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Open response</str>
+                  <str>Oral comprehension</str>
+                  <str>Written comprehension</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+                  <str>Listening / Aural test</str>
+                  <str>Lexical decision task</str>
+                  <str>Word stress patterns (Musically-simulated)</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">receptive vocabulary test (receptive)  listening / aural test listening / aural test aural test lexical decision task lexical decision task  word stress patterns (musically-simulated)</str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Phonetics</str>
+                  <str>Acoustic</str>
+                  <str>Articulatory</str>
+                  <str>Auditory</str>
+                  <str>Other phonetics</str>
+                  <str>Phonology</str>
+                  <str>Codas</str>
+                  <str>Stress</str>
+                  <str>Syllable</str>
+                  <str>Nonwords</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Lexical decision task</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Effectiveness of teaching</str>
+                  <str>Learner attitudes</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Listening</str>
+                  <str>Phonology</str>
+                  <str>Prosody</str>
+                  <str>Pronunciation</str>
+                  <str>Other teaching method</str>
+                  <str>Innovative teaching methods and techniques</str>
+                  <str>Task-based language teaching (TBLT)</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Vocabulary test &gt; Receptive</str>
+                  <str>Listening / Aural test</str>
+                  <str>Other</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+                  <str>Farsi</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Sound</str>
+                  <str>Still Image</str>
+                  <str>Software</str>
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Farsi</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str/>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Near beginner</str>
+                  <str>Pre-intermediate</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2012_Heidari-Shahreza_Moinzadeh_Teaching Word Stress Patterns Of English Using A Musically-simulated Technique</str>
+               </arr>
+               <str name="iris2.references.allauthors">Heidari-Shahreza &amp; Moinzadeh (2012)</str>
+               <arr name="iris2.references.author">
+                  <str>Heidari-Shahreza, Mohammad Ali</str>
+                  <str>Moinzadeh, Ahmad</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">heidari-shahrezamoinzadeh</str>
+               <arr name="iris2.references.journal">
+                  <str>GEMA Online&#8482; Journal of Language Studies</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:926416/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:926416/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:926416/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:926416/asset/INSTRUMENT3?download=true"/>
+      <file id="INSTRUMENT4" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:926416/asset/INSTRUMENT4?download=true"/>
+      <file id="INSTRUMENT5" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:926416/asset/INSTRUMENT5?download=true"/>
+      <file id="INSTRUMENT6" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:926416/asset/INSTRUMENT6?download=true"/>
+      <file id="INSTRUMENT7" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:926416/asset/INSTRUMENT7?download=true"/>
+      <file id="INSTRUMENT8" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:926416/asset/INSTRUMENT8?download=true"/>
+      <file id="INSTRUMENT9" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:926416/asset/INSTRUMENT9?download=true"/>
+      <file id="INSTRUMENT10" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:926416/asset/INSTRUMENT10?download=true"/>
+      <file id="INSTRUMENT11" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:926416/asset/INSTRUMENT11?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:815725">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">534</int>
+            <lst name="params">
+               <str name="q">PID:york?815725</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:815725</str>
+               <arr name="dc.creator">
+                  <str>Harding, Luke</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2011</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>This instrument was developed and used to estimate the amount of experience listeners had with certain key accents of English (in this case, Australian English, Japanese and Mandarin Chinese). It can easily be modified for other accents.</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Listening</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Language background questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Harding, Luke</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2011</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>This instrument was developed and used to estimate the amount of experience listeners had with certain key accents of English (in this case, Australian English, Japanese and Mandarin Chinese). It can easily be modified for other accents.</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Listening</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Language background questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Harding, Luke</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Listening</str>
+               </arr>
+               <date name="fgs.createdDate">2013-09-04T16:52:47.156Z</date>
+               <date name="fgs.dateCreated.sort">2013-09-04T16:52:47.156Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-22T15:01:12.543Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>l.harding@lancaster.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Harding, Luke</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">language background questionnaire language background questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">This instrument was developed and used to estimate the amount of experience listeners had with certain key accents of English (in this case, Australian English, Japanese and Mandarin Chinese). It can easily be modified for other accents.</str>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Language background questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Listening</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Harding_The use of speakers with L2 accents in academic English listening assessment: A validation study</str>
+                  <str>2011_Harding_Accent and listening assessment: A validation study of the use of speakers with L2 accents on an academic English listening test</str>
+                  <str>2012_Harding_Accent, listening assessment and the potential for a shared-L1 advantage: A DIF perspective</str>
+               </arr>
+               <str name="iris.references.allauthors">Harding (2008); Harding (2011); Harding (2012)</str>
+               <arr name="iris.references.author">
+                  <str>Harding, Luke</str>
+                  <str>Harding, Luke</str>
+                  <str>Harding, Luke</str>
+               </arr>
+               <str name="iris.references.author.lastnames">hardinghardingharding</str>
+               <arr name="iris.references.author.noack">
+                  <str>Harding, Luke</str>
+                  <str>Harding, Luke</str>
+                  <str>Harding, Luke</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Testing</str>
+               </arr>
+               <arr name="iris.references.placeOfPublication">
+                  <str>Frankfurt Am Main</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2011</str>
+                  <str>2012</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2011</str>
+                  <str>2012</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Book</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris.references.publisher">
+                  <str>Peter Lang</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>l.harding@lancaster.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Harding, Luke</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">language background questionnaire language background questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Language background questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Listening</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Harding_The use of speakers with L2 accents in academic English listening assessment: A validation study</str>
+                  <str>2011_Harding_Accent and listening assessment: A validation study of the use of speakers with L2 accents on an academic English listening test</str>
+                  <str>2012_Harding_Accent, listening assessment and the potential for a shared-L1 advantage: A DIF perspective</str>
+               </arr>
+               <str name="iris2.references.allauthors">Harding (2008); Harding (2011); Harding (2012)</str>
+               <arr name="iris2.references.author">
+                  <str>Harding, Luke</str>
+                  <str>Harding, Luke</str>
+                  <str>Harding, Luke</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">hardinghardingharding</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Testing</str>
+               </arr>
+               <arr name="iris2.references.placeOfPublication">
+                  <str>Frankfurt Am Main</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2011</str>
+                  <str>2012</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2011</str>
+                  <str>2012</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Book</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.references.publisher">
+                  <str>Peter Lang</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:815725/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

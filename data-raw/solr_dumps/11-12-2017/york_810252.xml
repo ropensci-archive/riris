@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:810252">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">543</int>
+            <lst name="params">
+               <str name="q">PID:york?810252</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:810252</str>
+               <arr name="dc.creator">
+                  <str>Godfroid, Aline</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2013</str>
+                  <str>2010</str>
+                  <str>2013</str>
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The reading texts were used in two eye-tracking studies, one of which combined eye-tracking with retrospective verbal reports. The comprehension test served as one of the dependent variables in Godfroid and Spino (2015). The comprehension test questions included for data analysis were 3, 6, 7, 11, 13, 14, 15, 16, 18, 19, and 20 (Cronbach's alpha = .69).</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:810252</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Reading test</str>
+                  <str>Vocabulary test (receptive)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Godfroid, Aline</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2013</str>
+                  <str>2010</str>
+                  <str>2013</str>
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The reading texts were used in two eye-tracking studies, one of which combined eye-tracking with retrospective verbal reports. The comprehension test served as one of the dependent variables in Godfroid and Spino (2015). The comprehension test questions included for data analysis were 3, 6, 7, 11, 13, 14, 15, 16, 18, 19, and 20 (Cronbach's alpha = .69).</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:810252</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Reading test</str>
+                  <str>Vocabulary test (receptive)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Godfroid, Aline</str>
+               </arr>
+               <date name="fgs.createdDate">2013-06-07T16:51:09.995Z</date>
+               <date name="fgs.dateCreated.sort">2013-06-07T16:51:09.995Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-08T03:28:28.087Z</date>
+               <str name="fgs.ownerId">iris-e42e64a0-238d-4e39-b850-124083c71020</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>godfroid@msu.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Godfroid, Aline</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Reaction times</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>Fonds Wetenschappelijk Onderzoek (FWO)</str>
+                  <str>CBKBOA001</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Reading test</str>
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">reading test reading test  receptive vocabulary test (receptive)  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Open class</str>
+               </arr>
+               <str name="iris.instrument.notes">The reading texts were used in two eye-tracking studies, one of which combined eye-tracking with retrospective verbal reports. The comprehension test served as one of the dependent variables in Godfroid and Spino (2015). The comprehension test questions included for data analysis were 3, 6, 7, 11, 13, 14, 15, 16, 18, 19, and 20 (Cronbach's alpha = .69).</str>
+               <str name="iris.instrument.primaryInstrumentType">Reading test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Reading</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Processing</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Vocabulary test &gt; Receptive</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Dutch</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Advanced</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Godfroid_Cognitive processes in Second Language Acquisition: The role of noticing, attention and awareness in processing words in written L2 input</str>
+                  <str>2013_Godfroid_Boers_Housen_An eye for words: Gauging the role of attention in incidental L2 vocabulary acquisition by means of eye tracking</str>
+                  <str>2010_Godfroid_Housen_Boers_A procedure for testing the Noticing Hypothesis in the context of vocabulary acquisition</str>
+                  <str>2013_Godfroid_Schmidtke_What do eye movements tell us about awareness? A triangulation of eye-movement data, verbal reports and vocabulary learning scores</str>
+                  <str>2015_Godfroid_Spino_Reconceptualizing reactivity of think-alouds and eye-tracking: Absence of evidence is not evidence of absence</str>
+               </arr>
+               <str name="iris.references.allauthors">Godfroid (2010); Godfroid, Boers, et al. (2013); Godfroid, Housen, et al. (2010); Godfroid &amp; Schmidtke (2013); Godfroid &amp; Spino (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Godfroid, Aline</str>
+                  <str>Godfroid, Aline</str>
+                  <str>Boers, Frank</str>
+                  <str>Housen, Alex</str>
+                  <str>Godfroid, Aline</str>
+                  <str>Housen, Alex</str>
+                  <str>Boers, Frank</str>
+                  <str>Godfroid, Aline</str>
+                  <str>Schmidtke, Jens</str>
+                  <str>Godfroid, Aline</str>
+                  <str>Spino, L.</str>
+               </arr>
+               <str name="iris.references.author.lastnames">godfroidgodfroidboershousengodfroidhousenboersgodfroidschmidtkegodfroidspino</str>
+               <arr name="iris.references.author.noack">
+                  <str>Godfroid, Aline</str>
+                  <str>Godfroid, Aline</str>
+                  <str>Boers, Frank</str>
+                  <str>Housen, Alex</str>
+                  <str>Godfroid, Aline</str>
+                  <str>Housen, Alex</str>
+                  <str>Boers, Frank</str>
+                  <str>Godfroid, Aline</str>
+                  <str>Schmidtke, Jens</str>
+                  <str>Godfroid, Aline</str>
+                  <str>Spino, L.</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>A procedure for testing the Noticing Hypothesis in the context of vocabulary acquisition</str>
+                  <str>Inside the learner&#8217;s mind: Cognitive processing and second language acquisition</str>
+                  <str>What do eye movements tell us about awareness? A triangulation of eye-movement data, verbal reports and vocabulary learning scores</str>
+                  <str>Noticing and second language acquisition: Studies in honor of Richard Schmidt</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Pütz, Martin</str>
+                  <str>Sicola, Laura</str>
+                  <str>Bergsleithner, J.</str>
+                  <str>Frota, Sylvia</str>
+                  <str>Yoshioka, J</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Studies in Second Language Acquisition</str>
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2013</str>
+                  <str>2010</str>
+                  <str>2013</str>
+                  <str>2015</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2013</str>
+                  <str>2010</str>
+                  <str>2013</str>
+                  <str>2015</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+                  <str>Chapter</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>godfroid@msu.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Godfroid, Aline</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Reaction times</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>Fonds Wetenschappelijk Onderzoek (FWO)</str>
+                  <str>CBKBOA001</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Reading test</str>
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">reading test reading test  receptive vocabulary test (receptive)  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Open class</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Reading test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Reading</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Processing</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Vocabulary test &gt; Receptive</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Dutch</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Advanced</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Godfroid_Cognitive processes in Second Language Acquisition: The role of noticing, attention and awareness in processing words in written L2 input</str>
+                  <str>2013_Godfroid_Boers_Housen_An eye for words: Gauging the role of attention in incidental L2 vocabulary acquisition by means of eye tracking</str>
+                  <str>2010_Godfroid_Housen_Boers_A procedure for testing the Noticing Hypothesis in the context of vocabulary acquisition</str>
+                  <str>2013_Godfroid_Schmidtke_What do eye movements tell us about awareness? A triangulation of eye-movement data, verbal reports and vocabulary learning scores</str>
+                  <str>2015_Godfroid_Spino_Reconceptualizing reactivity of think-alouds and eye-tracking: Absence of evidence is not evidence of absence</str>
+               </arr>
+               <str name="iris2.references.allauthors">Godfroid (2010); Godfroid, Boers, et al. (2013); Godfroid, Housen, et al. (2010); Godfroid &amp; Schmidtke (2013); Godfroid &amp; Spino (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Godfroid, Aline</str>
+                  <str>Godfroid, Aline</str>
+                  <str>Boers, Frank</str>
+                  <str>Housen, Alex</str>
+                  <str>Godfroid, Aline</str>
+                  <str>Housen, Alex</str>
+                  <str>Boers, Frank</str>
+                  <str>Godfroid, Aline</str>
+                  <str>Schmidtke, Jens</str>
+                  <str>Godfroid, Aline</str>
+                  <str>Spino, L.</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">godfroidgodfroidboershousengodfroidhousenboersgodfroidschmidtkegodfroidspino</str>
+               <arr name="iris2.references.booktitle">
+                  <str>A procedure for testing the Noticing Hypothesis in the context of vocabulary acquisition</str>
+                  <str>Inside the learner&#8217;s mind: Cognitive processing and second language acquisition</str>
+                  <str>What do eye movements tell us about awareness? A triangulation of eye-movement data, verbal reports and vocabulary learning scores</str>
+                  <str>Noticing and second language acquisition: Studies in honor of Richard Schmidt</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Pütz, Martin</str>
+                  <str>Sicola, Laura</str>
+                  <str>Bergsleithner, J.</str>
+                  <str>Frota, Sylvia</str>
+                  <str>Yoshioka, J</str>
+               </arr>
+               <arr name="iris2.references.journal">
+                  <str>Studies in Second Language Acquisition</str>
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2013</str>
+                  <str>2010</str>
+                  <str>2013</str>
+                  <str>2015</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2013</str>
+                  <str>2010</str>
+                  <str>2013</str>
+                  <str>2015</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+                  <str>Chapter</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:810252/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:810252/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:810252/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:810252/asset/INSTRUMENT3?download=true"/>
+      <file id="INSTRUMENT4" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:810252/asset/INSTRUMENT4?download=true"/>
+      <file id="INSTRUMENT5" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:810252/asset/INSTRUMENT5?download=true"/>
+   </files>
+</record>

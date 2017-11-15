@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:854311">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">475</int>
+            <lst name="params">
+               <str name="q">PID:york?854311</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:854311</str>
+               <arr name="dc.creator">
+                  <str>Cornillie, Frederik</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:854311</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>Discourse completion task</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Cornillie, Frederik</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:854311</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>Discourse completion task</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Cornillie, Frederik</str>
+               </arr>
+               <date name="fgs.createdDate">2015-09-15T21:50:15.466Z</date>
+               <date name="fgs.dateCreated.sort">2015-09-15T21:50:15.466Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-29T21:13:13.57Z</date>
+               <str name="fgs.ownerId">iris-4cf537ba-f4a8-4ca8-ae12-ebf2dfd5471b</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>frederik.cornillie@kuleuven.be</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Cornillie, Frederik</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Judgements</str>
+                  <str>Oral production</str>
+                  <str>Reaction times</str>
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>IMinds</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>Discourse completion task</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">elicited imitation protocol / sentence repetition task elicited imitation protocol / sentence repetition task elicited imitation discourse completion task discourse completion task  grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Quantifiers</str>
+                  <str>Other syntax</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Grammaticality / Acceptability judgement test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Computer-assisted language learning</str>
+                  <str>Error correction / Corrective feedback</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>Discourse completion task</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Dutch</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>CFER - Independent Speaker (Vantage or Upper intermediate)</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Cornillie_Adventures in red ink. Effectiveness of corrective feedback in digital game-based language learning</str>
+                  <str>2015_Cornillie_Van Den Branden_Desmet_From language play to linguistic form and back again. Lessons from an experimental study for the design of task-based language practice supported by games</str>
+               </arr>
+               <str name="iris.references.allauthors">Cornillie (2014); Cornillie, Van Den Branden, et al. (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Cornillie, Frederik</str>
+                  <str>Cornillie, Frederik</str>
+                  <str>Van Den Branden, Kris</str>
+                  <str>Desmet, Piet</str>
+               </arr>
+               <str name="iris.references.author.lastnames">cornilliecornillievan den brandendesmet</str>
+               <arr name="iris.references.author.noack">
+                  <str>Cornillie, Frederik</str>
+                  <str>Cornillie, Frederik</str>
+                  <str>Van Den Branden, Kris</str>
+                  <str>Desmet, Piet</str>
+               </arr>
+               <arr name="iris.references.conferenceName">
+                  <str>Proceedings of XVIIth International CALL Conference. Task design and CALL. 6-8 July 2015. Tarragona, Spain</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Proceedings</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>frederik.cornillie@kuleuven.be</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Cornillie, Frederik</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Judgements</str>
+                  <str>Oral production</str>
+                  <str>Reaction times</str>
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>IMinds</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>Discourse completion task</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">elicited imitation protocol / sentence repetition task elicited imitation protocol / sentence repetition task elicited imitation discourse completion task discourse completion task  grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Quantifiers</str>
+                  <str>Other syntax</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Grammaticality / Acceptability judgement test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Computer-assisted language learning</str>
+                  <str>Error correction / Corrective feedback</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>Discourse completion task</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Dutch</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>CFER - Independent Speaker (Vantage or Upper intermediate)</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Cornillie_Adventures in red ink. Effectiveness of corrective feedback in digital game-based language learning</str>
+                  <str>2015_Cornillie_Van Den Branden_Desmet_From language play to linguistic form and back again. Lessons from an experimental study for the design of task-based language practice supported by games</str>
+               </arr>
+               <str name="iris2.references.allauthors">Cornillie (2014); Cornillie, Van Den Branden, et al. (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Cornillie, Frederik</str>
+                  <str>Cornillie, Frederik</str>
+                  <str>Van Den Branden, Kris</str>
+                  <str>Desmet, Piet</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">cornilliecornillievan den brandendesmet</str>
+               <arr name="iris2.references.conferenceName">
+                  <str>Proceedings of XVIIth International CALL Conference. Task design and CALL. 6-8 July 2015. Tarragona, Spain</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Proceedings</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:854311/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:854311/asset/INSTRUMENT1?download=true"/>
+   </files>
+</record>

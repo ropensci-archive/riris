@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:853714">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">564</int>
+            <lst name="params">
+               <str name="q">PID:york?853714</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:853714</str>
+               <arr name="dc.creator">
+                  <str>Robenalt, Clarice</str>
+                  <str>Goldberg, Adele</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2016</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>This instrument includes a list of verb pairs and mean ratings and the same list of verb pairs in both typical and atypical sentence frames. Sentences in the Excel document were entered into a Qualtrics survey. The researchers used Amazon Mechanical Turk to direct participants to the surveys.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:853714</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Robenalt, Clarice</str>
+                  <str>Goldberg, Adele</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2016</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>This instrument includes a list of verb pairs and mean ratings and the same list of verb pairs in both typical and atypical sentence frames. Sentences in the Excel document were entered into a Qualtrics survey. The researchers used Amazon Mechanical Turk to direct participants to the surveys.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:853714</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Robenalt, Clarice</str>
+                  <str>Goldberg, Adele</str>
+               </arr>
+               <date name="fgs.createdDate">2015-07-15T20:43:40.62Z</date>
+               <date name="fgs.dateCreated.sort">2015-07-15T20:43:40.62Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-08T13:08:28.258Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>adele@princeton.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Robenalt, Clarice</str>
+                  <str>Goldberg, Adele</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Judgements</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Grammaticality / Acceptability judgement test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Interfaces</str>
+                  <str>Syntax-discourse</str>
+                  <str>Other syntax</str>
+               </arr>
+               <str name="iris.instrument.notes">This instrument includes a list of verb pairs and mean ratings and the same list of verb pairs in both typical and atypical sentence frames. Sentences in the Excel document were entered into a Qualtrics survey. The researchers used Amazon Mechanical Turk to direct participants to the surveys.</str>
+               <str name="iris.instrument.primaryInstrumentType">Grammaticality / Acceptability judgement test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Native / Non-native</str>
+                  <str>Processing</str>
+                  <str>Cross-linguistic influence</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Tamil</str>
+                  <str>Spanish</str>
+                  <str>Hindi</str>
+                  <str>Other</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Native speakers</str>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+                  <str>Intermediate/advanced</str>
+                  <str>Advanced</str>
+                  <str>Near native</str>
+                  <str>Native</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2016_Robenalt_Goldberg_Nonnative speakers do not take competing alternative expressions into account the way native speakers do</str>
+               </arr>
+               <str name="iris.references.allauthors">Robenalt &amp; Goldberg (2016)</str>
+               <arr name="iris.references.author">
+                  <str>Robenalt, Clarice</str>
+                  <str>Goldberg, Adele</str>
+               </arr>
+               <str name="iris.references.author.lastnames">robenaltgoldberg</str>
+               <arr name="iris.references.author.noack">
+                  <str>Robenalt, Clarice</str>
+                  <str>Goldberg, Adele</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>adele@princeton.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Robenalt, Clarice</str>
+                  <str>Goldberg, Adele</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Judgements</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Grammaticality / Acceptability judgement test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Interfaces</str>
+                  <str>Syntax-discourse</str>
+                  <str>Other syntax</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Grammaticality / Acceptability judgement test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Native / Non-native</str>
+                  <str>Processing</str>
+                  <str>Cross-linguistic influence</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Tamil</str>
+                  <str>Spanish</str>
+                  <str>Hindi</str>
+                  <str>Other</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Native speakers</str>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+                  <str>Intermediate/advanced</str>
+                  <str>Advanced</str>
+                  <str>Near native</str>
+                  <str>Native</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2016_Robenalt_Goldberg_Nonnative speakers do not take competing alternative expressions into account the way native speakers do</str>
+               </arr>
+               <str name="iris2.references.allauthors">Robenalt &amp; Goldberg (2016)</str>
+               <arr name="iris2.references.author">
+                  <str>Robenalt, Clarice</str>
+                  <str>Goldberg, Adele</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">robenaltgoldberg</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:853714/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:853714/asset/INSTRUMENT1?download=true"/>
+   </files>
+</record>

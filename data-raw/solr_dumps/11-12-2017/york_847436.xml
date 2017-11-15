@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:847436">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">566</int>
+            <lst name="params">
+               <str name="q">PID:york?847436</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:847436</str>
+               <arr name="dc.creator">
+                  <str>Cuza, Alejandro</str>
+                  <str>Frank, Joshua</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+                  <str>2006</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The language history questionnaire, AJTs, aural sentence completion tasks and preference tasks used in this study are all linked in IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:847436</str>
+               </arr>
+               <str name="dc.title">Written preference task</str>
+               <str name="dc.title.sort">Written preference task</str>
+               <arr name="dc.type">
+                  <str>Writing test</str>
+                  <str>Grammaticality judgement sentences or acceptability judgement</str>
+                  <str>Receptive grammar test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Cuza, Alejandro</str>
+                  <str>Frank, Joshua</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+                  <str>2006</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The language history questionnaire, AJTs, aural sentence completion tasks and preference tasks used in this study are all linked in IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:847436</str>
+               </arr>
+               <str name="dc2.title">Written preference task</str>
+               <arr name="dc2.type">
+                  <str>Writing test</str>
+                  <str>Grammaticality judgement sentences or acceptability judgement</str>
+                  <str>Receptive grammar test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Cuza, Alejandro</str>
+                  <str>Frank, Joshua</str>
+               </arr>
+               <str name="dc3.title">Written preference task</str>
+               <date name="fgs.createdDate">2015-01-14T14:26:13.768Z</date>
+               <date name="fgs.dateCreated.sort">2015-01-14T14:26:13.768Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2015-05-03T19:05:21.494Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>acuza@purdue.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Cuza, Alejandro</str>
+                  <str>Frank, Joshua</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Writing test</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">writing test writing test  grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test receptive receptive grammar test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Syntax</str>
+                  <str>Semantics</str>
+               </arr>
+               <str name="iris.instrument.notes">The language history questionnaire, AJTs, aural sentence completion tasks and preference tasks used in this study are all linked in IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Grammar test / Morphosyntax test &gt; Receptive</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Cross-linguistic influence</str>
+                  <str>Acquisition</str>
+                  <str>Native / Non-native</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Writing test</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Written preference task</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Cuza_Frank_On the role of experience and age-related effects: Evidence from the Spanish CP</str>
+                  <str>2006_Geeslin_Guijarro-Fuentes_Second language acquisition of variable structures in Spanish by Portuguese speakers</str>
+                  <str>2008_Montrul_Incomplete acquisition in bilingualism: Re-examining the age factor</str>
+               </arr>
+               <str name="iris.references.allauthors">Cuza &amp; Frank (2015); </str>
+               <arr name="iris.references.author">
+                  <str>Cuza, Alejandro</str>
+                  <str>Frank, Joshua</str>
+                  <str>Geeslin, K</str>
+                  <str>Guijarro-Fuentes, Pedro</str>
+                  <str>Montrul, S</str>
+               </arr>
+               <str name="iris.references.author.lastnames">cuzafrankgeeslinguijarro-fuentesmontrul</str>
+               <arr name="iris.references.author.noack">
+                  <str>Cuza, Alejandro</str>
+                  <str>Frank, Joshua</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Second Language Research</str>
+               </arr>
+               <arr name="iris.references.placeOfPublication">
+                  <str>Cambridge, MA</str>
+                  <str>Amsterdam</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+                  <str>2006</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+                  <str>2006</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris.references.publisher">
+                  <str>MIT press</str>
+                  <str>John Benjamins</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>acuza@purdue.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Cuza, Alejandro</str>
+                  <str>Frank, Joshua</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Writing test</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">writing test writing test  grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test receptive receptive grammar test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Syntax</str>
+                  <str>Semantics</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Grammar test / Morphosyntax test &gt; Receptive</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Cross-linguistic influence</str>
+                  <str>Acquisition</str>
+                  <str>Native / Non-native</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Writing test</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Cuza_Frank_On the role of experience and age-related effects: Evidence from the Spanish CP</str>
+                  <str>2006_Geeslin_Guijarro-Fuentes_Second language acquisition of variable structures in Spanish by Portuguese speakers</str>
+                  <str>2008_Montrul_Incomplete acquisition in bilingualism: Re-examining the age factor</str>
+               </arr>
+               <str name="iris2.references.allauthors">Cuza &amp; Frank (2015); </str>
+               <arr name="iris2.references.author">
+                  <str>Cuza, Alejandro</str>
+                  <str>Frank, Joshua</str>
+                  <str>Geeslin, K</str>
+                  <str>Guijarro-Fuentes, Pedro</str>
+                  <str>Montrul, S</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">cuzafrankgeeslinguijarro-fuentesmontrul</str>
+               <arr name="iris2.references.journal">
+                  <str>Second Language Research</str>
+               </arr>
+               <arr name="iris2.references.placeOfPublication">
+                  <str>Cambridge, MA</str>
+                  <str>Amsterdam</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+                  <str>2006</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+                  <str>2006</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris2.references.publisher">
+                  <str>MIT press</str>
+                  <str>John Benjamins</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

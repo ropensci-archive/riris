@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:810205">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">479</int>
+            <lst name="params">
+               <str name="q">PID:york?810205</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:810205</str>
+               <arr name="dc.creator">
+                  <str>Foster, Michael</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Pragmatic competence</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Attitude questionnaire</str>
+                  <str>Learning strategy questionnaire</str>
+                  <str>Debriefing questionnaire</str>
+                  <str>Learning style questionnaire</str>
+                  <str>Proficiency questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Foster, Michael</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Pragmatic competence</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Attitude questionnaire</str>
+                  <str>Learning strategy questionnaire</str>
+                  <str>Debriefing questionnaire</str>
+                  <str>Learning style questionnaire</str>
+                  <str>Proficiency questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Foster, Michael</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Pragmatic competence</str>
+               </arr>
+               <date name="fgs.createdDate">2013-05-29T18:50:36.313Z</date>
+               <date name="fgs.dateCreated.sort">2013-05-29T18:50:36.313Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-20T14:24:00.427Z</date>
+               <str name="fgs.ownerId">iris-dd658fa9-f626-4747-a7f3-f71d7f00807c</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>mfoster1978@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Foster, Michael</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Learning strategy questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Debriefing questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Learning style questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Proficiency questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">attitude questionnaire attitude questionnaire  learning strategy questionnaire learning strategy questionnaire learner strategy questionnaire debriefing questionnaire debriefing questionnaire  learning style questionnaire learning style questionnaire learner style questionnaire proficiency questionnaire proficiency questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Attitude questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Pragmatic competence</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Learning strategy questionnaire</str>
+                  <str>Questionnaire &gt; Debriefing questionnaire</str>
+                  <str>Questionnaire &gt; Learning style questionnaire</str>
+                  <str>Questionnaire &gt; Proficiency questionnaire</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Foster_Third position responses in French native and non-native speaker interaction</str>
+               </arr>
+               <str name="iris.references.allauthors">Foster (2012)</str>
+               <arr name="iris.references.author">
+                  <str>Foster, Michael</str>
+               </arr>
+               <str name="iris.references.author.lastnames">foster</str>
+               <arr name="iris.references.author.noack">
+                  <str>Foster, Michael</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>mfoster1978@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Foster, Michael</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Learning strategy questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Debriefing questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Learning style questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Proficiency questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">attitude questionnaire attitude questionnaire  learning strategy questionnaire learning strategy questionnaire learner strategy questionnaire debriefing questionnaire debriefing questionnaire  learning style questionnaire learning style questionnaire learner style questionnaire proficiency questionnaire proficiency questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Attitude questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Pragmatic competence</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Learning strategy questionnaire</str>
+                  <str>Questionnaire &gt; Debriefing questionnaire</str>
+                  <str>Questionnaire &gt; Learning style questionnaire</str>
+                  <str>Questionnaire &gt; Proficiency questionnaire</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Foster_Third position responses in French native and non-native speaker interaction</str>
+               </arr>
+               <str name="iris2.references.allauthors">Foster (2012)</str>
+               <arr name="iris2.references.author">
+                  <str>Foster, Michael</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">foster</str>
+               <arr name="iris2.references.publicationDate">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str/>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:810205/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

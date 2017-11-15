@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:823623">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">483</int>
+            <lst name="params">
+               <str name="q">PID:york?823623</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:823623</str>
+               <arr name="dc.creator">
+                  <str>Azkarai, Agurtzane</str>
+                  <str>García Mayo, María Del Pilar</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>Linguistic feature = lexis and grammar</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:823623</str>
+               </arr>
+               <str name="dc.title">Picture placement and picture differences</str>
+               <str name="dc.title.sort">Picture placement and picture differences</str>
+               <arr name="dc.type">
+                  <str>Information exchange tasks</str>
+                  <str>Picture spot the difference</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Azkarai, Agurtzane</str>
+                  <str>García Mayo, María Del Pilar</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>Linguistic feature = lexis and grammar</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:823623</str>
+               </arr>
+               <str name="dc2.title">Picture placement and picture differences</str>
+               <arr name="dc2.type">
+                  <str>Information exchange tasks</str>
+                  <str>Picture spot the difference</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Azkarai, Agurtzane</str>
+                  <str>García Mayo, María Del Pilar</str>
+               </arr>
+               <str name="dc3.title">Picture placement and picture differences</str>
+               <date name="fgs.createdDate">2014-09-18T18:19:28.347Z</date>
+               <date name="fgs.dateCreated.sort">2014-09-18T18:19:28.347Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-27T13:19:56.918Z</date>
+               <str name="fgs.ownerId">iris-818e0843-f7cc-468c-bb43-b767c6c86d3c</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>mariapilar.garciamayo@ehu.es</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Azkarai, Agurtzane</str>
+                  <str>García Mayo, María Del Pilar</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>Basque Government and Univerisity of the Basque Country (UPV/EHU)</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Communicative / Interactive task</str>
+                  <str>Information exchange</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture spot the difference</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">information exchange information exchange tasks  picture spot the difference picture spot the difference  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">Linguistic feature = lexis and grammar</str>
+               <str name="iris.instrument.primaryInstrumentType">Communicative / Interactive task &gt; Information exchange</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Interaction</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Picture spot the difference</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Picture placement and picture differences</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Azkarai_García Mayo_Task-modality and L1 use in EFL oral interaction</str>
+               </arr>
+               <str name="iris.references.allauthors">Azkarai &amp; García Mayo (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Azkarai, Agurtzane</str>
+                  <str>García Mayo, María Del Pilar</str>
+               </arr>
+               <str name="iris.references.author.lastnames">azkaraigarcía mayo</str>
+               <arr name="iris.references.author.noack">
+                  <str>Azkarai, Agurtzane</str>
+                  <str>García Mayo, María Del Pilar</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Teaching Research</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>mariapilar.garciamayo@ehu.es</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Azkarai, Agurtzane</str>
+                  <str>García Mayo, María Del Pilar</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>Basque Government and Univerisity of the Basque Country (UPV/EHU)</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Communicative / Interactive task</str>
+                  <str>Information exchange</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture spot the difference</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">information exchange information exchange tasks  picture spot the difference picture spot the difference  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Communicative / Interactive task &gt; Information exchange</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Interaction</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Picture spot the difference</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Azkarai_García Mayo_Task-modality and L1 use in EFL oral interaction</str>
+               </arr>
+               <str name="iris2.references.allauthors">Azkarai &amp; García Mayo (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Azkarai, Agurtzane</str>
+                  <str>García Mayo, María Del Pilar</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">azkaraigarcía mayo</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Teaching Research</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:823623/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

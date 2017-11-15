@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:818865">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">472</int>
+            <lst name="params">
+               <str name="q">PID:york?818865</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:818865</str>
+               <arr name="dc.creator">
+                  <str>Kempe, V.</str>
+                  <str>MacWhinney, B.</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>1996</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>Task involved lexical decision.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:818865</str>
+               </arr>
+               <str name="dc.title">German and Russian word/non-word list (1996)</str>
+               <str name="dc.title.sort">German and Russian word/non-word list (1996)</str>
+               <arr name="dc.type">
+                  <str>Reading comprehension test</str>
+                  <str>Grammaticality judgement sentences or acceptability judgement</str>
+                  <str>Vocabulary test</str>
+                  <str>Word list</str>
+                  <str>Lexical decision task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Kempe, V.</str>
+                  <str>MacWhinney, B.</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>1996</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>Task involved lexical decision.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:818865</str>
+               </arr>
+               <str name="dc2.title">German and Russian word/non-word list (1996)</str>
+               <arr name="dc2.type">
+                  <str>Reading comprehension test</str>
+                  <str>Grammaticality judgement sentences or acceptability judgement</str>
+                  <str>Vocabulary test</str>
+                  <str>Word list</str>
+                  <str>Lexical decision task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Kempe, V.</str>
+                  <str>MacWhinney, B.</str>
+               </arr>
+               <str name="dc3.title">German and Russian word/non-word list (1996)</str>
+               <date name="fgs.createdDate">2013-11-24T17:50:54.399Z</date>
+               <date name="fgs.dateCreated.sort">2013-11-24T17:50:54.399Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-05-03T14:05:59.721Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>v.kempe@abertay.ac.uk, macw@cmu.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Kempe, V.</str>
+                  <str>MacWhinney, B.</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Comprehension test</str>
+                  <str>Reading</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Vocabulary test</str>
+                  <str>Other vocabulary test</str>
+                  <str>Word list</str>
+                  <str>Lexical decision task</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">reading reading comprehension test  grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test other vocabulary test vocabulary test  word list word list  lexical decision task lexical decision task  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Nonwords</str>
+               </arr>
+               <str name="iris.instrument.notes">Task involved lexical decision.</str>
+               <str name="iris.instrument.primaryInstrumentType">Word list</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Comprehension</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Native / Non-native</str>
+                  <str>Processing</str>
+                  <str>Proficiency</str>
+                  <str>Cross-linguistic assessment; Foreign language vocabulary learning</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Comprehension test &gt; Reading</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Vocabulary test &gt; Other vocabulary test</str>
+                  <str>Lexical decision task</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>German and Russian word/non-word list (1996)</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Native speakers</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>1996_Kempe_MacWhinney_The crosslinguistic assessment of foreign language learning</str>
+               </arr>
+               <str name="iris.references.allauthors">Kempe &amp; MacWhinney (1996)</str>
+               <arr name="iris.references.author">
+                  <str>Kempe, V.</str>
+                  <str>MacWhinney, B.</str>
+               </arr>
+               <str name="iris.references.author.lastnames">kempemacwhinney</str>
+               <arr name="iris.references.author.noack">
+                  <str>Kempe, V.</str>
+                  <str>MacWhinney, B.</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Applied Psycholinguistics</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>1996</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>1996</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>v.kempe@abertay.ac.uk, macw@cmu.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Kempe, V.</str>
+                  <str>MacWhinney, B.</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Comprehension test</str>
+                  <str>Reading</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Vocabulary test</str>
+                  <str>Other vocabulary test</str>
+                  <str>Word list</str>
+                  <str>Lexical decision task</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">reading reading comprehension test  grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test other vocabulary test vocabulary test  word list word list  lexical decision task lexical decision task  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Nonwords</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Word list</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Comprehension</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Native / Non-native</str>
+                  <str>Processing</str>
+                  <str>Proficiency</str>
+                  <str>Cross-linguistic assessment; Foreign language vocabulary learning</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Comprehension test &gt; Reading</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Vocabulary test &gt; Other vocabulary test</str>
+                  <str>Lexical decision task</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Native speakers</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>1996_Kempe_MacWhinney_The crosslinguistic assessment of foreign language learning</str>
+               </arr>
+               <str name="iris2.references.allauthors">Kempe &amp; MacWhinney (1996)</str>
+               <arr name="iris2.references.author">
+                  <str>Kempe, V.</str>
+                  <str>MacWhinney, B.</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">kempemacwhinney</str>
+               <arr name="iris2.references.journal">
+                  <str>Applied Psycholinguistics</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>1996</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>1996</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>1996</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:818865/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

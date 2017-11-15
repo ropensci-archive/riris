@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:822313">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">514</int>
+            <lst name="params">
+               <str name="q">PID:york?822313</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:822313</str>
+               <arr name="dc.creator">
+                  <str>Sheen, Younghee</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2002</str>
+                  <str>2002</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The speed dictation test is linked in IRIS to the narration tasks, language anxiety questionnaire, writing test and error correction test used in the referenced study (Sheen, 2008).</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:822313</str>
+               </arr>
+               <str name="dc.title">Speed dictation test</str>
+               <str name="dc.title.sort">Speed dictation test</str>
+               <arr name="dc.type">
+                  <str>Listening / Aural test</str>
+                  <str>Writing test</str>
+                  <str>Stimuli for laboratory studies (visual - verbal)</str>
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Sheen, Younghee</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2002</str>
+                  <str>2002</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The speed dictation test is linked in IRIS to the narration tasks, language anxiety questionnaire, writing test and error correction test used in the referenced study (Sheen, 2008).</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:822313</str>
+               </arr>
+               <str name="dc2.title">Speed dictation test</str>
+               <arr name="dc2.type">
+                  <str>Listening / Aural test</str>
+                  <str>Writing test</str>
+                  <str>Stimuli for laboratory studies (visual - verbal)</str>
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Sheen, Younghee</str>
+               </arr>
+               <str name="dc3.title">Speed dictation test</str>
+               <date name="fgs.createdDate">2014-05-26T16:18:15.108Z</date>
+               <date name="fgs.dateCreated.sort">2014-05-26T16:18:15.108Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-22T12:06:29.626Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>sheen@american.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Sheen, Younghee</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Listening / Aural test</str>
+                  <str>Writing test</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Verbal</str>
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">listening / aural test listening / aural test aural test writing test writing test  verbal stimuli for laboratory studies (visual - verbal)  elicited imitation protocol / sentence repetition task elicited imitation protocol / sentence repetition task elicited imitation </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Articles</str>
+               </arr>
+               <str name="iris.instrument.notes">The speed dictation test is linked in IRIS to the narration tasks, language anxiety questionnaire, writing test and error correction test used in the referenced study (Sheen, 2008).</str>
+               <str name="iris.instrument.primaryInstrumentType">Elicited imitation protocol / Sentence repetition task</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Error correction / Corrective feedback</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+                  <str>Learner attitudes</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Listening / Aural test</str>
+                  <str>Writing test</str>
+                  <str>Stimuli for laboratory studies &gt; Visual &gt; Verbal</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Speed dictation test</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Polish</str>
+                  <str>Spanish</str>
+                  <str>Korean</str>
+                  <str>Japanese</str>
+                  <str>Russian</str>
+                  <str>Chinese</str>
+                  <str>Turkish</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2002_Butler_Second language learners' theories on the use of English articles</str>
+                  <str>2002_Liu_Gleason_Acquisition of the article the by nonnative speakers of English</str>
+                  <str>2008_Sheen_Recasts, language anxiety, modified output, and L2 learning</str>
+               </arr>
+               <str name="iris.references.allauthors">Sheen (2008)</str>
+               <arr name="iris.references.author">
+                  <str>Butler, Y.</str>
+                  <str>Liu, Dilin</str>
+                  <str>Gleason, J.</str>
+                  <str>Sheen, Younghee</str>
+               </arr>
+               <str name="iris.references.author.lastnames">butlerliugleasonsheen</str>
+               <arr name="iris.references.author.noack">
+                  <str>Sheen, Younghee</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2002</str>
+                  <str>2002</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2002</str>
+                  <str>2002</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>sheen@american.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Sheen, Younghee</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Listening / Aural test</str>
+                  <str>Writing test</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Verbal</str>
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">listening / aural test listening / aural test aural test writing test writing test  verbal stimuli for laboratory studies (visual - verbal)  elicited imitation protocol / sentence repetition task elicited imitation protocol / sentence repetition task elicited imitation </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Articles</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Elicited imitation protocol / Sentence repetition task</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Error correction / Corrective feedback</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+                  <str>Learner attitudes</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Listening / Aural test</str>
+                  <str>Writing test</str>
+                  <str>Stimuli for laboratory studies &gt; Visual &gt; Verbal</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Polish</str>
+                  <str>Spanish</str>
+                  <str>Korean</str>
+                  <str>Japanese</str>
+                  <str>Russian</str>
+                  <str>Chinese</str>
+                  <str>Turkish</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2002_Butler_Second language learners' theories on the use of English articles</str>
+                  <str>2002_Liu_Gleason_Acquisition of the article the by nonnative speakers of English</str>
+                  <str>2008_Sheen_Recasts, language anxiety, modified output, and L2 learning</str>
+               </arr>
+               <str name="iris2.references.allauthors">Sheen (2008)</str>
+               <arr name="iris2.references.author">
+                  <str>Butler, Y.</str>
+                  <str>Liu, Dilin</str>
+                  <str>Gleason, J.</str>
+                  <str>Sheen, Younghee</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">butlerliugleasonsheen</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2002</str>
+                  <str>2002</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2002</str>
+                  <str>2002</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:822313/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

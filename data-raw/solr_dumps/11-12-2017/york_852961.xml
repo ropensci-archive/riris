@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:852961">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">494</int>
+            <lst name="params">
+               <str name="q">PID:york?852961</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:852961</str>
+               <arr name="dc.creator">
+                  <str>Showalter, Catherine</str>
+                  <str>Hayes-Harb, Rachel</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>There were two experiments in this study. Both included a word-learning phase, criterion test phase and final test phase. The second included an instructional phase about the Arabic writing system. Four records for this study are available (and linked) on IRIS. 1) the word-learning phase (used in both) 2) the criterion test phase (used in both) 3) the final test phase (used in both) 4) the instructional materials used in Experiment 2. The final test phase trials are identical to those in the criterion test, except this phase used velar-uvular pairs.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:852961</str>
+               </arr>
+               <str name="dc.title">Final test phase</str>
+               <str name="dc.title.sort">Final test phase</str>
+               <arr name="dc.type">
+                  <str>Lexical decision task</str>
+                  <str>Picture matching test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Showalter, Catherine</str>
+                  <str>Hayes-Harb, Rachel</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>There were two experiments in this study. Both included a word-learning phase, criterion test phase and final test phase. The second included an instructional phase about the Arabic writing system. Four records for this study are available (and linked) on IRIS. 1) the word-learning phase (used in both) 2) the criterion test phase (used in both) 3) the final test phase (used in both) 4) the instructional materials used in Experiment 2. The final test phase trials are identical to those in the criterion test, except this phase used velar-uvular pairs.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:852961</str>
+               </arr>
+               <str name="dc2.title">Final test phase</str>
+               <arr name="dc2.type">
+                  <str>Lexical decision task</str>
+                  <str>Picture matching test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Showalter, Catherine</str>
+                  <str>Hayes-Harb, Rachel</str>
+               </arr>
+               <str name="dc3.title">Final test phase</str>
+               <date name="fgs.createdDate">2015-05-15T08:13:28.181Z</date>
+               <date name="fgs.dateCreated.sort">2015-05-15T08:13:28.181Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-03-17T13:26:00.925Z</date>
+               <str name="fgs.ownerId">iris-c9631f3e-1e7d-45b7-90f4-7a85b3986ed7</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>r.hayes-harb@utah.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Showalter, Catherine</str>
+                  <str>Hayes-Harb, Rachel</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Lexical decision task</str>
+                  <str>Picture matching test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">lexical decision task lexical decision task  picture matching test picture matching test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">There were two experiments in this study. Both included a word-learning phase, criterion test phase and final test phase. The second included an instructional phase about the Arabic writing system. Four records for this study are available (and linked) on IRIS. 1) the word-learning phase (used in both) 2) the criterion test phase (used in both) 3) the final test phase (used in both) 4) the instructional materials used in Experiment 2. The final test phase trials are identical to those in the criterion test, except this phase used velar-uvular pairs.</str>
+               <str name="iris.instrument.primaryInstrumentType">Picture matching test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Phonology</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Lexical decision task</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Final test phase</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Arabic</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Showalter_Hayes-Harb_Native English speakers learning Arabic: The influence of novel orthographic information on second language phonological acquisition</str>
+               </arr>
+               <str name="iris.references.allauthors">Showalter &amp; Hayes-Harb (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Showalter, Catherine</str>
+                  <str>Hayes-Harb, Rachel</str>
+               </arr>
+               <str name="iris.references.author.lastnames">showalterhayes-harb</str>
+               <arr name="iris.references.author.noack">
+                  <str>Showalter, Catherine</str>
+                  <str>Hayes-Harb, Rachel</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Applied Psycholinguistics</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>r.hayes-harb@utah.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Showalter, Catherine</str>
+                  <str>Hayes-Harb, Rachel</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Lexical decision task</str>
+                  <str>Picture matching test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">lexical decision task lexical decision task  picture matching test picture matching test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Picture matching test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Phonology</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Lexical decision task</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Arabic</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Showalter_Hayes-Harb_Native English speakers learning Arabic: The influence of novel orthographic information on second language phonological acquisition</str>
+               </arr>
+               <str name="iris2.references.allauthors">Showalter &amp; Hayes-Harb (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Showalter, Catherine</str>
+                  <str>Hayes-Harb, Rachel</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">showalterhayes-harb</str>
+               <arr name="iris2.references.journal">
+                  <str>Applied Psycholinguistics</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852961/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/zip" url="https://www.iris-database.org/iris/api/resource/york:852961/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/zip" url="https://www.iris-database.org/iris/api/resource/york:852961/asset/INSTRUMENT2?download=true"/>
+   </files>
+</record>

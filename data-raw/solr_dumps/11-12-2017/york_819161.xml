@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:819161">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">512</int>
+            <lst name="params">
+               <str name="q">PID:york?819161</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:819161</str>
+               <arr name="dc.creator">
+                  <str>Vanek, Norbert</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2013</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Narration</str>
+                  <str>Stimuli for laboratory studies (video)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Vanek, Norbert</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2013</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Narration</str>
+                  <str>Stimuli for laboratory studies (video)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Vanek, Norbert</str>
+               </arr>
+               <date name="fgs.createdDate">2013-12-16T12:57:46.063Z</date>
+               <date name="fgs.dateCreated.sort">2013-12-16T12:57:46.063Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-06-22T05:43:26.565Z</date>
+               <str name="fgs.ownerId">iris-c42e7a46-37d6-455e-b348-a349cb1b6565</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>norbert.vanek@york.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Vanek, Norbert</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Oral production</str>
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>Levy-Plumb Fund at Christs College Cambridge; Cambridge European Trust; Research Centre for English and Applied Linguistics at the University of Cambridge</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Video</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">narration / story retelling  narration / story retelling   video stimuli for laboratory studies (video)  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Adverbs</str>
+                  <str>Aspect</str>
+                  <str>Tense</str>
+                  <str>Temporal reference in discourse</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Narration / Story retelling </str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Bilingualism</str>
+                  <str>Discourse</str>
+                  <str>Learner strategies</str>
+                  <str>Native / Non-native</str>
+                  <str>Proficiency</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Cross-linguistic influence</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Stimuli for laboratory studies &gt; Video</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Video</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>Academic</str>
+                  <str>Work</str>
+                  <str>With friends</str>
+                  <str>School - subject(s) other than language</str>
+                  <str>Higher Education</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Czech</str>
+                  <str>Hungarian</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Monolinguals</str>
+                  <str>Native speakers</str>
+                  <str>Second language learners</str>
+                  <str/>
+                  <str>Language users</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+                  <str>Near native</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Vanek_A linguistic analysis of event conceptualisation processes in first and second language discourse: Evidence for language-specificity in the temporal discourse organisation of basic and advanced Czech and Hungarian learners of English</str>
+                  <str>2013_Vanek_Event linearization in advanced L2 user discourse: Evidence for language-specificity in the discourse of Czech and Hungarian learners of English</str>
+               </arr>
+               <str name="iris.references.allauthors">Vanek (2013); Vanek (2013)</str>
+               <arr name="iris.references.author">
+                  <str>Vanek, Norbert</str>
+                  <str>Vanek, Norbert</str>
+               </arr>
+               <str name="iris.references.author.lastnames">vanekvanek</str>
+               <arr name="iris.references.author.noack">
+                  <str>Vanek, Norbert</str>
+                  <str>Vanek, Norbert</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>Event linearization in advanced L2 user discourse: Evidence for language-specificity in the discourse of Czech and Hungarian learners of English</str>
+                  <str>EUROSLA Yearbook 13</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Roberts, Leah</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2013</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2013</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Other</str>
+                  <str>Thesis</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>norbert.vanek@york.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Vanek, Norbert</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Oral production</str>
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>Levy-Plumb Fund at Christs College Cambridge; Cambridge European Trust; Research Centre for English and Applied Linguistics at the University of Cambridge</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Video</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">narration / story retelling  narration / story retelling   video stimuli for laboratory studies (video)  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Adverbs</str>
+                  <str>Aspect</str>
+                  <str>Tense</str>
+                  <str>Temporal reference in discourse</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Narration / Story retelling </str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Bilingualism</str>
+                  <str>Discourse</str>
+                  <str>Learner strategies</str>
+                  <str>Native / Non-native</str>
+                  <str>Proficiency</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Cross-linguistic influence</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Stimuli for laboratory studies &gt; Video</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Video</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>Academic</str>
+                  <str>Work</str>
+                  <str>With friends</str>
+                  <str>School - subject(s) other than language</str>
+                  <str>Higher Education</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Czech</str>
+                  <str>Hungarian</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Monolinguals</str>
+                  <str>Native speakers</str>
+                  <str>Second language learners</str>
+                  <str/>
+                  <str>Language users</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+                  <str>Near native</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Vanek_A linguistic analysis of event conceptualisation processes in first and second language discourse: Evidence for language-specificity in the temporal discourse organisation of basic and advanced Czech and Hungarian learners of English</str>
+                  <str>2013_Vanek_Event linearization in advanced L2 user discourse: Evidence for language-specificity in the discourse of Czech and Hungarian learners of English</str>
+               </arr>
+               <str name="iris2.references.allauthors">Vanek (2013); Vanek (2013)</str>
+               <arr name="iris2.references.author">
+                  <str>Vanek, Norbert</str>
+                  <str>Vanek, Norbert</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">vanekvanek</str>
+               <arr name="iris2.references.booktitle">
+                  <str>Event linearization in advanced L2 user discourse: Evidence for language-specificity in the discourse of Czech and Hungarian learners of English</str>
+                  <str>EUROSLA Yearbook 13</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Roberts, Leah</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2013</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2013</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Other</str>
+                  <str>Thesis</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:819161/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:819161/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:819161/asset/INSTRUMENT2?download=true"/>
+   </files>
+</record>

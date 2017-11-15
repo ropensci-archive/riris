@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:841157">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">504</int>
+            <lst name="params">
+               <str name="q">PID:york?841157</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:841157</str>
+               <arr name="dc.creator">
+                  <str>Post Da Silveira, Amanda</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2014</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:841157</str>
+               </arr>
+               <str name="dc.title">A bilingual (Brazilian Portuguese-American English) lexical stress corpus</str>
+               <str name="dc.title.sort">A bilingual (Brazilian Portuguese-American English) lexical stress corpus</str>
+               <arr name="dc.type">
+                  <str>Stimuli for laboratory studies (visual - verbal)</str>
+                  <str>Reading test</str>
+                  <str>Word list</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Post Da Silveira, Amanda</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2014</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:841157</str>
+               </arr>
+               <str name="dc2.title">A bilingual (Brazilian Portuguese-American English) lexical stress corpus</str>
+               <arr name="dc2.type">
+                  <str>Stimuli for laboratory studies (visual - verbal)</str>
+                  <str>Reading test</str>
+                  <str>Word list</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Post Da Silveira, Amanda</str>
+               </arr>
+               <str name="dc3.title">A bilingual (Brazilian Portuguese-American English) lexical stress corpus</str>
+               <date name="fgs.createdDate">2014-12-10T12:49:34.561Z</date>
+               <date name="fgs.dateCreated.sort">2014-12-10T12:49:34.561Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-12T05:50:17.143Z</date>
+               <str name="fgs.ownerId">iris-3e13e164-aecf-46c6-a5b8-0989e5e98114</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>psyphon.ap@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Post Da Silveira, Amanda</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Reaction times</str>
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Verbal</str>
+                  <str>Reading test</str>
+                  <str>Word list</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">verbal stimuli for laboratory studies (visual - verbal)  reading test reading test  word list word list  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Collocations/lexical chunks</str>
+                  <str>Open class</str>
+                  <str>Adjectives</str>
+                  <str>Adverbs</str>
+                  <str>Nouns</str>
+                  <str>Verbs</str>
+                  <str>Other</str>
+                  <str>Stress</str>
+                  <str>Syllable</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Stimuli for laboratory studies &gt; Visual &gt; Verbal</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Bilingualism</str>
+                  <str>Cross-linguistic influence</str>
+                  <str>Acquisition</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Error correction / Corrective feedback</str>
+                  <str>Processing</str>
+                  <str>Phonology</str>
+                  <str>Native / Non-native</str>
+                  <str>Proficiency</str>
+                  <str>Pronunciation</str>
+                  <str>Prosody</str>
+                  <str>Reading</str>
+                  <str>Research methods</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Working memory</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Reading test</str>
+                  <str>Word list</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>A bilingual (Brazilian Portuguese-American English) lexical stress corpus</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>Academic</str>
+                  <str>Higher Education</str>
+                  <str>Residence abroad</str>
+                  <str>With friends</str>
+                  <str>Work</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Portuguese</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+                  <str/>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate/advanced</str>
+                  <str>Advanced</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2014_Post Da Silveira_Dual activation of word stress from orthography</str>
+               </arr>
+               <str name="iris.references.allauthors">Post Da Silveira (2014)</str>
+               <arr name="iris.references.author">
+                  <str>Post Da Silveira, Amanda</str>
+               </arr>
+               <str name="iris.references.author.lastnames">post da silveira</str>
+               <arr name="iris.references.author.noack">
+                  <str>Post Da Silveira, Amanda</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Dutch Journal of Applied Linguistics</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>psyphon.ap@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Post Da Silveira, Amanda</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Reaction times</str>
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Verbal</str>
+                  <str>Reading test</str>
+                  <str>Word list</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">verbal stimuli for laboratory studies (visual - verbal)  reading test reading test  word list word list  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Collocations/lexical chunks</str>
+                  <str>Open class</str>
+                  <str>Adjectives</str>
+                  <str>Adverbs</str>
+                  <str>Nouns</str>
+                  <str>Verbs</str>
+                  <str>Other</str>
+                  <str>Stress</str>
+                  <str>Syllable</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Stimuli for laboratory studies &gt; Visual &gt; Verbal</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Bilingualism</str>
+                  <str>Cross-linguistic influence</str>
+                  <str>Acquisition</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Error correction / Corrective feedback</str>
+                  <str>Processing</str>
+                  <str>Phonology</str>
+                  <str>Native / Non-native</str>
+                  <str>Proficiency</str>
+                  <str>Pronunciation</str>
+                  <str>Prosody</str>
+                  <str>Reading</str>
+                  <str>Research methods</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Working memory</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Reading test</str>
+                  <str>Word list</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>Academic</str>
+                  <str>Higher Education</str>
+                  <str>Residence abroad</str>
+                  <str>With friends</str>
+                  <str>Work</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Portuguese</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+                  <str/>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate/advanced</str>
+                  <str>Advanced</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2014_Post Da Silveira_Dual activation of word stress from orthography</str>
+               </arr>
+               <str name="iris2.references.allauthors">Post Da Silveira (2014)</str>
+               <arr name="iris2.references.author">
+                  <str>Post Da Silveira, Amanda</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">post da silveira</str>
+               <arr name="iris2.references.journal">
+                  <str>Dutch Journal of Applied Linguistics</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT2" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:841157/asset/INSTRUMENT2?download=true"/>
+   </files>
+</record>

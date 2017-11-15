@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:926150">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">460</int>
+            <lst name="params">
+               <str name="q">PID:york?926150</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:926150</str>
+               <arr name="dc.creator">
+                  <str>Tanaka, Mitsuko</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:926150</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Other motivation</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Tanaka, Mitsuko</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:926150</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Other motivation</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Tanaka, Mitsuko</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Other motivation</str>
+               </arr>
+               <date name="fgs.createdDate">2016-04-27T04:31:27.231Z</date>
+               <date name="fgs.dateCreated.sort">2016-04-27T04:31:27.231Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-11T01:48:55.397Z</date>
+               <str name="fgs.ownerId">iris-3926126c-f68e-47df-b133-fb35825ed596</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>tanaka.mitsuko@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Tanaka, Mitsuko</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Other questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">other questionnaire questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Other questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Other motivation</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>female</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Near beginner</str>
+                  <str>Pre-intermediate</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Tanaka_Exploring Motivational Changes for Short In-class Extensive Reading</str>
+               </arr>
+               <str name="iris.references.allauthors">Tanaka (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Tanaka, Mitsuko</str>
+               </arr>
+               <str name="iris.references.author.lastnames">tanaka</str>
+               <arr name="iris.references.author.noack">
+                  <str>Tanaka, Mitsuko</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>The Journal of Asia TEFL</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>tanaka.mitsuko@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Tanaka, Mitsuko</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Other questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">other questionnaire questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Other questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Other motivation</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>female</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Near beginner</str>
+                  <str>Pre-intermediate</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Tanaka_Exploring Motivational Changes for Short In-class Extensive Reading</str>
+               </arr>
+               <str name="iris2.references.allauthors">Tanaka (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Tanaka, Mitsuko</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">tanaka</str>
+               <arr name="iris2.references.journal">
+                  <str>The Journal of Asia TEFL</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:926150/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

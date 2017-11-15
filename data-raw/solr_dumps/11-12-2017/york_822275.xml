@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:822275">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">519</int>
+            <lst name="params">
+               <str name="q">PID:york?822275</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:822275</str>
+               <arr name="dc.creator">
+                  <str>Gabriele, Alison</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2009</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>This instrument was used to elicit data from L2 learners of Japanese and is linked in IRIS to a similar instrument used to elicit data from L2 learners of English. Both instruments were used in the referenced publications. The journal article (Gabriele, 2009) was part of the author's dissertation work completed at the City University of New York Graduate Center in 2005.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:822275</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Grammaticality judgement sentences or acceptability judgement</str>
+                  <str>Receptive grammar test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Gabriele, Alison</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2009</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>This instrument was used to elicit data from L2 learners of Japanese and is linked in IRIS to a similar instrument used to elicit data from L2 learners of English. Both instruments were used in the referenced publications. The journal article (Gabriele, 2009) was part of the author's dissertation work completed at the City University of New York Graduate Center in 2005.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:822275</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Grammaticality judgement sentences or acceptability judgement</str>
+                  <str>Receptive grammar test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Gabriele, Alison</str>
+               </arr>
+               <date name="fgs.createdDate">2014-05-06T17:00:47.969Z</date>
+               <date name="fgs.dateCreated.sort">2014-05-06T17:00:47.969Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2014-12-10T06:29:01.329Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>gabriele@ku.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Gabriele, Alison</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test receptive receptive grammar test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Aspect</str>
+                  <str>Verbs</str>
+               </arr>
+               <str name="iris.instrument.notes">This instrument was used to elicit data from L2 learners of Japanese and is linked in IRIS to a similar instrument used to elicit data from L2 learners of English. Both instruments were used in the referenced publications. The journal article (Gabriele, 2009) was part of the author's dissertation work completed at the City University of New York Graduate Center in 2005.</str>
+               <str name="iris.instrument.primaryInstrumentType">Grammaticality / Acceptability judgement test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Cross-linguistic influence</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Complexity</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+                  <str>Still Image</str>
+                  <str>Sound</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str/>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Gabriele_The acquisition of aspect in a second language: A bidirectional study of learners of English and Japanese</str>
+                  <str>2009_Gabriele_Transfer and transition in the SLA of aspect</str>
+               </arr>
+               <str name="iris.references.allauthors">Gabriele (2005); Gabriele (2009)</str>
+               <arr name="iris.references.author">
+                  <str>Gabriele, Alison</str>
+                  <str>Gabriele, Alison</str>
+               </arr>
+               <str name="iris.references.author.lastnames">gabrielegabriele</str>
+               <arr name="iris.references.author.noack">
+                  <str>Gabriele, Alison</str>
+                  <str>Gabriele, Alison</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Studies in Second Language Acquisition</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2009</str>
+                  <str>2005</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2009</str>
+                  <str>2005</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>gabriele@ku.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Gabriele, Alison</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test receptive receptive grammar test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Aspect</str>
+                  <str>Verbs</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Grammaticality / Acceptability judgement test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Cross-linguistic influence</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Complexity</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+                  <str>Still Image</str>
+                  <str>Sound</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str/>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Gabriele_The acquisition of aspect in a second language: A bidirectional study of learners of English and Japanese</str>
+                  <str>2009_Gabriele_Transfer and transition in the SLA of aspect</str>
+               </arr>
+               <str name="iris2.references.allauthors">Gabriele (2005); Gabriele (2009)</str>
+               <arr name="iris2.references.author">
+                  <str>Gabriele, Alison</str>
+                  <str>Gabriele, Alison</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">gabrielegabriele</str>
+               <arr name="iris2.references.journal">
+                  <str>Studies in Second Language Acquisition</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2009</str>
+                  <str>2005</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2009</str>
+                  <str>2005</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

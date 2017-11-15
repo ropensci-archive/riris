@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:848297">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">487</int>
+            <lst name="params">
+               <str name="q">PID:york?848297</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:848297</str>
+               <arr name="dc.creator">
+                  <str>Plakans, Barbara S.</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>1997</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:848297</str>
+               </arr>
+               <str name="dc.title">Questionnaire about international teaching assistants</str>
+               <str name="dc.title.sort">Questionnaire about international teaching assistants</str>
+               <arr name="dc.type">
+                  <str>Attitude questionnaire</str>
+                  <str>Learning style questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Plakans, Barbara S.</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>1997</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:848297</str>
+               </arr>
+               <str name="dc2.title">Questionnaire about international teaching assistants</str>
+               <arr name="dc2.type">
+                  <str>Attitude questionnaire</str>
+                  <str>Learning style questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Plakans, Barbara S.</str>
+               </arr>
+               <str name="dc3.title">Questionnaire about international teaching assistants</str>
+               <date name="fgs.createdDate">2015-02-17T17:59:46.179Z</date>
+               <date name="fgs.dateCreated.sort">2015-02-17T17:59:46.179Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-09T09:27:08.361Z</date>
+               <str name="fgs.ownerId">iris-a24a89bf-4c33-4fde-99ff-5f2121a5ba0f</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Plakans, Barbara S.</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Learning style questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Biographical questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">attitude questionnaire attitude questionnaire  learning style questionnaire learning style questionnaire learner style questionnaire biographical questionnaire biographical questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Attitude questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Effectiveness of teaching</str>
+                  <str>Native / Non-native</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Learning style questionnaire</str>
+                  <str>Questionnaire &gt; Biographical questionnaire</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Questionnaire about international teaching assistants</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str/>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Fox_Functions and effects of international teaching assistants at a major research institution</str>
+                  <str>1997_Plakans_Undergraduates' experiences with and attitudes toward international teaching assistants</str>
+               </arr>
+               <str name="iris.references.allauthors">Plakans (1997)</str>
+               <arr name="iris.references.author">
+                  <str>Fox, W.S.</str>
+                  <str>Plakans, Barbara S.</str>
+               </arr>
+               <str name="iris.references.author.lastnames">foxplakans</str>
+               <arr name="iris.references.author.noack">
+                  <str>Plakans, Barbara S.</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>TESOL Quarterly</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>1997</str>
+                  <str>1991</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>1997</str>
+                  <str>1991</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Plakans, Barbara S.</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Learning style questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Biographical questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">attitude questionnaire attitude questionnaire  learning style questionnaire learning style questionnaire learner style questionnaire biographical questionnaire biographical questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Attitude questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Effectiveness of teaching</str>
+                  <str>Native / Non-native</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Learning style questionnaire</str>
+                  <str>Questionnaire &gt; Biographical questionnaire</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str/>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Fox_Functions and effects of international teaching assistants at a major research institution</str>
+                  <str>1997_Plakans_Undergraduates' experiences with and attitudes toward international teaching assistants</str>
+               </arr>
+               <str name="iris2.references.allauthors">Plakans (1997)</str>
+               <arr name="iris2.references.author">
+                  <str>Fox, W.S.</str>
+                  <str>Plakans, Barbara S.</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">foxplakans</str>
+               <arr name="iris2.references.journal">
+                  <str>TESOL Quarterly</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>1997</str>
+                  <str>1991</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>1997</str>
+                  <str>1991</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>1997</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:848297/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

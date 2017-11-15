@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:853518">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">591</int>
+            <lst name="params">
+               <str name="q">PID:york?853518</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:853518</str>
+               <arr name="dc.creator">
+                  <str>Préfontaine, Yvonne</str>
+                  <str>Kormos, Judit</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The records for the unrelated picture narration task; story retelling task; comic strip picture task; post-task questionnaire; retrospective interview protocol and online placement test used in this study are linked in IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:853518</str>
+               </arr>
+               <str name="dc.title">Perceived Task Difficulty Questionnaire</str>
+               <str name="dc.title.sort">Perceived Task Difficulty Questionnaire</str>
+               <arr name="dc.type">
+                  <str>Debriefing questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Préfontaine, Yvonne</str>
+                  <str>Kormos, Judit</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The records for the unrelated picture narration task; story retelling task; comic strip picture task; post-task questionnaire; retrospective interview protocol and online placement test used in this study are linked in IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:853518</str>
+               </arr>
+               <str name="dc2.title">Perceived Task Difficulty Questionnaire</str>
+               <arr name="dc2.type">
+                  <str>Debriefing questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Préfontaine, Yvonne</str>
+                  <str>Kormos, Judit</str>
+               </arr>
+               <str name="dc3.title">Perceived Task Difficulty Questionnaire</str>
+               <date name="fgs.createdDate">2015-06-18T19:30:16.414Z</date>
+               <date name="fgs.dateCreated.sort">2015-06-18T19:30:16.414Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2015-06-18T20:01:47.637Z</date>
+               <str name="fgs.ownerId">iris-ce9f7bc3-da6b-43d0-aa72-6a00503b339f</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>yprefont@illinois.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Préfontaine, Yvonne</str>
+                  <str>Kormos, Judit</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Debriefing questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">debriefing questionnaire debriefing questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The records for the unrelated picture narration task; story retelling task; comic strip picture task; post-task questionnaire; retrospective interview protocol and online placement test used in this study are linked in IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Debriefing questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Fluency</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Teaching materials and curriculum (syllabus, textbook design)</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Perceived Task Difficulty Questionnaire</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Préfontaine_Kormos_The relationship between task difficulty and second language fluency in French: A mixed methods approach</str>
+               </arr>
+               <str name="iris.references.allauthors">Préfontaine &amp; Kormos (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Préfontaine, Yvonne</str>
+                  <str>Kormos, Judit</str>
+               </arr>
+               <str name="iris.references.author.lastnames">préfontainekormos</str>
+               <arr name="iris.references.author.noack">
+                  <str>Préfontaine, Yvonne</str>
+                  <str>Kormos, Judit</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>The Modern Language Journal</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>yprefont@illinois.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Préfontaine, Yvonne</str>
+                  <str>Kormos, Judit</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Debriefing questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">debriefing questionnaire debriefing questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Debriefing questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Fluency</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Teaching materials and curriculum (syllabus, textbook design)</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Préfontaine_Kormos_The relationship between task difficulty and second language fluency in French: A mixed methods approach</str>
+               </arr>
+               <str name="iris2.references.allauthors">Préfontaine &amp; Kormos (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Préfontaine, Yvonne</str>
+                  <str>Kormos, Judit</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">préfontainekormos</str>
+               <arr name="iris2.references.journal">
+                  <str>The Modern Language Journal</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

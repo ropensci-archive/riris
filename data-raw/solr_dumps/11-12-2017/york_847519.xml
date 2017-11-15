@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:847519">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">470</int>
+            <lst name="params">
+               <str name="q">PID:york?847519</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:847519</str>
+               <arr name="dc.creator">
+                  <str>Clement, R</str>
+                  <str>Dörnyei, Zoltán</str>
+                  <str>Noels, Kimberly</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>1986</str>
+                  <str>1994</str>
+                  <str>1990</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:847519</str>
+               </arr>
+               <str name="dc.title">English language Learning Survey</str>
+               <str name="dc.title.sort">English language Learning Survey</str>
+               <arr name="dc.type">
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Clement, R</str>
+                  <str>Dörnyei, Zoltán</str>
+                  <str>Noels, Kimberly</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>1986</str>
+                  <str>1994</str>
+                  <str>1990</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:847519</str>
+               </arr>
+               <str name="dc2.title">English language Learning Survey</str>
+               <arr name="dc2.type">
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Clement, R</str>
+                  <str>Dörnyei, Zoltán</str>
+                  <str>Noels, Kimberly</str>
+               </arr>
+               <str name="dc3.title">English language Learning Survey</str>
+               <date name="fgs.createdDate">2015-01-21T13:14:08.812Z</date>
+               <date name="fgs.dateCreated.sort">2015-01-21T13:14:08.812Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-13T02:56:10.686Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Clement, R</str>
+                  <str>Dörnyei, Zoltán</str>
+                  <str>Noels, Kimberly</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Other questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">attitude questionnaire attitude questionnaire  other questionnaire questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Attitude questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Motivation</str>
+                  <str>Learner attitudes</str>
+                  <str>Learning style</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Other questionnaire</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>English language Learning Survey</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Adolescent learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>1986_Clement_Second language proficiency and accultration: An investigation of the efffects of language status and individual characteristics</str>
+                  <str>1994_Clement_Dörnyei_Noels_Motivation, self-confidence, and group cohesion in the foreign language classroom</str>
+                  <str>1990_Dörnyei_Conceptualizing motivation in foreign language learning</str>
+               </arr>
+               <str name="iris.references.allauthors">Clement, Dörnyei, et al. (1994)</str>
+               <arr name="iris.references.author">
+                  <str>Clement, R</str>
+                  <str>Clement, R</str>
+                  <str>Dörnyei, Zoltán</str>
+                  <str>Noels, Kimberly</str>
+                  <str>Dörnyei, Zoltán</str>
+               </arr>
+               <str name="iris.references.author.lastnames">clementclementdörnyeinoelsdörnyei</str>
+               <arr name="iris.references.author.noack">
+                  <str>Clement, R</str>
+                  <str>Dörnyei, Zoltán</str>
+                  <str>Noels, Kimberly</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>1986</str>
+                  <str>1994</str>
+                  <str>1990</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>1986</str>
+                  <str>1994</str>
+                  <str>1990</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Clement, R</str>
+                  <str>Dörnyei, Zoltán</str>
+                  <str>Noels, Kimberly</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Other questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">attitude questionnaire attitude questionnaire  other questionnaire questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Attitude questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Motivation</str>
+                  <str>Learner attitudes</str>
+                  <str>Learning style</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Other questionnaire</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Adolescent learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>1986_Clement_Second language proficiency and accultration: An investigation of the efffects of language status and individual characteristics</str>
+                  <str>1994_Clement_Dörnyei_Noels_Motivation, self-confidence, and group cohesion in the foreign language classroom</str>
+                  <str>1990_Dörnyei_Conceptualizing motivation in foreign language learning</str>
+               </arr>
+               <str name="iris2.references.allauthors">Clement, Dörnyei, et al. (1994)</str>
+               <arr name="iris2.references.author">
+                  <str>Clement, R</str>
+                  <str>Clement, R</str>
+                  <str>Dörnyei, Zoltán</str>
+                  <str>Noels, Kimberly</str>
+                  <str>Dörnyei, Zoltán</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">clementclementdörnyeinoelsdörnyei</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>1986</str>
+                  <str>1994</str>
+                  <str>1990</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>1986</str>
+                  <str>1994</str>
+                  <str>1990</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>1994</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:847519/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:847519/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:847519/asset/INSTRUMENT2?download=true"/>
+   </files>
+</record>

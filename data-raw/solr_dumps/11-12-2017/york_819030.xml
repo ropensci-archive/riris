@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:819030">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">523</int>
+            <lst name="params">
+               <str name="q">PID:york?819030</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:819030</str>
+               <arr name="dc.creator">
+                  <str>Gilabert, Roger</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2007</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:819030</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+                  <str>Picture description</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Gilabert, Roger</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2007</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:819030</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+                  <str>Picture description</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Gilabert, Roger</str>
+               </arr>
+               <date name="fgs.createdDate">2013-12-05T09:57:45.805Z</date>
+               <date name="fgs.dateCreated.sort">2013-12-05T09:57:45.805Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-16T20:14:54.755Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>rogergilabert@ub.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Gilabert, Roger</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks picture description picture description  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Instructional / Intervention / Teaching / Training materials</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Complexity</str>
+                  <str>Error correction / Corrective feedback</str>
+                  <str>Speaking / Oral production</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Picture description</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Spanish</str>
+                  <str>Catalan</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Pre-intermediate</str>
+                  <str>Advanced</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2007_Gilabert_Effects of manipulating task complexity on self-repairs during L2 oral production</str>
+               </arr>
+               <str name="iris.references.allauthors">Gilabert (2007)</str>
+               <arr name="iris.references.author">
+                  <str>Gilabert, Roger</str>
+               </arr>
+               <str name="iris.references.author.lastnames">gilabert</str>
+               <arr name="iris.references.author.noack">
+                  <str>Gilabert, Roger</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>International Review of Applied Linguistics</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2007</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2007</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>rogergilabert@ub.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Gilabert, Roger</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks picture description picture description  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Instructional / Intervention / Teaching / Training materials</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Complexity</str>
+                  <str>Error correction / Corrective feedback</str>
+                  <str>Speaking / Oral production</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Picture description</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Spanish</str>
+                  <str>Catalan</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Pre-intermediate</str>
+                  <str>Advanced</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2007_Gilabert_Effects of manipulating task complexity on self-repairs during L2 oral production</str>
+               </arr>
+               <str name="iris2.references.allauthors">Gilabert (2007)</str>
+               <arr name="iris2.references.author">
+                  <str>Gilabert, Roger</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">gilabert</str>
+               <arr name="iris2.references.journal">
+                  <str>International Review of Applied Linguistics</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2007</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2007</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2007</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:819030/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:819030/asset/INSTRUMENT1?download=true"/>
+   </files>
+</record>

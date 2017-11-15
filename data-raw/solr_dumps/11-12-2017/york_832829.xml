@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:832829">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">516</int>
+            <lst name="params">
+               <str name="q">PID:york?832829</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:832829</str>
+               <arr name="dc.creator">
+                  <str>Suethanapornkul, Sakol</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2014</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>Instruments have been designed as a computer game (requiring learners to respond to stimuli). The specific area of research is embodied language learning. The modal verb test: piloted test with Cronbach's alpha reliability coefficient index = 0.82.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:832829</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Receptive grammar test</str>
+                  <str>Stimuli for laboratory studies (visual - pictorial)</str>
+                  <str>Stimuli for laboratory studies (visual)</str>
+                  <str>Stimuli for laboratory studies (visual - verbal)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Suethanapornkul, Sakol</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2014</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>Instruments have been designed as a computer game (requiring learners to respond to stimuli). The specific area of research is embodied language learning. The modal verb test: piloted test with Cronbach's alpha reliability coefficient index = 0.82.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:832829</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Receptive grammar test</str>
+                  <str>Stimuli for laboratory studies (visual - pictorial)</str>
+                  <str>Stimuli for laboratory studies (visual)</str>
+                  <str>Stimuli for laboratory studies (visual - verbal)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Suethanapornkul, Sakol</str>
+               </arr>
+               <date name="fgs.createdDate">2014-11-03T17:52:16.601Z</date>
+               <date name="fgs.dateCreated.sort">2014-11-03T17:52:16.601Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-27T11:44:58.757Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>suesakol@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Suethanapornkul, Sakol</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Pictorial</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Verbal</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">receptive receptive grammar test  pictorial stimuli for laboratory studies (visual - pictorial)  visual stimuli for laboratory studies (visual)  verbal stimuli for laboratory studies (visual - verbal)  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Mood/modals</str>
+               </arr>
+               <str name="iris.instrument.notes">Instruments have been designed as a computer game (requiring learners to respond to stimuli). The specific area of research is embodied language learning. The modal verb test: piloted test with Cronbach's alpha reliability coefficient index = 0.82.</str>
+               <str name="iris.instrument.primaryInstrumentType">Stimuli for laboratory studies &gt; Visual</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Learner strategies</str>
+                  <str>Learning style</str>
+                  <str>Acquisition</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+                  <str>Stimuli for laboratory studies &gt; Visual &gt; Pictorial</str>
+                  <str>Stimuli for laboratory studies &gt; Visual &gt; Verbal</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+                  <str>Higher Education</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Thai</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2014_Suethanapornkul_Embodied experiences in second language learning of English modal verbs</str>
+               </arr>
+               <str name="iris.references.allauthors">Suethanapornkul (2014)</str>
+               <arr name="iris.references.author">
+                  <str>Suethanapornkul, Sakol</str>
+               </arr>
+               <str name="iris.references.author.lastnames">suethanapornkul</str>
+               <arr name="iris.references.author.noack">
+                  <str>Suethanapornkul, Sakol</str>
+               </arr>
+               <arr name="iris.references.conferenceName">
+                  <str>2012 Second Language Research Forum</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Proceedings</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>suesakol@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Suethanapornkul, Sakol</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Pictorial</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Verbal</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">receptive receptive grammar test  pictorial stimuli for laboratory studies (visual - pictorial)  visual stimuli for laboratory studies (visual)  verbal stimuli for laboratory studies (visual - verbal)  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Mood/modals</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Stimuli for laboratory studies &gt; Visual</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Learner strategies</str>
+                  <str>Learning style</str>
+                  <str>Acquisition</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+                  <str>Stimuli for laboratory studies &gt; Visual &gt; Pictorial</str>
+                  <str>Stimuli for laboratory studies &gt; Visual &gt; Verbal</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+                  <str>Higher Education</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Thai</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2014_Suethanapornkul_Embodied experiences in second language learning of English modal verbs</str>
+               </arr>
+               <str name="iris2.references.allauthors">Suethanapornkul (2014)</str>
+               <arr name="iris2.references.author">
+                  <str>Suethanapornkul, Sakol</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">suethanapornkul</str>
+               <arr name="iris2.references.conferenceName">
+                  <str>2012 Second Language Research Forum</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Proceedings</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:832829/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:832829/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:832829/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:832829/asset/INSTRUMENT3?download=true"/>
+   </files>
+</record>

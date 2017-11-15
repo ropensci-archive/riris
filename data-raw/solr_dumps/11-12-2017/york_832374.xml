@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:832374">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">468</int>
+            <lst name="params">
+               <str name="q">PID:york?832374</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:832374</str>
+               <arr name="dc.creator">
+                  <str>Dörnyei, Zoltán</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2004</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The test, consisting of 14 multiple choice items, is based on an artificial language and requires the participants to analyse the grammatical markers supplied in a glossary, deduce the rule and select the correct sentences. For the test answers, please contact the IRIS team at iris@iris-database.org</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:832374</str>
+               </arr>
+               <str name="dc.title">Language analysis test</str>
+               <str name="dc.title.sort">Language analysis test</str>
+               <arr name="dc.type">
+                  <str>Receptive grammar test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Dörnyei, Zoltán</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2004</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The test, consisting of 14 multiple choice items, is based on an artificial language and requires the participants to analyse the grammatical markers supplied in a glossary, deduce the rule and select the correct sentences. For the test answers, please contact the IRIS team at iris@iris-database.org</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:832374</str>
+               </arr>
+               <str name="dc2.title">Language analysis test</str>
+               <arr name="dc2.type">
+                  <str>Receptive grammar test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Dörnyei, Zoltán</str>
+               </arr>
+               <str name="dc3.title">Language analysis test</str>
+               <date name="fgs.createdDate">2014-10-17T15:15:11.591Z</date>
+               <date name="fgs.dateCreated.sort">2014-10-17T15:15:11.591Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-23T11:25:27.423Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>Zoltan.Dornyei@nottingham.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Dörnyei, Zoltán</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">receptive receptive grammar test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The test, consisting of 14 multiple choice items, is based on an artificial language and requires the participants to analyse the grammatical markers supplied in a glossary, deduce the rule and select the correct sentences. For the test answers, please contact the IRIS team at iris@iris-database.org</str>
+               <str name="iris.instrument.primaryInstrumentType">Grammar test / Morphosyntax test &gt; Receptive</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Language analysis test</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Artificial language learners</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Mifka-Profozic_Oral corrective feedback, individual differences, and L2 acquisition of French past tenses</str>
+                  <str>2004_Schmitt_Dörnyei_Adolphs_Durow_Knowledge and acquisition of formulaic sequences: A longitudinal study</str>
+               </arr>
+               <str name="iris.references.allauthors">Mifka-Profozic (2012); Schmitt, Dörnyei, et al. (2004)</str>
+               <arr name="iris.references.author">
+                  <str>Mifka-Profozic, Nadia</str>
+                  <str>Schmitt, Norbert</str>
+                  <str>Dörnyei, Zoltán</str>
+                  <str>Adolphs, S.</str>
+                  <str>Durow, V.</str>
+               </arr>
+               <str name="iris.references.author.lastnames">mifka-profozicschmittdörnyeiadolphsdurow</str>
+               <arr name="iris.references.author.noack">
+                  <str>Mifka-Profozic, Nadia</str>
+                  <str>Schmitt, Norbert</str>
+                  <str>Dörnyei, Zoltán</str>
+                  <str>Adolphs, S.</str>
+                  <str>Durow, V.</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>Knowledge and acquisition of formulaic sequences: A longitudinal study</str>
+                  <str>Formulaic sequences: Acquisition, processing, and use</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Schmitt, Norbert</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2004</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2004</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>Zoltan.Dornyei@nottingham.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Dörnyei, Zoltán</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">receptive receptive grammar test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Grammar test / Morphosyntax test &gt; Receptive</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Artificial language learners</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Mifka-Profozic_Oral corrective feedback, individual differences, and L2 acquisition of French past tenses</str>
+                  <str>2004_Schmitt_Dörnyei_Adolphs_Durow_Knowledge and acquisition of formulaic sequences: A longitudinal study</str>
+               </arr>
+               <str name="iris2.references.allauthors">Mifka-Profozic (2012); Schmitt, Dörnyei, et al. (2004)</str>
+               <arr name="iris2.references.author">
+                  <str>Mifka-Profozic, Nadia</str>
+                  <str>Schmitt, Norbert</str>
+                  <str>Dörnyei, Zoltán</str>
+                  <str>Adolphs, S.</str>
+                  <str>Durow, V.</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">mifka-profozicschmittdörnyeiadolphsdurow</str>
+               <arr name="iris2.references.booktitle">
+                  <str>Knowledge and acquisition of formulaic sequences: A longitudinal study</str>
+                  <str>Formulaic sequences: Acquisition, processing, and use</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Schmitt, Norbert</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2004</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2004</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT1" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:832374/asset/INSTRUMENT1?download=true"/>
+   </files>
+</record>

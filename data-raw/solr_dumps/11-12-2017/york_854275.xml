@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:854275">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">475</int>
+            <lst name="params">
+               <str name="q">PID:york?854275</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:854275</str>
+               <arr name="dc.creator">
+                  <str>Janke, Vikki</str>
+                  <str>Kolokonte, Marina</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The records for the self-paced backward lexical translation task and the language history questionnaire used in this study are linked in IRIS. The translation task requires specific software which can be downloaded for free at flxlab.sourceforge.net. In order to play the sound, a folder titled 'sounds' containing the file 'sound_wav' needs to be created.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:854275</str>
+               </arr>
+               <str name="dc.title">Self-paced backward lexical translation task</str>
+               <str name="dc.title.sort">Self-paced backward lexical translation task</str>
+               <arr name="dc.type">
+                  <str>Vocabulary test (productive)</str>
+                  <str>L2 (L3, L4, etc.) to L1</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Janke, Vikki</str>
+                  <str>Kolokonte, Marina</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The records for the self-paced backward lexical translation task and the language history questionnaire used in this study are linked in IRIS. The translation task requires specific software which can be downloaded for free at flxlab.sourceforge.net. In order to play the sound, a folder titled 'sounds' containing the file 'sound_wav' needs to be created.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:854275</str>
+               </arr>
+               <str name="dc2.title">Self-paced backward lexical translation task</str>
+               <arr name="dc2.type">
+                  <str>Vocabulary test (productive)</str>
+                  <str>L2 (L3, L4, etc.) to L1</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Janke, Vikki</str>
+                  <str>Kolokonte, Marina</str>
+               </arr>
+               <str name="dc3.title">Self-paced backward lexical translation task</str>
+               <date name="fgs.createdDate">2015-09-08T12:38:29.118Z</date>
+               <date name="fgs.dateCreated.sort">2015-09-08T12:38:29.118Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-04-27T14:59:12.105Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>v.janke@kent.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Janke, Vikki</str>
+                  <str>Kolokonte, Marina</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+                  <str>Translation task</str>
+                  <str>L2 (L3, L4, etc.) to L1</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">productive vocabulary test (productive)  l2 (l3, l4, etc.) to l1 l2 (l3, l4, etc.) to l1  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The records for the self-paced backward lexical translation task and the language history questionnaire used in this study are linked in IRIS. The translation task requires specific software which can be downloaded for free at flxlab.sourceforge.net. In order to play the sound, a folder titled 'sounds' containing the file 'sound_wav' needs to be created.</str>
+               <str name="iris.instrument.primaryInstrumentType">Translation task &gt; L2 (L3, L4, etc.) to L1</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Complexity</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Cross-linguistic influence</str>
+                  <str>Processing</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Vocabulary test &gt; Productive</str>
+               </arr>
+               <arr name="iris.instrument.software">
+                  <str>FLXLAB 2.4</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Self-paced backward lexical translation task</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Adolescent learners</str>
+                  <str>Bilinguals</str>
+                  <str>Foreign language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Janke_Kolokonte_False cognates: The effect of mismatch in morphological complexity on a backward lexical translation task</str>
+               </arr>
+               <str name="iris.references.allauthors">Janke &amp; Kolokonte (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Janke, Vikki</str>
+                  <str>Kolokonte, Marina</str>
+               </arr>
+               <str name="iris.references.author.lastnames">jankekolokonte</str>
+               <arr name="iris.references.author.noack">
+                  <str>Janke, Vikki</str>
+                  <str>Kolokonte, Marina</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Second Language Research</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>v.janke@kent.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Janke, Vikki</str>
+                  <str>Kolokonte, Marina</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+                  <str>Translation task</str>
+                  <str>L2 (L3, L4, etc.) to L1</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">productive vocabulary test (productive)  l2 (l3, l4, etc.) to l1 l2 (l3, l4, etc.) to l1  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Translation task &gt; L2 (L3, L4, etc.) to L1</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Complexity</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Cross-linguistic influence</str>
+                  <str>Processing</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Vocabulary test &gt; Productive</str>
+               </arr>
+               <arr name="iris2.instrument.software">
+                  <str>FLXLAB 2.4</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Adolescent learners</str>
+                  <str>Bilinguals</str>
+                  <str>Foreign language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Janke_Kolokonte_False cognates: The effect of mismatch in morphological complexity on a backward lexical translation task</str>
+               </arr>
+               <str name="iris2.references.allauthors">Janke &amp; Kolokonte (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Janke, Vikki</str>
+                  <str>Kolokonte, Marina</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">jankekolokonte</str>
+               <arr name="iris2.references.journal">
+                  <str>Second Language Research</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:854275/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:854275/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:854275/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:854275/asset/INSTRUMENT3?download=true"/>
+      <file id="INSTRUMENT4" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:854275/asset/INSTRUMENT4?download=true"/>
+   </files>
+</record>

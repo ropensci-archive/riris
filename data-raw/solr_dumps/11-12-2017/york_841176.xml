@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:841176">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">470</int>
+            <lst name="params">
+               <str name="q">PID:york?841176</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:841176</str>
+               <arr name="dc.creator">
+                  <str>Martin, Maisa</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2013</str>
+                  <str>2014</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>Finnish</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:841176</str>
+               </arr>
+               <str name="dc.title">Perception test on morphological similarity between Finnish and Estonian</str>
+               <str name="dc.title.sort">Perception test on morphological similarity between Finnish and Estonian</str>
+               <arr name="dc.type">
+                  <str>Receptive grammar test</str>
+                  <str>Grammaticality judgement sentences or acceptability judgement</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Martin, Maisa</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2013</str>
+                  <str>2014</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>Finnish</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:841176</str>
+               </arr>
+               <str name="dc2.title">Perception test on morphological similarity between Finnish and Estonian</str>
+               <arr name="dc2.type">
+                  <str>Receptive grammar test</str>
+                  <str>Grammaticality judgement sentences or acceptability judgement</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Martin, Maisa</str>
+               </arr>
+               <str name="dc3.title">Perception test on morphological similarity between Finnish and Estonian</str>
+               <date name="fgs.createdDate">2014-12-11T18:05:19.334Z</date>
+               <date name="fgs.dateCreated.sort">2014-12-11T18:05:19.334Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-06T13:53:55.491Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>maisa.martin@jyu.fi</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Martin, Maisa</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">receptive receptive grammar test  grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Morphology</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Grammaticality / Acceptability judgement test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Cross-linguistic influence</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>Finnish</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Perception test on morphological similarity between Finnish and Estonian</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Finnish</str>
+                  <str>Estonian</str>
+                  <str>Russian</str>
+                  <str>Swedish</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Native speakers</str>
+                  <str>Second language learners</str>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Finnish</str>
+                  <str>Estonian</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2013_Kaivapalu_Kielten järjestelmien vertailusta kieltenvälisen vaikutuksen tutkimukseen [From comparision of language systems to the research of cross-linguistic influence]</str>
+                  <str>2014_Kaivapalu_Martin_Measuring perceptions of cross-linguistic similarity between closely related languages Finnish and Estonian noun morphology as a testing ground</str>
+               </arr>
+               <str name="iris.references.allauthors">Kaivapalu (2013); Kaivapalu &amp; Martin (2014)</str>
+               <arr name="iris.references.author">
+                  <str>Kaivapalu, Annekatrin</str>
+                  <str>Kaivapalu, Annekatrin</str>
+                  <str>Martin, Maisa</str>
+               </arr>
+               <str name="iris.references.author.lastnames">kaivapalukaivapalumartin</str>
+               <arr name="iris.references.author.noack">
+                  <str>Kaivapalu, Annekatrin</str>
+                  <str>Kaivapalu, Annekatrin</str>
+                  <str>Martin, Maisa</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>Kielten järjestelmien vertailusta kieltenvälisen vaikutuksen tutkimukseen [From comparision of language systems to the research of cross-linguistic influence]</str>
+                  <str>Kielten vertailun metodiikka</str>
+                  <str>Measuring perceptions of cross-linguistic similarity between closely related languages Finnish and Estonian noun morphology as a testing ground</str>
+                  <str>Language Contacts at the Crossroads of Disciplines</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Kolehmainen, Leena</str>
+                  <str>Miestamo, Matti</str>
+                  <str>Nordlund, Taru</str>
+                  <str>Paulasto, Heli</str>
+                  <str>Meriläinen, Lea</str>
+                  <str>Riionheimo, Helka</str>
+                  <str>Kok, Maria</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2013</str>
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2013</str>
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Chapter</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>maisa.martin@jyu.fi</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Martin, Maisa</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">receptive receptive grammar test  grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Morphology</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Grammaticality / Acceptability judgement test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Cross-linguistic influence</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>Finnish</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Finnish</str>
+                  <str>Estonian</str>
+                  <str>Russian</str>
+                  <str>Swedish</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Native speakers</str>
+                  <str>Second language learners</str>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Finnish</str>
+                  <str>Estonian</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2013_Kaivapalu_Kielten järjestelmien vertailusta kieltenvälisen vaikutuksen tutkimukseen [From comparision of language systems to the research of cross-linguistic influence]</str>
+                  <str>2014_Kaivapalu_Martin_Measuring perceptions of cross-linguistic similarity between closely related languages Finnish and Estonian noun morphology as a testing ground</str>
+               </arr>
+               <str name="iris2.references.allauthors">Kaivapalu (2013); Kaivapalu &amp; Martin (2014)</str>
+               <arr name="iris2.references.author">
+                  <str>Kaivapalu, Annekatrin</str>
+                  <str>Kaivapalu, Annekatrin</str>
+                  <str>Martin, Maisa</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">kaivapalukaivapalumartin</str>
+               <arr name="iris2.references.booktitle">
+                  <str>Kielten järjestelmien vertailusta kieltenvälisen vaikutuksen tutkimukseen [From comparision of language systems to the research of cross-linguistic influence]</str>
+                  <str>Kielten vertailun metodiikka</str>
+                  <str>Measuring perceptions of cross-linguistic similarity between closely related languages Finnish and Estonian noun morphology as a testing ground</str>
+                  <str>Language Contacts at the Crossroads of Disciplines</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Kolehmainen, Leena</str>
+                  <str>Miestamo, Matti</str>
+                  <str>Nordlund, Taru</str>
+                  <str>Paulasto, Heli</str>
+                  <str>Meriläinen, Lea</str>
+                  <str>Riionheimo, Helka</str>
+                  <str>Kok, Maria</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2013</str>
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2013</str>
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Chapter</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:841176/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:852866">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">485</int>
+            <lst name="params">
+               <str name="q">PID:york?852866</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:852866</str>
+               <arr name="dc.creator">
+                  <str>Zhang, Xian</str>
+                  <str>Lantolf, James, P</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The records for the EI tasks (1 - pretest and delayed post test, 2 - post test 1, 3- post test 2) and question and answer task are linked in IRIS. An oral cartoon description task was also used in this study.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:852866</str>
+               </arr>
+               <str name="dc.title">EI tasks</str>
+               <str name="dc.title.sort">EI tasks</str>
+               <arr name="dc.type">
+                  <str>Listening / Aural test</str>
+                  <str>Proficiency test</str>
+                  <str>Vocabulary test (receptive)</str>
+                  <str>Receptive grammar test</str>
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Zhang, Xian</str>
+                  <str>Lantolf, James, P</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The records for the EI tasks (1 - pretest and delayed post test, 2 - post test 1, 3- post test 2) and question and answer task are linked in IRIS. An oral cartoon description task was also used in this study.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:852866</str>
+               </arr>
+               <str name="dc2.title">EI tasks</str>
+               <arr name="dc2.type">
+                  <str>Listening / Aural test</str>
+                  <str>Proficiency test</str>
+                  <str>Vocabulary test (receptive)</str>
+                  <str>Receptive grammar test</str>
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Zhang, Xian</str>
+                  <str>Lantolf, James, P</str>
+               </arr>
+               <str name="dc3.title">EI tasks</str>
+               <date name="fgs.createdDate">2015-05-07T19:19:27.675Z</date>
+               <date name="fgs.dateCreated.sort">2015-05-07T19:19:27.675Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2016-02-04T14:17:29.701Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>jpl7@psu.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Zhang, Xian</str>
+                  <str>Lantolf, James, P</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Listening / Aural test</str>
+                  <str>Proficiency test</str>
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">listening / aural test listening / aural test aural test proficiency test proficiency test  receptive vocabulary test (receptive)  receptive receptive grammar test  elicited imitation protocol / sentence repetition task elicited imitation protocol / sentence repetition task elicited imitation </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The records for the EI tasks (1 - pretest and delayed post test, 2 - post test 1, 3- post test 2) and question and answer task are linked in IRIS. An oral cartoon description task was also used in this study.</str>
+               <str name="iris.instrument.primaryInstrumentType">Elicited imitation protocol / Sentence repetition task</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Effectiveness of teaching</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Proficiency</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Listening / Aural test</str>
+                  <str>Proficiency test</str>
+                  <str>Vocabulary test &gt; Receptive</str>
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>EI tasks</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Chinese</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Zhang_Lantolf_Natural or artificial: Is the route of L2 development teachable?</str>
+               </arr>
+               <str name="iris.references.allauthors">Zhang &amp; Lantolf (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Zhang, Xian</str>
+                  <str>Lantolf, James, P</str>
+               </arr>
+               <str name="iris.references.author.lastnames">zhanglantolf</str>
+               <arr name="iris.references.author.noack">
+                  <str>Zhang, Xian</str>
+                  <str>Lantolf, James, P</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>jpl7@psu.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Zhang, Xian</str>
+                  <str>Lantolf, James, P</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Listening / Aural test</str>
+                  <str>Proficiency test</str>
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">listening / aural test listening / aural test aural test proficiency test proficiency test  receptive vocabulary test (receptive)  receptive receptive grammar test  elicited imitation protocol / sentence repetition task elicited imitation protocol / sentence repetition task elicited imitation </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Elicited imitation protocol / Sentence repetition task</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Effectiveness of teaching</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Proficiency</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Listening / Aural test</str>
+                  <str>Proficiency test</str>
+                  <str>Vocabulary test &gt; Receptive</str>
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Chinese</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Zhang_Lantolf_Natural or artificial: Is the route of L2 development teachable?</str>
+               </arr>
+               <str name="iris2.references.allauthors">Zhang &amp; Lantolf (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Zhang, Xian</str>
+                  <str>Lantolf, James, P</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">zhanglantolf</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

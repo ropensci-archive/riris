@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:841177">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">515</int>
+            <lst name="params">
+               <str name="q">PID:york?841177</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:841177</str>
+               <arr name="dc.creator">
+                  <str>Bolibaugh, Cylcia</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2013</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The Non Nativelike Selection Task and Non Word Repetition Task used in Bolibaugh and Foster (2013) are linked in IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:841177</str>
+               </arr>
+               <str name="dc.title">Non Nativelike Selection Task</str>
+               <str name="dc.title.sort">Non Nativelike Selection Task</str>
+               <arr name="dc.type">
+                  <str>Grammaticality judgement sentences or acceptability judgement</str>
+                  <str>Reading test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Bolibaugh, Cylcia</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2013</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The Non Nativelike Selection Task and Non Word Repetition Task used in Bolibaugh and Foster (2013) are linked in IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:841177</str>
+               </arr>
+               <str name="dc2.title">Non Nativelike Selection Task</str>
+               <arr name="dc2.type">
+                  <str>Grammaticality judgement sentences or acceptability judgement</str>
+                  <str>Reading test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Bolibaugh, Cylcia</str>
+               </arr>
+               <str name="dc3.title">Non Nativelike Selection Task</str>
+               <date name="fgs.createdDate">2014-12-11T18:43:02.707Z</date>
+               <date name="fgs.dateCreated.sort">2014-12-11T18:43:02.707Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-26T12:20:01.824Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>cylcia.bolibaugh@york.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Bolibaugh, Cylcia</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Reading test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test reading test reading test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Collocations/lexical chunks</str>
+               </arr>
+               <str name="iris.instrument.notes">The Non Nativelike Selection Task and Non Word Repetition Task used in Bolibaugh and Foster (2013) are linked in IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Grammaticality / Acceptability judgement test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Native / Non-native</str>
+                  <str>Figurative language (metaphor)</str>
+                  <str>Working memory</str>
+                  <str>Aptitude</str>
+                  <str>Phonology</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Reading test</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Non Nativelike Selection Task</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+                  <str>Language users</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2013_Bolibaugh_Foster_Memory-based aptitude for nativelike selection: The role of phonological short-term memory</str>
+               </arr>
+               <str name="iris.references.allauthors">Bolibaugh &amp; Foster (2013)</str>
+               <arr name="iris.references.author">
+                  <str>Bolibaugh, Cylcia</str>
+                  <str>Foster, Pauline</str>
+               </arr>
+               <str name="iris.references.author.lastnames">bolibaughfoster</str>
+               <arr name="iris.references.author.noack">
+                  <str>Bolibaugh, Cylcia</str>
+                  <str>Foster, Pauline</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>Memory-based aptitude for nativelike selection: The role of phonological short-term memory</str>
+                  <str>Language learning &amp; Language teaching</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Granena, Grisela</str>
+                  <str>Long, Mike</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Chapter</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>cylcia.bolibaugh@york.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Bolibaugh, Cylcia</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Reading test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test reading test reading test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Collocations/lexical chunks</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Grammaticality / Acceptability judgement test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Native / Non-native</str>
+                  <str>Figurative language (metaphor)</str>
+                  <str>Working memory</str>
+                  <str>Aptitude</str>
+                  <str>Phonology</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Reading test</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+                  <str>Language users</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2013_Bolibaugh_Foster_Memory-based aptitude for nativelike selection: The role of phonological short-term memory</str>
+               </arr>
+               <str name="iris2.references.allauthors">Bolibaugh &amp; Foster (2013)</str>
+               <arr name="iris2.references.author">
+                  <str>Bolibaugh, Cylcia</str>
+                  <str>Foster, Pauline</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">bolibaughfoster</str>
+               <arr name="iris2.references.booktitle">
+                  <str>Memory-based aptitude for nativelike selection: The role of phonological short-term memory</str>
+                  <str>Language learning &amp; Language teaching</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Granena, Grisela</str>
+                  <str>Long, Mike</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Chapter</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:841177/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:841177/asset/INSTRUMENT1?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:838957">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">498</int>
+            <lst name="params">
+               <str name="q">PID:york?838957</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:838957</str>
+               <arr name="dc.creator">
+                  <str>Shintani, Natsuko</str>
+                  <str>Ellis, Rod</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+                  <str>2014</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The two instruction tasks (one record, same materials used) and four pre/post test tasks used in Shintani and Ellis (2014) are linked in IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:838957</str>
+               </arr>
+               <str name="dc.title">'Help the zoo and the supermarket' and 'Help the animals' picture card tasks</str>
+               <str name="dc.title.sort">'Help the zoo and the supermarket' and 'Help the animals' picture card tasks</str>
+               <arr name="dc.type">
+                  <str>Listening / Aural test</str>
+                  <str>Picture pointing task</str>
+                  <str>Vocabulary test</str>
+                  <str>Picture matching test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Shintani, Natsuko</str>
+                  <str>Ellis, Rod</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+                  <str>2014</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The two instruction tasks (one record, same materials used) and four pre/post test tasks used in Shintani and Ellis (2014) are linked in IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:838957</str>
+               </arr>
+               <str name="dc2.title">'Help the zoo and the supermarket' and 'Help the animals' picture card tasks</str>
+               <arr name="dc2.type">
+                  <str>Listening / Aural test</str>
+                  <str>Picture pointing task</str>
+                  <str>Vocabulary test</str>
+                  <str>Picture matching test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Shintani, Natsuko</str>
+                  <str>Ellis, Rod</str>
+               </arr>
+               <str name="dc3.title">'Help the zoo and the supermarket' and 'Help the animals' picture card tasks</str>
+               <date name="fgs.createdDate">2014-12-03T13:17:40.628Z</date>
+               <date name="fgs.dateCreated.sort">2014-12-03T13:17:40.628Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-25T11:00:28.684Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>n.shintani@auckland.ac.nz</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Shintani, Natsuko</str>
+                  <str>Ellis, Rod</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Listening / Aural test</str>
+                  <str>Picture pointing task</str>
+                  <str>Vocabulary test</str>
+                  <str>Other vocabulary test</str>
+                  <str>Picture matching test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">listening / aural test listening / aural test aural test picture pointing task picture pointing task  other vocabulary test vocabulary test  picture matching test picture matching test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Adjectives</str>
+               </arr>
+               <str name="iris.instrument.notes">The two instruction tasks (one record, same materials used) and four pre/post test tasks used in Shintani and Ellis (2014) are linked in IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Picture matching test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Effectiveness of teaching</str>
+                  <str>Listening</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+                  <str>Interaction</str>
+                  <str>Learning style</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Listening / Aural test</str>
+                  <str>Picture pointing task</str>
+                  <str>Vocabulary test &gt; Other vocabulary test</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>'Help the zoo and the supermarket' and 'Help the animals' picture card tasks</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Young learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Shintani_The Incidental Grammar Acquisition in Focus on Form and Focus on Forms Instruction for Young Beginner Learners</str>
+                  <str>2014_Shintani_Ellis_Tracking 'learning behaviours' in the incidental acquisition of two dimensional adjectives by Japanese beginner learners of L2 English</str>
+               </arr>
+               <str name="iris.references.allauthors">Shintani (2015); Shintani &amp; Ellis (2014)</str>
+               <arr name="iris.references.author">
+                  <str>Shintani, Natsuko</str>
+                  <str>Shintani, Natsuko</str>
+                  <str>Ellis, Rod</str>
+               </arr>
+               <str name="iris.references.author.lastnames">shintanishintaniellis</str>
+               <arr name="iris.references.author.noack">
+                  <str>Shintani, Natsuko</str>
+                  <str>Shintani, Natsuko</str>
+                  <str>Ellis, Rod</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>TESOL Quarterly</str>
+                  <str>Language Teaching Research</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>n.shintani@auckland.ac.nz</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Shintani, Natsuko</str>
+                  <str>Ellis, Rod</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Listening / Aural test</str>
+                  <str>Picture pointing task</str>
+                  <str>Vocabulary test</str>
+                  <str>Other vocabulary test</str>
+                  <str>Picture matching test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">listening / aural test listening / aural test aural test picture pointing task picture pointing task  other vocabulary test vocabulary test  picture matching test picture matching test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Adjectives</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Picture matching test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Effectiveness of teaching</str>
+                  <str>Listening</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+                  <str>Interaction</str>
+                  <str>Learning style</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Listening / Aural test</str>
+                  <str>Picture pointing task</str>
+                  <str>Vocabulary test &gt; Other vocabulary test</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Young learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Shintani_The Incidental Grammar Acquisition in Focus on Form and Focus on Forms Instruction for Young Beginner Learners</str>
+                  <str>2014_Shintani_Ellis_Tracking 'learning behaviours' in the incidental acquisition of two dimensional adjectives by Japanese beginner learners of L2 English</str>
+               </arr>
+               <str name="iris2.references.allauthors">Shintani (2015); Shintani &amp; Ellis (2014)</str>
+               <arr name="iris2.references.author">
+                  <str>Shintani, Natsuko</str>
+                  <str>Shintani, Natsuko</str>
+                  <str>Ellis, Rod</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">shintanishintaniellis</str>
+               <arr name="iris2.references.journal">
+                  <str>TESOL Quarterly</str>
+                  <str>Language Teaching Research</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:838957/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:843243">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">476</int>
+            <lst name="params">
+               <str name="q">PID:york?843243</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:843243</str>
+               <arr name="dc.creator">
+                  <str>Schunack, Silke</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>Noun phrases used as subjects and objects are matched for frequency and length. All experimental items in the self-paced reading task were evaluated by native speakers for the plausibility of the subjects. Animate subjects received better plausibility ratings than inanimate ones.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>Norwegian</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:843243</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Script for psycholinguistic techniques (self-paced reading)</str>
+                  <str>Receptive grammar test</str>
+                  <str>Metalinguistic knowledge (MLK) test</str>
+                  <str>Agent identification task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Schunack, Silke</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>Noun phrases used as subjects and objects are matched for frequency and length. All experimental items in the self-paced reading task were evaluated by native speakers for the plausibility of the subjects. Animate subjects received better plausibility ratings than inanimate ones.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>Norwegian</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:843243</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Script for psycholinguistic techniques (self-paced reading)</str>
+                  <str>Receptive grammar test</str>
+                  <str>Metalinguistic knowledge (MLK) test</str>
+                  <str>Agent identification task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Schunack, Silke</str>
+               </arr>
+               <date name="fgs.createdDate">2014-12-19T15:34:06.411Z</date>
+               <date name="fgs.dateCreated.sort">2014-12-19T15:34:06.411Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2016-05-31T10:47:45.277Z</date>
+               <str name="fgs.ownerId">iris-274b84ae-4ce8-4f2a-b61d-a4c59ba15f4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>sschunac@uni-potsdam.de</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Schunack, Silke</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Reaction times</str>
+                  <str>Closed response format</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Script for psycholinguistic techniques</str>
+                  <str>Self-paced reading</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Metalinguistic knowledge (MLK) test</str>
+                  <str>Agent identification task</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">self-paced reading script for psycholinguistic techniques (self-paced reading)  receptive receptive grammar test  metalinguistic knowledge (mlk) test metalinguistic knowledge (mlk) test  agent identification task</str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Animacy</str>
+                  <str>Syntax</str>
+               </arr>
+               <str name="iris.instrument.notes">Noun phrases used as subjects and objects are matched for frequency and length. All experimental items in the self-paced reading task were evaluated by native speakers for the plausibility of the subjects. Animate subjects received better plausibility ratings than inanimate ones.</str>
+               <str name="iris.instrument.primaryInstrumentType">Script for psycholinguistic techniques &gt; Self-paced reading</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Comprehension</str>
+                  <str>Native / Non-native</str>
+                  <str>Processing</str>
+                  <str>Sentence processing</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+                  <str>Metalinguistic knowledge (MLK) test</str>
+                  <str>Other</str>
+               </arr>
+               <arr name="iris.instrument.software">
+                  <str>DMDX</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>Norwegian</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+                  <str>Software</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>German</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+                  <str>Native speakers</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate/advanced</str>
+                  <str>Advanced</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Norwegian</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Schunack_Processing of word order variations in two Germanic L2s</str>
+               </arr>
+               <str name="iris.references.allauthors">Schunack (2014)</str>
+               <arr name="iris.references.author">
+                  <str>Schunack, Silke</str>
+               </arr>
+               <str name="iris.references.author.lastnames">schunack</str>
+               <arr name="iris.references.author.noack">
+                  <str>Schunack, Silke</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>sschunac@uni-potsdam.de</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Schunack, Silke</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Reaction times</str>
+                  <str>Closed response format</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Script for psycholinguistic techniques</str>
+                  <str>Self-paced reading</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Metalinguistic knowledge (MLK) test</str>
+                  <str>Agent identification task</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">self-paced reading script for psycholinguistic techniques (self-paced reading)  receptive receptive grammar test  metalinguistic knowledge (mlk) test metalinguistic knowledge (mlk) test  agent identification task</str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Animacy</str>
+                  <str>Syntax</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Script for psycholinguistic techniques &gt; Self-paced reading</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Comprehension</str>
+                  <str>Native / Non-native</str>
+                  <str>Processing</str>
+                  <str>Sentence processing</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+                  <str>Metalinguistic knowledge (MLK) test</str>
+                  <str>Other</str>
+               </arr>
+               <arr name="iris2.instrument.software">
+                  <str>DMDX</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>Norwegian</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+                  <str>Software</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>German</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+                  <str>Native speakers</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate/advanced</str>
+                  <str>Advanced</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Norwegian</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Schunack_Processing of word order variations in two Germanic L2s</str>
+               </arr>
+               <str name="iris2.references.allauthors">Schunack (2014)</str>
+               <arr name="iris2.references.author">
+                  <str>Schunack, Silke</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">schunack</str>
+               <arr name="iris2.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str/>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:843243/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:843243/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:843243/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:843243/asset/INSTRUMENT3?download=true"/>
+      <file id="INSTRUMENT4" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:843243/asset/INSTRUMENT4?download=true"/>
+      <file id="INSTRUMENT5" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:843243/asset/INSTRUMENT5?download=true"/>
+      <file id="INSTRUMENT6" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:843243/asset/INSTRUMENT6?download=true"/>
+      <file id="INSTRUMENT7" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:843243/asset/INSTRUMENT7?download=true"/>
+      <file id="INSTRUMENT8" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:843243/asset/INSTRUMENT8?download=true"/>
+      <file id="INSTRUMENT9" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:843243/asset/INSTRUMENT9?download=true"/>
+      <file id="INSTRUMENT10" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:843243/asset/INSTRUMENT10?download=true"/>
+      <file id="INSTRUMENT11" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:843243/asset/INSTRUMENT11?download=true"/>
+      <file id="INSTRUMENT12" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:843243/asset/INSTRUMENT12?download=true"/>
+      <file id="INSTRUMENT13" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:843243/asset/INSTRUMENT13?download=true"/>
+   </files>
+</record>

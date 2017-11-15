@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:852309">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">478</int>
+            <lst name="params">
+               <str name="q">PID:york?852309</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:852309</str>
+               <arr name="dc.creator">
+                  <str>Farley, A.P</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2004</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>Within the 'downloads' there are instructional materials for "processing instruction", "meaning-based output instruction"; "assessment materials" (interpretation tests and production tests); a student background survey; guidelines for instructors and an instructor survey.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:852309</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Instructional material / Intervention activities / Teaching activities</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Farley, A.P</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2004</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>Within the 'downloads' there are instructional materials for "processing instruction", "meaning-based output instruction"; "assessment materials" (interpretation tests and production tests); a student background survey; guidelines for instructors and an instructor survey.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:852309</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Instructional material / Intervention activities / Teaching activities</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Farley, A.P</str>
+               </arr>
+               <date name="fgs.createdDate">2015-03-25T16:28:15.629Z</date>
+               <date name="fgs.dateCreated.sort">2015-03-25T16:28:15.629Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-22T16:21:45.022Z</date>
+               <str name="fgs.ownerId">iris-a24a89bf-4c33-4fde-99ff-5f2121a5ba0f</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>andrew.farley@ttu.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Farley, A.P</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Tense</str>
+               </arr>
+               <str name="iris.instrument.notes">Within the 'downloads' there are instructional materials for "processing instruction", "meaning-based output instruction"; "assessment materials" (interpretation tests and production tests); a student background survey; guidelines for instructors and an instructor survey.</str>
+               <str name="iris.instrument.primaryInstrumentType">Instructional / Intervention / Teaching / Training materials</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Processing instruction</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Farley_The relative effects of processing instruction and meaning-based output instruction on L2 acquisition of the Spanish subjunctive</str>
+                  <str>2004_Farley_The relative effects of processing instruction and meaning-based output instruction.</str>
+               </arr>
+               <str name="iris.references.allauthors">Farley (2000); Farley (2004)</str>
+               <arr name="iris.references.author">
+                  <str>Farley, A.P</str>
+                  <str>Farley, A.P</str>
+               </arr>
+               <str name="iris.references.author.lastnames">farleyfarley</str>
+               <arr name="iris.references.author.noack">
+                  <str>Farley, A.P</str>
+                  <str>Farley, A.P</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>The relative effects of processing instruction and meaning-based output instruction.</str>
+                  <str>Processing instruction: Theory, research, and commentary</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>VanPatten, B.</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2004</str>
+                  <str>2000</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2004</str>
+                  <str>2000</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>andrew.farley@ttu.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Farley, A.P</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Tense</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Instructional / Intervention / Teaching / Training materials</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Processing instruction</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Farley_The relative effects of processing instruction and meaning-based output instruction on L2 acquisition of the Spanish subjunctive</str>
+                  <str>2004_Farley_The relative effects of processing instruction and meaning-based output instruction.</str>
+               </arr>
+               <str name="iris2.references.allauthors">Farley (2000); Farley (2004)</str>
+               <arr name="iris2.references.author">
+                  <str>Farley, A.P</str>
+                  <str>Farley, A.P</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">farleyfarley</str>
+               <arr name="iris2.references.booktitle">
+                  <str>The relative effects of processing instruction and meaning-based output instruction.</str>
+                  <str>Processing instruction: Theory, research, and commentary</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>VanPatten, B.</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2004</str>
+                  <str>2000</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2004</str>
+                  <str>2000</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2004</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT3?download=true"/>
+      <file id="INSTRUMENT4" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT4?download=true"/>
+      <file id="INSTRUMENT5" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT5?download=true"/>
+      <file id="INSTRUMENT6" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT6?download=true"/>
+      <file id="INSTRUMENT7" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT7?download=true"/>
+      <file id="INSTRUMENT8" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT8?download=true"/>
+      <file id="INSTRUMENT9" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT9?download=true"/>
+      <file id="INSTRUMENT10" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT10?download=true"/>
+      <file id="INSTRUMENT11" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT11?download=true"/>
+      <file id="INSTRUMENT12" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT12?download=true"/>
+      <file id="INSTRUMENT13" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT13?download=true"/>
+      <file id="INSTRUMENT14" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT14?download=true"/>
+      <file id="INSTRUMENT15" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT15?download=true"/>
+      <file id="INSTRUMENT16" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT16?download=true"/>
+      <file id="INSTRUMENT17" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT17?download=true"/>
+      <file id="INSTRUMENT18" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT18?download=true"/>
+      <file id="INSTRUMENT19" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT19?download=true"/>
+      <file id="INSTRUMENT20" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT20?download=true"/>
+      <file id="INSTRUMENT21" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT21?download=true"/>
+      <file id="INSTRUMENT22" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT22?download=true"/>
+      <file id="INSTRUMENT23" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT23?download=true"/>
+      <file id="INSTRUMENT24" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT24?download=true"/>
+      <file id="INSTRUMENT25" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT25?download=true"/>
+      <file id="INSTRUMENT26" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT26?download=true"/>
+      <file id="INSTRUMENT27" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT27?download=true"/>
+      <file id="INSTRUMENT28" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT28?download=true"/>
+      <file id="INSTRUMENT29" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT29?download=true"/>
+      <file id="INSTRUMENT30" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT30?download=true"/>
+      <file id="INSTRUMENT31" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT31?download=true"/>
+      <file id="INSTRUMENT32" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT32?download=true"/>
+      <file id="INSTRUMENT33" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT33?download=true"/>
+      <file id="INSTRUMENT34" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT34?download=true"/>
+      <file id="INSTRUMENT35" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT35?download=true"/>
+      <file id="INSTRUMENT36" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT36?download=true"/>
+      <file id="INSTRUMENT37" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT37?download=true"/>
+      <file id="INSTRUMENT38" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT38?download=true"/>
+      <file id="INSTRUMENT39" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852309/asset/INSTRUMENT39?download=true"/>
+   </files>
+</record>

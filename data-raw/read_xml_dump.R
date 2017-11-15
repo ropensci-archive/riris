@@ -1,5 +1,5 @@
 library(XML); library(xml2); library(plyr); library(purrr); library(dplyr); library(tidyr)
-library(stringr); library(magrittr); library(reshape2)
+library(stringr); library(magrittr); library(reshape2); library(rvest)
 
 
 ## Read in solr dump------------------------------------
@@ -9,25 +9,48 @@ library(stringr); library(magrittr); library(reshape2)
 # unzip ("data-raw/solr_dumps/5-23-2016/irisdump.zip",
 #        exdir = "data-raw/solr_dumps/5-23-2016", overwrite = TRUE)
 
+download.file("https://dlib.york.ac.uk/irisdump.zip",
+         destfile="data-raw/solr_dumps/11-12-2017/irisdump.zip", mode="wb")
+unzip ("data-raw/solr_dumps/11-12-2017/irisdump.zip",
+       exdir = "data-raw/solr_dumps/11-12-2017", overwrite = TRUE)
+
 
 
 
 # Read in data -----------------------------------------
 
 
-files <- list.files('data-raw/solr_dumps/5-23-2016', pattern = '.xml') 
+files <- list.files('data-raw/solr_dumps/11-12-2017', pattern = '.xml') 
 Files <- files[1:6] # for testing the for loops
 
 
 # One big list of all of the files
 
-filepath <- file.path("data-raw/solr_dumps/5-23-2016",paste(files, sep=''))
+filepath <- file.path("data-raw/solr_dumps/11-12-2017",paste(files, sep=''))
 
-xml_data <- map(filepath, xmlParse, useInternalNodes = TRUE, encoding = "ISO-8859-1")
-
+xml_data <- map(filepath, read_xml, encoding = "ISO-8859-1")
 
 
 # Begin making large searchable list of data frames --------------------------------
+
+arr <- xml_data %>%
+  map(., xml_find_all, '//*/arr')
+
+xml_data_listcols <- arr %>%{
+  tibble(
+    values = map(., xml_text, trim = TRUE),
+    attribs = map(., xml_attr, "name")
+  )
+} 
+
+xml_data_frame <- xml_data_listcols %$% {
+  tibble(
+    values = map(values, ~ as_data_frame(.x)),
+    attribs = map(attribs, ~ as_data_frame(.x))
+  )
+}
+
+
 
 data_top <- xml_data %>%
   map(., xmlRoot)

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:853732">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">538</int>
+            <lst name="params">
+               <str name="q">PID:york?853732</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:853732</str>
+               <arr name="dc.creator">
+                  <str>Foster, Jeffrey L</str>
+                  <str>Shipstead, Zach</str>
+                  <str>Harrison, Tyler L</str>
+                  <str>Hicks, Kenny L</str>
+                  <str>Redick, Thomas S</str>
+                  <str>Engle, Randall W</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>These are the shortened versions of the tasks. Information from: http://englelab.gatech.edu/faq.html#A11 Accessing the tasks: To access these files, a password is required. To obtain a password, please send an email including your name, affiliation and the specific file you would like (i.e., Shortened Operation Span 2.0.10) to Christopher Draheim: cdraheim3@gatech.edu Please allow about one week for a response. If you have not heard back after that time, please send Chris another message as sometimes emails get overlooked or are sent to the wrong folder. You will need to extract the files from the downloaded folder. You can use WinRAR or Zipeg to extract the files. Please ensure that you are using the latest version of E-Prime available from PST before downloading any tasks. Citing the tasks: If you use one of the shortened complex span tasks in your published research, we request that you cite the appropriate article as follows If you are using the Foster et al. (2014) shortened versions cite the following article in your references: Foster, Shipstead, Harrison, Hicks, Redick, &amp; Engle (2014). Shortened complex span tasks can reliably measure working memory capacity. Memory and Cognition. If you are using the Oswald et al. (2015) shortened versions cite the following article in your references: Oswald, F. O., McAbee, S. T., Redick, T. S., &amp; Hambrick, D. Z. (2015). The development of a short domain-general measure of working memory capacity. Behavior Research Methods. If you use any of the other automated span tasks in your published research, we request that you cite this article in your references: Unsworth, Heitz, Schrock, &amp; Engle (2005). An automated version of the operation span task. Behavior Research Methods, 37, 498-505. If you have any questions about the reliability or validity of any of the automated tasks, we request that you cite this article in your references: Redick, Broadway, Meier, Kuriakose, Unsworth, Kane, &amp; Engle (2012). Measureing working memory capacity with automated complex span tasks. European Journal of Psychological Assessment, 28, 164-171. Please see http://englelab.gatech.edu/faq.html#A11 for more information.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:853732</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Working memory</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Working memory test (Operation span)</str>
+                  <str>Working memory test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Foster, Jeffrey L</str>
+                  <str>Shipstead, Zach</str>
+                  <str>Harrison, Tyler L</str>
+                  <str>Hicks, Kenny L</str>
+                  <str>Redick, Thomas S</str>
+                  <str>Engle, Randall W</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>These are the shortened versions of the tasks. Information from: http://englelab.gatech.edu/faq.html#A11 Accessing the tasks: To access these files, a password is required. To obtain a password, please send an email including your name, affiliation and the specific file you would like (i.e., Shortened Operation Span 2.0.10) to Christopher Draheim: cdraheim3@gatech.edu Please allow about one week for a response. If you have not heard back after that time, please send Chris another message as sometimes emails get overlooked or are sent to the wrong folder. You will need to extract the files from the downloaded folder. You can use WinRAR or Zipeg to extract the files. Please ensure that you are using the latest version of E-Prime available from PST before downloading any tasks. Citing the tasks: If you use one of the shortened complex span tasks in your published research, we request that you cite the appropriate article as follows If you are using the Foster et al. (2014) shortened versions cite the following article in your references: Foster, Shipstead, Harrison, Hicks, Redick, &amp; Engle (2014). Shortened complex span tasks can reliably measure working memory capacity. Memory and Cognition. If you are using the Oswald et al. (2015) shortened versions cite the following article in your references: Oswald, F. O., McAbee, S. T., Redick, T. S., &amp; Hambrick, D. Z. (2015). The development of a short domain-general measure of working memory capacity. Behavior Research Methods. If you use any of the other automated span tasks in your published research, we request that you cite this article in your references: Unsworth, Heitz, Schrock, &amp; Engle (2005). An automated version of the operation span task. Behavior Research Methods, 37, 498-505. If you have any questions about the reliability or validity of any of the automated tasks, we request that you cite this article in your references: Redick, Broadway, Meier, Kuriakose, Unsworth, Kane, &amp; Engle (2012). Measureing working memory capacity with automated complex span tasks. European Journal of Psychological Assessment, 28, 164-171. Please see http://englelab.gatech.edu/faq.html#A11 for more information.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:853732</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Working memory</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Working memory test (Operation span)</str>
+                  <str>Working memory test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Foster, Jeffrey L</str>
+                  <str>Shipstead, Zach</str>
+                  <str>Harrison, Tyler L</str>
+                  <str>Hicks, Kenny L</str>
+                  <str>Redick, Thomas S</str>
+                  <str>Engle, Randall W</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Working memory</str>
+               </arr>
+               <date name="fgs.createdDate">2015-07-23T14:14:24.175Z</date>
+               <date name="fgs.dateCreated.sort">2015-07-23T14:14:24.175Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-10T04:16:34.049Z</date>
+               <str name="fgs.ownerId">iris-ce9f7bc3-da6b-43d0-aa72-6a00503b339f</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>Jeff.Foster@gatech.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Foster, Jeffrey L</str>
+                  <str>Shipstead, Zach</str>
+                  <str>Harrison, Tyler L</str>
+                  <str>Hicks, Kenny L</str>
+                  <str>Redick, Thomas S</str>
+                  <str>Engle, Randall W</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Working memory test</str>
+                  <str>Operation / Digit span</str>
+                  <str>Working memory test</str>
+                  <str>Other working memory test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">operation / digit span operation / digit span wm other working memory test working memory test wm </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">These are the shortened versions of the tasks. Information from: http://englelab.gatech.edu/faq.html#A11 Accessing the tasks: To access these files, a password is required. To obtain a password, please send an email including your name, affiliation and the specific file you would like (i.e., Shortened Operation Span 2.0.10) to Christopher Draheim: cdraheim3@gatech.edu Please allow about one week for a response. If you have not heard back after that time, please send Chris another message as sometimes emails get overlooked or are sent to the wrong folder. You will need to extract the files from the downloaded folder. You can use WinRAR or Zipeg to extract the files. Please ensure that you are using the latest version of E-Prime available from PST before downloading any tasks. Citing the tasks: If you use one of the shortened complex span tasks in your published research, we request that you cite the appropriate article as follows If you are using the Foster et al. (2014) shortened versions cite the following article in your references: Foster, Shipstead, Harrison, Hicks, Redick, &amp; Engle (2014). Shortened complex span tasks can reliably measure working memory capacity. Memory and Cognition. If you are using the Oswald et al. (2015) shortened versions cite the following article in your references: Oswald, F. O., McAbee, S. T., Redick, T. S., &amp; Hambrick, D. Z. (2015). The development of a short domain-general measure of working memory capacity. Behavior Research Methods. If you use any of the other automated span tasks in your published research, we request that you cite this article in your references: Unsworth, Heitz, Schrock, &amp; Engle (2005). An automated version of the operation span task. Behavior Research Methods, 37, 498-505. If you have any questions about the reliability or validity of any of the automated tasks, we request that you cite this article in your references: Redick, Broadway, Meier, Kuriakose, Unsworth, Kane, &amp; Engle (2012). Measureing working memory capacity with automated complex span tasks. European Journal of Psychological Assessment, 28, 164-171. Please see http://englelab.gatech.edu/faq.html#A11 for more information.</str>
+               <str name="iris.instrument.primaryInstrumentType">Working memory test &gt; Other working memory test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Working memory</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Working memory test &gt; Operation / Digit span</str>
+               </arr>
+               <arr name="iris.instrument.software">
+                  <str>EPrime</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Native speakers</str>
+                  <str/>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Foster_Shipstead_Harrison_Hicks_Redick_Engle_Shortened complex span tasks can reliably measure working memory capacity</str>
+               </arr>
+               <str name="iris.references.allauthors">Foster, Shipstead, et al. (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Foster, Jeffrey L</str>
+                  <str>Shipstead, Zach</str>
+                  <str>Harrison, Tyler L</str>
+                  <str>Hicks, Kenny L</str>
+                  <str>Redick, Thomas S</str>
+                  <str>Engle, Randall W</str>
+               </arr>
+               <str name="iris.references.author.lastnames">fostershipsteadharrisonhicksredickengle</str>
+               <arr name="iris.references.author.noack">
+                  <str>Foster, Jeffrey L</str>
+                  <str>Shipstead, Zach</str>
+                  <str>Harrison, Tyler L</str>
+                  <str>Hicks, Kenny L</str>
+                  <str>Redick, Thomas S</str>
+                  <str>Engle, Randall W</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Memory and Cognition</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>Jeff.Foster@gatech.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Foster, Jeffrey L</str>
+                  <str>Shipstead, Zach</str>
+                  <str>Harrison, Tyler L</str>
+                  <str>Hicks, Kenny L</str>
+                  <str>Redick, Thomas S</str>
+                  <str>Engle, Randall W</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Working memory test</str>
+                  <str>Operation / Digit span</str>
+                  <str>Working memory test</str>
+                  <str>Other working memory test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">operation / digit span operation / digit span wm other working memory test working memory test wm </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Working memory test &gt; Other working memory test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Working memory</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Working memory test &gt; Operation / Digit span</str>
+               </arr>
+               <arr name="iris2.instrument.software">
+                  <str>EPrime</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Native speakers</str>
+                  <str/>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Foster_Shipstead_Harrison_Hicks_Redick_Engle_Shortened complex span tasks can reliably measure working memory capacity</str>
+               </arr>
+               <str name="iris2.references.allauthors">Foster, Shipstead, et al. (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Foster, Jeffrey L</str>
+                  <str>Shipstead, Zach</str>
+                  <str>Harrison, Tyler L</str>
+                  <str>Hicks, Kenny L</str>
+                  <str>Redick, Thomas S</str>
+                  <str>Engle, Randall W</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">fostershipsteadharrisonhicksredickengle</str>
+               <arr name="iris2.references.journal">
+                  <str>Memory and Cognition</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:853732/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

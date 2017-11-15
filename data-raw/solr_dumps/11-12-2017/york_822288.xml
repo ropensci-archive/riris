@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:822288">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">502</int>
+            <lst name="params">
+               <str name="q">PID:york?822288</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:822288</str>
+               <arr name="dc.creator">
+                  <str>Prior, Anat</str>
+                  <str>Beznos, Meital</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2007</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>Hebrew</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:822288</str>
+               </arr>
+               <str name="dc.title">Leap-Q Hebrew Version</str>
+               <str name="dc.title.sort">Leap-Q Hebrew Version</str>
+               <arr name="dc.type">
+                  <str>Biographical questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Language preferences or dominance questionnaire</str>
+                  <str>Proficiency questionnaire</str>
+                  <str>Ethnic/social/cultural identity questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Prior, Anat</str>
+                  <str>Beznos, Meital</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2007</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>Hebrew</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:822288</str>
+               </arr>
+               <str name="dc2.title">Leap-Q Hebrew Version</str>
+               <arr name="dc2.type">
+                  <str>Biographical questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Language preferences or dominance questionnaire</str>
+                  <str>Proficiency questionnaire</str>
+                  <str>Ethnic/social/cultural identity questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Prior, Anat</str>
+                  <str>Beznos, Meital</str>
+               </arr>
+               <str name="dc3.title">Leap-Q Hebrew Version</str>
+               <date name="fgs.createdDate">2014-05-11T15:21:06.536Z</date>
+               <date name="fgs.dateCreated.sort">2014-05-11T15:21:06.536Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-18T16:56:26.158Z</date>
+               <str name="fgs.ownerId">iris-7823ad98-ee57-4346-9703-0c03552e0072</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>anat.prior@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Prior, Anat</str>
+                  <str>Beznos, Meital</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Closed response format</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language preferences or dominance questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Proficiency questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Ethnic/social/cultural identity questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">biographical questionnaire biographical questionnaire  language background questionnaire language background questionnaire  language preferences or dominance questionnaire language preferences or dominance questionnaire  proficiency questionnaire proficiency questionnaire  ethnic/social/cultural identity questionnaire ethnic/social/cultural identity questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Language background questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Bilingualism</str>
+                  <str>Linguistic identity</str>
+                  <str>Proficiency</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Biographical questionnaire</str>
+                  <str>Questionnaire &gt; Language preferences or dominance questionnaire</str>
+                  <str>Questionnaire &gt; Proficiency questionnaire</str>
+                  <str>Questionnaire &gt; Ethnic/social/cultural identity questionnaire</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>Hebrew</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Leap-Q Hebrew Version</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Hebrew</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Bilinguals</str>
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+                  <str>Intermediate/advanced</str>
+                  <str>Advanced</str>
+                  <str>Bilingual since infancy</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2007_Marian_Blumenfeld_Kaushanskaya_The language experience and proficiency questionnaire (LEAP-Q): Assessing language profiles in bilinguals and multilinguals</str>
+                  <str>2012_Prior_Too much of a good thing: Stronger bilingual inhibition leads to larger lag-2 repetition costs</str>
+               </arr>
+               <str name="iris.references.allauthors">Prior (2012)</str>
+               <arr name="iris.references.author">
+                  <str>Marian, Viorica</str>
+                  <str>Blumenfeld, Henrike K.</str>
+                  <str>Kaushanskaya, Margarita</str>
+                  <str>Prior, Anat</str>
+               </arr>
+               <str name="iris.references.author.lastnames">marianblumenfeldkaushanskayaprior</str>
+               <arr name="iris.references.author.noack">
+                  <str>Prior, Anat</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Cognition</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2007</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2007</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>anat.prior@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Prior, Anat</str>
+                  <str>Beznos, Meital</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Closed response format</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language preferences or dominance questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Proficiency questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Ethnic/social/cultural identity questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">biographical questionnaire biographical questionnaire  language background questionnaire language background questionnaire  language preferences or dominance questionnaire language preferences or dominance questionnaire  proficiency questionnaire proficiency questionnaire  ethnic/social/cultural identity questionnaire ethnic/social/cultural identity questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Language background questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Bilingualism</str>
+                  <str>Linguistic identity</str>
+                  <str>Proficiency</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Biographical questionnaire</str>
+                  <str>Questionnaire &gt; Language preferences or dominance questionnaire</str>
+                  <str>Questionnaire &gt; Proficiency questionnaire</str>
+                  <str>Questionnaire &gt; Ethnic/social/cultural identity questionnaire</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>Hebrew</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Hebrew</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Bilinguals</str>
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+                  <str>Intermediate/advanced</str>
+                  <str>Advanced</str>
+                  <str>Bilingual since infancy</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2007_Marian_Blumenfeld_Kaushanskaya_The language experience and proficiency questionnaire (LEAP-Q): Assessing language profiles in bilinguals and multilinguals</str>
+                  <str>2012_Prior_Too much of a good thing: Stronger bilingual inhibition leads to larger lag-2 repetition costs</str>
+               </arr>
+               <str name="iris2.references.allauthors">Prior (2012)</str>
+               <arr name="iris2.references.author">
+                  <str>Marian, Viorica</str>
+                  <str>Blumenfeld, Henrike K.</str>
+                  <str>Kaushanskaya, Margarita</str>
+                  <str>Prior, Anat</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">marianblumenfeldkaushanskayaprior</str>
+               <arr name="iris2.references.journal">
+                  <str>Cognition</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2007</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2007</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:822288/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

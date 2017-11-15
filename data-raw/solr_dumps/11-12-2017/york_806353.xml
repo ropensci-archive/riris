@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:806353">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">483</int>
+            <lst name="params">
+               <str name="q">PID:york?806353</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:806353</str>
+               <arr name="dc.creator">
+                  <str>Schmid, M.</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2010</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>Please see the Attrition website http://www.let.rug.nl/languageattrition/AMTB for other versions of instruments, notes, associated projects and publications.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+                  <str>German</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:806353</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Attrition</str>
+               </arr>
+               <str name="dc.title">AMTB (Attitude and Motivational Questionnaire)</str>
+               <str name="dc.title.sort">AMTB (Attitude and Motivational Questionnaire)</str>
+               <arr name="dc.type">
+                  <str>Attitude questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Schmid, M.</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2010</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>Please see the Attrition website http://www.let.rug.nl/languageattrition/AMTB for other versions of instruments, notes, associated projects and publications.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+                  <str>German</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:806353</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Attrition</str>
+               </arr>
+               <str name="dc2.title">AMTB (Attitude and Motivational Questionnaire)</str>
+               <arr name="dc2.type">
+                  <str>Attitude questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Schmid, M.</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Attrition</str>
+               </arr>
+               <str name="dc3.title">AMTB (Attitude and Motivational Questionnaire)</str>
+               <date name="fgs.createdDate">2012-09-28T11:54:53.99Z</date>
+               <date name="fgs.dateCreated.sort">2012-09-28T11:54:53.99Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-07T19:09:08.204Z</date>
+               <str name="fgs.ownerId">fedoraAdmin</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>mschmid@essex.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Schmid, M.</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">attitude questionnaire attitude questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">Please see the Attrition website http://www.let.rug.nl/languageattrition/AMTB for other versions of instruments, notes, associated projects and publications.</str>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Attitude questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Attrition</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+                  <str>German</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>AMTB (Attitude and Motivational Questionnaire)</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Dutch</str>
+                  <str>German</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Mehotcheva_After the Fiesta is over: Foreign language attrition of Spanish in Dutch and German Erasmus students</str>
+                  <str>2010_Schmid_Dusseldorp_Quantitative analyses in a multivariate study of language attrition: The impact of extralinguistic factors</str>
+               </arr>
+               <str name="iris.references.allauthors">Mehotcheva (2010); Schmid &amp; Dusseldorp (2010)</str>
+               <arr name="iris.references.author">
+                  <str>Mehotcheva, T.</str>
+                  <str>Schmid, M.</str>
+                  <str>Dusseldorp, E.</str>
+               </arr>
+               <str name="iris.references.author.lastnames">mehotchevaschmiddusseldorp</str>
+               <arr name="iris.references.author.noack">
+                  <str>Mehotcheva, T.</str>
+                  <str>Schmid, M.</str>
+                  <str>Dusseldorp, E.</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Second Language Research</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2010</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2010</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>mschmid@essex.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Schmid, M.</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">attitude questionnaire attitude questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Attitude questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Attrition</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+                  <str>German</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Dutch</str>
+                  <str>German</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Mehotcheva_After the Fiesta is over: Foreign language attrition of Spanish in Dutch and German Erasmus students</str>
+                  <str>2010_Schmid_Dusseldorp_Quantitative analyses in a multivariate study of language attrition: The impact of extralinguistic factors</str>
+               </arr>
+               <str name="iris2.references.allauthors">Mehotcheva (2010); Schmid &amp; Dusseldorp (2010)</str>
+               <arr name="iris2.references.author">
+                  <str>Mehotcheva, T.</str>
+                  <str>Schmid, M.</str>
+                  <str>Dusseldorp, E.</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">mehotchevaschmiddusseldorp</str>
+               <arr name="iris2.references.journal">
+                  <str>Second Language Research</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2010</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2010</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:806353/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:806353/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:806353/asset/INSTRUMENT2?download=true"/>
+   </files>
+</record>

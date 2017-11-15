@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:808184">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">486</int>
+            <lst name="params">
+               <str name="q">PID:york?808184</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:808184</str>
+               <arr name="dc.creator">
+                  <str>Mercer, Sarah</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2011</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>I have to admit these points are a guide for my thinking and the preparing them is the most important stage. I rarely cover them all and it depends on how the conversation flows. It is intended more as a prompt than a protocol.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Identity</str>
+                  <str>Self-efficacy</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Interview protocol</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Mercer, Sarah</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2011</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>I have to admit these points are a guide for my thinking and the preparing them is the most important stage. I rarely cover them all and it depends on how the conversation flows. It is intended more as a prompt than a protocol.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Identity</str>
+                  <str>Self-efficacy</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Interview protocol</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Mercer, Sarah</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Identity</str>
+                  <str>Self-efficacy</str>
+               </arr>
+               <date name="fgs.createdDate">2013-01-22T11:36:39.407Z</date>
+               <date name="fgs.dateCreated.sort">2013-01-22T11:36:39.407Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-12T08:34:34.057Z</date>
+               <str name="fgs.ownerId">iris-942609af-97d3-4131-8b3e-8bbd39601926</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>sarah.mercer@uni-graz.at</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>2</str>
+               </arr>
+               <arr name="iris.feedback.email_1">
+                  <str>lo3@georgetown.edy</str>
+               </arr>
+               <arr name="iris.feedback.email_2">
+                  <str>lo3@georgetown.edy</str>
+               </arr>
+               <arr name="iris.feedback.name_1">
+                  <str>Lourdes Ortega</str>
+               </arr>
+               <arr name="iris.feedback.name_2">
+                  <str>Lourdes Ortega</str>
+               </arr>
+               <arr name="iris.feedback.notes_1">
+                  <str>It seems the link for Mercer is actually wrong and the download I got is for a vocabulary test.</str>
+               </arr>
+               <arr name="iris.feedback.notes_2">
+                  <str>It seems the link for Mercer is actually wrong and the download I got is for a vocabulary test.</str>
+               </arr>
+               <arr name="iris.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.published_2">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.time_1">
+                  <str>28 Sep 2014 15:03:05 GMT</str>
+               </arr>
+               <arr name="iris.feedback.time_2">
+                  <str>28 Sep 2014 15:03:15 GMT</str>
+               </arr>
+               <arr name="iris.feedback.usage_1">
+                  <str>1</str>
+               </arr>
+               <arr name="iris.feedback.usage_2">
+                  <str>1</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Mercer, Sarah</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Open response</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Interview protocol / schedule</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">interview protocol / schedule interview protocol / schedule interview schedule </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">I have to admit these points are a guide for my thinking and the preparing them is the most important stage. I rarely cover them all and it depends on how the conversation flows. It is intended more as a prompt than a protocol.</str>
+               <str name="iris.instrument.primaryInstrumentType">Interview protocol / schedule</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Identity</str>
+                  <str>Self-efficacy</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Advanced</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>German</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Mercer_Exploring efl learner self-concept</str>
+                  <str>2011_Mercer_Language learner self-concept: Complexity, continuity and change</str>
+               </arr>
+               <str name="iris.references.allauthors">Mercer (2011)</str>
+               <arr name="iris.references.author">
+                  <str>Mercer, Sarah</str>
+                  <str>Mercer, Sarah</str>
+               </arr>
+               <str name="iris.references.author.lastnames">mercermercer</str>
+               <arr name="iris.references.author.noack">
+                  <str>Mercer, Sarah</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>System</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2011</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2011</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>sarah.mercer@uni-graz.at</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>2</str>
+               </arr>
+               <arr name="iris2.feedback.email_1">
+                  <str>lo3@georgetown.edy</str>
+               </arr>
+               <arr name="iris2.feedback.email_2">
+                  <str>lo3@georgetown.edy</str>
+               </arr>
+               <arr name="iris2.feedback.name_1">
+                  <str>Lourdes Ortega</str>
+               </arr>
+               <arr name="iris2.feedback.name_2">
+                  <str>Lourdes Ortega</str>
+               </arr>
+               <arr name="iris2.feedback.notes_1">
+                  <str>It seems the link for Mercer is actually wrong and the download I got is for a vocabulary test.</str>
+               </arr>
+               <arr name="iris2.feedback.notes_2">
+                  <str>It seems the link for Mercer is actually wrong and the download I got is for a vocabulary test.</str>
+               </arr>
+               <arr name="iris2.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.published_2">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.time_1">
+                  <str>28 Sep 2014 15:03:05 GMT</str>
+               </arr>
+               <arr name="iris2.feedback.time_2">
+                  <str>28 Sep 2014 15:03:15 GMT</str>
+               </arr>
+               <arr name="iris2.feedback.usage_1">
+                  <str>1</str>
+               </arr>
+               <arr name="iris2.feedback.usage_2">
+                  <str>1</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Mercer, Sarah</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Open response</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Interview protocol / schedule</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">interview protocol / schedule interview protocol / schedule interview schedule </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Interview protocol / schedule</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Identity</str>
+                  <str>Self-efficacy</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Advanced</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>German</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Mercer_Exploring efl learner self-concept</str>
+                  <str>2011_Mercer_Language learner self-concept: Complexity, continuity and change</str>
+               </arr>
+               <str name="iris2.references.allauthors">Mercer (2011)</str>
+               <arr name="iris2.references.author">
+                  <str>Mercer, Sarah</str>
+                  <str>Mercer, Sarah</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">mercermercer</str>
+               <arr name="iris2.references.journal">
+                  <str>System</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2011</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2011</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2011</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:808184/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

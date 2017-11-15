@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:874844">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">490</int>
+            <lst name="params">
+               <str name="q">PID:york?874844</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:874844</str>
+               <arr name="dc.creator">
+                  <str>White, Joanna</str>
+                  <str>Horst, Marlise</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2010</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>Please see the "Information Sheet" in the downloads for a more clearly formatted version of this information. Or, visit http://doe.concordia.ca/alert/materials.html. Teaching materials - What is here?: The materials consist of 6 modules designed for learners of English who know French. Each of module targets an area of similarity or difference between the two languages. Two units focus on grammar (adjective comparisons and possessive determiners his/her), one focuses on pronunciation (/h/), and three focus on vocabulary (word parts, homonyms, and cognates). Who are the activities for? The units have been developed for children in grade 6 (age 11-12), but teachers who have used them agree that, with slight adaptations, they would be appropriate for use with students in secondary school, as well as with intermediate-level adults. Why raise cross-linguistic awareness? The basic principle we kept in mind while developing the materials is that comparisons with an already-known language can be helpful as learners study a new language. This is especially true for French learners of English as the two languages have many features in common. For instance, a large proportion of the words are similar in form (cognates) and offer helpful clues to meaning, although learners may not always notice these &#8216;good friends&#8217;. Of course, there are also many differences between French and English, and some can be problematic, especially when the learner incorrectly assumes there is a similarity. We know that some learners silently compare languages in their heads; others do not realize that their first language (or another language they know) can be a valuable resource. The modules we provide here are designed to enable the teacher to make explicit comparisons between the learners&#8217; L1, French, and their L2, English, in order to speed up learning. How to use the materials? The modules are designed to be used independently and need not be used in sequence. But in order for the learning to be effective, it is important do more than just one or two of the activities in a module. Each module introduces and practices a feature (major lesson) and provides follow-up activities for review and expansion later (mini-lessons). In our research, we found that consolidating learning in the follow-up activities was important. How did the materials come into existence?: Joanna White and Marlise Horst of Concordia University in Montreal created the teaching materials for a program of research that investigated the effects of raising cross-linguistic awareness (CLA) in French-medium primary schools in Quebec where learners study English as a second language. The activities are a response to a perceived need for principled, concrete ways of implementing CLA instruction. Many of the activity ideas come from our observations of Montreal-area classrooms; we recognize our debt to these creative ESL teachers. Philippa Bell of Université du Québec à Montréal formalized the activities and contributed many ideas of her own. The project was supported over a four-year period (2006-2009) by the Social Sciences and Humanities Council of Canada. The CLA activities are part of a suite of resources developed by the ALERT (Acquiring Language Efficiently: Research and Teaching) team at Concordia University. ALERT is headed by Laura Collins; members are Walcir Cardoso, Kim McDonough, Pavel Trofimovich and Joanna White. ALERT&#8217;s research activities received generous funding from the Social Sciences and Humanities Council of Canada and Fonds québécois de la recherche sur la société et la culture. Contact information: Let us know what you think! We are interested in knowing how these activities worked for you and your ideas for improving them. Joanna White jwhite [at] education.concordia.ca Marlise Horst marlise [at] education.concordia.ca</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:874844</str>
+               </arr>
+               <str name="dc.title">Adjective comparison in English</str>
+               <str name="dc.title.sort">Adjective comparison in English</str>
+               <arr name="dc.type">
+                  <str>Instructional material / Intervention activities / Teaching activities</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>White, Joanna</str>
+                  <str>Horst, Marlise</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2010</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>Please see the "Information Sheet" in the downloads for a more clearly formatted version of this information. Or, visit http://doe.concordia.ca/alert/materials.html. Teaching materials - What is here?: The materials consist of 6 modules designed for learners of English who know French. Each of module targets an area of similarity or difference between the two languages. Two units focus on grammar (adjective comparisons and possessive determiners his/her), one focuses on pronunciation (/h/), and three focus on vocabulary (word parts, homonyms, and cognates). Who are the activities for? The units have been developed for children in grade 6 (age 11-12), but teachers who have used them agree that, with slight adaptations, they would be appropriate for use with students in secondary school, as well as with intermediate-level adults. Why raise cross-linguistic awareness? The basic principle we kept in mind while developing the materials is that comparisons with an already-known language can be helpful as learners study a new language. This is especially true for French learners of English as the two languages have many features in common. For instance, a large proportion of the words are similar in form (cognates) and offer helpful clues to meaning, although learners may not always notice these &#8216;good friends&#8217;. Of course, there are also many differences between French and English, and some can be problematic, especially when the learner incorrectly assumes there is a similarity. We know that some learners silently compare languages in their heads; others do not realize that their first language (or another language they know) can be a valuable resource. The modules we provide here are designed to enable the teacher to make explicit comparisons between the learners&#8217; L1, French, and their L2, English, in order to speed up learning. How to use the materials? The modules are designed to be used independently and need not be used in sequence. But in order for the learning to be effective, it is important do more than just one or two of the activities in a module. Each module introduces and practices a feature (major lesson) and provides follow-up activities for review and expansion later (mini-lessons). In our research, we found that consolidating learning in the follow-up activities was important. How did the materials come into existence?: Joanna White and Marlise Horst of Concordia University in Montreal created the teaching materials for a program of research that investigated the effects of raising cross-linguistic awareness (CLA) in French-medium primary schools in Quebec where learners study English as a second language. The activities are a response to a perceived need for principled, concrete ways of implementing CLA instruction. Many of the activity ideas come from our observations of Montreal-area classrooms; we recognize our debt to these creative ESL teachers. Philippa Bell of Université du Québec à Montréal formalized the activities and contributed many ideas of her own. The project was supported over a four-year period (2006-2009) by the Social Sciences and Humanities Council of Canada. The CLA activities are part of a suite of resources developed by the ALERT (Acquiring Language Efficiently: Research and Teaching) team at Concordia University. ALERT is headed by Laura Collins; members are Walcir Cardoso, Kim McDonough, Pavel Trofimovich and Joanna White. ALERT&#8217;s research activities received generous funding from the Social Sciences and Humanities Council of Canada and Fonds québécois de la recherche sur la société et la culture. Contact information: Let us know what you think! We are interested in knowing how these activities worked for you and your ideas for improving them. Joanna White jwhite [at] education.concordia.ca Marlise Horst marlise [at] education.concordia.ca</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:874844</str>
+               </arr>
+               <str name="dc2.title">Adjective comparison in English</str>
+               <arr name="dc2.type">
+                  <str>Instructional material / Intervention activities / Teaching activities</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>White, Joanna</str>
+                  <str>Horst, Marlise</str>
+               </arr>
+               <str name="dc3.title">Adjective comparison in English</str>
+               <date name="fgs.createdDate">2015-12-01T15:50:34.332Z</date>
+               <date name="fgs.dateCreated.sort">2015-12-01T15:50:34.332Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-08-08T11:08:18.98Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>MARLISE@education.concordia.ca</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>White, Joanna</str>
+                  <str>Horst, Marlise</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">Please see the "Information Sheet" in the downloads for a more clearly formatted version of this information. Or, visit http://doe.concordia.ca/alert/materials.html. Teaching materials - What is here?: The materials consist of 6 modules designed for learners of English who know French. Each of module targets an area of similarity or difference between the two languages. Two units focus on grammar (adjective comparisons and possessive determiners his/her), one focuses on pronunciation (/h/), and three focus on vocabulary (word parts, homonyms, and cognates). Who are the activities for? The units have been developed for children in grade 6 (age 11-12), but teachers who have used them agree that, with slight adaptations, they would be appropriate for use with students in secondary school, as well as with intermediate-level adults. Why raise cross-linguistic awareness? The basic principle we kept in mind while developing the materials is that comparisons with an already-known language can be helpful as learners study a new language. This is especially true for French learners of English as the two languages have many features in common. For instance, a large proportion of the words are similar in form (cognates) and offer helpful clues to meaning, although learners may not always notice these &#8216;good friends&#8217;. Of course, there are also many differences between French and English, and some can be problematic, especially when the learner incorrectly assumes there is a similarity. We know that some learners silently compare languages in their heads; others do not realize that their first language (or another language they know) can be a valuable resource. The modules we provide here are designed to enable the teacher to make explicit comparisons between the learners&#8217; L1, French, and their L2, English, in order to speed up learning. How to use the materials? The modules are designed to be used independently and need not be used in sequence. But in order for the learning to be effective, it is important do more than just one or two of the activities in a module. Each module introduces and practices a feature (major lesson) and provides follow-up activities for review and expansion later (mini-lessons). In our research, we found that consolidating learning in the follow-up activities was important. How did the materials come into existence?: Joanna White and Marlise Horst of Concordia University in Montreal created the teaching materials for a program of research that investigated the effects of raising cross-linguistic awareness (CLA) in French-medium primary schools in Quebec where learners study English as a second language. The activities are a response to a perceived need for principled, concrete ways of implementing CLA instruction. Many of the activity ideas come from our observations of Montreal-area classrooms; we recognize our debt to these creative ESL teachers. Philippa Bell of Université du Québec à Montréal formalized the activities and contributed many ideas of her own. The project was supported over a four-year period (2006-2009) by the Social Sciences and Humanities Council of Canada. The CLA activities are part of a suite of resources developed by the ALERT (Acquiring Language Efficiently: Research and Teaching) team at Concordia University. ALERT is headed by Laura Collins; members are Walcir Cardoso, Kim McDonough, Pavel Trofimovich and Joanna White. ALERT&#8217;s research activities received generous funding from the Social Sciences and Humanities Council of Canada and Fonds québécois de la recherche sur la société et la culture. Contact information: Let us know what you think! We are interested in knowing how these activities worked for you and your ideas for improving them. Joanna White jwhite [at] education.concordia.ca Marlise Horst marlise [at] education.concordia.ca</str>
+               <str name="iris.instrument.primaryInstrumentType">Instructional / Intervention / Teaching / Training materials</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Teaching materials and curriculum (syllabus, textbook design)</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Other motivation</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Adjective comparison in English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Primary school</str>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2010_White_Horst_First and second language knowledge in the language classroom</str>
+                  <str>2012_White_Horst_Cognate awareness-raising in late childhood: Teachable and useful</str>
+               </arr>
+               <str name="iris.references.allauthors">White &amp; Horst (2010); White &amp; Horst (2012)</str>
+               <arr name="iris.references.author">
+                  <str>White, Joanna</str>
+                  <str>Horst, Marlise</str>
+                  <str>White, Joanna</str>
+                  <str>Horst, Marlise</str>
+               </arr>
+               <str name="iris.references.author.lastnames">whitehorstwhitehorst</str>
+               <arr name="iris.references.author.noack">
+                  <str>White, Joanna</str>
+                  <str>Horst, Marlise</str>
+                  <str>White, Joanna</str>
+                  <str>Horst, Marlise</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>International Journal of Bilingualism</str>
+                  <str>Language Awareness</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2010</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2010</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>MARLISE@education.concordia.ca</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>White, Joanna</str>
+                  <str>Horst, Marlise</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Instructional / Intervention / Teaching / Training materials</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Teaching materials and curriculum (syllabus, textbook design)</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Other motivation</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Primary school</str>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2010_White_Horst_First and second language knowledge in the language classroom</str>
+                  <str>2012_White_Horst_Cognate awareness-raising in late childhood: Teachable and useful</str>
+               </arr>
+               <str name="iris2.references.allauthors">White &amp; Horst (2010); White &amp; Horst (2012)</str>
+               <arr name="iris2.references.author">
+                  <str>White, Joanna</str>
+                  <str>Horst, Marlise</str>
+                  <str>White, Joanna</str>
+                  <str>Horst, Marlise</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">whitehorstwhitehorst</str>
+               <arr name="iris2.references.journal">
+                  <str>International Journal of Bilingualism</str>
+                  <str>Language Awareness</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2010</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2010</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str/>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT1" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:874844/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:874844/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:874844/asset/INSTRUMENT3?download=true"/>
+      <file id="INSTRUMENT4" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:874844/asset/INSTRUMENT4?download=true"/>
+      <file id="INSTRUMENT5" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:874844/asset/INSTRUMENT5?download=true"/>
+      <file id="INSTRUMENT6" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:874844/asset/INSTRUMENT6?download=true"/>
+      <file id="INSTRUMENT7" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:874844/asset/INSTRUMENT7?download=true"/>
+      <file id="INSTRUMENT8" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:874844/asset/INSTRUMENT8?download=true"/>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:874844/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:822306">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">489</int>
+            <lst name="params">
+               <str name="q">PID:york?822306</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:822306</str>
+               <arr name="dc.creator">
+                  <str>Erlam, Rosemary</str>
+                  <str>Philp, Jenefer</str>
+                  <str>Elder, Catherine</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>1997</str>
+                  <str>2007</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>This is the scoring key for the open ended version of this test</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:822306</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <str name="dc.title">Metalinguistic Knowledge test</str>
+               <str name="dc.title.sort">Metalinguistic Knowledge test</str>
+               <arr name="dc.type">
+                  <str>Metalinguistic knowledge (MLK) test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Erlam, Rosemary</str>
+                  <str>Philp, Jenefer</str>
+                  <str>Elder, Catherine</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>1997</str>
+                  <str>2007</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>This is the scoring key for the open ended version of this test</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:822306</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <str name="dc2.title">Metalinguistic Knowledge test</str>
+               <arr name="dc2.type">
+                  <str>Metalinguistic knowledge (MLK) test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Erlam, Rosemary</str>
+                  <str>Philp, Jenefer</str>
+                  <str>Elder, Catherine</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <str name="dc3.title">Metalinguistic Knowledge test</str>
+               <date name="fgs.createdDate">2014-05-23T04:52:14.06Z</date>
+               <date name="fgs.dateCreated.sort">2014-05-23T04:52:14.06Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-29T16:49:34.781Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>r.erlam@auckland.ac.nz</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Erlam, Rosemary</str>
+                  <str>Philp, Jenefer</str>
+                  <str>Elder, Catherine</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Metalinguistic knowledge (MLK) test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">metalinguistic knowledge (mlk) test metalinguistic knowledge (mlk) test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Articles</str>
+                  <str>Aspect</str>
+                  <str>Case</str>
+                  <str>Determiners</str>
+                  <str>Gender</str>
+                  <str>Number</str>
+                  <str>Suffixes</str>
+                  <str>Tense</str>
+                  <str>Pronouns</str>
+                  <str>Quantifiers</str>
+                  <str>Mood/modals</str>
+                  <str>Prefixes</str>
+               </arr>
+               <str name="iris.instrument.notes">This is the scoring key for the open ended version of this test</str>
+               <str name="iris.instrument.primaryInstrumentType">Metalinguistic knowledge (MLK) test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Metalinguistic Knowledge test</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Teacher trainees</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>1997_Alderson_Clapham_Steel_Metalinguistic knowledge, language aptitude, and language proficiency</str>
+                  <str>2007_Elder_Erlam_Philp_Explicit language knowledge and focus on form: Options and obstacles for TESOL teacher trainees</str>
+                  <str>2009_Ellis_Loewen_Elder_Erlam_Philp_Reinders_Implicit and Explicit Knowledge in Second Language Learning, Testing and Teaching</str>
+               </arr>
+               <str name="iris.references.allauthors">Elder, Erlam, et al. (2007); Ellis, Loewen, et al. (2009)</str>
+               <arr name="iris.references.author">
+                  <str>Alderson, J.C</str>
+                  <str>Clapham, C</str>
+                  <str>Steel, D</str>
+                  <str>Elder, Catherine</str>
+                  <str>Erlam, Rosemary</str>
+                  <str>Philp, Jenefer</str>
+                  <str>Ellis, R</str>
+                  <str>Loewen, Shawn</str>
+                  <str>Elder, Catherine</str>
+                  <str>Erlam, Rosemary</str>
+                  <str>Philp, Jenefer</str>
+                  <str>Reinders, Hayo</str>
+               </arr>
+               <str name="iris.references.author.lastnames">aldersonclaphamsteeleldererlamphilpellisloeweneldererlamphilpreinders</str>
+               <arr name="iris.references.author.noack">
+                  <str>Elder, Catherine</str>
+                  <str>Erlam, Rosemary</str>
+                  <str>Philp, Jenefer</str>
+                  <str>Ellis, R</str>
+                  <str>Loewen, Shawn</str>
+                  <str>Elder, Catherine</str>
+                  <str>Erlam, Rosemary</str>
+                  <str>Philp, Jenefer</str>
+                  <str>Reinders, Hayo</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>Explicit language knowledge and focus on form: Options and obstacles for TESOL teacher trainees</str>
+                  <str>Form-focused instruction and teacher education: Studies in honour of Rod Ellis</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Fotos, Sandra</str>
+                  <str>Nassaji, Hossein</str>
+               </arr>
+               <arr name="iris.references.placeOfPublication">
+                  <str>Bristol</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>1997</str>
+                  <str>2007</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>1997</str>
+                  <str>2007</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris.references.publisher">
+                  <str>Multilingual Matters</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>r.erlam@auckland.ac.nz</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Erlam, Rosemary</str>
+                  <str>Philp, Jenefer</str>
+                  <str>Elder, Catherine</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Metalinguistic knowledge (MLK) test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">metalinguistic knowledge (mlk) test metalinguistic knowledge (mlk) test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Articles</str>
+                  <str>Aspect</str>
+                  <str>Case</str>
+                  <str>Determiners</str>
+                  <str>Gender</str>
+                  <str>Number</str>
+                  <str>Suffixes</str>
+                  <str>Tense</str>
+                  <str>Pronouns</str>
+                  <str>Quantifiers</str>
+                  <str>Mood/modals</str>
+                  <str>Prefixes</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Metalinguistic knowledge (MLK) test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Teacher trainees</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>1997_Alderson_Clapham_Steel_Metalinguistic knowledge, language aptitude, and language proficiency</str>
+                  <str>2007_Elder_Erlam_Philp_Explicit language knowledge and focus on form: Options and obstacles for TESOL teacher trainees</str>
+                  <str>2009_Ellis_Loewen_Elder_Erlam_Philp_Reinders_Implicit and Explicit Knowledge in Second Language Learning, Testing and Teaching</str>
+               </arr>
+               <str name="iris2.references.allauthors">Elder, Erlam, et al. (2007); Ellis, Loewen, et al. (2009)</str>
+               <arr name="iris2.references.author">
+                  <str>Alderson, J.C</str>
+                  <str>Clapham, C</str>
+                  <str>Steel, D</str>
+                  <str>Elder, Catherine</str>
+                  <str>Erlam, Rosemary</str>
+                  <str>Philp, Jenefer</str>
+                  <str>Ellis, R</str>
+                  <str>Loewen, Shawn</str>
+                  <str>Elder, Catherine</str>
+                  <str>Erlam, Rosemary</str>
+                  <str>Philp, Jenefer</str>
+                  <str>Reinders, Hayo</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">aldersonclaphamsteeleldererlamphilpellisloeweneldererlamphilpreinders</str>
+               <arr name="iris2.references.booktitle">
+                  <str>Explicit language knowledge and focus on form: Options and obstacles for TESOL teacher trainees</str>
+                  <str>Form-focused instruction and teacher education: Studies in honour of Rod Ellis</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Fotos, Sandra</str>
+                  <str>Nassaji, Hossein</str>
+               </arr>
+               <arr name="iris2.references.placeOfPublication">
+                  <str>Bristol</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>1997</str>
+                  <str>2007</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>1997</str>
+                  <str>2007</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris2.references.publisher">
+                  <str>Multilingual Matters</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:822306/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

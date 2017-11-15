@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:926161">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">472</int>
+            <lst name="params">
+               <str name="q">PID:york?926161</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:926161</str>
+               <arr name="dc.creator">
+                  <str>Williams, Joshua</str>
+                  <str>Newman, Sharlene</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2016</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The records for the proficiency questionnaire, Fingerspelling Reproduction Task, primed lexical decision task and AX discrimination task used in this study are linked on IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:926161</str>
+               </arr>
+               <str name="dc.title">AX discrimination task</str>
+               <str name="dc.title.sort">AX discrimination task</str>
+               <arr name="dc.type">
+                  <str>Discrimination task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Williams, Joshua</str>
+                  <str>Newman, Sharlene</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2016</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The records for the proficiency questionnaire, Fingerspelling Reproduction Task, primed lexical decision task and AX discrimination task used in this study are linked on IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:926161</str>
+               </arr>
+               <str name="dc2.title">AX discrimination task</str>
+               <arr name="dc2.type">
+                  <str>Discrimination task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Williams, Joshua</str>
+                  <str>Newman, Sharlene</str>
+               </arr>
+               <str name="dc3.title">AX discrimination task</str>
+               <date name="fgs.createdDate">2016-04-27T13:57:15.142Z</date>
+               <date name="fgs.dateCreated.sort">2016-04-27T13:57:15.142Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2016-04-27T13:57:30.911Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>willjota@indiana.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Williams, Joshua</str>
+                  <str>Newman, Sharlene</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Speech perception</str>
+                  <str>Discrimination task</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">discrimination task discrimination task  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The records for the proficiency questionnaire, Fingerspelling Reproduction Task, primed lexical decision task and AX discrimination task used in this study are linked on IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Speech perception &gt; Discrimination task</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Bilingualism</str>
+                  <str>Lexicon (vocabulary)</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>AX discrimination task</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str/>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>American Sign Language</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2016_Williams_Newman_Interlanguage dynamics and lexical networks in nonnative L2 signers of ASL: Cross-modal rhyme priming</str>
+               </arr>
+               <str name="iris.references.allauthors">Williams &amp; Newman (2016)</str>
+               <arr name="iris.references.author">
+                  <str>Williams, Joshua</str>
+                  <str>Newman, Sharlene</str>
+               </arr>
+               <str name="iris.references.author.lastnames">williamsnewman</str>
+               <arr name="iris.references.author.noack">
+                  <str>Williams, Joshua</str>
+                  <str>Newman, Sharlene</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Bilingualism: Language and Cognition</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>willjota@indiana.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Williams, Joshua</str>
+                  <str>Newman, Sharlene</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Speech perception</str>
+                  <str>Discrimination task</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">discrimination task discrimination task  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Speech perception &gt; Discrimination task</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Bilingualism</str>
+                  <str>Lexicon (vocabulary)</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str/>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>American Sign Language</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2016_Williams_Newman_Interlanguage dynamics and lexical networks in nonnative L2 signers of ASL: Cross-modal rhyme priming</str>
+               </arr>
+               <str name="iris2.references.allauthors">Williams &amp; Newman (2016)</str>
+               <arr name="iris2.references.author">
+                  <str>Williams, Joshua</str>
+                  <str>Newman, Sharlene</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">williamsnewman</str>
+               <arr name="iris2.references.journal">
+                  <str>Bilingualism: Language and Cognition</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

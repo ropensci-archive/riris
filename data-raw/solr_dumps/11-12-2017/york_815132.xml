@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:815132">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">549</int>
+            <lst name="params">
+               <str name="q">PID:york?815132</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:815132</str>
+               <arr name="dc.creator">
+                  <str>Spada, Nina</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>in press</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The picture-cued story description used here has been extensively piloted and used in 2 instructed SLA studies and 1 validation study.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:815132</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Acquisition</str>
+               </arr>
+               <str name="dc.title">OPT</str>
+               <str name="dc.title.sort">OPT</str>
+               <arr name="dc.type">
+                  <str>Narration / Story retelling</str>
+                  <str>Picture description</str>
+                  <str>Communicative task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Spada, Nina</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>in press</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The picture-cued story description used here has been extensively piloted and used in 2 instructed SLA studies and 1 validation study.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:815132</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Acquisition</str>
+               </arr>
+               <str name="dc2.title">OPT</str>
+               <arr name="dc2.type">
+                  <str>Narration / Story retelling</str>
+                  <str>Picture description</str>
+                  <str>Communicative task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Spada, Nina</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Acquisition</str>
+               </arr>
+               <str name="dc3.title">OPT</str>
+               <date name="fgs.createdDate">2013-08-12T18:09:23.736Z</date>
+               <date name="fgs.dateCreated.sort">2013-08-12T18:09:23.736Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-02T14:33:07.001Z</date>
+               <str name="fgs.ownerId">iris-8587e950-34f7-4540-881c-b4f389eb4b55</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>nina.spada@utoronto.ca</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>1</str>
+               </arr>
+               <arr name="iris.feedback.email_1">
+                  <str>jebali.adel@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.time_1">
+                  <str>9 Jul 2014 12:45:23 GMT</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Spada, Nina</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>Social Sciences and Humanities Research Council</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+                  <str>Communicative / Interactive task</str>
+                  <str>Other task</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">narration / story retelling  narration / story retelling   picture description picture description  other task communicative task  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Passive / active voice</str>
+               </arr>
+               <str name="iris.instrument.notes">The picture-cued story description used here has been extensively piloted and used in 2 instructed SLA studies and 1 validation study.</str>
+               <str name="iris.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Narration / Story retelling </str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Picture description</str>
+                  <str>Communicative / Interactive task &gt; Other task</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>OPT</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>Higher Education</str>
+                  <str>Work</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Chinese</str>
+                  <str>Japanese</str>
+                  <str>Spanish</str>
+                  <str>Russian</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>in press_Spada_Jessop_Suzuki_Tomita_Valeo_Isolated and integrated form-focused instruction: Effects on different types of L2 knowledge</str>
+               </arr>
+               <str name="iris.references.allauthors">Spada, Jessop, et al. (in press)</str>
+               <arr name="iris.references.author">
+                  <str>Spada, Nina</str>
+                  <str>Jessop, Lorena</str>
+                  <str>Suzuki, Wataru</str>
+                  <str>Tomita, Yasuyo</str>
+                  <str>Valeo, Antonella</str>
+               </arr>
+               <str name="iris.references.author.lastnames">spadajessopsuzukitomitavaleo</str>
+               <arr name="iris.references.author.noack">
+                  <str>Spada, Nina</str>
+                  <str>Jessop, Lorena</str>
+                  <str>Suzuki, Wataru</str>
+                  <str>Tomita, Yasuyo</str>
+                  <str>Valeo, Antonella</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Teaching Research</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>nina.spada@utoronto.ca</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>1</str>
+               </arr>
+               <arr name="iris2.feedback.email_1">
+                  <str>jebali.adel@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.time_1">
+                  <str>9 Jul 2014 12:45:23 GMT</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Spada, Nina</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>Social Sciences and Humanities Research Council</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+                  <str>Communicative / Interactive task</str>
+                  <str>Other task</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">narration / story retelling  narration / story retelling   picture description picture description  other task communicative task  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Passive / active voice</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Narration / Story retelling </str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Picture description</str>
+                  <str>Communicative / Interactive task &gt; Other task</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>Higher Education</str>
+                  <str>Work</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Chinese</str>
+                  <str>Japanese</str>
+                  <str>Spanish</str>
+                  <str>Russian</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>in press_Spada_Jessop_Suzuki_Tomita_Valeo_Isolated and integrated form-focused instruction: Effects on different types of L2 knowledge</str>
+               </arr>
+               <str name="iris2.references.allauthors">Spada, Jessop, et al. (in press)</str>
+               <arr name="iris2.references.author">
+                  <str>Spada, Nina</str>
+                  <str>Jessop, Lorena</str>
+                  <str>Suzuki, Wataru</str>
+                  <str>Tomita, Yasuyo</str>
+                  <str>Valeo, Antonella</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">spadajessopsuzukitomitavaleo</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Teaching Research</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:815132/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:815132/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:815132/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:815132/asset/INSTRUMENT3?download=true"/>
+      <file id="INSTRUMENT4" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:815132/asset/INSTRUMENT4?download=true"/>
+      <file id="INSTRUMENT5" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:815132/asset/INSTRUMENT5?download=true"/>
+   </files>
+</record>

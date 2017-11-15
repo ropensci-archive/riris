@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:917792">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">477</int>
+            <lst name="params">
+               <str name="q">PID:york?917792</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:917792</str>
+               <arr name="dc.creator">
+                  <str>Paul, Jing</str>
+                  <str>Grüter, Theres</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2012</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+                  <str>Chinese</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:917792</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Listening test</str>
+                  <str>Vocabulary test (productive)</str>
+                  <str>Vocabulary test (receptive)</str>
+                  <str>Picture description</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Paul, Jing</str>
+                  <str>Grüter, Theres</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2012</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+                  <str>Chinese</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:917792</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Listening test</str>
+                  <str>Vocabulary test (productive)</str>
+                  <str>Vocabulary test (receptive)</str>
+                  <str>Picture description</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Paul, Jing</str>
+                  <str>Grüter, Theres</str>
+               </arr>
+               <date name="fgs.createdDate">2016-01-26T23:10:20.899Z</date>
+               <date name="fgs.dateCreated.sort">2016-01-26T23:10:20.899Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-02T15:25:28.572Z</date>
+               <str name="fgs.ownerId"> iris-710c49f0-7ad7-4095-9996-62c6c22d8c49</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>jz99aa@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Paul, Jing</str>
+                  <str>Grüter, Theres</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Listening / Aural test</str>
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">listening / aural test listening / aural test aural test productive vocabulary test (productive)  receptive vocabulary test (receptive)  picture description picture description  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Articles</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Listening / Aural test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Teaching materials and curriculum (syllabus, textbook design)</str>
+                  <str>Processing</str>
+                  <str>Implicit learning</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Vocabulary test &gt; Productive</str>
+                  <str>Vocabulary test &gt; Receptive</str>
+                  <str>Speaking test / Oral production test &gt; Picture description</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+                  <str>Chinese</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Sound</str>
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str/>
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Complete beginner</str>
+                  <str>Near beginner</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Chinese</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2012_Arnon_Ramscar_Granularity and the acquisition of grammatical gender: How order-of-acquisition affects what gets learned</str>
+                  <str>in press_Paul_Grüter_Blocking effects in the learning of Chinese classifiers</str>
+               </arr>
+               <str name="iris.references.allauthors">Paul &amp; Grüter (in press)</str>
+               <arr name="iris.references.author">
+                  <str>Arnon, Inbal</str>
+                  <str>Ramscar, Michael</str>
+                  <str>Paul, Jing</str>
+                  <str>Grüter, Theres</str>
+               </arr>
+               <str name="iris.references.author.lastnames">arnonramscarpaulgrüter</str>
+               <arr name="iris.references.author.noack">
+                  <str>Paul, Jing</str>
+                  <str>Grüter, Theres</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2012</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2012</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>jz99aa@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Paul, Jing</str>
+                  <str>Grüter, Theres</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Listening / Aural test</str>
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">listening / aural test listening / aural test aural test productive vocabulary test (productive)  receptive vocabulary test (receptive)  picture description picture description  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Articles</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Listening / Aural test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Teaching materials and curriculum (syllabus, textbook design)</str>
+                  <str>Processing</str>
+                  <str>Implicit learning</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Vocabulary test &gt; Productive</str>
+                  <str>Vocabulary test &gt; Receptive</str>
+                  <str>Speaking test / Oral production test &gt; Picture description</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+                  <str>Chinese</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Sound</str>
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str/>
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Complete beginner</str>
+                  <str>Near beginner</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Chinese</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2012_Arnon_Ramscar_Granularity and the acquisition of grammatical gender: How order-of-acquisition affects what gets learned</str>
+                  <str>in press_Paul_Grüter_Blocking effects in the learning of Chinese classifiers</str>
+               </arr>
+               <str name="iris2.references.allauthors">Paul &amp; Grüter (in press)</str>
+               <arr name="iris2.references.author">
+                  <str>Arnon, Inbal</str>
+                  <str>Ramscar, Michael</str>
+                  <str>Paul, Jing</str>
+                  <str>Grüter, Theres</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">arnonramscarpaulgrüter</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2012</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2012</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT3?download=true"/>
+      <file id="INSTRUMENT4" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT4?download=true"/>
+      <file id="INSTRUMENT5" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT5?download=true"/>
+      <file id="INSTRUMENT6" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT6?download=true"/>
+      <file id="INSTRUMENT7" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT7?download=true"/>
+      <file id="INSTRUMENT8" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT8?download=true"/>
+      <file id="INSTRUMENT9" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT9?download=true"/>
+      <file id="INSTRUMENT10" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT10?download=true"/>
+      <file id="INSTRUMENT11" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT11?download=true"/>
+      <file id="INSTRUMENT12" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT12?download=true"/>
+      <file id="INSTRUMENT13" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT13?download=true"/>
+      <file id="INSTRUMENT14" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT14?download=true"/>
+      <file id="INSTRUMENT15" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT15?download=true"/>
+      <file id="INSTRUMENT16" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT16?download=true"/>
+      <file id="INSTRUMENT17" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT17?download=true"/>
+      <file id="INSTRUMENT18" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT18?download=true"/>
+      <file id="INSTRUMENT19" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT19?download=true"/>
+      <file id="INSTRUMENT20" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT20?download=true"/>
+      <file id="INSTRUMENT21" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT21?download=true"/>
+      <file id="INSTRUMENT22" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT22?download=true"/>
+      <file id="INSTRUMENT23" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT23?download=true"/>
+      <file id="INSTRUMENT24" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT24?download=true"/>
+      <file id="INSTRUMENT25" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT25?download=true"/>
+      <file id="INSTRUMENT26" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT26?download=true"/>
+      <file id="INSTRUMENT27" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT27?download=true"/>
+      <file id="INSTRUMENT28" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT28?download=true"/>
+      <file id="INSTRUMENT29" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT29?download=true"/>
+      <file id="INSTRUMENT30" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT30?download=true"/>
+      <file id="INSTRUMENT31" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT31?download=true"/>
+      <file id="INSTRUMENT32" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT32?download=true"/>
+      <file id="INSTRUMENT33" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT33?download=true"/>
+      <file id="INSTRUMENT34" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT34?download=true"/>
+      <file id="INSTRUMENT35" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT35?download=true"/>
+      <file id="INSTRUMENT36" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT36?download=true"/>
+      <file id="INSTRUMENT37" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT37?download=true"/>
+      <file id="INSTRUMENT38" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT38?download=true"/>
+      <file id="INSTRUMENT39" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT39?download=true"/>
+      <file id="INSTRUMENT40" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT40?download=true"/>
+      <file id="INSTRUMENT41" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT41?download=true"/>
+      <file id="INSTRUMENT42" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT42?download=true"/>
+      <file id="INSTRUMENT43" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT43?download=true"/>
+      <file id="INSTRUMENT44" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT44?download=true"/>
+      <file id="INSTRUMENT45" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT45?download=true"/>
+      <file id="INSTRUMENT46" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT46?download=true"/>
+      <file id="INSTRUMENT47" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT47?download=true"/>
+      <file id="INSTRUMENT48" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT48?download=true"/>
+      <file id="INSTRUMENT49" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT49?download=true"/>
+      <file id="INSTRUMENT50" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT50?download=true"/>
+      <file id="INSTRUMENT51" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT51?download=true"/>
+      <file id="INSTRUMENT52" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT52?download=true"/>
+      <file id="INSTRUMENT53" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT53?download=true"/>
+      <file id="INSTRUMENT54" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT54?download=true"/>
+      <file id="INSTRUMENT55" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT55?download=true"/>
+      <file id="INSTRUMENT56" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT56?download=true"/>
+      <file id="INSTRUMENT57" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT57?download=true"/>
+      <file id="INSTRUMENT58" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT58?download=true"/>
+      <file id="INSTRUMENT59" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT59?download=true"/>
+      <file id="INSTRUMENT60" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT60?download=true"/>
+      <file id="INSTRUMENT61" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT61?download=true"/>
+      <file id="INSTRUMENT62" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT62?download=true"/>
+      <file id="INSTRUMENT63" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT63?download=true"/>
+      <file id="INSTRUMENT64" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT64?download=true"/>
+      <file id="INSTRUMENT65" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT65?download=true"/>
+      <file id="INSTRUMENT66" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT66?download=true"/>
+      <file id="INSTRUMENT67" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT67?download=true"/>
+      <file id="INSTRUMENT68" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT68?download=true"/>
+      <file id="INSTRUMENT69" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT69?download=true"/>
+      <file id="INSTRUMENT70" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT70?download=true"/>
+      <file id="INSTRUMENT71" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT71?download=true"/>
+      <file id="INSTRUMENT72" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT72?download=true"/>
+      <file id="INSTRUMENT73" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT73?download=true"/>
+      <file id="INSTRUMENT74" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT74?download=true"/>
+      <file id="INSTRUMENT75" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT75?download=true"/>
+      <file id="INSTRUMENT76" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT76?download=true"/>
+      <file id="INSTRUMENT77" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT77?download=true"/>
+      <file id="INSTRUMENT78" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT78?download=true"/>
+      <file id="INSTRUMENT79" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT79?download=true"/>
+      <file id="INSTRUMENT80" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT80?download=true"/>
+      <file id="INSTRUMENT81" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT81?download=true"/>
+      <file id="INSTRUMENT82" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT82?download=true"/>
+      <file id="INSTRUMENT83" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT83?download=true"/>
+      <file id="INSTRUMENT84" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT84?download=true"/>
+      <file id="INSTRUMENT85" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT85?download=true"/>
+      <file id="INSTRUMENT86" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT86?download=true"/>
+      <file id="INSTRUMENT87" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT87?download=true"/>
+      <file id="INSTRUMENT88" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT88?download=true"/>
+      <file id="INSTRUMENT89" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT89?download=true"/>
+      <file id="INSTRUMENT90" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT90?download=true"/>
+      <file id="INSTRUMENT91" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT91?download=true"/>
+      <file id="INSTRUMENT92" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT92?download=true"/>
+      <file id="INSTRUMENT93" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT93?download=true"/>
+      <file id="INSTRUMENT94" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT94?download=true"/>
+      <file id="INSTRUMENT95" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT95?download=true"/>
+      <file id="INSTRUMENT96" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT96?download=true"/>
+      <file id="INSTRUMENT97" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT97?download=true"/>
+      <file id="INSTRUMENT98" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT98?download=true"/>
+      <file id="INSTRUMENT99" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT99?download=true"/>
+      <file id="INSTRUMENT100" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT100?download=true"/>
+      <file id="INSTRUMENT101" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT101?download=true"/>
+      <file id="INSTRUMENT102" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT102?download=true"/>
+      <file id="INSTRUMENT103" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT103?download=true"/>
+      <file id="INSTRUMENT104" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT104?download=true"/>
+      <file id="INSTRUMENT105" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT105?download=true"/>
+      <file id="INSTRUMENT106" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT106?download=true"/>
+      <file id="INSTRUMENT107" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT107?download=true"/>
+      <file id="INSTRUMENT108" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT108?download=true"/>
+      <file id="INSTRUMENT109" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT109?download=true"/>
+      <file id="INSTRUMENT110" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:917792/asset/INSTRUMENT110?download=true"/>
+   </files>
+</record>

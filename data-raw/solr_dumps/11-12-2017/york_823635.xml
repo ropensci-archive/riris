@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:823635">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">521</int>
+            <lst name="params">
+               <str name="q">PID:york?823635</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:823635</str>
+               <arr name="dc.creator">
+                  <str>Toth, Paul D.</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2006</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>SPECIAL COLLECTIONThe grammaticality judgement tasks and picture description tasks used in this study are linked in IRIS. , SPECIAL COLLECTION - GRAMMATICALITY/ACCEPTABILITY JUDGEMENT TESTS. 1976-2016.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:823635</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Toth, Paul D.</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2006</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>SPECIAL COLLECTIONThe grammaticality judgement tasks and picture description tasks used in this study are linked in IRIS. , SPECIAL COLLECTION - GRAMMATICALITY/ACCEPTABILITY JUDGEMENT TESTS. 1976-2016.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:823635</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Toth, Paul D.</str>
+               </arr>
+               <date name="fgs.createdDate">2014-09-20T23:15:24.965Z</date>
+               <date name="fgs.dateCreated.sort">2014-09-20T23:15:24.965Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-06T22:56:06.281Z</date>
+               <str name="fgs.ownerId">iris-95774ca7-03e1-4cd1-9cce-db3b59237b4a</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>ptoth@temple.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Toth, Paul D.</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Judgements</str>
+                  <str>Closed response format</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test receptive receptive grammar test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Pronouns</str>
+                  <str>Syntax</str>
+                  <str>Semantics</str>
+               </arr>
+               <str name="iris.instrument.notes">The grammaticality judgement tasks and picture description tasks used in this study are linked in IRIS. SPECIAL COLLECTION - GRAMMATICALITY/ACCEPTABILITY JUDGEMENT TESTS - Plonsky, Marsden, Gass, Spinner, Crowther</str>
+               <str name="iris.instrument.primaryInstrumentType">Grammaticality / Acceptability judgement test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Effectiveness of teaching</str>
+                  <str>Interaction</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>Higher Education</str>
+                  <str>School - language instruction only</str>
+                  <str>Academic</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+                  <str>Intermediate/advanced</str>
+                  <str>Native</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2006_Toth_Processing Instruction and a role for output in second language acquisition</str>
+                  <str>2008_Toth_Teacher- and learner-led discourse in task-based grammar instruction: Providing procedural assistance for L2 morphosyntactic development</str>
+               </arr>
+               <str name="iris.references.allauthors">Toth (2006); Toth (2008)</str>
+               <arr name="iris.references.author">
+                  <str>Toth, Paul D.</str>
+                  <str>Toth, Paul D.</str>
+               </arr>
+               <str name="iris.references.author.lastnames">tothtoth</str>
+               <arr name="iris.references.author.noack">
+                  <str>Toth, Paul D.</str>
+                  <str>Toth, Paul D.</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Learning</str>
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2006</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2006</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>ptoth@temple.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Toth, Paul D.</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Judgements</str>
+                  <str>Closed response format</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test receptive receptive grammar test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Pronouns</str>
+                  <str>Syntax</str>
+                  <str>Semantics</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Grammaticality / Acceptability judgement test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Effectiveness of teaching</str>
+                  <str>Interaction</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>Higher Education</str>
+                  <str>School - language instruction only</str>
+                  <str>Academic</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+                  <str>Intermediate/advanced</str>
+                  <str>Native</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2006_Toth_Processing Instruction and a role for output in second language acquisition</str>
+                  <str>2008_Toth_Teacher- and learner-led discourse in task-based grammar instruction: Providing procedural assistance for L2 morphosyntactic development</str>
+               </arr>
+               <str name="iris2.references.allauthors">Toth (2006); Toth (2008)</str>
+               <arr name="iris2.references.author">
+                  <str>Toth, Paul D.</str>
+                  <str>Toth, Paul D.</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">tothtoth</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Learning</str>
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2006</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2006</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT1" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:823635/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:823635/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT4" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:823635/asset/INSTRUMENT4?download=true"/>
+      <file id="INSTRUMENT5" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:823635/asset/INSTRUMENT5?download=true"/>
+      <file id="INSTRUMENT6" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:823635/asset/INSTRUMENT6?download=true"/>
+   </files>
+</record>

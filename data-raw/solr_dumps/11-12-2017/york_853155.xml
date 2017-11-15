@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:853155">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">468</int>
+            <lst name="params">
+               <str name="q">PID:york?853155</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:853155</str>
+               <arr name="dc.creator">
+                  <str>VanPatten, Bill</str>
+                  <str>Borst, Stefanie</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2012</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The 4 records for the 1) pretest 2) EI 3) structured input 4) background questionnaire used in this study are linked in IRIS. The grammatical sensitivity and spelling tests of the MLAT were also used in this study.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:853155</str>
+               </arr>
+               <str name="dc.title">Structured Input</str>
+               <str name="dc.title.sort">Structured Input</str>
+               <arr name="dc.type">
+                  <str>Language background questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>VanPatten, Bill</str>
+                  <str>Borst, Stefanie</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2012</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The 4 records for the 1) pretest 2) EI 3) structured input 4) background questionnaire used in this study are linked in IRIS. The grammatical sensitivity and spelling tests of the MLAT were also used in this study.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:853155</str>
+               </arr>
+               <str name="dc2.title">Structured Input</str>
+               <arr name="dc2.type">
+                  <str>Language background questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>VanPatten, Bill</str>
+                  <str>Borst, Stefanie</str>
+               </arr>
+               <str name="dc3.title">Structured Input</str>
+               <date name="fgs.createdDate">2015-05-22T12:46:08.708Z</date>
+               <date name="fgs.dateCreated.sort">2015-05-22T12:46:08.708Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2016-05-20T13:35:49.782Z</date>
+               <str name="fgs.ownerId">iris-ce9f7bc3-da6b-43d0-aa72-6a00503b339f</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>bvp@msu.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>VanPatten, Bill</str>
+                  <str>Borst, Stefanie</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">language background questionnaire language background questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The 4 records for the 1) pretest 2) EI 3) structured input 4) background questionnaire used in this study are linked in IRIS. The grammatical sensitivity and spelling tests of the MLAT were also used in this study.</str>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Language background questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Teaching methods (style, approach, technique)</str>
+                  <str>Processing instruction</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Aptitude</str>
+               </arr>
+               <arr name="iris.instrument.software">
+                  <str>SuperLab</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Structured Input</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>German</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2012_VanPatten_Borst_The roles of explicit information and grammatical sensitivity in processing instruction: Nominative-accusative case marking and word order in German L2</str>
+               </arr>
+               <str name="iris.references.allauthors">VanPatten &amp; Borst (2012)</str>
+               <arr name="iris.references.author">
+                  <str>VanPatten, Bill</str>
+                  <str>Borst, Stefanie</str>
+               </arr>
+               <str name="iris.references.author.lastnames">vanpattenborst</str>
+               <arr name="iris.references.author.noack">
+                  <str>VanPatten, Bill</str>
+                  <str>Borst, Stefanie</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str/>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>bvp@msu.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>VanPatten, Bill</str>
+                  <str>Borst, Stefanie</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">language background questionnaire language background questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Language background questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Teaching methods (style, approach, technique)</str>
+                  <str>Processing instruction</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Aptitude</str>
+               </arr>
+               <arr name="iris2.instrument.software">
+                  <str>SuperLab</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>German</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2012_VanPatten_Borst_The roles of explicit information and grammatical sensitivity in processing instruction: Nominative-accusative case marking and word order in German L2</str>
+               </arr>
+               <str name="iris2.references.allauthors">VanPatten &amp; Borst (2012)</str>
+               <arr name="iris2.references.author">
+                  <str>VanPatten, Bill</str>
+                  <str>Borst, Stefanie</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">vanpattenborst</str>
+               <arr name="iris2.references.journal">
+                  <str/>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:851663">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">494</int>
+            <lst name="params">
+               <str name="q">PID:york?851663</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:851663</str>
+               <arr name="dc.creator">
+                  <str>Nagle, Charles</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>I developed this open-ended questionnaire for my dissertation on L2 pronunciation development to collect data on learners' goals for learning Spanish, beliefs on the language learning process, and focus in the language classroom (i.e., what they noticed, attended to, attempted to imitate, etc.).</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:851663</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Attitude questionnaire</str>
+                  <str>Language awareness questionnaire</str>
+                  <str>Learning strategy questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Nagle, Charles</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>I developed this open-ended questionnaire for my dissertation on L2 pronunciation development to collect data on learners' goals for learning Spanish, beliefs on the language learning process, and focus in the language classroom (i.e., what they noticed, attended to, attempted to imitate, etc.).</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:851663</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Attitude questionnaire</str>
+                  <str>Language awareness questionnaire</str>
+                  <str>Learning strategy questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Nagle, Charles</str>
+               </arr>
+               <date name="fgs.createdDate">2015-03-02T00:17:33.551Z</date>
+               <date name="fgs.dateCreated.sort">2015-03-02T00:17:33.551Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-08T14:48:31.98Z</date>
+               <str name="fgs.ownerId"> iris-2bebb2e4-49e3-4b98-8264-977db1dea2d8</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>cln22@georgetown.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Nagle, Charles</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Open response</str>
+                  <str>Qualitative</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language awareness questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Learning strategy questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Other questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">attitude questionnaire attitude questionnaire  language awareness questionnaire language awareness questionnaire  learning strategy questionnaire learning strategy questionnaire learner strategy questionnaire other questionnaire questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">I developed this open-ended questionnaire for my dissertation on L2 pronunciation development to collect data on learners' goals for learning Spanish, beliefs on the language learning process, and focus in the language classroom (i.e., what they noticed, attended to, attempted to imitate, etc.).</str>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Attitude questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Learner attitudes</str>
+                  <str>Learner strategies</str>
+                  <str>Motivation</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Language awareness questionnaire</str>
+                  <str>Questionnaire &gt; Learning strategy questionnaire</str>
+                  <str>Questionnaire &gt; Other questionnaire</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>Academic</str>
+                  <str>Higher Education</str>
+                  <str>School - language instruction only</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Near beginner</str>
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Nagle_A longitudinal study on the roles of lexical stress and motivation in the perception and production of L2 Spanish stop consonants</str>
+               </arr>
+               <str name="iris.references.allauthors">Nagle (2014)</str>
+               <arr name="iris.references.author">
+                  <str>Nagle, Charles</str>
+               </arr>
+               <str name="iris.references.author.lastnames">nagle</str>
+               <arr name="iris.references.author.noack">
+                  <str>Nagle, Charles</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>cln22@georgetown.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Nagle, Charles</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Open response</str>
+                  <str>Qualitative</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language awareness questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Learning strategy questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Other questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">attitude questionnaire attitude questionnaire  language awareness questionnaire language awareness questionnaire  learning strategy questionnaire learning strategy questionnaire learner strategy questionnaire other questionnaire questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Attitude questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Learner attitudes</str>
+                  <str>Learner strategies</str>
+                  <str>Motivation</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Language awareness questionnaire</str>
+                  <str>Questionnaire &gt; Learning strategy questionnaire</str>
+                  <str>Questionnaire &gt; Other questionnaire</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>Academic</str>
+                  <str>Higher Education</str>
+                  <str>School - language instruction only</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Near beginner</str>
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Nagle_A longitudinal study on the roles of lexical stress and motivation in the perception and production of L2 Spanish stop consonants</str>
+               </arr>
+               <str name="iris2.references.allauthors">Nagle (2014)</str>
+               <arr name="iris2.references.author">
+                  <str>Nagle, Charles</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">nagle</str>
+               <arr name="iris2.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str/>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:851663/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

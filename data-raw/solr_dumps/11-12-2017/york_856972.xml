@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:856972">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">478</int>
+            <lst name="params">
+               <str name="q">PID:york?856972</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:856972</str>
+               <arr name="dc.creator">
+                  <str>Hanssen, Esther</str>
+                  <str>Versloot, Arjen</str>
+                  <str>Hoekstra, Eric</str>
+                  <str>Banga, Arina</str>
+                  <str>Neijt, Anneke</str>
+                  <str>Schreuder, Robert</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2012</str>
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The records for the picture naming task and questionnaire used in this study are linked on IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:856972</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Biographical questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Hanssen, Esther</str>
+                  <str>Versloot, Arjen</str>
+                  <str>Hoekstra, Eric</str>
+                  <str>Banga, Arina</str>
+                  <str>Neijt, Anneke</str>
+                  <str>Schreuder, Robert</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2012</str>
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The records for the picture naming task and questionnaire used in this study are linked on IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:856972</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Biographical questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Hanssen, Esther</str>
+                  <str>Versloot, Arjen</str>
+                  <str>Hoekstra, Eric</str>
+                  <str>Banga, Arina</str>
+                  <str>Neijt, Anneke</str>
+                  <str>Schreuder, Robert</str>
+               </arr>
+               <date name="fgs.createdDate">2015-11-22T14:34:37.727Z</date>
+               <date name="fgs.dateCreated.sort">2015-11-22T14:34:37.727Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2015-11-22T14:48:26.358Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>ejm.hanssen@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Hanssen, Esther</str>
+                  <str>Versloot, Arjen</str>
+                  <str>Hoekstra, Eric</str>
+                  <str>Banga, Arina</str>
+                  <str>Neijt, Anneke</str>
+                  <str>Schreuder, Robert</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">biographical questionnaire biographical questionnaire  language background questionnaire language background questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Suffixes</str>
+               </arr>
+               <str name="iris.instrument.notes">The records for the picture naming task and questionnaire used in this study are linked on IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Language background questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Cross-linguistic influence</str>
+                  <str>Bilingualism</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Biographical questionnaire</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Frisian</str>
+                  <str>Dutch</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Bilinguals</str>
+                  <str>Adolescent learners</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2012_Hanssen_Banga_Neijt_Schreuder_The similarity of plural endings and linking elements in regional speech variants of Dutch</str>
+                  <str>2015_Hanssen_Versloot_Hoekstra_Banga_Neijt_Schreuder_Morphological variation in the speech of Frisian-Dutch bilinguals: (Dis)similarity of linking suffixes and plural endings</str>
+               </arr>
+               <str name="iris.references.allauthors">Hanssen, Versloot, et al. (2015); </str>
+               <arr name="iris.references.author">
+                  <str>Hanssen, Esther</str>
+                  <str>Banga, Arina</str>
+                  <str>Neijt, Anneke</str>
+                  <str>Schreuder, Robert</str>
+                  <str>Hanssen, Esther</str>
+                  <str>Versloot, Arjen</str>
+                  <str>Hoekstra, Eric</str>
+                  <str>Banga, Arina</str>
+                  <str>Neijt, Anneke</str>
+                  <str>Schreuder, Robert</str>
+               </arr>
+               <str name="iris.references.author.lastnames">hanssenbanganeijtschreuderhanssenversloothoekstrabanganeijtschreuder</str>
+               <arr name="iris.references.author.noack">
+                  <str>Hanssen, Esther</str>
+                  <str>Versloot, Arjen</str>
+                  <str>Hoekstra, Eric</str>
+                  <str>Banga, Arina</str>
+                  <str>Neijt, Anneke</str>
+                  <str>Schreuder, Robert</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Linguistic Approaches to Bilingualism</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2012</str>
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2012</str>
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>ejm.hanssen@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Hanssen, Esther</str>
+                  <str>Versloot, Arjen</str>
+                  <str>Hoekstra, Eric</str>
+                  <str>Banga, Arina</str>
+                  <str>Neijt, Anneke</str>
+                  <str>Schreuder, Robert</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">biographical questionnaire biographical questionnaire  language background questionnaire language background questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Suffixes</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Language background questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Cross-linguistic influence</str>
+                  <str>Bilingualism</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Biographical questionnaire</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Frisian</str>
+                  <str>Dutch</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Bilinguals</str>
+                  <str>Adolescent learners</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2012_Hanssen_Banga_Neijt_Schreuder_The similarity of plural endings and linking elements in regional speech variants of Dutch</str>
+                  <str>2015_Hanssen_Versloot_Hoekstra_Banga_Neijt_Schreuder_Morphological variation in the speech of Frisian-Dutch bilinguals: (Dis)similarity of linking suffixes and plural endings</str>
+               </arr>
+               <str name="iris2.references.allauthors">Hanssen, Versloot, et al. (2015); </str>
+               <arr name="iris2.references.author">
+                  <str>Hanssen, Esther</str>
+                  <str>Banga, Arina</str>
+                  <str>Neijt, Anneke</str>
+                  <str>Schreuder, Robert</str>
+                  <str>Hanssen, Esther</str>
+                  <str>Versloot, Arjen</str>
+                  <str>Hoekstra, Eric</str>
+                  <str>Banga, Arina</str>
+                  <str>Neijt, Anneke</str>
+                  <str>Schreuder, Robert</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">hanssenbanganeijtschreuderhanssenversloothoekstrabanganeijtschreuder</str>
+               <arr name="iris2.references.journal">
+                  <str>Linguistic Approaches to Bilingualism</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2012</str>
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2012</str>
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

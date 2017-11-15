@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:58776">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">466</int>
+            <lst name="params">
+               <str name="q">PID:york?58776</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:58776</str>
+               <arr name="dc.creator">
+                  <str>Cadierno, Teresa</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>1994</str>
+                  <str>2004</str>
+                  <str>2006</str>
+                  <str>1969</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>Not Applicable</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:58776</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Discourse</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Picture description</str>
+                  <str>Narration / Story retelling</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Cadierno, Teresa</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>1994</str>
+                  <str>2004</str>
+                  <str>2006</str>
+                  <str>1969</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>Not Applicable</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:58776</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Discourse</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Picture description</str>
+                  <str>Narration / Story retelling</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Cadierno, Teresa</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Discourse</str>
+               </arr>
+               <date name="fgs.createdDate">2012-02-07T12:07:18.692Z</date>
+               <date name="fgs.dateCreated.sort">2012-02-07T12:07:18.692Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-02T14:27:17.533Z</date>
+               <str name="fgs.ownerId">fedoraAdmin</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>cadierno@language.sdu.dk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>1</str>
+               </arr>
+               <arr name="iris.feedback.email_1">
+                  <str>mihlaya@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.time_1">
+                  <str>9 Jul 2014 13:19:49 GMT</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Cadierno, Teresa</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Oral production</str>
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">picture description picture description  narration / story retelling  narration / story retelling   </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Aspect</str>
+                  <str>Case</str>
+                  <str>Determiners</str>
+                  <str>Gender</str>
+                  <str>Number</str>
+                  <str>Tense</str>
+                  <str>Lexis (vocabulary)</str>
+                  <str>Closed class</str>
+                  <str>Open class</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Picture description</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Discourse</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Narration / Story retelling </str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>First language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>1994_Berman_Slobin_Relating events in narrative: A cross-linguistic developmental study</str>
+                  <str>2004_Cadierno_Expressing motion events in a second language: A cognitive typological perspective</str>
+                  <str>2006_Cadierno_Ruiz_Motion events in Spanish L2 acquisition</str>
+                  <str>1969_Mayer_Frog, where are you</str>
+                  <str>2004_Slobin_The many ways to search for a frog: Linguistic typology and the expression of motion events</str>
+               </arr>
+               <str name="iris.references.allauthors">Berman &amp; Slobin (1994); Cadierno (2004); Cadierno &amp; Ruiz (2006); Slobin (2004)</str>
+               <arr name="iris.references.author">
+                  <str>Berman, R. A.</str>
+                  <str>Slobin, D. I.</str>
+                  <str>Cadierno, Teresa</str>
+                  <str>Cadierno, Teresa</str>
+                  <str>Ruiz, L.</str>
+                  <str>Mayer, Mercer</str>
+                  <str>Slobin, D. I.</str>
+               </arr>
+               <str name="iris.references.author.lastnames">bermanslobincadiernocadiernoruizmayerslobin</str>
+               <arr name="iris.references.author.noack">
+                  <str>Berman, R. A.</str>
+                  <str>Slobin, D. I.</str>
+                  <str>Cadierno, Teresa</str>
+                  <str>Cadierno, Teresa</str>
+                  <str>Ruiz, L.</str>
+                  <str>Slobin, D. I.</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>Expressing motion events in a second language: A cognitive typological perspective</str>
+                  <str>Cognitive linguistics, second language acquisition and foreign language teaching</str>
+                  <str>The many ways to search for a frog: Linguistic typology and the expression of motion events</str>
+                  <str>Relating events in narrative: Typological and contextual perspectives</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Achard, M.</str>
+                  <str>Niemeier, S.</str>
+                  <str>Stromqvist, S.</str>
+                  <str>Verhoeven, L.</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Annual Review of Cognitive Linguistics</str>
+               </arr>
+               <arr name="iris.references.placeOfPublication">
+                  <str>Hillsdale</str>
+                  <str>New York</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>1994</str>
+                  <str>2004</str>
+                  <str>2006</str>
+                  <str>1969</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>1994</str>
+                  <str>2004</str>
+                  <str>2006</str>
+                  <str>1969</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Book</str>
+                  <str>Chapter</str>
+                  <str>Journal Article</str>
+                  <str>Book</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="iris.references.publisher">
+                  <str>Peter Lang</str>
+                  <str>Dial Press</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>cadierno@language.sdu.dk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>1</str>
+               </arr>
+               <arr name="iris2.feedback.email_1">
+                  <str>mihlaya@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.time_1">
+                  <str>9 Jul 2014 13:19:49 GMT</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Cadierno, Teresa</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Oral production</str>
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">picture description picture description  narration / story retelling  narration / story retelling   </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Aspect</str>
+                  <str>Case</str>
+                  <str>Determiners</str>
+                  <str>Gender</str>
+                  <str>Number</str>
+                  <str>Tense</str>
+                  <str>Lexis (vocabulary)</str>
+                  <str>Closed class</str>
+                  <str>Open class</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Picture description</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Discourse</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Narration / Story retelling </str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>First language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>1994_Berman_Slobin_Relating events in narrative: A cross-linguistic developmental study</str>
+                  <str>2004_Cadierno_Expressing motion events in a second language: A cognitive typological perspective</str>
+                  <str>2006_Cadierno_Ruiz_Motion events in Spanish L2 acquisition</str>
+                  <str>1969_Mayer_Frog, where are you</str>
+                  <str>2004_Slobin_The many ways to search for a frog: Linguistic typology and the expression of motion events</str>
+               </arr>
+               <str name="iris2.references.allauthors">Berman &amp; Slobin (1994); Cadierno (2004); Cadierno &amp; Ruiz (2006); Slobin (2004)</str>
+               <arr name="iris2.references.author">
+                  <str>Berman, R. A.</str>
+                  <str>Slobin, D. I.</str>
+                  <str>Cadierno, Teresa</str>
+                  <str>Cadierno, Teresa</str>
+                  <str>Ruiz, L.</str>
+                  <str>Mayer, Mercer</str>
+                  <str>Slobin, D. I.</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">bermanslobincadiernocadiernoruizmayerslobin</str>
+               <arr name="iris2.references.booktitle">
+                  <str>Expressing motion events in a second language: A cognitive typological perspective</str>
+                  <str>Cognitive linguistics, second language acquisition and foreign language teaching</str>
+                  <str>The many ways to search for a frog: Linguistic typology and the expression of motion events</str>
+                  <str>Relating events in narrative: Typological and contextual perspectives</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Achard, M.</str>
+                  <str>Niemeier, S.</str>
+                  <str>Stromqvist, S.</str>
+                  <str>Verhoeven, L.</str>
+               </arr>
+               <arr name="iris2.references.journal">
+                  <str>Annual Review of Cognitive Linguistics</str>
+               </arr>
+               <arr name="iris2.references.placeOfPublication">
+                  <str>Hillsdale</str>
+                  <str>New York</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>1994</str>
+                  <str>2004</str>
+                  <str>2006</str>
+                  <str>1969</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>1994</str>
+                  <str>2004</str>
+                  <str>2006</str>
+                  <str>1969</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2006</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Book</str>
+                  <str>Chapter</str>
+                  <str>Journal Article</str>
+                  <str>Book</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="iris2.references.publisher">
+                  <str>Peter Lang</str>
+                  <str>Dial Press</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:58776/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

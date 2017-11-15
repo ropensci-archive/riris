@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:808270">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">565</int>
+            <lst name="params">
+               <str name="q">PID:york?808270</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:808270</str>
+               <arr name="dc.creator">
+                  <str>Myles, Florence</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2003</str>
+                  <str>2004</str>
+                  <str>2005</str>
+                  <str>2007</str>
+                  <str>2008</str>
+                  <str>1998</str>
+                  <str>1999</str>
+                  <str>2004</str>
+                  <str>2003</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>Please see also http://www.flloc.soton.ac.uk</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>Not Applicable</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:808270</str>
+               </arr>
+               <str name="dc.title">Street scene information gap task</str>
+               <str name="dc.title.sort">Street scene information gap task</str>
+               <arr name="dc.type">
+                  <str>Information exchange tasks</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture spot the difference</str>
+                  <str>Information gap tasks (e.g. spot difference, map task)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Myles, Florence</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2003</str>
+                  <str>2004</str>
+                  <str>2005</str>
+                  <str>2007</str>
+                  <str>2008</str>
+                  <str>1998</str>
+                  <str>1999</str>
+                  <str>2004</str>
+                  <str>2003</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>Please see also http://www.flloc.soton.ac.uk</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>Not Applicable</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:808270</str>
+               </arr>
+               <str name="dc2.title">Street scene information gap task</str>
+               <arr name="dc2.type">
+                  <str>Information exchange tasks</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture spot the difference</str>
+                  <str>Information gap tasks (e.g. spot difference, map task)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Myles, Florence</str>
+               </arr>
+               <str name="dc3.title">Street scene information gap task</str>
+               <date name="fgs.createdDate">2013-01-28T16:09:55.299Z</date>
+               <date name="fgs.dateCreated.sort">2013-01-28T16:09:55.299Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-08-31T15:34:04.242Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>fmyles@essex.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Myles, Florence</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Oral production</str>
+                  <str>Oral comprehension</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>Arts and Humanities Research Council (AHRC)</str>
+                  <str>Economic and Social Research Council (ESRC)</str>
+                  <str>British Academy</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Communicative / Interactive task</str>
+                  <str>Information exchange</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture spot the difference</str>
+                  <str>Communicative / Interactive task</str>
+                  <str>Information gap</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">information exchange information exchange tasks  speaking test / oral production test speaking test / oral production test oral test picture spot the difference picture spot the difference  information gap information gap tasks (e.g. spot difference, map task)  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Aspect</str>
+                  <str>Case</str>
+                  <str>Determiners</str>
+                  <str>Gender</str>
+                  <str>Number</str>
+                  <str>Tense</str>
+               </arr>
+               <str name="iris.instrument.notes">Please see also http://www.flloc.soton.ac.uk</str>
+               <str name="iris.instrument.primaryInstrumentType">Communicative / Interactive task &gt; Information gap</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Complexity</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Formulaic sequences</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Communicative / Interactive task &gt; Information exchange</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Speaking test / Oral production test &gt; Picture spot the difference</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Street scene information gap task</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Near beginner</str>
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2003_Marsden_Myles_Rule_Mitchell_Using CHILDES tools for researching second language acquisition</str>
+                  <str>2004_Myles_From data to theory: The over-representation of linguistic knowledge in SLA</str>
+                  <str>2005_Myles_Interlanguage corpora and second language acquisition research</str>
+                  <str>2007_Myles_Using electronic corpora in SLA research</str>
+                  <str>2008_Myles_Investigating learner language development with electronic longitudinal corpora: Theoretical and methodological issues</str>
+                  <str>1998_Myles_Hooper_Mitchell_Rote or rule: Exploring the role of formulaic language in classroom foreign language learning</str>
+                  <str>1999_Myles_Mitchell_Hooper_Interrogative chunks in French L2: A basis for creative construction?</str>
+                  <str>2004_Rule_French interlanguage corpora: Recent developments</str>
+                  <str>2003_Rule_Marsden_Myles_Mitchell_Constructing a database of French interlanguage oral corpora</str>
+               </arr>
+               <str name="iris.references.allauthors">Marsden, Myles, et al. (2003); Myles (2004); Myles (2005); Myles (2007); Myles (2008); Myles, Hooper, et al. (1998); Myles, Mitchell, et al. (1999); Rule (2004); Rule, Marsden, et al. (2003)</str>
+               <arr name="iris.references.author">
+                  <str>Marsden, Emma</str>
+                  <str>Myles, Florence</str>
+                  <str>Rule, Sarah</str>
+                  <str>Mitchell, Rosamond</str>
+                  <str>Myles, Florence</str>
+                  <str>Myles, Florence</str>
+                  <str>Myles, Florence</str>
+                  <str>Myles, Florence</str>
+                  <str>Myles, Florence</str>
+                  <str>Hooper, J.</str>
+                  <str>Mitchell, Rosamond</str>
+                  <str>Myles, Florence</str>
+                  <str>Mitchell, Rosamond</str>
+                  <str>Hooper, J.</str>
+                  <str>Rule, Sarah</str>
+                  <str>Rule, Sarah</str>
+                  <str>Marsden, Emma</str>
+                  <str>Myles, Florence</str>
+                  <str>Mitchell, Rosamond</str>
+               </arr>
+               <str name="iris.references.author.lastnames">marsdenmylesrulemitchellmylesmylesmylesmylesmyleshoopermitchellmylesmitchellhooperrulerulemarsdenmylesmitchell</str>
+               <arr name="iris.references.author.noack">
+                  <str>Marsden, Emma</str>
+                  <str>Myles, Florence</str>
+                  <str>Rule, Sarah</str>
+                  <str>Mitchell, Rosamond</str>
+                  <str>Myles, Florence</str>
+                  <str>Myles, Florence</str>
+                  <str>Myles, Florence</str>
+                  <str>Myles, Florence</str>
+                  <str>Myles, Florence</str>
+                  <str>Hooper, J.</str>
+                  <str>Mitchell, Rosamond</str>
+                  <str>Myles, Florence</str>
+                  <str>Mitchell, Rosamond</str>
+                  <str>Hooper, J.</str>
+                  <str>Rule, Sarah</str>
+                  <str>Rule, Sarah</str>
+                  <str>Marsden, Emma</str>
+                  <str>Myles, Florence</str>
+                  <str>Mitchell, Rosamond</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>Using electronic corpora in SLA research</str>
+                  <str>Handbook of French applied linguistics</str>
+                  <str>Investigating learner language development with electronic longitudinal corpora: Theoretical and methodological issues</str>
+                  <str>The longitudinal study of advanced L2 capacities</str>
+               </arr>
+               <arr name="iris.references.conferenceName">
+                  <str>Applied Linguistics and Communities of Practice, Vol 18 (BAAL / Continuum)</str>
+                  <str>Proceedings of the Corpus Linguistics Conference, UCREL Technical Papers 16, University of Lancaster</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Sarangi, Srikant</str>
+                  <str>Van Leeuwen, Theo</str>
+                  <str>Ayoun, D</str>
+                  <str>Ortega, Lourdes</str>
+                  <str>Byrnes, Heidi</str>
+                  <str>Archer, D</str>
+                  <str>Rayson, P</str>
+                  <str>Wilson, E</str>
+                  <str>McEnery, T</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Transactions of the Philological Society</str>
+                  <str>Second Language Research</str>
+                  <str>Language Learning</str>
+                  <str>Studies in Second Language Acquisition</str>
+                  <str>Journal of French Language Studies</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2003</str>
+                  <str>2004</str>
+                  <str>2005</str>
+                  <str>2007</str>
+                  <str>2008</str>
+                  <str>1998</str>
+                  <str>1999</str>
+                  <str>2004</str>
+                  <str>2003</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2003</str>
+                  <str>2004</str>
+                  <str>2005</str>
+                  <str>2007</str>
+                  <str>2008</str>
+                  <str>1998</str>
+                  <str>1999</str>
+                  <str>2004</str>
+                  <str>2003</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Proceedings</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+                  <str>Chapter</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Proceedings</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>fmyles@essex.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Myles, Florence</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Oral production</str>
+                  <str>Oral comprehension</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>Arts and Humanities Research Council (AHRC)</str>
+                  <str>Economic and Social Research Council (ESRC)</str>
+                  <str>British Academy</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Communicative / Interactive task</str>
+                  <str>Information exchange</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture spot the difference</str>
+                  <str>Communicative / Interactive task</str>
+                  <str>Information gap</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">information exchange information exchange tasks  speaking test / oral production test speaking test / oral production test oral test picture spot the difference picture spot the difference  information gap information gap tasks (e.g. spot difference, map task)  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Aspect</str>
+                  <str>Case</str>
+                  <str>Determiners</str>
+                  <str>Gender</str>
+                  <str>Number</str>
+                  <str>Tense</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Communicative / Interactive task &gt; Information gap</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Complexity</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Formulaic sequences</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Communicative / Interactive task &gt; Information exchange</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Speaking test / Oral production test &gt; Picture spot the difference</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Near beginner</str>
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2003_Marsden_Myles_Rule_Mitchell_Using CHILDES tools for researching second language acquisition</str>
+                  <str>2004_Myles_From data to theory: The over-representation of linguistic knowledge in SLA</str>
+                  <str>2005_Myles_Interlanguage corpora and second language acquisition research</str>
+                  <str>2007_Myles_Using electronic corpora in SLA research</str>
+                  <str>2008_Myles_Investigating learner language development with electronic longitudinal corpora: Theoretical and methodological issues</str>
+                  <str>1998_Myles_Hooper_Mitchell_Rote or rule: Exploring the role of formulaic language in classroom foreign language learning</str>
+                  <str>1999_Myles_Mitchell_Hooper_Interrogative chunks in French L2: A basis for creative construction?</str>
+                  <str>2004_Rule_French interlanguage corpora: Recent developments</str>
+                  <str>2003_Rule_Marsden_Myles_Mitchell_Constructing a database of French interlanguage oral corpora</str>
+               </arr>
+               <str name="iris2.references.allauthors">Marsden, Myles, et al. (2003); Myles (2004); Myles (2005); Myles (2007); Myles (2008); Myles, Hooper, et al. (1998); Myles, Mitchell, et al. (1999); Rule (2004); Rule, Marsden, et al. (2003)</str>
+               <arr name="iris2.references.author">
+                  <str>Marsden, Emma</str>
+                  <str>Myles, Florence</str>
+                  <str>Rule, Sarah</str>
+                  <str>Mitchell, Rosamond</str>
+                  <str>Myles, Florence</str>
+                  <str>Myles, Florence</str>
+                  <str>Myles, Florence</str>
+                  <str>Myles, Florence</str>
+                  <str>Myles, Florence</str>
+                  <str>Hooper, J.</str>
+                  <str>Mitchell, Rosamond</str>
+                  <str>Myles, Florence</str>
+                  <str>Mitchell, Rosamond</str>
+                  <str>Hooper, J.</str>
+                  <str>Rule, Sarah</str>
+                  <str>Rule, Sarah</str>
+                  <str>Marsden, Emma</str>
+                  <str>Myles, Florence</str>
+                  <str>Mitchell, Rosamond</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">marsdenmylesrulemitchellmylesmylesmylesmylesmyleshoopermitchellmylesmitchellhooperrulerulemarsdenmylesmitchell</str>
+               <arr name="iris2.references.booktitle">
+                  <str>Using electronic corpora in SLA research</str>
+                  <str>Handbook of French applied linguistics</str>
+                  <str>Investigating learner language development with electronic longitudinal corpora: Theoretical and methodological issues</str>
+                  <str>The longitudinal study of advanced L2 capacities</str>
+               </arr>
+               <arr name="iris2.references.conferenceName">
+                  <str>Applied Linguistics and Communities of Practice, Vol 18 (BAAL / Continuum)</str>
+                  <str>Proceedings of the Corpus Linguistics Conference, UCREL Technical Papers 16, University of Lancaster</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Sarangi, Srikant</str>
+                  <str>Van Leeuwen, Theo</str>
+                  <str>Ayoun, D</str>
+                  <str>Ortega, Lourdes</str>
+                  <str>Byrnes, Heidi</str>
+                  <str>Archer, D</str>
+                  <str>Rayson, P</str>
+                  <str>Wilson, E</str>
+                  <str>McEnery, T</str>
+               </arr>
+               <arr name="iris2.references.journal">
+                  <str>Transactions of the Philological Society</str>
+                  <str>Second Language Research</str>
+                  <str>Language Learning</str>
+                  <str>Studies in Second Language Acquisition</str>
+                  <str>Journal of French Language Studies</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2003</str>
+                  <str>2004</str>
+                  <str>2005</str>
+                  <str>2007</str>
+                  <str>2008</str>
+                  <str>1998</str>
+                  <str>1999</str>
+                  <str>2004</str>
+                  <str>2003</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2003</str>
+                  <str>2004</str>
+                  <str>2005</str>
+                  <str>2007</str>
+                  <str>2008</str>
+                  <str>1998</str>
+                  <str>1999</str>
+                  <str>2004</str>
+                  <str>2003</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Proceedings</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+                  <str>Chapter</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Proceedings</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:808270/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:808270/asset/INSTRUMENT1?download=true"/>
+   </files>
+</record>

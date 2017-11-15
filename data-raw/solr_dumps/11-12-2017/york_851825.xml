@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:851825">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">471</int>
+            <lst name="params">
+               <str name="q">PID:york?851825</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:851825</str>
+               <arr name="dc.creator">
+                  <str>Ren, Wei</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2014</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The multimedia elicitation tasks (MET) and retrospective verbal report task (RVR) used in this study are linked in IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:851825</str>
+               </arr>
+               <str name="dc.title">Multimedia elicitation tasks</str>
+               <str name="dc.title.sort">Multimedia elicitation tasks</str>
+               <arr name="dc.type">
+                  <str>Discourse completion task</str>
+                  <str>Other</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Ren, Wei</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2014</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The multimedia elicitation tasks (MET) and retrospective verbal report task (RVR) used in this study are linked in IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:851825</str>
+               </arr>
+               <str name="dc2.title">Multimedia elicitation tasks</str>
+               <arr name="dc2.type">
+                  <str>Discourse completion task</str>
+                  <str>Other</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Ren, Wei</str>
+               </arr>
+               <str name="dc3.title">Multimedia elicitation tasks</str>
+               <date name="fgs.createdDate">2015-03-13T13:31:49.543Z</date>
+               <date name="fgs.dateCreated.sort">2015-03-13T13:31:49.543Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-25T01:25:19.429Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>renweixz@yahoo.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Ren, Wei</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Discourse completion task</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Other speaking test / oral production test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">discourse completion task discourse completion task  other speaking test / oral production test other speaking test / oral production test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The multimedia elicitation tasks (MET) and retrospective verbal report task (RVR) used in this study are linked in IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Discourse completion task</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Discourse</str>
+                  <str>Learner strategies</str>
+                  <str>Pragmatic competence</str>
+                  <str>Speaking / Oral production</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Other speaking test / oral production test</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Multimedia elicitation tasks</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Chinese</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str/>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2014_Ren_A longitudinal investigation into L2 learners' cognitive processes during study abroad</str>
+               </arr>
+               <str name="iris.references.allauthors">Ren (2014)</str>
+               <arr name="iris.references.author">
+                  <str>Ren, Wei</str>
+               </arr>
+               <str name="iris.references.author.lastnames">ren</str>
+               <arr name="iris.references.author.noack">
+                  <str>Ren, Wei</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Applied Linguistics</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>renweixz@yahoo.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Ren, Wei</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Discourse completion task</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Other speaking test / oral production test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">discourse completion task discourse completion task  other speaking test / oral production test other speaking test / oral production test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Discourse completion task</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Discourse</str>
+                  <str>Learner strategies</str>
+                  <str>Pragmatic competence</str>
+                  <str>Speaking / Oral production</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Other speaking test / oral production test</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Chinese</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str/>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2014_Ren_A longitudinal investigation into L2 learners' cognitive processes during study abroad</str>
+               </arr>
+               <str name="iris2.references.allauthors">Ren (2014)</str>
+               <arr name="iris2.references.author">
+                  <str>Ren, Wei</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">ren</str>
+               <arr name="iris2.references.journal">
+                  <str>Applied Linguistics</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:851825/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:851825/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/vnd.openxmlformats-officedocument.presentationml.presentation" url="https://www.iris-database.org/iris/api/resource/york:851825/asset/INSTRUMENT2?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:815154">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">628</int>
+            <lst name="params">
+               <str name="q">PID:york?815154</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:815154</str>
+               <arr name="dc.creator">
+                  <str>Kopeckova, Romana</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2011</str>
+                  <str>2012</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Acquisition</str>
+               </arr>
+               <str name="dc.title">Language Background Questionnaire: Polish Children and Adults in Ireland</str>
+               <str name="dc.title.sort">Language Background Questionnaire: Polish Children and Adults in Ireland</str>
+               <arr name="dc.type">
+                  <str>Attitude questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Proficiency questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Kopeckova, Romana</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2011</str>
+                  <str>2012</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Acquisition</str>
+               </arr>
+               <str name="dc2.title">Language Background Questionnaire: Polish Children and Adults in Ireland</str>
+               <arr name="dc2.type">
+                  <str>Attitude questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Proficiency questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Kopeckova, Romana</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Acquisition</str>
+               </arr>
+               <str name="dc3.title">Language Background Questionnaire: Polish Children and Adults in Ireland</str>
+               <date name="fgs.createdDate">2013-08-18T12:26:39.277Z</date>
+               <date name="fgs.dateCreated.sort">2013-08-18T12:26:39.277Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-08-13T14:40:20.17Z</date>
+               <str name="fgs.ownerId">iris-d52dc5f1-3127-407b-9f63-8d3dd6277a48</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>kopeckor@tcd.ie</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Kopeckova, Romana</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Closed response format</str>
+                  <str>Open response</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>Irish Research Council for Humanities and Social Sciences</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Proficiency questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">attitude questionnaire attitude questionnaire  biographical questionnaire biographical questionnaire  language background questionnaire language background questionnaire  proficiency questionnaire proficiency questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Language background questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Attitude questionnaire</str>
+                  <str>Questionnaire &gt; Biographical questionnaire</str>
+                  <str>Questionnaire &gt; Proficiency questionnaire</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Language Background Questionnaire: Polish Children and Adults in Ireland</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Polish</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2011_Kopeckova_Achievements and perspectives in SLA of speech: New Sounds 2010, volume II</str>
+                  <str>2012_Kopeckova_Differences in L2 segmental perception: The effects of age and L2 experience</str>
+                  <str>2013_Kopeckova_Segmental acquisition in Polish child and adult learners in Ireland</str>
+               </arr>
+               <str name="iris.references.allauthors">Kopeckova (2011); Kopeckova (2012); Kopeckova (2013)</str>
+               <arr name="iris.references.author">
+                  <str>Kopeckova, Romana</str>
+                  <str>Kopeckova, Romana</str>
+                  <str>Kopeckova, Romana</str>
+               </arr>
+               <str name="iris.references.author.lastnames">kopeckovakopeckovakopeckova</str>
+               <arr name="iris.references.author.noack">
+                  <str>Kopeckova, Romana</str>
+                  <str>Kopeckova, Romana</str>
+                  <str>Kopeckova, Romana</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>Differences in L2 segmental perception: The effects of age and L2 experience</str>
+                  <str>Intensive exposure experiences in second language learning</str>
+                  <str>Segmental acquisition in Polish child and adult learners in Ireland</str>
+                  <str>Linguistic and cultural acquisition in a migrant community</str>
+               </arr>
+               <arr name="iris.references.conferenceName">
+                  <str>New Sounds 2010</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Muñoz, Carmen</str>
+                  <str>Singleton, David</str>
+                  <str>Regan, Vera</str>
+                  <str>Debaene, Ewelina</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2011</str>
+                  <str>2012</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2011</str>
+                  <str>2012</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Proceedings</str>
+                  <str>Chapter</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>kopeckor@tcd.ie</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Kopeckova, Romana</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Closed response format</str>
+                  <str>Open response</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>Irish Research Council for Humanities and Social Sciences</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Proficiency questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">attitude questionnaire attitude questionnaire  biographical questionnaire biographical questionnaire  language background questionnaire language background questionnaire  proficiency questionnaire proficiency questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Language background questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Attitude questionnaire</str>
+                  <str>Questionnaire &gt; Biographical questionnaire</str>
+                  <str>Questionnaire &gt; Proficiency questionnaire</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Polish</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2011_Kopeckova_Achievements and perspectives in SLA of speech: New Sounds 2010, volume II</str>
+                  <str>2012_Kopeckova_Differences in L2 segmental perception: The effects of age and L2 experience</str>
+                  <str>2013_Kopeckova_Segmental acquisition in Polish child and adult learners in Ireland</str>
+               </arr>
+               <str name="iris2.references.allauthors">Kopeckova (2011); Kopeckova (2012); Kopeckova (2013)</str>
+               <arr name="iris2.references.author">
+                  <str>Kopeckova, Romana</str>
+                  <str>Kopeckova, Romana</str>
+                  <str>Kopeckova, Romana</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">kopeckovakopeckovakopeckova</str>
+               <arr name="iris2.references.booktitle">
+                  <str>Differences in L2 segmental perception: The effects of age and L2 experience</str>
+                  <str>Intensive exposure experiences in second language learning</str>
+                  <str>Segmental acquisition in Polish child and adult learners in Ireland</str>
+                  <str>Linguistic and cultural acquisition in a migrant community</str>
+               </arr>
+               <arr name="iris2.references.conferenceName">
+                  <str>New Sounds 2010</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Muñoz, Carmen</str>
+                  <str>Singleton, David</str>
+                  <str>Regan, Vera</str>
+                  <str>Debaene, Ewelina</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2011</str>
+                  <str>2012</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2011</str>
+                  <str>2012</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Proceedings</str>
+                  <str>Chapter</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:815154/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:815154/asset/INSTRUMENT1?download=true"/>
+   </files>
+</record>

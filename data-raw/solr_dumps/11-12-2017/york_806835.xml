@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:806835">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">551</int>
+            <lst name="params">
+               <str name="q">PID:york?806835</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:806835</str>
+               <arr name="dc.creator">
+                  <str>Woore, Robert</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2009</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>This test is designed to measure phonological decoding (or "recoding") in L2 French, understood as the sub-lexical process of converting written symbols into sounds using knowledge of the language's spelling-sound correspondences. The four different versions of the test each contain the same items, but in different orders. The test was designed for beginner learners of French in English secondary schools (age 11-13). It uses words which are likely to be unknown to learners from the target population. This is argued to give the test good face validity (i.e. it is likely that participants are unable to retrieve pre-stored phonological forms for the target words and are unable to sight-recognize the items). The items in the test were selected to provide three or more examples of each of a range of French graphemes. Items are also of similar phonological and graphic length (all are bisyllables with 6-8 letters; almost all contain 4-6 graphemes). Words resembling English words, in whole or in part, were also avoided as far as possible. The use of real French words - rather than pseudowords, which would have allowed the target graphemes to be covered using a smaller set of test items - was chosen on ethical-pedagogical grounds as well for reasons of test validity (see Papagno, Valentine and Baddeley, 1991). However, this does introduce some potentially confounding variables which could not be controlled for. Note that the test has been slightly updated from the version used in the article cited: following further piloting, one item has been replaced and some others re-ordered, to increase test validity.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:806835</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Phonological decoding / recoding</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Reading aloud / Word naming test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Woore, Robert</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2009</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>This test is designed to measure phonological decoding (or "recoding") in L2 French, understood as the sub-lexical process of converting written symbols into sounds using knowledge of the language's spelling-sound correspondences. The four different versions of the test each contain the same items, but in different orders. The test was designed for beginner learners of French in English secondary schools (age 11-13). It uses words which are likely to be unknown to learners from the target population. This is argued to give the test good face validity (i.e. it is likely that participants are unable to retrieve pre-stored phonological forms for the target words and are unable to sight-recognize the items). The items in the test were selected to provide three or more examples of each of a range of French graphemes. Items are also of similar phonological and graphic length (all are bisyllables with 6-8 letters; almost all contain 4-6 graphemes). Words resembling English words, in whole or in part, were also avoided as far as possible. The use of real French words - rather than pseudowords, which would have allowed the target graphemes to be covered using a smaller set of test items - was chosen on ethical-pedagogical grounds as well for reasons of test validity (see Papagno, Valentine and Baddeley, 1991). However, this does introduce some potentially confounding variables which could not be controlled for. Note that the test has been slightly updated from the version used in the article cited: following further piloting, one item has been replaced and some others re-ordered, to increase test validity.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:806835</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Phonological decoding / recoding</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Reading aloud / Word naming test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Woore, Robert</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Phonological decoding / recoding</str>
+               </arr>
+               <date name="fgs.createdDate">2012-10-31T21:44:51.949Z</date>
+               <date name="fgs.dateCreated.sort">2012-10-31T21:44:51.949Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-05T20:36:58.352Z</date>
+               <str name="fgs.ownerId">iris-3674f55a-ae2e-445d-bbc4-cc0710485bf4</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>robert.woore@education.ox.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Woore, Robert</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Reading test</str>
+                  <str>Reading aloud / Word naming test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">reading aloud / word naming test reading aloud / word naming test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">This test is designed to measure phonological decoding (or "recoding") in L2 French, understood as the sub-lexical process of converting written symbols into sounds using knowledge of the language's spelling-sound correspondences. The four different versions of the test each contain the same items, but in different orders. The test was designed for beginner learners of French in English secondary schools (age 11-13). It uses words which are likely to be unknown to learners from the target population. This is argued to give the test good face validity (i.e. it is likely that participants are unable to retrieve pre-stored phonological forms for the target words and are unable to sight-recognize the items). The items in the test were selected to provide three or more examples of each of a range of French graphemes. Items are also of similar phonological and graphic length (all are bisyllables with 6-8 letters; almost all contain 4-6 graphemes). Words resembling English words, in whole or in part, were also avoided as far as possible. The use of real French words - rather than pseudowords, which would have allowed the target graphemes to be covered using a smaller set of test items - was chosen on ethical-pedagogical grounds as well for reasons of test validity (see Papagno, Valentine and Baddeley, 1991). However, this does introduce some potentially confounding variables which could not be controlled for. Note that the test has been slightly updated from the version used in the article cited: following further piloting, one item has been replaced and some others re-ordered, to increase test validity.</str>
+               <str name="iris.instrument.primaryInstrumentType">Reading test &gt; Reading aloud / Word naming test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Phonological decoding / recoding</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Near beginner</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2009_Woore_Beginners' progress in decoding L2 French: Some longitudinal evidence</str>
+               </arr>
+               <str name="iris.references.allauthors">Woore (2009)</str>
+               <arr name="iris.references.author">
+                  <str>Woore, Robert</str>
+               </arr>
+               <str name="iris.references.author.lastnames">woore</str>
+               <arr name="iris.references.author.noack">
+                  <str>Woore, Robert</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>The Language Learning Journal</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>robert.woore@education.ox.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Woore, Robert</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Reading test</str>
+                  <str>Reading aloud / Word naming test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">reading aloud / word naming test reading aloud / word naming test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Reading test &gt; Reading aloud / Word naming test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Phonological decoding / recoding</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Near beginner</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2009_Woore_Beginners' progress in decoding L2 French: Some longitudinal evidence</str>
+               </arr>
+               <str name="iris2.references.allauthors">Woore (2009)</str>
+               <arr name="iris2.references.author">
+                  <str>Woore, Robert</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">woore</str>
+               <arr name="iris2.references.journal">
+                  <str>The Language Learning Journal</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:806835/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:806835/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:806835/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:806835/asset/INSTRUMENT3?download=true"/>
+   </files>
+</record>

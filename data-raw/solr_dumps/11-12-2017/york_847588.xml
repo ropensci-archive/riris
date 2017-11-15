@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:847588">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">543</int>
+            <lst name="params">
+               <str name="q">PID:york?847588</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:847588</str>
+               <arr name="dc.creator">
+                  <str>Sekerina, Irina A.</str>
+                  <str>Sauermann, Antje</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The pictures used in this task are available to be downloaded with their corresponding sentences (doc. files) or as an image file alone (jpg files). The sentences used (Russian and English) are available in the article.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:847588</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Picture matching test</str>
+                  <str>Picture pointing task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Sekerina, Irina A.</str>
+                  <str>Sauermann, Antje</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The pictures used in this task are available to be downloaded with their corresponding sentences (doc. files) or as an image file alone (jpg files). The sentences used (Russian and English) are available in the article.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:847588</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Picture matching test</str>
+                  <str>Picture pointing task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Sekerina, Irina A.</str>
+                  <str>Sauermann, Antje</str>
+               </arr>
+               <date name="fgs.createdDate">2015-01-28T02:26:04.743Z</date>
+               <date name="fgs.dateCreated.sort">2015-01-28T02:26:04.743Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-25T10:32:37.243Z</date>
+               <str name="fgs.ownerId">iris-b2e4ce16-1ffc-48f3-b995-f24dbb3c6cbd</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>irina.sekerina@csi.cuny.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Sekerina, Irina A.</str>
+                  <str>Sauermann, Antje</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Picture matching test</str>
+                  <str>Picture pointing task</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">picture matching test picture matching test  picture pointing task picture pointing task  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Quantifier</str>
+                  <str>Semantics</str>
+               </arr>
+               <str name="iris.instrument.notes">The pictures used in this task are available to be downloaded with their corresponding sentences (doc. files) or as an image file alone (jpg files). The sentences used (Russian and English) are available in the article.</str>
+               <str name="iris.instrument.primaryInstrumentType">Picture matching test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Bilingualism</str>
+                  <str>Community or heritage languages</str>
+                  <str>Comprehension</str>
+                  <str>Sentence processing</str>
+                  <str>Pragmatic competence</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Picture pointing task</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str/>
+                  <str>Monolinguals</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Sekerina_Sauermann_Visual Attention and Quantifier-Spreading in Heritage Russian Bilinguals</str>
+               </arr>
+               <str name="iris.references.allauthors">Sekerina &amp; Sauermann (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Sekerina, Irina A.</str>
+                  <str>Sauermann, Antje</str>
+               </arr>
+               <str name="iris.references.author.lastnames">sekerinasauermann</str>
+               <arr name="iris.references.author.noack">
+                  <str>Sekerina, Irina A.</str>
+                  <str>Sauermann, Antje</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Second Language Research</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>irina.sekerina@csi.cuny.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Sekerina, Irina A.</str>
+                  <str>Sauermann, Antje</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Picture matching test</str>
+                  <str>Picture pointing task</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">picture matching test picture matching test  picture pointing task picture pointing task  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Quantifier</str>
+                  <str>Semantics</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Picture matching test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Bilingualism</str>
+                  <str>Community or heritage languages</str>
+                  <str>Comprehension</str>
+                  <str>Sentence processing</str>
+                  <str>Pragmatic competence</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Picture pointing task</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str/>
+                  <str>Monolinguals</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Sekerina_Sauermann_Visual Attention and Quantifier-Spreading in Heritage Russian Bilinguals</str>
+               </arr>
+               <str name="iris2.references.allauthors">Sekerina &amp; Sauermann (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Sekerina, Irina A.</str>
+                  <str>Sauermann, Antje</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">sekerinasauermann</str>
+               <arr name="iris2.references.journal">
+                  <str>Second Language Research</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT3?download=true"/>
+      <file id="INSTRUMENT4" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT4?download=true"/>
+      <file id="INSTRUMENT5" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT5?download=true"/>
+      <file id="INSTRUMENT6" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT6?download=true"/>
+      <file id="INSTRUMENT7" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT7?download=true"/>
+      <file id="INSTRUMENT8" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT8?download=true"/>
+      <file id="INSTRUMENT9" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT9?download=true"/>
+      <file id="INSTRUMENT10" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT10?download=true"/>
+      <file id="INSTRUMENT11" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT11?download=true"/>
+      <file id="INSTRUMENT12" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT12?download=true"/>
+      <file id="INSTRUMENT13" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT13?download=true"/>
+      <file id="INSTRUMENT14" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT14?download=true"/>
+      <file id="INSTRUMENT15" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT15?download=true"/>
+      <file id="INSTRUMENT16" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT16?download=true"/>
+      <file id="INSTRUMENT17" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT17?download=true"/>
+      <file id="INSTRUMENT18" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT18?download=true"/>
+      <file id="INSTRUMENT19" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT19?download=true"/>
+      <file id="INSTRUMENT20" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT20?download=true"/>
+      <file id="INSTRUMENT21" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT21?download=true"/>
+      <file id="INSTRUMENT22" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT22?download=true"/>
+      <file id="INSTRUMENT23" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT23?download=true"/>
+      <file id="INSTRUMENT24" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT24?download=true"/>
+      <file id="INSTRUMENT25" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT25?download=true"/>
+      <file id="INSTRUMENT26" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT26?download=true"/>
+      <file id="INSTRUMENT27" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT27?download=true"/>
+      <file id="INSTRUMENT28" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT28?download=true"/>
+      <file id="INSTRUMENT29" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT29?download=true"/>
+      <file id="INSTRUMENT30" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT30?download=true"/>
+      <file id="INSTRUMENT31" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT31?download=true"/>
+      <file id="INSTRUMENT32" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT32?download=true"/>
+      <file id="INSTRUMENT33" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT33?download=true"/>
+      <file id="INSTRUMENT34" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT34?download=true"/>
+      <file id="INSTRUMENT35" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT35?download=true"/>
+      <file id="INSTRUMENT36" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT36?download=true"/>
+      <file id="INSTRUMENT37" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT37?download=true"/>
+      <file id="INSTRUMENT38" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT38?download=true"/>
+      <file id="INSTRUMENT39" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT39?download=true"/>
+      <file id="INSTRUMENT40" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT40?download=true"/>
+      <file id="INSTRUMENT41" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT41?download=true"/>
+      <file id="INSTRUMENT42" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT42?download=true"/>
+      <file id="INSTRUMENT43" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT43?download=true"/>
+      <file id="INSTRUMENT44" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT44?download=true"/>
+      <file id="INSTRUMENT45" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT45?download=true"/>
+      <file id="INSTRUMENT46" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT46?download=true"/>
+      <file id="INSTRUMENT47" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT47?download=true"/>
+      <file id="INSTRUMENT48" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT48?download=true"/>
+      <file id="INSTRUMENT49" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT49?download=true"/>
+      <file id="INSTRUMENT50" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT50?download=true"/>
+      <file id="INSTRUMENT51" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT51?download=true"/>
+      <file id="INSTRUMENT52" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT52?download=true"/>
+      <file id="INSTRUMENT53" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT53?download=true"/>
+      <file id="INSTRUMENT54" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT54?download=true"/>
+      <file id="INSTRUMENT55" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT55?download=true"/>
+      <file id="INSTRUMENT56" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT56?download=true"/>
+      <file id="INSTRUMENT57" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT57?download=true"/>
+      <file id="INSTRUMENT58" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT58?download=true"/>
+      <file id="INSTRUMENT59" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT59?download=true"/>
+      <file id="INSTRUMENT60" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT60?download=true"/>
+      <file id="INSTRUMENT61" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT61?download=true"/>
+      <file id="INSTRUMENT62" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT62?download=true"/>
+      <file id="INSTRUMENT63" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT63?download=true"/>
+      <file id="INSTRUMENT64" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT64?download=true"/>
+      <file id="INSTRUMENT65" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT65?download=true"/>
+      <file id="INSTRUMENT66" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT66?download=true"/>
+      <file id="INSTRUMENT67" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT67?download=true"/>
+      <file id="INSTRUMENT68" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT68?download=true"/>
+      <file id="INSTRUMENT69" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT69?download=true"/>
+      <file id="INSTRUMENT70" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT70?download=true"/>
+      <file id="INSTRUMENT71" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT71?download=true"/>
+      <file id="INSTRUMENT72" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT72?download=true"/>
+      <file id="INSTRUMENT73" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT73?download=true"/>
+      <file id="INSTRUMENT74" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT74?download=true"/>
+      <file id="INSTRUMENT75" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT75?download=true"/>
+      <file id="INSTRUMENT76" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT76?download=true"/>
+      <file id="INSTRUMENT77" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT77?download=true"/>
+      <file id="INSTRUMENT78" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT78?download=true"/>
+      <file id="INSTRUMENT79" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT79?download=true"/>
+      <file id="INSTRUMENT80" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT80?download=true"/>
+      <file id="INSTRUMENT81" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT81?download=true"/>
+      <file id="INSTRUMENT82" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT82?download=true"/>
+      <file id="INSTRUMENT83" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT83?download=true"/>
+      <file id="INSTRUMENT84" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT84?download=true"/>
+      <file id="INSTRUMENT85" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT85?download=true"/>
+      <file id="INSTRUMENT86" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT86?download=true"/>
+      <file id="INSTRUMENT87" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT87?download=true"/>
+      <file id="INSTRUMENT88" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT88?download=true"/>
+      <file id="INSTRUMENT89" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT89?download=true"/>
+      <file id="INSTRUMENT90" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT90?download=true"/>
+      <file id="INSTRUMENT91" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT91?download=true"/>
+      <file id="INSTRUMENT92" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT92?download=true"/>
+      <file id="INSTRUMENT93" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT93?download=true"/>
+      <file id="INSTRUMENT94" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT94?download=true"/>
+      <file id="INSTRUMENT95" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT95?download=true"/>
+      <file id="INSTRUMENT96" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT96?download=true"/>
+      <file id="INSTRUMENT97" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT97?download=true"/>
+      <file id="INSTRUMENT98" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT98?download=true"/>
+      <file id="INSTRUMENT99" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT99?download=true"/>
+      <file id="INSTRUMENT100" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT100?download=true"/>
+      <file id="INSTRUMENT101" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT101?download=true"/>
+      <file id="INSTRUMENT102" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT102?download=true"/>
+      <file id="INSTRUMENT103" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT103?download=true"/>
+      <file id="INSTRUMENT104" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT104?download=true"/>
+      <file id="INSTRUMENT105" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT105?download=true"/>
+      <file id="INSTRUMENT106" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT106?download=true"/>
+      <file id="INSTRUMENT107" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT107?download=true"/>
+      <file id="INSTRUMENT108" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT108?download=true"/>
+      <file id="INSTRUMENT109" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT109?download=true"/>
+      <file id="INSTRUMENT110" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT110?download=true"/>
+      <file id="INSTRUMENT111" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT111?download=true"/>
+      <file id="INSTRUMENT112" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT112?download=true"/>
+      <file id="INSTRUMENT113" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT113?download=true"/>
+      <file id="INSTRUMENT114" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT114?download=true"/>
+      <file id="INSTRUMENT115" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT115?download=true"/>
+      <file id="INSTRUMENT116" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT116?download=true"/>
+      <file id="INSTRUMENT117" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT117?download=true"/>
+      <file id="INSTRUMENT118" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT118?download=true"/>
+      <file id="INSTRUMENT119" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT119?download=true"/>
+      <file id="INSTRUMENT120" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT120?download=true"/>
+      <file id="INSTRUMENT121" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT121?download=true"/>
+      <file id="INSTRUMENT122" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT122?download=true"/>
+      <file id="INSTRUMENT123" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT123?download=true"/>
+      <file id="INSTRUMENT124" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT124?download=true"/>
+      <file id="INSTRUMENT125" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT125?download=true"/>
+      <file id="INSTRUMENT126" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT126?download=true"/>
+      <file id="INSTRUMENT127" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT127?download=true"/>
+      <file id="INSTRUMENT128" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT128?download=true"/>
+      <file id="INSTRUMENT129" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT129?download=true"/>
+      <file id="INSTRUMENT130" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT130?download=true"/>
+      <file id="INSTRUMENT131" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT131?download=true"/>
+      <file id="INSTRUMENT132" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT132?download=true"/>
+      <file id="INSTRUMENT133" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT133?download=true"/>
+      <file id="INSTRUMENT134" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT134?download=true"/>
+      <file id="INSTRUMENT135" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT135?download=true"/>
+      <file id="INSTRUMENT136" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT136?download=true"/>
+      <file id="INSTRUMENT137" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT137?download=true"/>
+      <file id="INSTRUMENT138" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT138?download=true"/>
+      <file id="INSTRUMENT139" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT139?download=true"/>
+      <file id="INSTRUMENT140" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT140?download=true"/>
+      <file id="INSTRUMENT141" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT141?download=true"/>
+      <file id="INSTRUMENT142" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT142?download=true"/>
+      <file id="INSTRUMENT143" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT143?download=true"/>
+      <file id="INSTRUMENT144" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT144?download=true"/>
+      <file id="INSTRUMENT145" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT145?download=true"/>
+      <file id="INSTRUMENT146" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT146?download=true"/>
+      <file id="INSTRUMENT147" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT147?download=true"/>
+      <file id="INSTRUMENT148" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT148?download=true"/>
+      <file id="INSTRUMENT149" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT149?download=true"/>
+      <file id="INSTRUMENT150" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT150?download=true"/>
+      <file id="INSTRUMENT151" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT151?download=true"/>
+      <file id="INSTRUMENT152" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT152?download=true"/>
+      <file id="INSTRUMENT153" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT153?download=true"/>
+      <file id="INSTRUMENT154" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT154?download=true"/>
+      <file id="INSTRUMENT155" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT155?download=true"/>
+      <file id="INSTRUMENT156" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT156?download=true"/>
+      <file id="INSTRUMENT157" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT157?download=true"/>
+      <file id="INSTRUMENT158" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT158?download=true"/>
+      <file id="INSTRUMENT159" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT159?download=true"/>
+      <file id="INSTRUMENT160" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT160?download=true"/>
+      <file id="INSTRUMENT161" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT161?download=true"/>
+      <file id="INSTRUMENT162" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT162?download=true"/>
+      <file id="INSTRUMENT163" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT163?download=true"/>
+      <file id="INSTRUMENT164" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT164?download=true"/>
+      <file id="INSTRUMENT165" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT165?download=true"/>
+      <file id="INSTRUMENT166" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT166?download=true"/>
+      <file id="INSTRUMENT167" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT167?download=true"/>
+      <file id="INSTRUMENT168" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT168?download=true"/>
+      <file id="INSTRUMENT169" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT169?download=true"/>
+      <file id="INSTRUMENT170" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT170?download=true"/>
+      <file id="INSTRUMENT171" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT171?download=true"/>
+      <file id="INSTRUMENT172" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT172?download=true"/>
+      <file id="INSTRUMENT173" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT173?download=true"/>
+      <file id="INSTRUMENT174" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT174?download=true"/>
+      <file id="INSTRUMENT175" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT175?download=true"/>
+      <file id="INSTRUMENT176" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT176?download=true"/>
+      <file id="INSTRUMENT177" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT177?download=true"/>
+      <file id="INSTRUMENT178" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT178?download=true"/>
+      <file id="INSTRUMENT179" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847588/asset/INSTRUMENT179?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:854071">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">483</int>
+            <lst name="params">
+               <str name="q">PID:york?854071</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:854071</str>
+               <arr name="dc.creator">
+                  <str>Austin, Gavin</str>
+                  <str>Trenkic, Danijela</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The story texts were used for an elicited imitation / sentence repetition task and a story retelling task. The research that used these materials was supported by the University of York and by National Research University Project, Office of Higher Education Commission in Thailand (WCU-068-HS-57). Versions of this paper were presented at the 9th International Symposium on Bilingualism (ISB 9) and the 22nd Annual Conference of the European Second Language Association (EUROSLA 22).</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:854071</str>
+               </arr>
+               <str name="dc.title">Story texts</str>
+               <str name="dc.title.sort">Story texts</str>
+               <arr name="dc.type">
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>Narration</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Austin, Gavin</str>
+                  <str>Trenkic, Danijela</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The story texts were used for an elicited imitation / sentence repetition task and a story retelling task. The research that used these materials was supported by the University of York and by National Research University Project, Office of Higher Education Commission in Thailand (WCU-068-HS-57). Versions of this paper were presented at the 9th International Symposium on Bilingualism (ISB 9) and the 22nd Annual Conference of the European Second Language Association (EUROSLA 22).</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:854071</str>
+               </arr>
+               <str name="dc2.title">Story texts</str>
+               <arr name="dc2.type">
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>Narration</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Austin, Gavin</str>
+                  <str>Trenkic, Danijela</str>
+               </arr>
+               <str name="dc3.title">Story texts</str>
+               <date name="fgs.createdDate">2015-08-14T15:52:29.276Z</date>
+               <date name="fgs.dateCreated.sort">2015-08-14T15:52:29.276Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-25T11:06:34.269Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>danijela.trenkic@york.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Austin, Gavin</str>
+                  <str>Trenkic, Danijela</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">elicited imitation protocol / sentence repetition task elicited imitation protocol / sentence repetition task elicited imitation narration / story retelling  narration / story retelling   </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Morphology</str>
+                  <str>Articles</str>
+                  <str>Number</str>
+               </arr>
+               <str name="iris.instrument.notes">The story texts were used for an elicited imitation / sentence repetition task and a story retelling task. The research that used these materials was supported by the University of York and by National Research University Project, Office of Higher Education Commission in Thailand (WCU-068-HS-57). Versions of this paper were presented at the 9th International Symposium on Bilingualism (ISB 9) and the 22nd Annual Conference of the European Second Language Association (EUROSLA 22).</str>
+               <str name="iris.instrument.primaryInstrumentType">Elicited imitation protocol / Sentence repetition task</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Processing</str>
+                  <str>Cross-linguistic influence</str>
+                  <str>Acquisition</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Narration / Story retelling </str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Story texts</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Thai</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Native speakers</str>
+                  <str>Foreign language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Austin_Pongpairoj_Trenkic_Structural competition in second language production: Towards a constraint-satisfaction model</str>
+               </arr>
+               <str name="iris.references.allauthors">Austin, Pongpairoj, et al. (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Austin, Gavin</str>
+                  <str>Pongpairoj, Nattama</str>
+                  <str>Trenkic, Danijela</str>
+               </arr>
+               <str name="iris.references.author.lastnames">austinpongpairojtrenkic</str>
+               <arr name="iris.references.author.noack">
+                  <str>Austin, Gavin</str>
+                  <str>Pongpairoj, Nattama</str>
+                  <str>Trenkic, Danijela</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>danijela.trenkic@york.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Austin, Gavin</str>
+                  <str>Trenkic, Danijela</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">elicited imitation protocol / sentence repetition task elicited imitation protocol / sentence repetition task elicited imitation narration / story retelling  narration / story retelling   </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Morphology</str>
+                  <str>Articles</str>
+                  <str>Number</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Elicited imitation protocol / Sentence repetition task</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Processing</str>
+                  <str>Cross-linguistic influence</str>
+                  <str>Acquisition</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Narration / Story retelling </str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Thai</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Native speakers</str>
+                  <str>Foreign language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Austin_Pongpairoj_Trenkic_Structural competition in second language production: Towards a constraint-satisfaction model</str>
+               </arr>
+               <str name="iris2.references.allauthors">Austin, Pongpairoj, et al. (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Austin, Gavin</str>
+                  <str>Pongpairoj, Nattama</str>
+                  <str>Trenkic, Danijela</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">austinpongpairojtrenkic</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:854071/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

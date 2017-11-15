@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:925798">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">523</int>
+            <lst name="params">
+               <str name="q">PID:york?925798</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:925798</str>
+               <arr name="dc.creator">
+                  <str>De Jong, Nel</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+                  <str>1966</str>
+                  <str>1967</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>This instrument contains two sets of pictures used in De Jong and Vercellotti (2015): 1) Heaton, J. B. (1966). Composition Through Pictures. Essex: Longman. (stories: Bicycle, Race, Tiger). These drawings were produced by James Moss (illustrator) and originally appeared in Heaton, J. B. (1966). Composition Through Pictures. Essex: Longman. All attempts have been made to contact the author and illustrator to request permission for the drawings to be uploaded to IRIS. All sources must be cited when using or developing the drawings in research. The drawings may not be used for commercial purposes. For more information, please see https://www.iris-database.org/iris/app/home/about#ethical. 2) Mayer, M. (1967). A Boy, a Dog, and a Frog. New York: Dial Books for Young Readers. (6 drawings used). These drawings were produced by Mercer Mayer and originally appeared in Mayer, M. (1967). A Boy, a Dog, and a Frog. New York: Dial Books for Young Readers. All attempts have been made to request permission for the drawings to be held in IRIS. All sources must be cited when using or developing the drawings in research. The drawings may not be used for commercial purposes. For more information, please see https://www.iris-database.org/iris/app/home/about#ethical</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:925798</str>
+               </arr>
+               <str name="dc.title">Six-frame picture prompts</str>
+               <str name="dc.title.sort">Six-frame picture prompts</str>
+               <arr name="dc.type">
+                  <str>Narration / Story retelling</str>
+                  <str>Picture description</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>De Jong, Nel</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+                  <str>1966</str>
+                  <str>1967</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>This instrument contains two sets of pictures used in De Jong and Vercellotti (2015): 1) Heaton, J. B. (1966). Composition Through Pictures. Essex: Longman. (stories: Bicycle, Race, Tiger). These drawings were produced by James Moss (illustrator) and originally appeared in Heaton, J. B. (1966). Composition Through Pictures. Essex: Longman. All attempts have been made to contact the author and illustrator to request permission for the drawings to be uploaded to IRIS. All sources must be cited when using or developing the drawings in research. The drawings may not be used for commercial purposes. For more information, please see https://www.iris-database.org/iris/app/home/about#ethical. 2) Mayer, M. (1967). A Boy, a Dog, and a Frog. New York: Dial Books for Young Readers. (6 drawings used). These drawings were produced by Mercer Mayer and originally appeared in Mayer, M. (1967). A Boy, a Dog, and a Frog. New York: Dial Books for Young Readers. All attempts have been made to request permission for the drawings to be held in IRIS. All sources must be cited when using or developing the drawings in research. The drawings may not be used for commercial purposes. For more information, please see https://www.iris-database.org/iris/app/home/about#ethical</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:925798</str>
+               </arr>
+               <str name="dc2.title">Six-frame picture prompts</str>
+               <arr name="dc2.type">
+                  <str>Narration / Story retelling</str>
+                  <str>Picture description</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>De Jong, Nel</str>
+               </arr>
+               <str name="dc3.title">Six-frame picture prompts</str>
+               <date name="fgs.createdDate">2016-02-19T16:41:17.705Z</date>
+               <date name="fgs.dateCreated.sort">2016-02-19T16:41:17.705Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-02T14:17:19.818Z</date>
+               <str name="fgs.ownerId">iris-b66b6b0c-bdd2-46bc-b4d7-17bf5aae3112</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>nel.de.jong@vu.nl</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>De Jong, Nel</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">narration / story retelling  narration / story retelling   picture description picture description  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">This instrument contains two sets of pictures used in De Jong and Vercellotti (2015): 1) Heaton, J. B. (1966). Composition Through Pictures. Essex: Longman. (stories: Bicycle, Race, Tiger). These drawings were produced by James Moss (illustrator) and originally appeared in Heaton, J. B. (1966). Composition Through Pictures. Essex: Longman. All attempts have been made to contact the author and illustrator to request permission for the drawings to be uploaded to IRIS. All sources must be cited when using or developing the drawings in research. The drawings may not be used for commercial purposes. For more information, please see https://www.iris-database.org/iris/app/home/about#ethical. 2) Mayer, M. (1967). A Boy, a Dog, and a Frog. New York: Dial Books for Young Readers. (6 drawings used). These drawings were produced by Mercer Mayer and originally appeared in Mayer, M. (1967). A Boy, a Dog, and a Frog. New York: Dial Books for Young Readers. All attempts have been made to request permission for the drawings to be held in IRIS. All sources must be cited when using or developing the drawings in research. The drawings may not be used for commercial purposes. For more information, please see https://www.iris-database.org/iris/app/home/about#ethical</str>
+               <str name="iris.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Narration / Story retelling </str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Complexity</str>
+                  <str>Fluency</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Tasks</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Picture description</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Six-frame picture prompts</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Arabic</str>
+                  <str>Chinese</str>
+                  <str>Japanese</str>
+                  <str>Korean</str>
+                  <str>Samoan</str>
+                  <str>Spanish</str>
+                  <str>Thai</str>
+                  <str>Turkish</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str/>
+                  <str>Second language learners</str>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_De Jong_Vercellotti_Similiar prompts may not be similiar in the performance they elicit: Examining fluency, complexity, accuracy, and lexis in narratives from five picture prompts</str>
+                  <str>1966_Heaton_Composition Through Pictures</str>
+                  <str>1967_Mayer_A Boy, a Dog, and a Frog</str>
+               </arr>
+               <str name="iris.references.allauthors">De Jong &amp; Vercellotti (2015)</str>
+               <arr name="iris.references.author">
+                  <str>De Jong, Nel</str>
+                  <str>Vercellotti, M. L.</str>
+                  <str>Heaton, J. B.</str>
+                  <str>Mayer, Mercer</str>
+               </arr>
+               <str name="iris.references.author.lastnames">de jongvercellottiheatonmayer</str>
+               <arr name="iris.references.author.noack">
+                  <str>De Jong, Nel</str>
+                  <str>Vercellotti, M. L.</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Teaching Research</str>
+               </arr>
+               <arr name="iris.references.placeOfPublication">
+                  <str>Essex</str>
+                  <str>New York</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+                  <str>1966</str>
+                  <str>1967</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+                  <str>1966</str>
+                  <str>1967</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Book</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris.references.publisher">
+                  <str>Longman</str>
+                  <str>Dial Books for Young Readers</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>nel.de.jong@vu.nl</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>De Jong, Nel</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">narration / story retelling  narration / story retelling   picture description picture description  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Narration / Story retelling </str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Complexity</str>
+                  <str>Fluency</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Tasks</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Picture description</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Arabic</str>
+                  <str>Chinese</str>
+                  <str>Japanese</str>
+                  <str>Korean</str>
+                  <str>Samoan</str>
+                  <str>Spanish</str>
+                  <str>Thai</str>
+                  <str>Turkish</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str/>
+                  <str>Second language learners</str>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_De Jong_Vercellotti_Similiar prompts may not be similiar in the performance they elicit: Examining fluency, complexity, accuracy, and lexis in narratives from five picture prompts</str>
+                  <str>1966_Heaton_Composition Through Pictures</str>
+                  <str>1967_Mayer_A Boy, a Dog, and a Frog</str>
+               </arr>
+               <str name="iris2.references.allauthors">De Jong &amp; Vercellotti (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>De Jong, Nel</str>
+                  <str>Vercellotti, M. L.</str>
+                  <str>Heaton, J. B.</str>
+                  <str>Mayer, Mercer</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">de jongvercellottiheatonmayer</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Teaching Research</str>
+               </arr>
+               <arr name="iris2.references.placeOfPublication">
+                  <str>Essex</str>
+                  <str>New York</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+                  <str>1966</str>
+                  <str>1967</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+                  <str>1966</str>
+                  <str>1967</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Book</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris2.references.publisher">
+                  <str>Longman</str>
+                  <str>Dial Books for Young Readers</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:925798/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:925798/asset/INSTRUMENT1?download=true"/>
+   </files>
+</record>

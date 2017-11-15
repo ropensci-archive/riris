@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:926256">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">455</int>
+            <lst name="params">
+               <str name="q">PID:york?926256</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:926256</str>
+               <arr name="dc.creator">
+                  <str>MacIntyre, P.</str>
+                  <str>Gardner, Robert</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>1994</str>
+                  <str>2016</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:926256</str>
+               </arr>
+               <str name="dc.title">IPOA scale</str>
+               <str name="dc.title.sort">IPOA scale</str>
+               <arr name="dc.type">
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>MacIntyre, P.</str>
+                  <str>Gardner, Robert</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>1994</str>
+                  <str>2016</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:926256</str>
+               </arr>
+               <str name="dc2.title">IPOA scale</str>
+               <arr name="dc2.type">
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>MacIntyre, P.</str>
+                  <str>Gardner, Robert</str>
+               </arr>
+               <str name="dc3.title">IPOA scale</str>
+               <date name="fgs.createdDate">2016-05-13T13:08:02.137Z</date>
+               <date name="fgs.dateCreated.sort">2016-05-13T13:08:02.137Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-12T22:02:30.099Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>peter_macintyre@cbu.ca</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>MacIntyre, P.</str>
+                  <str>Gardner, Robert</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Other questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">other questionnaire questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Other questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Learner attitudes</str>
+                  <str>Processing</str>
+                  <str>Tasks</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>IPOA scale</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>1994_MacIntyre_Gardner_The subtle effects of languge anxiety on cognitive processing in the second language</str>
+                  <str>2016_Trebits_Sources of individual differences in L2 narrative production: The contribution of input, processing, and output anxiety</str>
+               </arr>
+               <str name="iris.references.allauthors">MacIntyre &amp; Gardner (1994); Trebits (2016)</str>
+               <arr name="iris.references.author">
+                  <str>MacIntyre, P.</str>
+                  <str>Gardner, Robert</str>
+                  <str>Trebits, Anna</str>
+               </arr>
+               <str name="iris.references.author.lastnames">macintyregardnertrebits</str>
+               <arr name="iris.references.author.noack">
+                  <str>MacIntyre, P.</str>
+                  <str>Gardner, Robert</str>
+                  <str>Trebits, Anna</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Learning</str>
+                  <str>Applied Linguistics</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>1994</str>
+                  <str>2016</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>1994</str>
+                  <str>2016</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>peter_macintyre@cbu.ca</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>MacIntyre, P.</str>
+                  <str>Gardner, Robert</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Other questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">other questionnaire questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Other questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Learner attitudes</str>
+                  <str>Processing</str>
+                  <str>Tasks</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>1994_MacIntyre_Gardner_The subtle effects of languge anxiety on cognitive processing in the second language</str>
+                  <str>2016_Trebits_Sources of individual differences in L2 narrative production: The contribution of input, processing, and output anxiety</str>
+               </arr>
+               <str name="iris2.references.allauthors">MacIntyre &amp; Gardner (1994); Trebits (2016)</str>
+               <arr name="iris2.references.author">
+                  <str>MacIntyre, P.</str>
+                  <str>Gardner, Robert</str>
+                  <str>Trebits, Anna</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">macintyregardnertrebits</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Learning</str>
+                  <str>Applied Linguistics</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>1994</str>
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>1994</str>
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:926256/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

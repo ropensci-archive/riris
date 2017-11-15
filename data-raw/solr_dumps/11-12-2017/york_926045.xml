@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:926045">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">469</int>
+            <lst name="params">
+               <str name="q">PID:york?926045</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:926045</str>
+               <arr name="dc.creator">
+                  <str>Richter, Franziska</str>
+                  <str>Yeung, Nick</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2016</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The records for the language background questionnaire, classi&#64257;cation task and surprise recognition memory task used in this study are linked on IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:926045</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Bilingualism</str>
+               </arr>
+               <str name="dc.title">Classi&#64257;cation task</str>
+               <str name="dc.title.sort">Classi&#64257;cation task</str>
+               <arr name="dc.type">
+                  <str>Lexical decision task</str>
+                  <str>Stimuli for laboratory studies (visual - pictorial)</str>
+                  <str>Stimuli for laboratory studies (visual)</str>
+                  <str>Stimuli for laboratory studies (visual - verbal)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Richter, Franziska</str>
+                  <str>Yeung, Nick</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2016</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The records for the language background questionnaire, classi&#64257;cation task and surprise recognition memory task used in this study are linked on IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:926045</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Bilingualism</str>
+               </arr>
+               <str name="dc2.title">Classi&#64257;cation task</str>
+               <arr name="dc2.type">
+                  <str>Lexical decision task</str>
+                  <str>Stimuli for laboratory studies (visual - pictorial)</str>
+                  <str>Stimuli for laboratory studies (visual)</str>
+                  <str>Stimuli for laboratory studies (visual - verbal)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Richter, Franziska</str>
+                  <str>Yeung, Nick</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Bilingualism</str>
+               </arr>
+               <str name="dc3.title">Classi&#64257;cation task</str>
+               <date name="fgs.createdDate">2016-04-07T13:13:00.272Z</date>
+               <date name="fgs.dateCreated.sort">2016-04-07T13:13:00.272Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2016-07-14T08:27:50.369Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>nhb2111@cumc.columbia.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Richter, Franziska</str>
+                  <str>Yeung, Nick</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Lexical decision task</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Pictorial</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Verbal</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">lexical decision task lexical decision task  pictorial stimuli for laboratory studies (visual - pictorial)  visual stimuli for laboratory studies (visual)  verbal stimuli for laboratory studies (visual - verbal)  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The records for the language background questionnaire, classi&#64257;cation task and surprise recognition memory task used in this study are linked on IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Lexical decision task</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Bilingualism</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Stimuli for laboratory studies &gt; Visual &gt; Pictorial</str>
+                  <str>Stimuli for laboratory studies &gt; Visual</str>
+                  <str>Stimuli for laboratory studies &gt; Visual &gt; Verbal</str>
+               </arr>
+               <arr name="iris.instrument.software">
+                  <str>EPrime</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Classi&#64257;cation task</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str/>
+                  <str/>
+                  <str/>
+                  <str>Monolinguals</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2016_Brito_Murphy_Vaidya_Barr_Do bilingual advantages in attentional control in&#64258;uence memory encoding during a divided attention task?</str>
+                  <str>2012_Richter_Yeung_Memory and cognitive control in task switching</str>
+               </arr>
+               <str name="iris.references.allauthors">Brito, Murphy, et al. (2016); Richter &amp; Yeung (2012)</str>
+               <arr name="iris.references.author">
+                  <str>Brito, Natalie H</str>
+                  <str>Murphy, Eric R</str>
+                  <str>Vaidya, Chandan</str>
+                  <str>Barr, Rachel</str>
+                  <str>Richter, Franziska</str>
+                  <str>Yeung, Nick</str>
+               </arr>
+               <str name="iris.references.author.lastnames">britomurphyvaidyabarrrichteryeung</str>
+               <arr name="iris.references.author.noack">
+                  <str>Brito, Natalie H</str>
+                  <str>Murphy, Eric R</str>
+                  <str>Vaidya, Chandan</str>
+                  <str>Barr, Rachel</str>
+                  <str>Richter, Franziska</str>
+                  <str>Yeung, Nick</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Bilingualism: Language and Cognition</str>
+                  <str>Psychological Science</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2016</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2016</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>nhb2111@cumc.columbia.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Richter, Franziska</str>
+                  <str>Yeung, Nick</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Lexical decision task</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Pictorial</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Verbal</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">lexical decision task lexical decision task  pictorial stimuli for laboratory studies (visual - pictorial)  visual stimuli for laboratory studies (visual)  verbal stimuli for laboratory studies (visual - verbal)  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Lexical decision task</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Bilingualism</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Stimuli for laboratory studies &gt; Visual &gt; Pictorial</str>
+                  <str>Stimuli for laboratory studies &gt; Visual</str>
+                  <str>Stimuli for laboratory studies &gt; Visual &gt; Verbal</str>
+               </arr>
+               <arr name="iris2.instrument.software">
+                  <str>EPrime</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str/>
+                  <str/>
+                  <str/>
+                  <str>Monolinguals</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2016_Brito_Murphy_Vaidya_Barr_Do bilingual advantages in attentional control in&#64258;uence memory encoding during a divided attention task?</str>
+                  <str>2012_Richter_Yeung_Memory and cognitive control in task switching</str>
+               </arr>
+               <str name="iris2.references.allauthors">Brito, Murphy, et al. (2016); Richter &amp; Yeung (2012)</str>
+               <arr name="iris2.references.author">
+                  <str>Brito, Natalie H</str>
+                  <str>Murphy, Eric R</str>
+                  <str>Vaidya, Chandan</str>
+                  <str>Barr, Rachel</str>
+                  <str>Richter, Franziska</str>
+                  <str>Yeung, Nick</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">britomurphyvaidyabarrrichteryeung</str>
+               <arr name="iris2.references.journal">
+                  <str>Bilingualism: Language and Cognition</str>
+                  <str>Psychological Science</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2016</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2016</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

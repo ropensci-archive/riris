@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:809462">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">507</int>
+            <lst name="params">
+               <str name="q">PID:york?809462</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:809462</str>
+               <arr name="dc.creator">
+                  <str>Gilmore, Alex</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2011</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Acquisition</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <str name="dc.title">C-test</str>
+               <str name="dc.title.sort">C-test</str>
+               <arr name="dc.type">
+                  <str>Gap-fill ('fill-in-the-blank'/cloze) task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Gilmore, Alex</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2011</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Acquisition</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <str name="dc2.title">C-test</str>
+               <arr name="dc2.type">
+                  <str>Gap-fill ('fill-in-the-blank'/cloze) task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Gilmore, Alex</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Acquisition</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <str name="dc3.title">C-test</str>
+               <date name="fgs.createdDate">2013-05-01T10:58:26.394Z</date>
+               <date name="fgs.dateCreated.sort">2013-05-01T10:58:26.394Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-05T09:41:04.793Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>alexgilmore@mac.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Gilmore, Alex</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">gap-fill / cloze test / fill in the blank gap-fill / cloze test / fill in the blank fill in the blank, cloze,gap fill </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Gap-fill / Cloze test / Fill in the blank</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>C-test</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+                  <str>Intermediate/advanced</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2011_Gilmore_"I prefer not text": Developing Japanese learners' communicative competence with authentic materials</str>
+                  <str>2009_Schauer_Interlanguage pragmatic development: The study abroad context</str>
+               </arr>
+               <str name="iris.references.allauthors">Gilmore (2011)</str>
+               <arr name="iris.references.author">
+                  <str>Gilmore, Alex</str>
+                  <str>Schauer, G.A.</str>
+               </arr>
+               <str name="iris.references.author.lastnames">gilmoreschauer</str>
+               <arr name="iris.references.author.noack">
+                  <str>Gilmore, Alex</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris.references.placeOfPublication">
+                  <str>London</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2011</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2011</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris.references.publisher">
+                  <str>Continuum</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>alexgilmore@mac.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Gilmore, Alex</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">gap-fill / cloze test / fill in the blank gap-fill / cloze test / fill in the blank fill in the blank, cloze,gap fill </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Gap-fill / Cloze test / Fill in the blank</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+                  <str>Intermediate/advanced</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2011_Gilmore_"I prefer not text": Developing Japanese learners' communicative competence with authentic materials</str>
+                  <str>2009_Schauer_Interlanguage pragmatic development: The study abroad context</str>
+               </arr>
+               <str name="iris2.references.allauthors">Gilmore (2011)</str>
+               <arr name="iris2.references.author">
+                  <str>Gilmore, Alex</str>
+                  <str>Schauer, G.A.</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">gilmoreschauer</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris2.references.placeOfPublication">
+                  <str>London</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2011</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2011</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2011</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris2.references.publisher">
+                  <str>Continuum</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:809462/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:822264">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">515</int>
+            <lst name="params">
+               <str name="q">PID:york?822264</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:822264</str>
+               <arr name="dc.creator">
+                  <str>Zyzik, Eve</str>
+                  <str>Azevedo, Clara</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2009</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:822264</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Receptive grammar test</str>
+                  <str>Gap-fill / Cloze test</str>
+                  <str>Reading test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Zyzik, Eve</str>
+                  <str>Azevedo, Clara</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2009</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:822264</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Receptive grammar test</str>
+                  <str>Gap-fill / Cloze test</str>
+                  <str>Reading test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Zyzik, Eve</str>
+                  <str>Azevedo, Clara</str>
+               </arr>
+               <date name="fgs.createdDate">2014-04-17T10:53:35.144Z</date>
+               <date name="fgs.dateCreated.sort">2014-04-17T10:53:35.144Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2014-12-10T07:44:51.563Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>ezyzik@ucsc.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Zyzik, Eve</str>
+                  <str>Azevedo, Clara</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+                  <str>Reading test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">receptive receptive grammar test  gap-fill / cloze test / fill in the blank gap-fill / cloze test / fill in the blank fill in the blank, cloze,gap fill reading test reading test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Morphology</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Gap-fill / Cloze test / Fill in the blank</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Reading</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+                  <str>Reading test</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2009_Zyzik_Azevedo_Word class distinctions in second language acquisition</str>
+               </arr>
+               <str name="iris.references.allauthors">Zyzik &amp; Azevedo (2009)</str>
+               <arr name="iris.references.author">
+                  <str>Zyzik, Eve</str>
+                  <str>Azevedo, Clara</str>
+               </arr>
+               <str name="iris.references.author.lastnames">zyzikazevedo</str>
+               <arr name="iris.references.author.noack">
+                  <str>Zyzik, Eve</str>
+                  <str>Azevedo, Clara</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Studies in Second Language Acquisition</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>ezyzik@ucsc.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Zyzik, Eve</str>
+                  <str>Azevedo, Clara</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+                  <str>Reading test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">receptive receptive grammar test  gap-fill / cloze test / fill in the blank gap-fill / cloze test / fill in the blank fill in the blank, cloze,gap fill reading test reading test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Morphology</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Gap-fill / Cloze test / Fill in the blank</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Reading</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+                  <str>Reading test</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2009_Zyzik_Azevedo_Word class distinctions in second language acquisition</str>
+               </arr>
+               <str name="iris2.references.allauthors">Zyzik &amp; Azevedo (2009)</str>
+               <arr name="iris2.references.author">
+                  <str>Zyzik, Eve</str>
+                  <str>Azevedo, Clara</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">zyzikazevedo</str>
+               <arr name="iris2.references.journal">
+                  <str>Studies in Second Language Acquisition</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

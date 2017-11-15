@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:853047">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">479</int>
+            <lst name="params">
+               <str name="q">PID:york?853047</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:853047</str>
+               <arr name="dc.creator">
+                  <str>Hopp, Holger</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The records for the 1) eye tracking study 2) Reading span task 3) Lexical decision task and 4) Word monitoring task used in this study are all linked on IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:853047</str>
+               </arr>
+               <str name="dc.title">Word monitoring task</str>
+               <str name="dc.title.sort">Word monitoring task</str>
+               <arr name="dc.type">
+                  <str>Other speech perception task</str>
+                  <str>Vocabulary test (receptive)</str>
+                  <str>Listening test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Hopp, Holger</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The records for the 1) eye tracking study 2) Reading span task 3) Lexical decision task and 4) Word monitoring task used in this study are all linked on IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:853047</str>
+               </arr>
+               <str name="dc2.title">Word monitoring task</str>
+               <arr name="dc2.type">
+                  <str>Other speech perception task</str>
+                  <str>Vocabulary test (receptive)</str>
+                  <str>Listening test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Hopp, Holger</str>
+               </arr>
+               <str name="dc3.title">Word monitoring task</str>
+               <date name="fgs.createdDate">2015-05-19T10:30:15.78Z</date>
+               <date name="fgs.dateCreated.sort">2015-05-19T10:30:15.78Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2015-05-19T10:30:24.139Z</date>
+               <str name="fgs.ownerId">iris-ce9f7bc3-da6b-43d0-aa72-6a00503b339f</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>hhopp@rumms.uni-mannheim.de</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Hopp, Holger</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Speech perception</str>
+                  <str>Other speech perception task</str>
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+                  <str>Listening / Aural test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">other speech perception task other speech perception task  receptive vocabulary test (receptive)  listening / aural test listening / aural test aural test </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The records for the 1) eye tracking study 2) Reading span task 3) Lexical decision task and 4) Word monitoring task used in this study are all linked on IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Listening / Aural test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Sentence processing</str>
+                  <str>Processing</str>
+                  <str>Proficiency</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Working memory</str>
+                  <str>Reading</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Speech perception &gt; Other speech perception task</str>
+                  <str>Vocabulary test &gt; Receptive</str>
+               </arr>
+               <arr name="iris.instrument.software">
+                  <str>EPrime</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Word monitoring task</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Software</str>
+                  <str>Sound</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>German</str>
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+                  <str/>
+                  <str>Native speakers</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Hopp_Individual differences in the second language processing of object-subject ambiguities</str>
+               </arr>
+               <str name="iris.references.allauthors">Hopp (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Hopp, Holger</str>
+               </arr>
+               <str name="iris.references.author.lastnames">hopp</str>
+               <arr name="iris.references.author.noack">
+                  <str>Hopp, Holger</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Applied Psycholinguistics</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>hhopp@rumms.uni-mannheim.de</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Hopp, Holger</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Speech perception</str>
+                  <str>Other speech perception task</str>
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+                  <str>Listening / Aural test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">other speech perception task other speech perception task  receptive vocabulary test (receptive)  listening / aural test listening / aural test aural test </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Listening / Aural test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Sentence processing</str>
+                  <str>Processing</str>
+                  <str>Proficiency</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Working memory</str>
+                  <str>Reading</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Speech perception &gt; Other speech perception task</str>
+                  <str>Vocabulary test &gt; Receptive</str>
+               </arr>
+               <arr name="iris2.instrument.software">
+                  <str>EPrime</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Software</str>
+                  <str>Sound</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>German</str>
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+                  <str/>
+                  <str>Native speakers</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Hopp_Individual differences in the second language processing of object-subject ambiguities</str>
+               </arr>
+               <str name="iris2.references.allauthors">Hopp (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Hopp, Holger</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">hopp</str>
+               <arr name="iris2.references.journal">
+                  <str>Applied Psycholinguistics</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

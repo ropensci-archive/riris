@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:853711">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">488</int>
+            <lst name="params">
+               <str name="q">PID:york?853711</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:853711</str>
+               <arr name="dc.creator">
+                  <str>Gui, Bao</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>in press</str>
+                  <str>in press</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+                  <str>Chinese</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:853711</str>
+               </arr>
+               <str name="dc.title">Target words, Word-Focused Reading Exercises and Vocabulary Knowledge Scale</str>
+               <str name="dc.title.sort">Target words, Word-Focused Reading Exercises and Vocabulary Knowledge Scale</str>
+               <arr name="dc.type">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+                  <str>Vocabulary test</str>
+                  <str>Vocabulary test (productive)</str>
+                  <str>Vocabulary test (receptive)</str>
+                  <str>Vocabulary test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Gui, Bao</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>in press</str>
+                  <str>in press</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+                  <str>Chinese</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:853711</str>
+               </arr>
+               <str name="dc2.title">Target words, Word-Focused Reading Exercises and Vocabulary Knowledge Scale</str>
+               <arr name="dc2.type">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+                  <str>Vocabulary test</str>
+                  <str>Vocabulary test (productive)</str>
+                  <str>Vocabulary test (receptive)</str>
+                  <str>Vocabulary test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Gui, Bao</str>
+               </arr>
+               <str name="dc3.title">Target words, Word-Focused Reading Exercises and Vocabulary Knowledge Scale</str>
+               <date name="fgs.createdDate">2015-07-11T09:56:39.02Z</date>
+               <date name="fgs.dateCreated.sort">2015-07-11T09:56:39.02Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-24T21:50:29.885Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>boggy2008@126.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Gui, Bao</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Word-focused sentence reading exercises and Vocabulary Knowledge Scale</str>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>National Science Foundation (NSF)</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+                  <str>Vocabulary test</str>
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+                  <str>Vocabulary test</str>
+                  <str>Other vocabulary test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks vocabulary test vocabulary test  productive vocabulary test (productive)  receptive vocabulary test (receptive)  other vocabulary test vocabulary test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Adjectives</str>
+                  <str>Nouns</str>
+                  <str>Verbs</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Instructional / Intervention / Teaching / Training materials</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Lexicon (vocabulary)</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Vocabulary test</str>
+                  <str>Vocabulary test &gt; Productive</str>
+                  <str>Vocabulary test &gt; Receptive</str>
+                  <str>Vocabulary test &gt; Other vocabulary test</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+                  <str>Chinese</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Target words, Word-Focused Reading Exercises and Vocabulary Knowledge Scale</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>in press_Bao_Task Type Effects on English as a Foreign Language Learners&#8217; Acquisition of Receptive and Productive Vocabulary Knowledge</str>
+                  <str>in press_Bao__Task Type Effects on English as a Foreign Language Learners&#8217; Acquisition of Receptive and Productive Vocabulary Knowledge</str>
+                  <str>in press_Bao_Task Type Effects on English as a Foreign Language Learners&#8217; Acquisition of Receptive and Productive Vocabulary Knowledge</str>
+               </arr>
+               <str name="iris.references.allauthors">Bao (in press); Bao (in press)</str>
+               <arr name="iris.references.author">
+                  <str>Bao, Gui</str>
+                  <str>Bao, Gui</str>
+                  <str>Bao, Gui</str>
+               </arr>
+               <str name="iris.references.author.lastnames">baobaobao</str>
+               <arr name="iris.references.author.noack">
+                  <str>Bao, Gui</str>
+                  <str>Bao, Gui</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>System</str>
+                  <str>System</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>in press</str>
+                  <str>in press</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>in press</str>
+                  <str>in press</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>boggy2008@126.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Gui, Bao</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Word-focused sentence reading exercises and Vocabulary Knowledge Scale</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>National Science Foundation (NSF)</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+                  <str>Vocabulary test</str>
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+                  <str>Vocabulary test</str>
+                  <str>Other vocabulary test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks vocabulary test vocabulary test  productive vocabulary test (productive)  receptive vocabulary test (receptive)  other vocabulary test vocabulary test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Adjectives</str>
+                  <str>Nouns</str>
+                  <str>Verbs</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Instructional / Intervention / Teaching / Training materials</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Lexicon (vocabulary)</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Vocabulary test</str>
+                  <str>Vocabulary test &gt; Productive</str>
+                  <str>Vocabulary test &gt; Receptive</str>
+                  <str>Vocabulary test &gt; Other vocabulary test</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+                  <str>Chinese</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>in press_Bao_Task Type Effects on English as a Foreign Language Learners&#8217; Acquisition of Receptive and Productive Vocabulary Knowledge</str>
+                  <str>in press_Bao__Task Type Effects on English as a Foreign Language Learners&#8217; Acquisition of Receptive and Productive Vocabulary Knowledge</str>
+                  <str>in press_Bao_Task Type Effects on English as a Foreign Language Learners&#8217; Acquisition of Receptive and Productive Vocabulary Knowledge</str>
+               </arr>
+               <str name="iris2.references.allauthors">Bao (in press); Bao (in press)</str>
+               <arr name="iris2.references.author">
+                  <str>Bao, Gui</str>
+                  <str>Bao, Gui</str>
+                  <str>Bao, Gui</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">baobaobao</str>
+               <arr name="iris2.references.journal">
+                  <str>System</str>
+                  <str>System</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>in press</str>
+                  <str>in press</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>in press</str>
+                  <str>in press</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:853711/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

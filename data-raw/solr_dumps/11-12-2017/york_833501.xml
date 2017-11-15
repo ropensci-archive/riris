@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:833501">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">508</int>
+            <lst name="params">
+               <str name="q">PID:york?833501</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:833501</str>
+               <arr name="dc.creator">
+                  <str>Morales, L</str>
+                  <str>Paolieri, D</str>
+                  <str>Cubelli, R</str>
+                  <str>Bajo, M. T.</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2001</str>
+                  <str>2014</str>
+                  <str>1980</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:833501</str>
+               </arr>
+               <str name="dc.title">Picture-word naming task with Spanish distractor words</str>
+               <str name="dc.title.sort">Picture-word naming task with Spanish distractor words</str>
+               <arr name="dc.type">
+                  <str>Vocabulary test (productive)</str>
+                  <str>Picture description</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Morales, L</str>
+                  <str>Paolieri, D</str>
+                  <str>Cubelli, R</str>
+                  <str>Bajo, M. T.</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2001</str>
+                  <str>2014</str>
+                  <str>1980</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:833501</str>
+               </arr>
+               <str name="dc2.title">Picture-word naming task with Spanish distractor words</str>
+               <arr name="dc2.type">
+                  <str>Vocabulary test (productive)</str>
+                  <str>Picture description</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Morales, L</str>
+                  <str>Paolieri, D</str>
+                  <str>Cubelli, R</str>
+                  <str>Bajo, M. T.</str>
+               </arr>
+               <str name="dc3.title">Picture-word naming task with Spanish distractor words</str>
+               <date name="fgs.createdDate">2014-11-21T12:28:48.729Z</date>
+               <date name="fgs.dateCreated.sort">2014-11-21T12:28:48.729Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2016-02-29T12:22:31.345Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>luismorales@ugr.es</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Morales, L</str>
+                  <str>Paolieri, D</str>
+                  <str>Cubelli, R</str>
+                  <str>Bajo, M. T.</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">productive vocabulary test (productive)  picture description picture description  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Gender</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Vocabulary test &gt; Productive</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Bilingualism</str>
+                  <str>Cross-linguistic influence</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Picture description</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Picture-word naming task with Spanish distractor words</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Language users</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2001_Lotto_Dell'Aqua_Job_Le &#64257;gure PD/DPSS. Misure di accordosulnome, tipicità, familiarità, età di acquisizione e tempi di denominazione per 266 &#64257;gure</str>
+                  <str>2014_Morales_Paolieri_Cubelli_Bajo_Transfer of Spanish grammatical gender to English: Evidence from immersed and non-immersed bilinguals</str>
+                  <str>1980_Snodgrass_Vanderwart_A standardized set of 260 pictures: Norms for name agreement, image agreement, familiarity, and visual complexity.</str>
+               </arr>
+               <str name="iris.references.allauthors">Morales, Paolieri, et al. (2014); </str>
+               <arr name="iris.references.author">
+                  <str>Lotto, L</str>
+                  <str>Dell'Aqua, R</str>
+                  <str>Job, R</str>
+                  <str>Morales, L</str>
+                  <str>Paolieri, D</str>
+                  <str>Cubelli, R</str>
+                  <str>Bajo, M. T.</str>
+                  <str>Snodgrass, J.G</str>
+                  <str>Vanderwart, M</str>
+               </arr>
+               <str name="iris.references.author.lastnames">lottodell'aquajobmoralespaoliericubellibajosnodgrassvanderwart</str>
+               <arr name="iris.references.author.noack">
+                  <str>Morales, L</str>
+                  <str>Paolieri, D</str>
+                  <str>Cubelli, R</str>
+                  <str>Bajo, M. T.</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Bilingualism: Language and Cognition</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2001</str>
+                  <str>2014</str>
+                  <str>1980</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2001</str>
+                  <str>2014</str>
+                  <str>1980</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>luismorales@ugr.es</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Morales, L</str>
+                  <str>Paolieri, D</str>
+                  <str>Cubelli, R</str>
+                  <str>Bajo, M. T.</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">productive vocabulary test (productive)  picture description picture description  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Gender</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Vocabulary test &gt; Productive</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Bilingualism</str>
+                  <str>Cross-linguistic influence</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Picture description</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Language users</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2001_Lotto_Dell'Aqua_Job_Le &#64257;gure PD/DPSS. Misure di accordosulnome, tipicità, familiarità, età di acquisizione e tempi di denominazione per 266 &#64257;gure</str>
+                  <str>2014_Morales_Paolieri_Cubelli_Bajo_Transfer of Spanish grammatical gender to English: Evidence from immersed and non-immersed bilinguals</str>
+                  <str>1980_Snodgrass_Vanderwart_A standardized set of 260 pictures: Norms for name agreement, image agreement, familiarity, and visual complexity.</str>
+               </arr>
+               <str name="iris2.references.allauthors">Morales, Paolieri, et al. (2014); </str>
+               <arr name="iris2.references.author">
+                  <str>Lotto, L</str>
+                  <str>Dell'Aqua, R</str>
+                  <str>Job, R</str>
+                  <str>Morales, L</str>
+                  <str>Paolieri, D</str>
+                  <str>Cubelli, R</str>
+                  <str>Bajo, M. T.</str>
+                  <str>Snodgrass, J.G</str>
+                  <str>Vanderwart, M</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">lottodell'aquajobmoralespaoliericubellibajosnodgrassvanderwart</str>
+               <arr name="iris2.references.journal">
+                  <str>Bilingualism: Language and Cognition</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2001</str>
+                  <str>2014</str>
+                  <str>1980</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2001</str>
+                  <str>2014</str>
+                  <str>1980</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

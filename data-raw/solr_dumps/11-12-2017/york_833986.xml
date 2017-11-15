@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:833986">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">464</int>
+            <lst name="params">
+               <str name="q">PID:york?833986</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:833986</str>
+               <arr name="dc.creator">
+                  <str>Kartchava, E</str>
+                  <str>Ammar, Ahlem</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2014</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The spot the difference pre/post test, picture description task pre/post test and lesson reflection sheet are linked in IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:833986</str>
+               </arr>
+               <str name="dc.title">Spot the difference pre/post test</str>
+               <str name="dc.title.sort">Spot the difference pre/post test</str>
+               <arr name="dc.type">
+                  <str>Information exchange tasks</str>
+                  <str>Productive grammar test</str>
+                  <str>Speaking test</str>
+                  <str>Picture spot the difference</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Kartchava, E</str>
+                  <str>Ammar, Ahlem</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2014</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The spot the difference pre/post test, picture description task pre/post test and lesson reflection sheet are linked in IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:833986</str>
+               </arr>
+               <str name="dc2.title">Spot the difference pre/post test</str>
+               <arr name="dc2.type">
+                  <str>Information exchange tasks</str>
+                  <str>Productive grammar test</str>
+                  <str>Speaking test</str>
+                  <str>Picture spot the difference</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Kartchava, E</str>
+                  <str>Ammar, Ahlem</str>
+               </arr>
+               <str name="dc3.title">Spot the difference pre/post test</str>
+               <date name="fgs.createdDate">2014-11-25T15:34:08.293Z</date>
+               <date name="fgs.dateCreated.sort">2014-11-25T15:34:08.293Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2015-01-20T11:53:45.593Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>eva.kartchava@carleton.ca</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Kartchava, E</str>
+                  <str>Ammar, Ahlem</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Communicative / Interactive task</str>
+                  <str>Information exchange</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture spot the difference</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">information exchange information exchange tasks  productive productive grammar test  speaking test / oral production test speaking test / oral production test oral test picture spot the difference picture spot the difference  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Tense</str>
+               </arr>
+               <str name="iris.instrument.notes">The spot the difference pre/post test, picture description task pre/post test and lesson reflection sheet are linked in IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Communicative / Interactive task &gt; Information exchange</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Error correction / Corrective feedback</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Productive</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Speaking test / Oral production test &gt; Picture spot the difference</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Spot the difference pre/post test</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2014_Kartchava_Ammar_The noticeability and effectiveness of corrective feedback in relation to target type</str>
+               </arr>
+               <str name="iris.references.allauthors">Kartchava &amp; Ammar (2014)</str>
+               <arr name="iris.references.author">
+                  <str>Kartchava, E</str>
+                  <str>Ammar, Ahlem</str>
+               </arr>
+               <str name="iris.references.author.lastnames">kartchavaammar</str>
+               <arr name="iris.references.author.noack">
+                  <str>Kartchava, E</str>
+                  <str>Ammar, Ahlem</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Teaching Research</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>eva.kartchava@carleton.ca</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Kartchava, E</str>
+                  <str>Ammar, Ahlem</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Communicative / Interactive task</str>
+                  <str>Information exchange</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture spot the difference</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">information exchange information exchange tasks  productive productive grammar test  speaking test / oral production test speaking test / oral production test oral test picture spot the difference picture spot the difference  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Tense</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Communicative / Interactive task &gt; Information exchange</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Error correction / Corrective feedback</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Productive</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Speaking test / Oral production test &gt; Picture spot the difference</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2014_Kartchava_Ammar_The noticeability and effectiveness of corrective feedback in relation to target type</str>
+               </arr>
+               <str name="iris2.references.allauthors">Kartchava &amp; Ammar (2014)</str>
+               <arr name="iris2.references.author">
+                  <str>Kartchava, E</str>
+                  <str>Ammar, Ahlem</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">kartchavaammar</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Teaching Research</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

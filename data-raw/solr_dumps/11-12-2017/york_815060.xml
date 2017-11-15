@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:815060">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">508</int>
+            <lst name="params">
+               <str name="q">PID:york?815060</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:815060</str>
+               <arr name="dc.creator">
+                  <str>Vasylets, Olena</str>
+                  <str>Gilabert, Roger</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>in press</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The simple and the complex versions of the experimental task were designed in such a way as to make them cognitively demanding to different levels, but identical in all other aspects (i.e. in both conditions, the same stimulus material was used, the topic and the communicative goal of the tasks were also the same). In each of the two experimental tasks, the participants received the description of three English universities and the prompt in English, explaining that they had to write a letter to their friend´s parents giving a recommendation for a university which they had had to choose out of the provided options. When choosing a university, the participants had to take into account a number of predefined criteria (for example, availability of personalized tuition, safety of the place to live, etc.). In the simple task, the participants had to consider three simple requirements, which were not contradictory and were rather easy to accommodate, so that the choice of the university was rather obvious and easy to justify. By contrast, in the complex task, the requirements to take into account were contradictory, and none of the available options met all the requisites, assuming that in this way the participants had to employ their reasoning abilities more intensively in order to justify their choice in a convincing manner.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Writing test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Vasylets, Olena</str>
+                  <str>Gilabert, Roger</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>in press</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The simple and the complex versions of the experimental task were designed in such a way as to make them cognitively demanding to different levels, but identical in all other aspects (i.e. in both conditions, the same stimulus material was used, the topic and the communicative goal of the tasks were also the same). In each of the two experimental tasks, the participants received the description of three English universities and the prompt in English, explaining that they had to write a letter to their friend´s parents giving a recommendation for a university which they had had to choose out of the provided options. When choosing a university, the participants had to take into account a number of predefined criteria (for example, availability of personalized tuition, safety of the place to live, etc.). In the simple task, the participants had to consider three simple requirements, which were not contradictory and were rather easy to accommodate, so that the choice of the university was rather obvious and easy to justify. By contrast, in the complex task, the requirements to take into account were contradictory, and none of the available options met all the requisites, assuming that in this way the participants had to employ their reasoning abilities more intensively in order to justify their choice in a convincing manner.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Writing test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Vasylets, Olena</str>
+                  <str>Gilabert, Roger</str>
+               </arr>
+               <date name="fgs.createdDate">2013-07-31T14:41:17.647Z</date>
+               <date name="fgs.dateCreated.sort">2013-07-31T14:41:17.647Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-26T15:18:21.875Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>ovasylets@hotmail.es</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Vasylets, Olena</str>
+                  <str>Gilabert, Roger</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Writing test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">writing test writing test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The simple and the complex versions of the experimental task were designed in such a way as to make them cognitively demanding to different levels, but identical in all other aspects (i.e. in both conditions, the same stimulus material was used, the topic and the communicative goal of the tasks were also the same). In each of the two experimental tasks, the participants received the description of three English universities and the prompt in English, explaining that they had to write a letter to their friend´s parents giving a recommendation for a university which they had had to choose out of the provided options. When choosing a university, the participants had to take into account a number of predefined criteria (for example, availability of personalized tuition, safety of the place to live, etc.). In the simple task, the participants had to consider three simple requirements, which were not contradictory and were rather easy to accommodate, so that the choice of the university was rather obvious and easy to justify. By contrast, in the complex task, the requirements to take into account were contradictory, and none of the available options met all the requisites, assuming that in this way the participants had to employ their reasoning abilities more intensively in order to justify their choice in a convincing manner.</str>
+               <str name="iris.instrument.primaryInstrumentType">Writing test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Writing</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>Academic</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Spanish</str>
+                  <str>Russian</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate/advanced</str>
+                  <str/>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>in press_Vasylets_Gilabert_Second language writing as moderated by cognitive task complexity</str>
+               </arr>
+               <str name="iris.references.allauthors">Vasylets &amp; Gilabert (in press)</str>
+               <arr name="iris.references.author">
+                  <str>Vasylets, Olena</str>
+                  <str>Gilabert, Roger</str>
+               </arr>
+               <str name="iris.references.author.lastnames">vasyletsgilabert</str>
+               <arr name="iris.references.author.noack">
+                  <str>Vasylets, Olena</str>
+                  <str>Gilabert, Roger</str>
+               </arr>
+               <arr name="iris.references.conferenceName">
+                  <str>31st International Conference of AESLA (Communication, Cognition and Cybernetics), April 18-20 2013, La Laguna, Spain</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Proceedings</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>ovasylets@hotmail.es</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Vasylets, Olena</str>
+                  <str>Gilabert, Roger</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Writing test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">writing test writing test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Writing test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Writing</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>Academic</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Spanish</str>
+                  <str>Russian</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate/advanced</str>
+                  <str/>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>in press_Vasylets_Gilabert_Second language writing as moderated by cognitive task complexity</str>
+               </arr>
+               <str name="iris2.references.allauthors">Vasylets &amp; Gilabert (in press)</str>
+               <arr name="iris2.references.author">
+                  <str>Vasylets, Olena</str>
+                  <str>Gilabert, Roger</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">vasyletsgilabert</str>
+               <arr name="iris2.references.conferenceName">
+                  <str>31st International Conference of AESLA (Communication, Cognition and Cybernetics), April 18-20 2013, La Laguna, Spain</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Proceedings</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:815060/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:815060/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:815060/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:815060/asset/INSTRUMENT3?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:853873">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">481</int>
+            <lst name="params">
+               <str name="q">PID:york?853873</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:853873</str>
+               <arr name="dc.creator">
+                  <str>Pérez-Vidal, Carmen</str>
+                  <str>Beattie, John</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2009</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>'The Study Abroad Instructions (Diary writing and language learning) (SAIDLaLe)' are one of the 09 data elicitation instruments used in the Study Abroad and Language Acquisition (SALA) project set at the Universitat Pompeu Fabra (Barcelona, Spain) in collaboration with the Universitat de les Illes Baleares (Palma de Majorca, Spain). The SALA study has been conducted in the course of the past 9 years (2004-) with data collected over three years with a sample of three subsequent cohorts of higher education students, language specialists with an intermediate-advanced EFL level. They had enrolled on a compulsory three-month long study abroad exchange, which took place in the winter term of the second year in their degree. The aim of the project was to follow linguistic development through the elicitation of oral and written data (6 tests embracing all language skills, not available in IRIS). It also collected data on learner individual attributes through 3 questionnaires (individual profiles, attitudes and motivation and SA condition) and the diary. Data collection resulted in a final sample of 64-80 participants in the language tests. Participants were all given the instrument SAIDLaLe and instructed by the SA tutor to follow them in order to write a SA diary on a voluntary basis as a possibility to raise the qualifications they obtained in their host universities abroad. Instructions asked learners to reflect on their general SA experience and more specifically on their language learning experiences and episodes. About half of the sample (N = 35) handed in diaries in both printed and digital formats. Diaries have been analysed as a source of information on the above mentioned dimensions of the SA experience. They are also being analysed as writing material showing changes over time in written production through the period of three months the programme lasts. Students were asked to write at least once a week over the space of the three months. The six records for the instruments used in this study are linked on IRIS.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:853873</str>
+               </arr>
+               <str name="dc.title">Student's work plan and self-activities</str>
+               <str name="dc.title.sort">Student's work plan and self-activities</str>
+               <arr name="dc.type">
+                  <str>Instructional material / Intervention activities / Teaching activities</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Pérez-Vidal, Carmen</str>
+                  <str>Beattie, John</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2009</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>'The Study Abroad Instructions (Diary writing and language learning) (SAIDLaLe)' are one of the 09 data elicitation instruments used in the Study Abroad and Language Acquisition (SALA) project set at the Universitat Pompeu Fabra (Barcelona, Spain) in collaboration with the Universitat de les Illes Baleares (Palma de Majorca, Spain). The SALA study has been conducted in the course of the past 9 years (2004-) with data collected over three years with a sample of three subsequent cohorts of higher education students, language specialists with an intermediate-advanced EFL level. They had enrolled on a compulsory three-month long study abroad exchange, which took place in the winter term of the second year in their degree. The aim of the project was to follow linguistic development through the elicitation of oral and written data (6 tests embracing all language skills, not available in IRIS). It also collected data on learner individual attributes through 3 questionnaires (individual profiles, attitudes and motivation and SA condition) and the diary. Data collection resulted in a final sample of 64-80 participants in the language tests. Participants were all given the instrument SAIDLaLe and instructed by the SA tutor to follow them in order to write a SA diary on a voluntary basis as a possibility to raise the qualifications they obtained in their host universities abroad. Instructions asked learners to reflect on their general SA experience and more specifically on their language learning experiences and episodes. About half of the sample (N = 35) handed in diaries in both printed and digital formats. Diaries have been analysed as a source of information on the above mentioned dimensions of the SA experience. They are also being analysed as writing material showing changes over time in written production through the period of three months the programme lasts. Students were asked to write at least once a week over the space of the three months. The six records for the instruments used in this study are linked on IRIS.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:853873</str>
+               </arr>
+               <str name="dc2.title">Student's work plan and self-activities</str>
+               <arr name="dc2.type">
+                  <str>Instructional material / Intervention activities / Teaching activities</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Pérez-Vidal, Carmen</str>
+                  <str>Beattie, John</str>
+               </arr>
+               <str name="dc3.title">Student's work plan and self-activities</str>
+               <date name="fgs.createdDate">2015-08-12T14:07:58.086Z</date>
+               <date name="fgs.dateCreated.sort">2015-08-12T14:07:58.086Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-22T11:45:47.443Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>carmen.perez@upf.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Pérez-Vidal, Carmen</str>
+                  <str>Beattie, John</str>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>Ministry of Education in Spain</str>
+                  <str>Catalan Government</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">'The Study Abroad Instructions (Diary writing and language learning) (SAIDLaLe)' are one of the 09 data elicitation instruments used in the Study Abroad and Language Acquisition (SALA) project set at the Universitat Pompeu Fabra (Barcelona, Spain) in collaboration with the Universitat de les Illes Baleares (Palma de Majorca, Spain). The SALA study has been conducted in the course of the past 9 years (2004-) with data collected over three years with a sample of three subsequent cohorts of higher education students, language specialists with an intermediate-advanced EFL level. They had enrolled on a compulsory three-month long study abroad exchange, which took place in the winter term of the second year in their degree. The aim of the project was to follow linguistic development through the elicitation of oral and written data (6 tests embracing all language skills, not available in IRIS). It also collected data on learner individual attributes through 3 questionnaires (individual profiles, attitudes and motivation and SA condition) and the diary. Data collection resulted in a final sample of 64-80 participants in the language tests. Participants were all given the instrument SAIDLaLe and instructed by the SA tutor to follow them in order to write a SA diary on a voluntary basis as a possibility to raise the qualifications they obtained in their host universities abroad. Instructions asked learners to reflect on their general SA experience and more specifically on their language learning experiences and episodes. About half of the sample (N = 35) handed in diaries in both printed and digital formats. Diaries have been analysed as a source of information on the above mentioned dimensions of the SA experience. They are also being analysed as writing material showing changes over time in written production through the period of three months the programme lasts. Students were asked to write at least once a week over the space of the three months. The six records for the instruments used in this study are linked on IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Instructional / Intervention / Teaching / Training materials</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Study abroad</str>
+                  <str>Writing</str>
+                  <str>Learner strategies</str>
+                  <str>Learner attitudes</str>
+                  <str>Learning style</str>
+                  <str>Linguistic identity</str>
+                  <str>Motivation</str>
+                  <str>Acquisition</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Student's work plan and self-activities</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>Academic</str>
+                  <str>Higher Education</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Spanish</str>
+                  <str>Catalan</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate/advanced</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2009_Pérez-Vidal_Juan-Garau_The effect of Study Abroad (SA) on written performance</str>
+               </arr>
+               <str name="iris.references.allauthors">Pérez-Vidal &amp; Juan-Garau (2009)</str>
+               <arr name="iris.references.author">
+                  <str>Pérez-Vidal, Carmen</str>
+                  <str>Juan-Garau, Maria</str>
+               </arr>
+               <str name="iris.references.author.lastnames">pérez-vidaljuan-garau</str>
+               <arr name="iris.references.author.noack">
+                  <str>Pérez-Vidal, Carmen</str>
+                  <str>Juan-Garau, Maria</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>The effect of Study Abroad (SA) on written performance</str>
+                  <str>EUROSLA Yearbook 9</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Roberts, Leah</str>
+                  <str>Véronique, D</str>
+                  <str>Nilsson, A.</str>
+                  <str>Tellier, M</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Chapter</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>carmen.perez@upf.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Pérez-Vidal, Carmen</str>
+                  <str>Beattie, John</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>Ministry of Education in Spain</str>
+                  <str>Catalan Government</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Instructional / Intervention / Teaching / Training materials</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Study abroad</str>
+                  <str>Writing</str>
+                  <str>Learner strategies</str>
+                  <str>Learner attitudes</str>
+                  <str>Learning style</str>
+                  <str>Linguistic identity</str>
+                  <str>Motivation</str>
+                  <str>Acquisition</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>Academic</str>
+                  <str>Higher Education</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Spanish</str>
+                  <str>Catalan</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate/advanced</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2009_Pérez-Vidal_Juan-Garau_The effect of Study Abroad (SA) on written performance</str>
+               </arr>
+               <str name="iris2.references.allauthors">Pérez-Vidal &amp; Juan-Garau (2009)</str>
+               <arr name="iris2.references.author">
+                  <str>Pérez-Vidal, Carmen</str>
+                  <str>Juan-Garau, Maria</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">pérez-vidaljuan-garau</str>
+               <arr name="iris2.references.booktitle">
+                  <str>The effect of Study Abroad (SA) on written performance</str>
+                  <str>EUROSLA Yearbook 9</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Roberts, Leah</str>
+                  <str>Véronique, D</str>
+                  <str>Nilsson, A.</str>
+                  <str>Tellier, M</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Chapter</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:853873/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

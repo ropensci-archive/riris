@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:925897">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">458</int>
+            <lst name="params">
+               <str name="q">PID:york?925897</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:925897</str>
+               <arr name="dc.creator">
+                  <str>Bovee, Joanna C</str>
+                  <str>Raney, Gary</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2016</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The records for the 1) English vocabulary quiz 2) Language history questionnaire 3) English text pasages and comprehension questions 4) Spanish text passages and comprehension questions 5) English reading tasks 6) Spanish reading tasks are linked on IRIS. Please note, a Spanish vocabulary quiz and English and Spanish cloze test were also used to assess proficiency in this study, these were parts of the Diplomas de Espanol como Lengua Extranjera exam (http://www.dele.org/) as used in Montrul (2005).</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:925897</str>
+               </arr>
+               <str name="dc.title">Spanish reading tasks</str>
+               <str name="dc.title.sort">Spanish reading tasks</str>
+               <arr name="dc.type">
+                  <str>Reading aloud / Word naming test</str>
+                  <str>Reading comprehension test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Bovee, Joanna C</str>
+                  <str>Raney, Gary</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2016</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The records for the 1) English vocabulary quiz 2) Language history questionnaire 3) English text pasages and comprehension questions 4) Spanish text passages and comprehension questions 5) English reading tasks 6) Spanish reading tasks are linked on IRIS. Please note, a Spanish vocabulary quiz and English and Spanish cloze test were also used to assess proficiency in this study, these were parts of the Diplomas de Espanol como Lengua Extranjera exam (http://www.dele.org/) as used in Montrul (2005).</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:925897</str>
+               </arr>
+               <str name="dc2.title">Spanish reading tasks</str>
+               <arr name="dc2.type">
+                  <str>Reading aloud / Word naming test</str>
+                  <str>Reading comprehension test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Bovee, Joanna C</str>
+                  <str>Raney, Gary</str>
+               </arr>
+               <str name="dc3.title">Spanish reading tasks</str>
+               <date name="fgs.createdDate">2016-03-13T16:29:28.769Z</date>
+               <date name="fgs.dateCreated.sort">2016-03-13T16:29:28.769Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2016-07-08T09:22:45.892Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>jbovee2@uic.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Bovee, Joanna C</str>
+                  <str>Raney, Gary</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Reading test</str>
+                  <str>Reading aloud / Word naming test</str>
+                  <str>Comprehension test</str>
+                  <str>Reading</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">reading aloud / word naming test reading aloud / word naming test  reading reading comprehension test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The records for the 1) English vocabulary quiz 2) Language history questionnaire 3) English text pasages and comprehension questions 4) Spanish text passages and comprehension questions 5) English reading tasks 6) Spanish reading tasks are linked on IRIS. Please note, a Spanish vocabulary quiz and English and Spanish cloze test were also used to assess proficiency in this study, these were parts of the Diplomas de Espanol como Lengua Extranjera exam (http://www.dele.org/) as used in Montrul (2005).</str>
+               <str name="iris.instrument.primaryInstrumentType">Reading test &gt; Reading aloud / Word naming test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Comprehension</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Proficiency</str>
+                  <str>Processing</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Comprehension test &gt; Reading</str>
+               </arr>
+               <arr name="iris.instrument.software">
+                  <str>SuperLab</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Spanish reading tasks</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str/>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2016_Bovee_Raney_Evaluating missing-letter effects and comprehension in pro&#64257;cient and nonpro&#64257;cient languages</str>
+               </arr>
+               <str name="iris.references.allauthors">Bovee &amp; Raney (2016)</str>
+               <arr name="iris.references.author">
+                  <str>Bovee, Joanna C</str>
+                  <str>Raney, Gary</str>
+               </arr>
+               <str name="iris.references.author.lastnames">boveeraney</str>
+               <arr name="iris.references.author.noack">
+                  <str>Bovee, Joanna C</str>
+                  <str>Raney, Gary</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Applied Psycholinguistics</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>jbovee2@uic.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Bovee, Joanna C</str>
+                  <str>Raney, Gary</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Reading test</str>
+                  <str>Reading aloud / Word naming test</str>
+                  <str>Comprehension test</str>
+                  <str>Reading</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">reading aloud / word naming test reading aloud / word naming test  reading reading comprehension test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Reading test &gt; Reading aloud / Word naming test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Comprehension</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Proficiency</str>
+                  <str>Processing</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Comprehension test &gt; Reading</str>
+               </arr>
+               <arr name="iris2.instrument.software">
+                  <str>SuperLab</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str/>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2016_Bovee_Raney_Evaluating missing-letter effects and comprehension in pro&#64257;cient and nonpro&#64257;cient languages</str>
+               </arr>
+               <str name="iris2.references.allauthors">Bovee &amp; Raney (2016)</str>
+               <arr name="iris2.references.author">
+                  <str>Bovee, Joanna C</str>
+                  <str>Raney, Gary</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">boveeraney</str>
+               <arr name="iris2.references.journal">
+                  <str>Applied Psycholinguistics</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

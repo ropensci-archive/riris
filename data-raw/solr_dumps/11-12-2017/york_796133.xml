@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:796133">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">461</int>
+            <lst name="params">
+               <str name="q">PID:york?796133</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:796133</str>
+               <arr name="dc.creator">
+                  <str>Marsden, Emma</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2005</str>
+                  <str>2006</str>
+                  <str>2007</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Effectiveness of teaching</str>
+                  <str>Processing instruction</str>
+                  <str>Learner attitudes</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Marsden, Emma</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2005</str>
+                  <str>2006</str>
+                  <str>2007</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Effectiveness of teaching</str>
+                  <str>Processing instruction</str>
+                  <str>Learner attitudes</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Marsden, Emma</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Effectiveness of teaching</str>
+                  <str>Processing instruction</str>
+                  <str>Learner attitudes</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <date name="fgs.createdDate">2012-05-01T11:40:07.305Z</date>
+               <date name="fgs.dateCreated.sort">2012-05-01T11:40:07.305Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-08T13:30:30.811Z</date>
+               <str name="fgs.ownerId">iris-cf0e435a-b839-436b-b870-789b06a436ba</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>emma.marsden@york.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>2</str>
+               </arr>
+               <arr name="iris.feedback.email_1">
+                  <str>u.lanvers@open.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.email_2">
+                  <str>u.lanvers@open.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.published_2">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.time_1">
+                  <str>11 Jun 2013 15:21:36 GMT</str>
+               </arr>
+               <arr name="iris.feedback.time_2">
+                  <str>11 Jun 2013 17:04:28 GMT</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Marsden, Emma</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Open response</str>
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">questionnaire questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Effectiveness of teaching</str>
+                  <str>Processing instruction</str>
+                  <str>Learner attitudes</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Marsden_Teaching and learning of French verb inflections: A classroom experiment using processing instruction</str>
+                  <str>2005_Marsden_Input-based grammar pedagogy: A comparison of two possibilities</str>
+                  <str>2006_Marsden_Exploring input processing in the classroom: An experimental comparison of processing instruction and enriched input</str>
+                  <str>2007_Marsden_Can educational experiments both test a theory and inform practice?</str>
+                  <str>in press_Marsden_Torgerson_Single group, pre- and post-test research designs: Some methodological concerns</str>
+               </arr>
+               <str name="iris.references.allauthors">Marsden (2004); Marsden (2005); Marsden (2006); Marsden (2007); Marsden &amp; Torgerson (in press)</str>
+               <arr name="iris.references.author">
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Torgerson, C.</str>
+               </arr>
+               <str name="iris.references.author.lastnames">marsdenmarsdenmarsdenmarsdenmarsdentorgerson</str>
+               <arr name="iris.references.author.noack">
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Torgerson, C.</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>The Language Learning Journal</str>
+                  <str>Language Learning</str>
+                  <str>British Educational Research Journal</str>
+                  <str>Oxford Review of Education</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2005</str>
+                  <str>2006</str>
+                  <str>2007</str>
+                  <str>in press</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2005</str>
+                  <str>2006</str>
+                  <str>2007</str>
+                  <str>in press</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>emma.marsden@york.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>2</str>
+               </arr>
+               <arr name="iris2.feedback.email_1">
+                  <str>u.lanvers@open.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.email_2">
+                  <str>u.lanvers@open.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.published_2">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.time_1">
+                  <str>11 Jun 2013 15:21:36 GMT</str>
+               </arr>
+               <arr name="iris2.feedback.time_2">
+                  <str>11 Jun 2013 17:04:28 GMT</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Marsden, Emma</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Open response</str>
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">questionnaire questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Effectiveness of teaching</str>
+                  <str>Processing instruction</str>
+                  <str>Learner attitudes</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Marsden_Teaching and learning of French verb inflections: A classroom experiment using processing instruction</str>
+                  <str>2005_Marsden_Input-based grammar pedagogy: A comparison of two possibilities</str>
+                  <str>2006_Marsden_Exploring input processing in the classroom: An experimental comparison of processing instruction and enriched input</str>
+                  <str>2007_Marsden_Can educational experiments both test a theory and inform practice?</str>
+                  <str>in press_Marsden_Torgerson_Single group, pre- and post-test research designs: Some methodological concerns</str>
+               </arr>
+               <str name="iris2.references.allauthors">Marsden (2004); Marsden (2005); Marsden (2006); Marsden (2007); Marsden &amp; Torgerson (in press)</str>
+               <arr name="iris2.references.author">
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Torgerson, C.</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">marsdenmarsdenmarsdenmarsdenmarsdentorgerson</str>
+               <arr name="iris2.references.journal">
+                  <str>The Language Learning Journal</str>
+                  <str>Language Learning</str>
+                  <str>British Educational Research Journal</str>
+                  <str>Oxford Review of Education</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2005</str>
+                  <str>2006</str>
+                  <str>2007</str>
+                  <str>in press</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2005</str>
+                  <str>2006</str>
+                  <str>2007</str>
+                  <str>in press</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:796133/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

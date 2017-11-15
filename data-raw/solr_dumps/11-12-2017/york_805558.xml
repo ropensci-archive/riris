@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:805558">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">472</int>
+            <lst name="params">
+               <str name="q">PID:york?805558</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:805558</str>
+               <arr name="dc.creator">
+                  <str>Hamada, Megumi</str>
+                  <str>Koda, Keiko</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2008</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:805558</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Script for psycholinguistic techniques (eye tracking)</str>
+                  <str>Script for psycholinguistic techniques (eye tracking - reading)</str>
+                  <str>Script for psycholinguistic techniques (eye tracking - visual world)</str>
+                  <str>Script for psycholinguistic techniques (eye tracking)</str>
+                  <str>Stimuli for laboratory studies (audio)</str>
+                  <str>Stimuli for laboratory studies (visual - pictorial)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Hamada, Megumi</str>
+                  <str>Koda, Keiko</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2008</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:805558</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Script for psycholinguistic techniques (eye tracking)</str>
+                  <str>Script for psycholinguistic techniques (eye tracking - reading)</str>
+                  <str>Script for psycholinguistic techniques (eye tracking - visual world)</str>
+                  <str>Script for psycholinguistic techniques (eye tracking)</str>
+                  <str>Stimuli for laboratory studies (audio)</str>
+                  <str>Stimuli for laboratory studies (visual - pictorial)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Hamada, Megumi</str>
+                  <str>Koda, Keiko</str>
+               </arr>
+               <date name="fgs.createdDate">2012-09-11T10:39:08.563Z</date>
+               <date name="fgs.dateCreated.sort">2012-09-11T10:39:08.563Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-22T02:53:43.787Z</date>
+               <str name="fgs.ownerId">fedoraAdmin</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>mhamada@bsu.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>3</str>
+               </arr>
+               <arr name="iris.feedback.email_1">
+                  <str>joanoak@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.email_2">
+                  <str>joanoak@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.email_3">
+                  <str>florina.erbeli@guest.arnes.si</str>
+               </arr>
+               <arr name="iris.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.published_2">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.published_3">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.time_1">
+                  <str>9 Jul 2014 12:33:53 GMT</str>
+               </arr>
+               <arr name="iris.feedback.time_2">
+                  <str>9 Jul 2014 12:34:13 GMT</str>
+               </arr>
+               <arr name="iris.feedback.time_3">
+                  <str>19 Jul 2014 23:53:13 GMT</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Hamada, Megumi</str>
+                  <str>Koda, Keiko</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Script for psycholinguistic techniques</str>
+                  <str>Eye tracking</str>
+                  <str>Script for psycholinguistic techniques</str>
+                  <str>Eye tracking</str>
+                  <str>Reading</str>
+                  <str>Script for psycholinguistic techniques</str>
+                  <str>Eye tracking</str>
+                  <str>Visual world</str>
+                  <str>Script for psycholinguistic techniques</str>
+                  <str>Eye tracking</str>
+                  <str>Other eye tracking</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Audio</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Pictorial</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">eye tracking script for psycholinguistic techniques (eye tracking)  reading script for psycholinguistic techniques (eye tracking - reading)  visual world script for psycholinguistic techniques (eye tracking - visual world)  other eye tracking script for psycholinguistic techniques (eye tracking)  audio stimuli for laboratory studies (audio)  pictorial stimuli for laboratory studies (visual - pictorial)  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Phonology</str>
+                  <str>Codas</str>
+                  <str>Stress</str>
+                  <str>Syllable</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Script for psycholinguistic techniques &gt; Eye tracking</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Phonology</str>
+                  <str>Pronunciation</str>
+                  <str>Reading</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Script for psycholinguistic techniques &gt; Eye tracking &gt; Reading</str>
+                  <str>Script for psycholinguistic techniques &gt; Eye tracking &gt; Visual world</str>
+                  <str>Script for psycholinguistic techniques &gt; Eye tracking &gt; Other eye tracking</str>
+                  <str>Stimuli for laboratory studies &gt; Audio</str>
+                  <str>Stimuli for laboratory studies &gt; Visual &gt; Pictorial</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Chinese</str>
+                  <str>Korean</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+                  <str>Intermediate/advanced</str>
+                  <str>Advanced</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2008_Hamada_Koda_Influence of first language orthographic experience on second language decoding and word learning</str>
+               </arr>
+               <str name="iris.references.allauthors">Hamada &amp; Koda (2008)</str>
+               <arr name="iris.references.author">
+                  <str>Hamada, Megumi</str>
+                  <str>Koda, Keiko</str>
+               </arr>
+               <str name="iris.references.author.lastnames">hamadakoda</str>
+               <arr name="iris.references.author.noack">
+                  <str>Hamada, Megumi</str>
+                  <str>Koda, Keiko</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>mhamada@bsu.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>3</str>
+               </arr>
+               <arr name="iris2.feedback.email_1">
+                  <str>joanoak@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.email_2">
+                  <str>joanoak@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.email_3">
+                  <str>florina.erbeli@guest.arnes.si</str>
+               </arr>
+               <arr name="iris2.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.published_2">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.published_3">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.time_1">
+                  <str>9 Jul 2014 12:33:53 GMT</str>
+               </arr>
+               <arr name="iris2.feedback.time_2">
+                  <str>9 Jul 2014 12:34:13 GMT</str>
+               </arr>
+               <arr name="iris2.feedback.time_3">
+                  <str>19 Jul 2014 23:53:13 GMT</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Hamada, Megumi</str>
+                  <str>Koda, Keiko</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Script for psycholinguistic techniques</str>
+                  <str>Eye tracking</str>
+                  <str>Script for psycholinguistic techniques</str>
+                  <str>Eye tracking</str>
+                  <str>Reading</str>
+                  <str>Script for psycholinguistic techniques</str>
+                  <str>Eye tracking</str>
+                  <str>Visual world</str>
+                  <str>Script for psycholinguistic techniques</str>
+                  <str>Eye tracking</str>
+                  <str>Other eye tracking</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Audio</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Pictorial</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">eye tracking script for psycholinguistic techniques (eye tracking)  reading script for psycholinguistic techniques (eye tracking - reading)  visual world script for psycholinguistic techniques (eye tracking - visual world)  other eye tracking script for psycholinguistic techniques (eye tracking)  audio stimuli for laboratory studies (audio)  pictorial stimuli for laboratory studies (visual - pictorial)  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Phonology</str>
+                  <str>Codas</str>
+                  <str>Stress</str>
+                  <str>Syllable</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Script for psycholinguistic techniques &gt; Eye tracking</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Phonology</str>
+                  <str>Pronunciation</str>
+                  <str>Reading</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Script for psycholinguistic techniques &gt; Eye tracking &gt; Reading</str>
+                  <str>Script for psycholinguistic techniques &gt; Eye tracking &gt; Visual world</str>
+                  <str>Script for psycholinguistic techniques &gt; Eye tracking &gt; Other eye tracking</str>
+                  <str>Stimuli for laboratory studies &gt; Audio</str>
+                  <str>Stimuli for laboratory studies &gt; Visual &gt; Pictorial</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Chinese</str>
+                  <str>Korean</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+                  <str>Intermediate/advanced</str>
+                  <str>Advanced</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2008_Hamada_Koda_Influence of first language orthographic experience on second language decoding and word learning</str>
+               </arr>
+               <str name="iris2.references.allauthors">Hamada &amp; Koda (2008)</str>
+               <arr name="iris2.references.author">
+                  <str>Hamada, Megumi</str>
+                  <str>Koda, Keiko</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">hamadakoda</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:805558/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

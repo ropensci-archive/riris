@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:818133">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">508</int>
+            <lst name="params">
+               <str name="q">PID:york?818133</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:818133</str>
+               <arr name="dc.creator">
+                  <str>Wright, Clare</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2009</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>This is a question production task on wh-movement</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:818133</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Productive grammar test</str>
+                  <str>Writing test</str>
+                  <str>Question production task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Wright, Clare</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2009</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>This is a question production task on wh-movement</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:818133</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Productive grammar test</str>
+                  <str>Writing test</str>
+                  <str>Question production task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Wright, Clare</str>
+               </arr>
+               <date name="fgs.createdDate">2013-11-06T16:17:08.81Z</date>
+               <date name="fgs.dateCreated.sort">2013-11-06T16:17:08.81Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-22T10:30:29.805Z</date>
+               <str name="fgs.ownerId">iris-92aa9107-c05e-41e6-8fc3-8df2ee720829</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>c.e.m.wright@reading.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Wright, Clare</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Written production</str>
+                  <str>Closed response format</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Writing test</str>
+                  <str>Question production task</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">productive productive grammar test  writing test writing test  question production task</str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Subjacency</str>
+                  <str>Interrogatives / Questions</str>
+               </arr>
+               <str name="iris.instrument.notes">This is a question production task on wh-movement</str>
+               <str name="iris.instrument.primaryInstrumentType">Question production task</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Working memory</str>
+                  <str>Proficiency</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Productive</str>
+                  <str>Writing test</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Chinese</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2009_Wright_The role of working memory in the development of L2 grammatical proficiency</str>
+                  <str>2010_Wright_Working memory in SLA</str>
+               </arr>
+               <str name="iris.references.allauthors">Wright (2009); Wright (2010)</str>
+               <arr name="iris.references.author">
+                  <str>Wright, Clare</str>
+                  <str>Wright, Clare</str>
+               </arr>
+               <str name="iris.references.author.lastnames">wrightwright</str>
+               <arr name="iris.references.author.noack">
+                  <str>Wright, Clare</str>
+                  <str>Wright, Clare</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>The role of working memory in the development of L2 grammatical proficiency</str>
+                  <str>Issues in second language proficiency</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Benati, A</str>
+               </arr>
+               <arr name="iris.references.placeOfPublication">
+                  <str>Saarbrucken</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2009</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2009</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Chapter</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris.references.publisher">
+                  <str>VDM Publishing</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>c.e.m.wright@reading.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Wright, Clare</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Written production</str>
+                  <str>Closed response format</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Writing test</str>
+                  <str>Question production task</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">productive productive grammar test  writing test writing test  question production task</str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Subjacency</str>
+                  <str>Interrogatives / Questions</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Question production task</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Working memory</str>
+                  <str>Proficiency</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Productive</str>
+                  <str>Writing test</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Chinese</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2009_Wright_The role of working memory in the development of L2 grammatical proficiency</str>
+                  <str>2010_Wright_Working memory in SLA</str>
+               </arr>
+               <str name="iris2.references.allauthors">Wright (2009); Wright (2010)</str>
+               <arr name="iris2.references.author">
+                  <str>Wright, Clare</str>
+                  <str>Wright, Clare</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">wrightwright</str>
+               <arr name="iris2.references.booktitle">
+                  <str>The role of working memory in the development of L2 grammatical proficiency</str>
+                  <str>Issues in second language proficiency</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Benati, A</str>
+               </arr>
+               <arr name="iris2.references.placeOfPublication">
+                  <str>Saarbrucken</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2009</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2009</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Chapter</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris2.references.publisher">
+                  <str>VDM Publishing</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:818133/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:808898">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">550</int>
+            <lst name="params">
+               <str name="q">PID:york?808898</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:808898</str>
+               <arr name="dc.creator">
+                  <str>Myles, Florence</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2008</str>
+                  <str>2003</str>
+                  <str>2005</str>
+                  <str>2007</str>
+                  <str>2008</str>
+                  <str>1998</str>
+                  <str>1999</str>
+                  <str>2004</str>
+                  <str>2003</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:808898</str>
+               </arr>
+               <str name="dc.title">Oral production task (photos)</str>
+               <str name="dc.title.sort">Oral production task (photos)</str>
+               <arr name="dc.type">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive grammar test</str>
+                  <str>Receptive grammar test</str>
+                  <str>Interview protocol / schedule</str>
+                  <str>Vocabulary test (productive)</str>
+                  <str>Vocabulary test (receptive)</str>
+                  <str>Picture description</str>
+                  <str>Oral production task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Myles, Florence</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2008</str>
+                  <str>2003</str>
+                  <str>2005</str>
+                  <str>2007</str>
+                  <str>2008</str>
+                  <str>1998</str>
+                  <str>1999</str>
+                  <str>2004</str>
+                  <str>2003</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:808898</str>
+               </arr>
+               <str name="dc2.title">Oral production task (photos)</str>
+               <arr name="dc2.type">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive grammar test</str>
+                  <str>Receptive grammar test</str>
+                  <str>Interview protocol / schedule</str>
+                  <str>Vocabulary test (productive)</str>
+                  <str>Vocabulary test (receptive)</str>
+                  <str>Picture description</str>
+                  <str>Oral production task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Myles, Florence</str>
+               </arr>
+               <str name="dc3.title">Oral production task (photos)</str>
+               <date name="fgs.createdDate">2013-03-18T15:59:40.436Z</date>
+               <date name="fgs.dateCreated.sort">2013-03-18T15:59:40.436Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-06T11:48:24.692Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>fmyles@essex.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>1</str>
+               </arr>
+               <arr name="iris.feedback.email_1">
+                  <str>mycho@hawaii.edu</str>
+               </arr>
+               <arr name="iris.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.time_1">
+                  <str>17 Jul 2014 13:33:22 GMT</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Myles, Florence</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Open response</str>
+                  <str>Oral production</str>
+                  <str>Oral comprehension</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Interview protocol / schedule</str>
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+                  <str>Oral production task</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">grammar test / morphosyntax test grammar test / morphosyntax test morphosyntax test,morphology test,syntax test productive productive grammar test  receptive receptive grammar test  interview protocol / schedule interview protocol / schedule interview schedule productive vocabulary test (productive)  receptive vocabulary test (receptive)  picture description picture description  oral production task</str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Tense</str>
+                  <str>Open class</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Oral production task</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Lexical and inflectional diversity</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Grammar test / Morphosyntax test &gt; Productive</str>
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+                  <str>Interview protocol / schedule</str>
+                  <str>Vocabulary test &gt; Productive</str>
+                  <str>Vocabulary test &gt; Receptive</str>
+                  <str>Speaking test / Oral production test &gt; Picture description</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Oral production task (photos)</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate/advanced</str>
+                  <str>Advanced</str>
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2008_Marsden_David_Vocabulary use during conversation: A cross-sectional study of development from Year 9 to Year 13 among learners of Spanish and French</str>
+                  <str>2003_Marsden_Myles_Rule_Mitchell_Using CHILDES tools for researching second language acquisition</str>
+                  <str>2005_Myles_Interlanguage corpora and second language acquisition research</str>
+                  <str>2007_Myles_Using electronic corpora in SLA research</str>
+                  <str>2008_Myles_Investigating learner language development with electronic longitudinal corpora: Theoretical and methodological issues</str>
+                  <str>1998_Myles_Hooper_Mitchell_Rote or rule: Exploring the role of formulaic language in classroom foreign language teaching</str>
+                  <str>1999_Myles_Mitchell_Hooper_Interrogative chunks in French L2: A basis for creative construction?</str>
+                  <str>2004_Rule_French interlanguage corpora: Recent developments</str>
+                  <str>2003_Rule_Marsden_Myles_Mitchell_Constructing a database of French interlanguage oral corpora</str>
+               </arr>
+               <str name="iris.references.allauthors">Marsden &amp; David (2008); Marsden, Myles, et al. (2003); Myles (2005); Myles (2007); Myles (2008); Myles, Hooper, et al. (1998); Myles, Mitchell, et al. (1999); Rule (2004); Rule, Marsden, et al. (2003)</str>
+               <arr name="iris.references.author">
+                  <str>Marsden, Emma</str>
+                  <str>David, Annabelle</str>
+                  <str>Marsden, Emma</str>
+                  <str>Myles, Florence</str>
+                  <str>Rule, Sarah</str>
+                  <str>Mitchell, Rosamond</str>
+                  <str>Myles, Florence</str>
+                  <str>Myles, Florence</str>
+                  <str>Myles, Florence</str>
+                  <str>Myles, Florence</str>
+                  <str>Hooper, J.</str>
+                  <str>Mitchell, Rosamond</str>
+                  <str>Myles, Florence</str>
+                  <str>Mitchell, Rosamond</str>
+                  <str>Hooper, J.</str>
+                  <str>Rule, Sarah</str>
+                  <str>Rule, Sarah</str>
+                  <str>Marsden, Emma</str>
+                  <str>Myles, Florence</str>
+                  <str>Mitchell, Rosamond</str>
+               </arr>
+               <str name="iris.references.author.lastnames">marsdendavidmarsdenmylesrulemitchellmylesmylesmylesmyleshoopermitchellmylesmitchellhooperrulerulemarsdenmylesmitchell</str>
+               <arr name="iris.references.author.noack">
+                  <str>Marsden, Emma</str>
+                  <str>David, Annabelle</str>
+                  <str>Marsden, Emma</str>
+                  <str>Myles, Florence</str>
+                  <str>Rule, Sarah</str>
+                  <str>Mitchell, Rosamond</str>
+                  <str>Myles, Florence</str>
+                  <str>Myles, Florence</str>
+                  <str>Myles, Florence</str>
+                  <str>Myles, Florence</str>
+                  <str>Hooper, J.</str>
+                  <str>Mitchell, Rosamond</str>
+                  <str>Myles, Florence</str>
+                  <str>Mitchell, Rosamond</str>
+                  <str>Hooper, J.</str>
+                  <str>Rule, Sarah</str>
+                  <str>Rule, Sarah</str>
+                  <str>Marsden, Emma</str>
+                  <str>Myles, Florence</str>
+                  <str>Mitchell, Rosamond</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>Using CHILDES tools for researching second language acquisition</str>
+                  <str>Applied Linguistics and Communities of Practice, vol. 18</str>
+                  <str>Using electronic corpora in SLA research</str>
+                  <str>Handbook of French applied linguistics</str>
+                  <str>Investigating learner language development with electronic longitudinal corpora: Theoretical and methodological issues</str>
+                  <str>The longitudinal study of advanced L2 capacities</str>
+               </arr>
+               <arr name="iris.references.conferenceName">
+                  <str>Proceedings of the Corpus Linguistics Conference, UCREL Technical Papers 16, University of Lancaster</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Sarangi, Srikant</str>
+                  <str>Van Leeuwen, Theo</str>
+                  <str>Ayoun, D</str>
+                  <str>Ortega, Lourdes</str>
+                  <str>Byrnes, Heidi</str>
+                  <str>Archer, D</str>
+                  <str>Rayson, P</str>
+                  <str>Wilson, E</str>
+                  <str>McEnery, T</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>The Language Learning Journal</str>
+                  <str>Second Language Research</str>
+                  <str>Language Learning</str>
+                  <str>Studies in Second Language Acquisition</str>
+                  <str>Journal of French Language Studies</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2008</str>
+                  <str>2003</str>
+                  <str>2005</str>
+                  <str>2007</str>
+                  <str>2008</str>
+                  <str>1998</str>
+                  <str>1999</str>
+                  <str>2004</str>
+                  <str>2003</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2008</str>
+                  <str>2003</str>
+                  <str>2005</str>
+                  <str>2007</str>
+                  <str>2008</str>
+                  <str>1998</str>
+                  <str>1999</str>
+                  <str>2004</str>
+                  <str>2003</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+                  <str>Chapter</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Proceedings</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>fmyles@essex.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>1</str>
+               </arr>
+               <arr name="iris2.feedback.email_1">
+                  <str>mycho@hawaii.edu</str>
+               </arr>
+               <arr name="iris2.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.time_1">
+                  <str>17 Jul 2014 13:33:22 GMT</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Myles, Florence</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Open response</str>
+                  <str>Oral production</str>
+                  <str>Oral comprehension</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Interview protocol / schedule</str>
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+                  <str>Oral production task</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">grammar test / morphosyntax test grammar test / morphosyntax test morphosyntax test,morphology test,syntax test productive productive grammar test  receptive receptive grammar test  interview protocol / schedule interview protocol / schedule interview schedule productive vocabulary test (productive)  receptive vocabulary test (receptive)  picture description picture description  oral production task</str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Tense</str>
+                  <str>Open class</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Oral production task</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Lexical and inflectional diversity</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Grammar test / Morphosyntax test &gt; Productive</str>
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+                  <str>Interview protocol / schedule</str>
+                  <str>Vocabulary test &gt; Productive</str>
+                  <str>Vocabulary test &gt; Receptive</str>
+                  <str>Speaking test / Oral production test &gt; Picture description</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate/advanced</str>
+                  <str>Advanced</str>
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2008_Marsden_David_Vocabulary use during conversation: A cross-sectional study of development from Year 9 to Year 13 among learners of Spanish and French</str>
+                  <str>2003_Marsden_Myles_Rule_Mitchell_Using CHILDES tools for researching second language acquisition</str>
+                  <str>2005_Myles_Interlanguage corpora and second language acquisition research</str>
+                  <str>2007_Myles_Using electronic corpora in SLA research</str>
+                  <str>2008_Myles_Investigating learner language development with electronic longitudinal corpora: Theoretical and methodological issues</str>
+                  <str>1998_Myles_Hooper_Mitchell_Rote or rule: Exploring the role of formulaic language in classroom foreign language teaching</str>
+                  <str>1999_Myles_Mitchell_Hooper_Interrogative chunks in French L2: A basis for creative construction?</str>
+                  <str>2004_Rule_French interlanguage corpora: Recent developments</str>
+                  <str>2003_Rule_Marsden_Myles_Mitchell_Constructing a database of French interlanguage oral corpora</str>
+               </arr>
+               <str name="iris2.references.allauthors">Marsden &amp; David (2008); Marsden, Myles, et al. (2003); Myles (2005); Myles (2007); Myles (2008); Myles, Hooper, et al. (1998); Myles, Mitchell, et al. (1999); Rule (2004); Rule, Marsden, et al. (2003)</str>
+               <arr name="iris2.references.author">
+                  <str>Marsden, Emma</str>
+                  <str>David, Annabelle</str>
+                  <str>Marsden, Emma</str>
+                  <str>Myles, Florence</str>
+                  <str>Rule, Sarah</str>
+                  <str>Mitchell, Rosamond</str>
+                  <str>Myles, Florence</str>
+                  <str>Myles, Florence</str>
+                  <str>Myles, Florence</str>
+                  <str>Myles, Florence</str>
+                  <str>Hooper, J.</str>
+                  <str>Mitchell, Rosamond</str>
+                  <str>Myles, Florence</str>
+                  <str>Mitchell, Rosamond</str>
+                  <str>Hooper, J.</str>
+                  <str>Rule, Sarah</str>
+                  <str>Rule, Sarah</str>
+                  <str>Marsden, Emma</str>
+                  <str>Myles, Florence</str>
+                  <str>Mitchell, Rosamond</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">marsdendavidmarsdenmylesrulemitchellmylesmylesmylesmyleshoopermitchellmylesmitchellhooperrulerulemarsdenmylesmitchell</str>
+               <arr name="iris2.references.booktitle">
+                  <str>Using CHILDES tools for researching second language acquisition</str>
+                  <str>Applied Linguistics and Communities of Practice, vol. 18</str>
+                  <str>Using electronic corpora in SLA research</str>
+                  <str>Handbook of French applied linguistics</str>
+                  <str>Investigating learner language development with electronic longitudinal corpora: Theoretical and methodological issues</str>
+                  <str>The longitudinal study of advanced L2 capacities</str>
+               </arr>
+               <arr name="iris2.references.conferenceName">
+                  <str>Proceedings of the Corpus Linguistics Conference, UCREL Technical Papers 16, University of Lancaster</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Sarangi, Srikant</str>
+                  <str>Van Leeuwen, Theo</str>
+                  <str>Ayoun, D</str>
+                  <str>Ortega, Lourdes</str>
+                  <str>Byrnes, Heidi</str>
+                  <str>Archer, D</str>
+                  <str>Rayson, P</str>
+                  <str>Wilson, E</str>
+                  <str>McEnery, T</str>
+               </arr>
+               <arr name="iris2.references.journal">
+                  <str>The Language Learning Journal</str>
+                  <str>Second Language Research</str>
+                  <str>Language Learning</str>
+                  <str>Studies in Second Language Acquisition</str>
+                  <str>Journal of French Language Studies</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2008</str>
+                  <str>2003</str>
+                  <str>2005</str>
+                  <str>2007</str>
+                  <str>2008</str>
+                  <str>1998</str>
+                  <str>1999</str>
+                  <str>2004</str>
+                  <str>2003</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2008</str>
+                  <str>2003</str>
+                  <str>2005</str>
+                  <str>2007</str>
+                  <str>2008</str>
+                  <str>1998</str>
+                  <str>1999</str>
+                  <str>2004</str>
+                  <str>2003</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+                  <str>Chapter</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Proceedings</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:808898/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:808898/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:808898/asset/INSTRUMENT2?download=true"/>
+   </files>
+</record>

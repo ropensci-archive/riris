@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:856443">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">481</int>
+            <lst name="params">
+               <str name="q">PID:york?856443</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:856443</str>
+               <arr name="dc.creator">
+                  <str>Stefanou, Charis</str>
+                  <str>Révész, Andrea</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The treatment tasks, text summary test (3 versions), truth value judgement test (3 versions) and test of metalanguage used in this study are all linked in IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:856443</str>
+               </arr>
+               <str name="dc.title">Treatment Tasks</str>
+               <str name="dc.title.sort">Treatment Tasks</str>
+               <arr name="dc.type">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+                  <str>Vocabulary test (receptive)</str>
+                  <str>Receptive grammar test</str>
+                  <str>Picture description</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Stefanou, Charis</str>
+                  <str>Révész, Andrea</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The treatment tasks, text summary test (3 versions), truth value judgement test (3 versions) and test of metalanguage used in this study are all linked in IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:856443</str>
+               </arr>
+               <str name="dc2.title">Treatment Tasks</str>
+               <arr name="dc2.type">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+                  <str>Vocabulary test (receptive)</str>
+                  <str>Receptive grammar test</str>
+                  <str>Picture description</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Stefanou, Charis</str>
+                  <str>Révész, Andrea</str>
+               </arr>
+               <str name="dc3.title">Treatment Tasks</str>
+               <date name="fgs.createdDate">2015-11-16T19:16:21.683Z</date>
+               <date name="fgs.dateCreated.sort">2015-11-16T19:16:21.683Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2016-02-22T15:05:38.362Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>hstefanou.ling@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Stefanou, Charis</str>
+                  <str>Révész, Andrea</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks receptive vocabulary test (receptive)  receptive receptive grammar test  picture description picture description  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Articles</str>
+               </arr>
+               <str name="iris.instrument.notes">The treatment tasks, text summary test (3 versions), truth value judgement test (3 versions) and test of metalanguage used in this study are all linked in IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Instructional / Intervention / Teaching / Training materials</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Error correction / Corrective feedback</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Vocabulary test &gt; Receptive</str>
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+                  <str>Speaking test / Oral production test &gt; Picture description</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Treatment Tasks</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Greek</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Adolescent learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Stefanou_Révész_Direct written corrective feedback, learner differences, and the acquisition of second language article use for generic and specific plural reference</str>
+               </arr>
+               <str name="iris.references.allauthors">Stefanou &amp; Révész (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Stefanou, Charis</str>
+                  <str>Révész, Andrea</str>
+               </arr>
+               <str name="iris.references.author.lastnames">stefanourévész</str>
+               <arr name="iris.references.author.noack">
+                  <str>Stefanou, Charis</str>
+                  <str>Révész, Andrea</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>The Modern Language Journal</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>hstefanou.ling@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Stefanou, Charis</str>
+                  <str>Révész, Andrea</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks receptive vocabulary test (receptive)  receptive receptive grammar test  picture description picture description  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Articles</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Instructional / Intervention / Teaching / Training materials</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Error correction / Corrective feedback</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Vocabulary test &gt; Receptive</str>
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+                  <str>Speaking test / Oral production test &gt; Picture description</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Greek</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Adolescent learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Stefanou_Révész_Direct written corrective feedback, learner differences, and the acquisition of second language article use for generic and specific plural reference</str>
+               </arr>
+               <str name="iris2.references.allauthors">Stefanou &amp; Révész (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Stefanou, Charis</str>
+                  <str>Révész, Andrea</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">stefanourévész</str>
+               <arr name="iris2.references.journal">
+                  <str>The Modern Language Journal</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

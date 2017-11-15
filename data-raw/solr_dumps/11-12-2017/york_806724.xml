@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:806724">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">673</int>
+            <lst name="params">
+               <str name="q">PID:york?806724</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:806724</str>
+               <arr name="dc.creator">
+                  <str>Marsden, Emma</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2005</str>
+                  <str>2006</str>
+                  <str>2007</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:806724</str>
+               </arr>
+               <str name="dc.title">Speaking test - Christmas picture narration</str>
+               <str name="dc.title.sort">Speaking test - Christmas picture narration</str>
+               <arr name="dc.type">
+                  <str>Productive grammar test</str>
+                  <str>Picture description</str>
+                  <str>Picture narration</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Marsden, Emma</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2005</str>
+                  <str>2006</str>
+                  <str>2007</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:806724</str>
+               </arr>
+               <str name="dc2.title">Speaking test - Christmas picture narration</str>
+               <arr name="dc2.type">
+                  <str>Productive grammar test</str>
+                  <str>Picture description</str>
+                  <str>Picture narration</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Marsden, Emma</str>
+               </arr>
+               <str name="dc3.title">Speaking test - Christmas picture narration</str>
+               <date name="fgs.createdDate">2012-10-23T14:25:36.331Z</date>
+               <date name="fgs.dateCreated.sort">2012-10-23T14:25:36.331Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-03T22:08:43.754Z</date>
+               <str name="fgs.ownerId">iris-cf0e435a-b839-436b-b870-789b06a436ba</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>emma.marsden@york.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Marsden, Emma</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Oral production</str>
+                  <str>Open response</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+                  <str>Picture narration</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">productive productive grammar test  picture description picture description  picture narration</str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Aspect</str>
+                  <str>Case</str>
+                  <str>Determiners</str>
+                  <str>Gender</str>
+                  <str>Number</str>
+                  <str>Tense</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Picture description</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Effectiveness of teaching</str>
+                  <str>Processing instruction</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Productive</str>
+                  <str>Other</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Speaking test - Christmas picture narration</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Sound</str>
+                  <str>Still Image</str>
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Marsden_Teaching and learning of French verb inflections: A classroom experiment using processing instruction</str>
+                  <str>2005_Marsden_Input-based grammar pedagogy: A comparison of two possibilities</str>
+                  <str>2006_Marsden_Exploring input processing in the classroom: An experimental comparison of processing instruction and enriched input</str>
+                  <str>2007_Marsden_Can educational experiments both test a theory and inform practice?</str>
+                  <str>in press_Marsden_Torgerson_Single group, pre- and post-test research designs: Some methodological concerns</str>
+               </arr>
+               <str name="iris.references.allauthors">Marsden (2004); Marsden (2005); Marsden (2006); Marsden (2007); Marsden &amp; Torgerson (in press)</str>
+               <arr name="iris.references.author">
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Torgerson, C.</str>
+               </arr>
+               <str name="iris.references.author.lastnames">marsdenmarsdenmarsdenmarsdenmarsdentorgerson</str>
+               <arr name="iris.references.author.noack">
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Torgerson, C.</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>The Language Learning Journal</str>
+                  <str>Language Learning</str>
+                  <str>British Educational Research Journal</str>
+                  <str>Oxford Review of Education</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2005</str>
+                  <str>2006</str>
+                  <str>2007</str>
+                  <str>in press</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2005</str>
+                  <str>2006</str>
+                  <str>2007</str>
+                  <str>in press</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>emma.marsden@york.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Marsden, Emma</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Oral production</str>
+                  <str>Open response</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+                  <str>Picture narration</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">productive productive grammar test  picture description picture description  picture narration</str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Aspect</str>
+                  <str>Case</str>
+                  <str>Determiners</str>
+                  <str>Gender</str>
+                  <str>Number</str>
+                  <str>Tense</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Picture description</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Effectiveness of teaching</str>
+                  <str>Processing instruction</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Productive</str>
+                  <str>Other</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Sound</str>
+                  <str>Still Image</str>
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Marsden_Teaching and learning of French verb inflections: A classroom experiment using processing instruction</str>
+                  <str>2005_Marsden_Input-based grammar pedagogy: A comparison of two possibilities</str>
+                  <str>2006_Marsden_Exploring input processing in the classroom: An experimental comparison of processing instruction and enriched input</str>
+                  <str>2007_Marsden_Can educational experiments both test a theory and inform practice?</str>
+                  <str>in press_Marsden_Torgerson_Single group, pre- and post-test research designs: Some methodological concerns</str>
+               </arr>
+               <str name="iris2.references.allauthors">Marsden (2004); Marsden (2005); Marsden (2006); Marsden (2007); Marsden &amp; Torgerson (in press)</str>
+               <arr name="iris2.references.author">
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Marsden, Emma</str>
+                  <str>Torgerson, C.</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">marsdenmarsdenmarsdenmarsdenmarsdentorgerson</str>
+               <arr name="iris2.references.journal">
+                  <str>The Language Learning Journal</str>
+                  <str>Language Learning</str>
+                  <str>British Educational Research Journal</str>
+                  <str>Oxford Review of Education</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2005</str>
+                  <str>2006</str>
+                  <str>2007</str>
+                  <str>in press</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2005</str>
+                  <str>2006</str>
+                  <str>2007</str>
+                  <str>in press</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2007</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:806724/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="audio/x-wav" url="https://www.iris-database.org/iris/api/resource/york:806724/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:806724/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:806724/asset/INSTRUMENT3?download=true"/>
+   </files>
+</record>

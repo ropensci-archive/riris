@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:822997">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">512</int>
+            <lst name="params">
+               <str name="q">PID:york?822997</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:822997</str>
+               <arr name="dc.creator">
+                  <str>Rast, Rebekah</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2013</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>This test was designed by the VILLA project (Varieties of Initial Learners in Language Acquisition: Controlled classroom input and elementary forms of linguistic organisation). Funding was provided by Open Research Area in Europe for the Social Sciences, Agence nationale de la recherche, Deutsche Forschungsgemeinschaft.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:822997</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Acquisition</str>
+               </arr>
+               <str name="dc.title">Grammaticality judgement stimuli</str>
+               <str name="dc.title.sort">Grammaticality judgement stimuli</str>
+               <arr name="dc.type">
+                  <str>Grammaticality judgement sentences or acceptability judgement</str>
+                  <str>Listening test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Rast, Rebekah</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2013</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>This test was designed by the VILLA project (Varieties of Initial Learners in Language Acquisition: Controlled classroom input and elementary forms of linguistic organisation). Funding was provided by Open Research Area in Europe for the Social Sciences, Agence nationale de la recherche, Deutsche Forschungsgemeinschaft.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:822997</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Acquisition</str>
+               </arr>
+               <str name="dc2.title">Grammaticality judgement stimuli</str>
+               <arr name="dc2.type">
+                  <str>Grammaticality judgement sentences or acceptability judgement</str>
+                  <str>Listening test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Rast, Rebekah</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Acquisition</str>
+               </arr>
+               <str name="dc3.title">Grammaticality judgement stimuli</str>
+               <date name="fgs.createdDate">2014-08-08T15:03:55.172Z</date>
+               <date name="fgs.dateCreated.sort">2014-08-08T15:03:55.172Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-08-13T15:46:27.142Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>rebrast@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Rast, Rebekah</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Judgements</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>European Commission</str>
+                  <str>Netherlands Organisation for Scientific Research (NWO)</str>
+                  <str>Open Research Area in Europe for the Social Sciences (ORA)</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Listening / Aural test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test listening / aural test listening / aural test aural test </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Case</str>
+               </arr>
+               <str name="iris.instrument.notes">This test was designed by the VILLA project (Varieties of Initial Learners in Language Acquisition: Controlled classroom input and elementary forms of linguistic organisation). Funding was provided by Open Research Area in Europe for the Social Sciences, Agence nationale de la recherche, Deutsche Forschungsgemeinschaft.</str>
+               <str name="iris.instrument.primaryInstrumentType">Grammaticality / Acceptability judgement test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Listening / Aural test</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Grammaticality judgement stimuli</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Sound</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Complete beginner</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Polish</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2013_Hinz_Krause_Rast_Shoemaker_Watorek_Initial processing of morphological marking in nonnative language acquisition: Evidence from French and German learners of Polish</str>
+               </arr>
+               <str name="iris.references.allauthors">Hinz, Krause, et al. (2013)</str>
+               <arr name="iris.references.author">
+                  <str>Hinz, Johanna</str>
+                  <str>Krause, Carina</str>
+                  <str>Rast, Rebekah</str>
+                  <str>Shoemaker, Ellenor</str>
+                  <str>Watorek, Marzena</str>
+               </arr>
+               <str name="iris.references.author.lastnames">hinzkrauserastshoemakerwatorek</str>
+               <arr name="iris.references.author.noack">
+                  <str>Hinz, Johanna</str>
+                  <str>Krause, Carina</str>
+                  <str>Rast, Rebekah</str>
+                  <str>Shoemaker, Ellenor</str>
+                  <str>Watorek, Marzena</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>Initial processing of morphological marking in nonnative language acquisition: Evidence from French and German learners of Polish</str>
+                  <str>EUROSLA Yearbook 13</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Roberts, Leah</str>
+                  <str>Ewart, Anna</str>
+                  <str>Pawlak, Miroslaw</str>
+                  <str>Wrembel, Magdalena</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Chapter</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>rebrast@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Rast, Rebekah</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Judgements</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>European Commission</str>
+                  <str>Netherlands Organisation for Scientific Research (NWO)</str>
+                  <str>Open Research Area in Europe for the Social Sciences (ORA)</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Listening / Aural test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test listening / aural test listening / aural test aural test </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Case</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Grammaticality / Acceptability judgement test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Listening / Aural test</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Sound</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Complete beginner</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Polish</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2013_Hinz_Krause_Rast_Shoemaker_Watorek_Initial processing of morphological marking in nonnative language acquisition: Evidence from French and German learners of Polish</str>
+               </arr>
+               <str name="iris2.references.allauthors">Hinz, Krause, et al. (2013)</str>
+               <arr name="iris2.references.author">
+                  <str>Hinz, Johanna</str>
+                  <str>Krause, Carina</str>
+                  <str>Rast, Rebekah</str>
+                  <str>Shoemaker, Ellenor</str>
+                  <str>Watorek, Marzena</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">hinzkrauserastshoemakerwatorek</str>
+               <arr name="iris2.references.booktitle">
+                  <str>Initial processing of morphological marking in nonnative language acquisition: Evidence from French and German learners of Polish</str>
+                  <str>EUROSLA Yearbook 13</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Roberts, Leah</str>
+                  <str>Ewart, Anna</str>
+                  <str>Pawlak, Miroslaw</str>
+                  <str>Wrembel, Magdalena</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Chapter</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:822997/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:822997/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:822997/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:822997/asset/INSTRUMENT3?download=true"/>
+      <file id="INSTRUMENT4" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:822997/asset/INSTRUMENT4?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:853134">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">502</int>
+            <lst name="params">
+               <str name="q">PID:york?853134</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:853134</str>
+               <arr name="dc.creator">
+                  <str>VanPatten, Bill</str>
+                  <str>Wong, Wynne</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2002</str>
+                  <str>1993</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The two records for the 1) "Instructional Materials" (grammar explanation; 5 referential and affective activities and 3 further activities after explicit information had been given) and 2) "Assessment Tasks" (interpretation task and production task for pre- and post-test) used in this study are linked in IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:853134</str>
+               </arr>
+               <str name="dc.title">Assessment Tasks</str>
+               <str name="dc.title.sort">Assessment Tasks</str>
+               <arr name="dc.type">
+                  <str>Productive grammar test</str>
+                  <str>Grammar test</str>
+                  <str>Receptive grammar test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>VanPatten, Bill</str>
+                  <str>Wong, Wynne</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2002</str>
+                  <str>1993</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The two records for the 1) "Instructional Materials" (grammar explanation; 5 referential and affective activities and 3 further activities after explicit information had been given) and 2) "Assessment Tasks" (interpretation task and production task for pre- and post-test) used in this study are linked in IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:853134</str>
+               </arr>
+               <str name="dc2.title">Assessment Tasks</str>
+               <arr name="dc2.type">
+                  <str>Productive grammar test</str>
+                  <str>Grammar test</str>
+                  <str>Receptive grammar test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>VanPatten, Bill</str>
+                  <str>Wong, Wynne</str>
+               </arr>
+               <str name="dc3.title">Assessment Tasks</str>
+               <date name="fgs.createdDate">2015-05-21T14:31:44.045Z</date>
+               <date name="fgs.dateCreated.sort">2015-05-21T14:31:44.045Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2015-05-22T13:01:41.353Z</date>
+               <str name="fgs.ownerId">iris-ce9f7bc3-da6b-43d0-aa72-6a00503b339f</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>bvp@msu.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>VanPatten, Bill</str>
+                  <str>Wong, Wynne</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">productive productive grammar test  grammar test / morphosyntax test grammar test / morphosyntax test morphosyntax test,morphology test,syntax test receptive receptive grammar test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The two records for the 1) "Instructional Materials" (grammar explanation; 5 referential and affective activities and 3 further activities after explicit information had been given) and 2) "Assessment Tasks" (interpretation task and production task for pre- and post-test) used in this study are linked in IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Grammar test / Morphosyntax test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Teaching methods (style, approach, technique)</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Processing instruction</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Productive</str>
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Assessment Tasks</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str/>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2002_Allen_Form-meaning connections and the French causitive</str>
+                  <str>1993_VanPatten_Cadierno_Explicit instruction and input processing</str>
+                  <str>2004_VanPatten_Wong_Processing instruction and the French causative: Another replication</str>
+               </arr>
+               <str name="iris.references.allauthors">VanPatten &amp; Wong (2004); </str>
+               <arr name="iris.references.author">
+                  <str>Allen, Linda Quinn</str>
+                  <str>VanPatten, Bill</str>
+                  <str>Cadierno, Teresa</str>
+                  <str>VanPatten, Bill</str>
+                  <str>Wong, Wynne</str>
+               </arr>
+               <str name="iris.references.author.lastnames">allenvanpattencadiernovanpattenwong</str>
+               <arr name="iris.references.author.noack">
+                  <str>VanPatten, Bill</str>
+                  <str>Wong, Wynne</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>Processing instruction and the French causative: Another replication</str>
+                  <str>Processing Instruction: Theory, Research, and Commentary</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>VanPatten, Bill</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2002</str>
+                  <str>1993</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2002</str>
+                  <str>1993</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>bvp@msu.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>VanPatten, Bill</str>
+                  <str>Wong, Wynne</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">productive productive grammar test  grammar test / morphosyntax test grammar test / morphosyntax test morphosyntax test,morphology test,syntax test receptive receptive grammar test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Grammar test / Morphosyntax test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Teaching methods (style, approach, technique)</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Processing instruction</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Productive</str>
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str/>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2002_Allen_Form-meaning connections and the French causitive</str>
+                  <str>1993_VanPatten_Cadierno_Explicit instruction and input processing</str>
+                  <str>2004_VanPatten_Wong_Processing instruction and the French causative: Another replication</str>
+               </arr>
+               <str name="iris2.references.allauthors">VanPatten &amp; Wong (2004); </str>
+               <arr name="iris2.references.author">
+                  <str>Allen, Linda Quinn</str>
+                  <str>VanPatten, Bill</str>
+                  <str>Cadierno, Teresa</str>
+                  <str>VanPatten, Bill</str>
+                  <str>Wong, Wynne</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">allenvanpattencadiernovanpattenwong</str>
+               <arr name="iris2.references.booktitle">
+                  <str>Processing instruction and the French causative: Another replication</str>
+                  <str>Processing Instruction: Theory, Research, and Commentary</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>VanPatten, Bill</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2002</str>
+                  <str>1993</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2002</str>
+                  <str>1993</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2004</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

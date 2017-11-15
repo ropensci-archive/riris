@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:29357">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">446</int>
+            <lst name="params">
+               <str name="q">PID:york?29357</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:29357</str>
+               <arr name="dc.creator">
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Alegria De La Colina, Ana</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>1985</str>
+                  <str>2007</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:29357</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Discourse completion task</str>
+                  <str>Picture description</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Alegria De La Colina, Ana</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>1985</str>
+                  <str>2007</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:29357</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Discourse completion task</str>
+                  <str>Picture description</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Alegria De La Colina, Ana</str>
+               </arr>
+               <date name="fgs.createdDate">2012-01-17T12:31:38.541Z</date>
+               <date name="fgs.dateCreated.sort">2012-01-17T12:31:38.541Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-25T01:16:55.111Z</date>
+               <str name="fgs.ownerId">iris-818e0843-f7cc-468c-bb43-b767c6c86d3c</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>mariapilar.garciamayo@ehu.es</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Alegria De La Colina, Ana</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Oral production</str>
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>Spanish Minstry of Education/Basque government</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Discourse completion task</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">discourse completion task discourse completion task  picture description picture description  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Discourse completion task</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Discourse</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Picture description</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>Academic</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Near beginner</str>
+                  <str>CFER - Basic Speaker (Waystage or Elementary)</str>
+                  <str>Oxford Placement Test - Basic speaker (Waystage or Elementary)</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>1985_Blakey_English for Maritime Studies</str>
+                  <str>2007_García Mayo_Alegria De La Colina_Attention to form across collaborative tasks by low-proficiency learners in an EFL setting</str>
+                  <str>2009_García Mayo_Alegria De La Colina_Oral interaction in task-based EFL learning: The use of the L1 as a cognitive tool</str>
+               </arr>
+               <str name="iris.references.allauthors">García Mayo &amp; Alegria De La Colina (2007); García Mayo &amp; Alegria De La Colina (2009)</str>
+               <arr name="iris.references.author">
+                  <str>Blakey, T. N.</str>
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Alegria De La Colina, Ana</str>
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Alegria De La Colina, Ana</str>
+               </arr>
+               <str name="iris.references.author.lastnames">blakeygarcía mayoalegria de la colinagarcía mayoalegria de la colina</str>
+               <arr name="iris.references.author.noack">
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Alegria De La Colina, Ana</str>
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Alegria De La Colina, Ana</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>Attention to form across collaborative tasks by low-proficiency learners in an EFL setting</str>
+                  <str>Investigating tasks in formal language learning</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>García Mayo, María Del Pilar</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>International Review of Applied Linguistics</str>
+               </arr>
+               <arr name="iris.references.placeOfPublication">
+                  <str>Oxford</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>1985</str>
+                  <str>2007</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>1985</str>
+                  <str>2007</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Book</str>
+                  <str>Chapter</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris.references.publisher">
+                  <str>Pergamon Press</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>mariapilar.garciamayo@ehu.es</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Alegria De La Colina, Ana</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Oral production</str>
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>Spanish Minstry of Education/Basque government</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Discourse completion task</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">discourse completion task discourse completion task  picture description picture description  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Discourse completion task</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Discourse</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Picture description</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>Academic</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Near beginner</str>
+                  <str>CFER - Basic Speaker (Waystage or Elementary)</str>
+                  <str>Oxford Placement Test - Basic speaker (Waystage or Elementary)</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>1985_Blakey_English for Maritime Studies</str>
+                  <str>2007_García Mayo_Alegria De La Colina_Attention to form across collaborative tasks by low-proficiency learners in an EFL setting</str>
+                  <str>2009_García Mayo_Alegria De La Colina_Oral interaction in task-based EFL learning: The use of the L1 as a cognitive tool</str>
+               </arr>
+               <str name="iris2.references.allauthors">García Mayo &amp; Alegria De La Colina (2007); García Mayo &amp; Alegria De La Colina (2009)</str>
+               <arr name="iris2.references.author">
+                  <str>Blakey, T. N.</str>
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Alegria De La Colina, Ana</str>
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Alegria De La Colina, Ana</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">blakeygarcía mayoalegria de la colinagarcía mayoalegria de la colina</str>
+               <arr name="iris2.references.booktitle">
+                  <str>Attention to form across collaborative tasks by low-proficiency learners in an EFL setting</str>
+                  <str>Investigating tasks in formal language learning</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>García Mayo, María Del Pilar</str>
+               </arr>
+               <arr name="iris2.references.journal">
+                  <str>International Review of Applied Linguistics</str>
+               </arr>
+               <arr name="iris2.references.placeOfPublication">
+                  <str>Oxford</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>1985</str>
+                  <str>2007</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>1985</str>
+                  <str>2007</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Book</str>
+                  <str>Chapter</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.references.publisher">
+                  <str>Pergamon Press</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:29357/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:29357/asset/INSTRUMENT1?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:822290">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">529</int>
+            <lst name="params">
+               <str name="q">PID:york?822290</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:822290</str>
+               <arr name="dc.creator">
+                  <str>Bardovi-Harlig, Kathleen</str>
+                  <str>Mossman, Sabrina</str>
+                  <str>Vellenga, Heidi</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>We thank the Center for Language Technology and Instructional Enrichment (CeLTIE), Indiana University, and their staff for providing technical expertise in recording and formatting the computer tasks. Audio-editing was done by Natasha Branch (CeLTIE).</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:822290</str>
+               </arr>
+               <str name="dc.title">Oral academic group work simulation</str>
+               <str name="dc.title.sort">Oral academic group work simulation</str>
+               <arr name="dc.type">
+                  <str>Communicative task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Bardovi-Harlig, Kathleen</str>
+                  <str>Mossman, Sabrina</str>
+                  <str>Vellenga, Heidi</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>We thank the Center for Language Technology and Instructional Enrichment (CeLTIE), Indiana University, and their staff for providing technical expertise in recording and formatting the computer tasks. Audio-editing was done by Natasha Branch (CeLTIE).</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:822290</str>
+               </arr>
+               <str name="dc2.title">Oral academic group work simulation</str>
+               <arr name="dc2.type">
+                  <str>Communicative task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Bardovi-Harlig, Kathleen</str>
+                  <str>Mossman, Sabrina</str>
+                  <str>Vellenga, Heidi</str>
+               </arr>
+               <str name="dc3.title">Oral academic group work simulation</str>
+               <date name="fgs.createdDate">2014-05-12T23:57:17.777Z</date>
+               <date name="fgs.dateCreated.sort">2014-05-12T23:57:17.777Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-09T14:32:52.614Z</date>
+               <str name="fgs.ownerId">iris-669659db-98b5-42e4-bab4-4c21767b6362</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>bardovi@indiana.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Bardovi-Harlig, Kathleen</str>
+                  <str>Mossman, Sabrina</str>
+                  <str>Vellenga, Heidi</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Open response</str>
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Communicative / Interactive task</str>
+                  <str>Other task</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">other task communicative task  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Agreements</str>
+                  <str>Disagreements</str>
+                  <str>Clarification</str>
+               </arr>
+               <str name="iris.instrument.notes">We thank the Center for Language Technology and Instructional Enrichment (CeLTIE), Indiana University, and their staff for providing technical expertise in recording and formatting the computer tasks. Audio-editing was done by Natasha Branch (CeLTIE).</str>
+               <str name="iris.instrument.primaryInstrumentType">Communicative / Interactive task &gt; Other task</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Effectiveness of teaching</str>
+                  <str>Pragmatic competence</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Oral academic group work simulation</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Sound</str>
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Other</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Bardovi-Harlig_Mossman_Vellenga_The effect of instruction on pragmatic routines in academic discussion</str>
+               </arr>
+               <str name="iris.references.allauthors">Bardovi-Harlig, Mossman, et al. (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Bardovi-Harlig, Kathleen</str>
+                  <str>Mossman, Sabrina</str>
+                  <str>Vellenga, Heidi</str>
+               </arr>
+               <str name="iris.references.author.lastnames">bardovi-harligmossmanvellenga</str>
+               <arr name="iris.references.author.noack">
+                  <str>Bardovi-Harlig, Kathleen</str>
+                  <str>Mossman, Sabrina</str>
+                  <str>Vellenga, Heidi</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Teaching Research</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>bardovi@indiana.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Bardovi-Harlig, Kathleen</str>
+                  <str>Mossman, Sabrina</str>
+                  <str>Vellenga, Heidi</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Open response</str>
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Communicative / Interactive task</str>
+                  <str>Other task</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">other task communicative task  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Agreements</str>
+                  <str>Disagreements</str>
+                  <str>Clarification</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Communicative / Interactive task &gt; Other task</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Effectiveness of teaching</str>
+                  <str>Pragmatic competence</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Sound</str>
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Other</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Bardovi-Harlig_Mossman_Vellenga_The effect of instruction on pragmatic routines in academic discussion</str>
+               </arr>
+               <str name="iris2.references.allauthors">Bardovi-Harlig, Mossman, et al. (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Bardovi-Harlig, Kathleen</str>
+                  <str>Mossman, Sabrina</str>
+                  <str>Vellenga, Heidi</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">bardovi-harligmossmanvellenga</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Teaching Research</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:822290/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

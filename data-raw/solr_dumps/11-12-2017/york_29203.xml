@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:29203">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">467</int>
+            <lst name="params">
+               <str name="q">PID:york?29203</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:29203</str>
+               <arr name="dc.creator">
+                  <str>Trenkic, Danijela</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2004</str>
+                  <str>2007</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>An article-choice study involving L1 Mandarin/L2 English bilinguals is reported. It tested two recent accounts on the representation of English articles in L2 grammars (where L1 has no articles). The Fluctuation Hypothesis (Ionin, Ko and Wexler, 2004) predicts that L2 speakers will have full access to UG, but will fluctuate between the settings of the postulated Article Choice Parameter; article choices will be influenced by [±specificity]. The syntactic misanalysis account, on which L2 articles are treated as adjectives (Trenkic, 2007), predicts that article choices will be influenced by the objective identifiability of referents. By discussing the notion of specificity and emphasising problems in its operationalisation, the current study introduces an innovative design to reveal that what was previously observed as the effect of specificity on L2 article choices (full UG access) is better described as an effect of the stated/denied familiarity with the referent (an extra-linguistic factor).</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Gap-fill / Cloze test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Trenkic, Danijela</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2004</str>
+                  <str>2007</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>An article-choice study involving L1 Mandarin/L2 English bilinguals is reported. It tested two recent accounts on the representation of English articles in L2 grammars (where L1 has no articles). The Fluctuation Hypothesis (Ionin, Ko and Wexler, 2004) predicts that L2 speakers will have full access to UG, but will fluctuate between the settings of the postulated Article Choice Parameter; article choices will be influenced by [±specificity]. The syntactic misanalysis account, on which L2 articles are treated as adjectives (Trenkic, 2007), predicts that article choices will be influenced by the objective identifiability of referents. By discussing the notion of specificity and emphasising problems in its operationalisation, the current study introduces an innovative design to reveal that what was previously observed as the effect of specificity on L2 article choices (full UG access) is better described as an effect of the stated/denied familiarity with the referent (an extra-linguistic factor).</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Gap-fill / Cloze test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Trenkic, Danijela</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <date name="fgs.createdDate">2012-01-04T11:17:34.071Z</date>
+               <date name="fgs.dateCreated.sort">2012-01-04T11:17:34.071Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-07-21T20:15:20.67Z</date>
+               <str name="fgs.ownerId">fedoraAdmin</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>danijela.trenkic@york.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>1</str>
+               </arr>
+               <arr name="iris.feedback.email_1">
+                  <str>jtanaka@kobe-u.ac.jp</str>
+               </arr>
+               <arr name="iris.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.time_1">
+                  <str>6 Aug 2014 03:55:09 GMT</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Trenkic, Danijela</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Closed response format</str>
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>University of York</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">gap-fill / cloze test / fill in the blank gap-fill / cloze test / fill in the blank fill in the blank, cloze,gap fill </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>English articles</str>
+               </arr>
+               <str name="iris.instrument.notes">An article-choice study involving L1 Mandarin/L2 English bilinguals is reported. It tested two recent accounts on the representation of English articles in L2 grammars (where L1 has no articles). The Fluctuation Hypothesis (Ionin, Ko and Wexler, 2004) predicts that L2 speakers will have full access to UG, but will fluctuate between the settings of the postulated Article Choice Parameter; article choices will be influenced by [±specificity]. The syntactic misanalysis account, on which L2 articles are treated as adjectives (Trenkic, 2007), predicts that article choices will be influenced by the objective identifiability of referents. By discussing the notion of specificity and emphasising problems in its operationalisation, the current study introduces an innovative design to reveal that what was previously observed as the effect of specificity on L2 article choices (full UG access) is better described as an effect of the stated/denied familiarity with the referent (an extra-linguistic factor).</str>
+               <str name="iris.instrument.primaryInstrumentType">Gap-fill / Cloze test / Fill in the blank</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Chinese</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+                  <str>Monolinguals</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate/advanced</str>
+                  <str>IELTS (overall score) - Competent User (6)</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2004_Ionin_Ko_Wexler_Article semantics in L2 acquisition: The role of specificity</str>
+                  <str>Pongpairoj_Variability in second language article production: A comparison of L1 Thai and L1 French learners of L2 English</str>
+                  <str>2007_Pongpairoj_Are L2 English article choices UG-regulated</str>
+                  <str>2008_Trenkic_The representation of English articles in second language grammars: Determiners or adjectives</str>
+               </arr>
+               <str name="iris.references.allauthors">Pongpairoj (2008); Pongpairoj (2007); Trenkic (2008)</str>
+               <arr name="iris.references.author">
+                  <str>Ionin, T.</str>
+                  <str>Ko, H.</str>
+                  <str>Wexler, K.</str>
+                  <str>Pongpairoj, Nattama</str>
+                  <str>Pongpairoj, Nattama</str>
+                  <str>Trenkic, Danijela</str>
+               </arr>
+               <str name="iris.references.author.lastnames">ioninkowexlerpongpairojpongpairojtrenkic</str>
+               <arr name="iris.references.author.noack">
+                  <str>Pongpairoj, Nattama</str>
+                  <str>Pongpairoj, Nattama</str>
+                  <str>Trenkic, Danijela</str>
+               </arr>
+               <arr name="iris.references.conferenceName">
+                  <str>The Fifth Cambridge Postgraduate Conference in Language Research</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Bilingualism: Language and Cognition</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2004</str>
+                  <str>2007</str>
+                  <str>2008</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2004</str>
+                  <str>2007</str>
+                  <str>2008</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Thesis</str>
+                  <str>Proceedings</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>danijela.trenkic@york.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>1</str>
+               </arr>
+               <arr name="iris2.feedback.email_1">
+                  <str>jtanaka@kobe-u.ac.jp</str>
+               </arr>
+               <arr name="iris2.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.time_1">
+                  <str>6 Aug 2014 03:55:09 GMT</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Trenkic, Danijela</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Closed response format</str>
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>University of York</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">gap-fill / cloze test / fill in the blank gap-fill / cloze test / fill in the blank fill in the blank, cloze,gap fill </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>English articles</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Gap-fill / Cloze test / Fill in the blank</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Chinese</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+                  <str>Monolinguals</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate/advanced</str>
+                  <str>IELTS (overall score) - Competent User (6)</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2004_Ionin_Ko_Wexler_Article semantics in L2 acquisition: The role of specificity</str>
+                  <str>Pongpairoj_Variability in second language article production: A comparison of L1 Thai and L1 French learners of L2 English</str>
+                  <str>2007_Pongpairoj_Are L2 English article choices UG-regulated</str>
+                  <str>2008_Trenkic_The representation of English articles in second language grammars: Determiners or adjectives</str>
+               </arr>
+               <str name="iris2.references.allauthors">Pongpairoj (2008); Pongpairoj (2007); Trenkic (2008)</str>
+               <arr name="iris2.references.author">
+                  <str>Ionin, T.</str>
+                  <str>Ko, H.</str>
+                  <str>Wexler, K.</str>
+                  <str>Pongpairoj, Nattama</str>
+                  <str>Pongpairoj, Nattama</str>
+                  <str>Trenkic, Danijela</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">ioninkowexlerpongpairojpongpairojtrenkic</str>
+               <arr name="iris2.references.conferenceName">
+                  <str>The Fifth Cambridge Postgraduate Conference in Language Research</str>
+               </arr>
+               <arr name="iris2.references.journal">
+                  <str>Bilingualism: Language and Cognition</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2004</str>
+                  <str>2007</str>
+                  <str>2008</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2004</str>
+                  <str>2007</str>
+                  <str>2008</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Thesis</str>
+                  <str>Proceedings</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:29203/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

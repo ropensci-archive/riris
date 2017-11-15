@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:874839">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">476</int>
+            <lst name="params">
+               <str name="q">PID:york?874839</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:874839</str>
+               <arr name="dc.creator">
+                  <str>Mougeon, Françoise</str>
+                  <str>Rehner, Katherine</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2009</str>
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The records for the interview questions and questionnaire used in this study are both linked in IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:874839</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Biographical questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Language preferences or dominance questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Mougeon, Françoise</str>
+                  <str>Rehner, Katherine</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2009</str>
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The records for the interview questions and questionnaire used in this study are both linked in IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:874839</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Biographical questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Language preferences or dominance questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Mougeon, Françoise</str>
+                  <str>Rehner, Katherine</str>
+               </arr>
+               <date name="fgs.createdDate">2015-11-26T16:51:18.333Z</date>
+               <date name="fgs.dateCreated.sort">2015-11-26T16:51:18.333Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-03T23:30:18.426Z</date>
+               <str name="fgs.ownerId">iris-5a53f875-7488-4f75-b2eb-73d764f00b4e</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>katherine.rehner@utoronto.ca</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Mougeon, Françoise</str>
+                  <str>Rehner, Katherine</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language preferences or dominance questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">biographical questionnaire biographical questionnaire  language background questionnaire language background questionnaire  language preferences or dominance questionnaire language preferences or dominance questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The records for the interview questions and questionnaire used in this study are both linked in IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Language preferences or dominance questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Linguistic identity</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Bilingualism</str>
+                  <str>Multilingualism</str>
+                  <str>Proficiency</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Biographical questionnaire</str>
+                  <str>Questionnaire &gt; Language background questionnaire</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str/>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2009_Mougeon_Rehner_From grade school to university: The variable use of on/nous by university FSL students</str>
+                  <str>2015_Mougeon_Rehner_Engagement portraits and (socio)linguistic performance: A transversal and longitudinal study of advanced L2 learners</str>
+               </arr>
+               <str name="iris.references.allauthors">Mougeon &amp; Rehner (2009); Mougeon &amp; Rehner (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Mougeon , Françoise</str>
+                  <str>Rehner, Katherine</str>
+                  <str>Mougeon , Françoise</str>
+                  <str>Rehner, Katherine</str>
+               </arr>
+               <str name="iris.references.author.lastnames">mougeonrehnermougeonrehner</str>
+               <arr name="iris.references.author.noack">
+                  <str>Mougeon , Françoise</str>
+                  <str>Rehner, Katherine</str>
+                  <str>Mougeon , Françoise</str>
+                  <str>Rehner, Katherine</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Canadian Modern Language Review</str>
+                  <str>Studies in Second Language Acquisition</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2009</str>
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2009</str>
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>katherine.rehner@utoronto.ca</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Mougeon, Françoise</str>
+                  <str>Rehner, Katherine</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language preferences or dominance questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">biographical questionnaire biographical questionnaire  language background questionnaire language background questionnaire  language preferences or dominance questionnaire language preferences or dominance questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Language preferences or dominance questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Linguistic identity</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Bilingualism</str>
+                  <str>Multilingualism</str>
+                  <str>Proficiency</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Biographical questionnaire</str>
+                  <str>Questionnaire &gt; Language background questionnaire</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str/>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2009_Mougeon_Rehner_From grade school to university: The variable use of on/nous by university FSL students</str>
+                  <str>2015_Mougeon_Rehner_Engagement portraits and (socio)linguistic performance: A transversal and longitudinal study of advanced L2 learners</str>
+               </arr>
+               <str name="iris2.references.allauthors">Mougeon &amp; Rehner (2009); Mougeon &amp; Rehner (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Mougeon , Françoise</str>
+                  <str>Rehner, Katherine</str>
+                  <str>Mougeon , Françoise</str>
+                  <str>Rehner, Katherine</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">mougeonrehnermougeonrehner</str>
+               <arr name="iris2.references.journal">
+                  <str>Canadian Modern Language Review</str>
+                  <str>Studies in Second Language Acquisition</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2009</str>
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2009</str>
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:874839/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

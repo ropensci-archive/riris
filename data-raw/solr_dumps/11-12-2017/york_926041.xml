@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:926041">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">522</int>
+            <lst name="params">
+               <str name="q">PID:york?926041</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:926041</str>
+               <arr name="dc.creator">
+                  <str>Mai, Ziyin</str>
+                  <str>Yuan, Boping</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2016</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The records for the sociolinguistic questionnaire, sentence completion task, multiple choice interpretation task, AJT tense test, AJT telicity test and felicity rating task used in this study are linked on IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:926041</str>
+               </arr>
+               <str name="dc.title">Felicity rating task</str>
+               <str name="dc.title.sort">Felicity rating task</str>
+               <arr name="dc.type">
+                  <str>Receptive grammar test</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Mai, Ziyin</str>
+                  <str>Yuan, Boping</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2016</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The records for the sociolinguistic questionnaire, sentence completion task, multiple choice interpretation task, AJT tense test, AJT telicity test and felicity rating task used in this study are linked on IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:926041</str>
+               </arr>
+               <str name="dc2.title">Felicity rating task</str>
+               <arr name="dc2.type">
+                  <str>Receptive grammar test</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Mai, Ziyin</str>
+                  <str>Yuan, Boping</str>
+               </arr>
+               <str name="dc3.title">Felicity rating task</str>
+               <date name="fgs.createdDate">2016-04-01T11:18:48.083Z</date>
+               <date name="fgs.dateCreated.sort">2016-04-01T11:18:48.083Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2016-04-01T12:00:18.566Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>maiziyin@cuhk.edu.hk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Mai, Ziyin</str>
+                  <str>Yuan, Boping</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">receptive receptive grammar test  grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Aspect</str>
+                  <str>Tense</str>
+               </arr>
+               <str name="iris.instrument.notes">The records for the sociolinguistic questionnaire, sentence completion task, multiple choice interpretation task, AJT tense test, AJT telicity test and felicity rating task used in this study are linked on IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Grammaticality / Acceptability judgement test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Discourse</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Felicity rating task</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+                  <str>Software</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Chinese</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2016_Mai_Yuan_Uneven reassembly of tense, telicity and discourse features in L2 acquisition of the Chinese shì &#8230; de cleft construction by adult English speakers</str>
+               </arr>
+               <str name="iris.references.allauthors">Mai &amp; Yuan (2016)</str>
+               <arr name="iris.references.author">
+                  <str>Mai, Ziyin</str>
+                  <str>Yuan, Boping</str>
+               </arr>
+               <str name="iris.references.author.lastnames">maiyuan</str>
+               <arr name="iris.references.author.noack">
+                  <str>Mai, Ziyin</str>
+                  <str>Yuan, Boping</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Second Language Research</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>maiziyin@cuhk.edu.hk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Mai, Ziyin</str>
+                  <str>Yuan, Boping</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">receptive receptive grammar test  grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Aspect</str>
+                  <str>Tense</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Grammaticality / Acceptability judgement test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Discourse</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+                  <str>Software</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Chinese</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2016_Mai_Yuan_Uneven reassembly of tense, telicity and discourse features in L2 acquisition of the Chinese shì &#8230; de cleft construction by adult English speakers</str>
+               </arr>
+               <str name="iris2.references.allauthors">Mai &amp; Yuan (2016)</str>
+               <arr name="iris2.references.author">
+                  <str>Mai, Ziyin</str>
+                  <str>Yuan, Boping</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">maiyuan</str>
+               <arr name="iris2.references.journal">
+                  <str>Second Language Research</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

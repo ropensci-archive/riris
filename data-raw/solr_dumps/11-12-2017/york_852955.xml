@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:852955">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">516</int>
+            <lst name="params">
+               <str name="q">PID:york?852955</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:852955</str>
+               <arr name="dc.creator">
+                  <str>Escudero, Paola</str>
+                  <str>Simon, Ellen</str>
+                  <str>Mulak, Karen</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+                  <str>2013</str>
+                  <str>2008</str>
+                  <str>2014</str>
+                  <str>2006</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The language background questionnaire, word-learning task and word-recognition task used in this study are all linked in IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:852955</str>
+               </arr>
+               <str name="dc.title">Word-learning task</str>
+               <str name="dc.title.sort">Word-learning task</str>
+               <arr name="dc.type">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Escudero, Paola</str>
+                  <str>Simon, Ellen</str>
+                  <str>Mulak, Karen</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+                  <str>2013</str>
+                  <str>2008</str>
+                  <str>2014</str>
+                  <str>2006</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The language background questionnaire, word-learning task and word-recognition task used in this study are all linked in IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:852955</str>
+               </arr>
+               <str name="dc2.title">Word-learning task</str>
+               <arr name="dc2.type">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Escudero, Paola</str>
+                  <str>Simon, Ellen</str>
+                  <str>Mulak, Karen</str>
+               </arr>
+               <str name="dc3.title">Word-learning task</str>
+               <date name="fgs.createdDate">2015-05-14T12:11:53.035Z</date>
+               <date name="fgs.dateCreated.sort">2015-05-14T12:11:53.035Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2016-02-26T10:04:56.197Z</date>
+               <str name="fgs.ownerId">iris-ce9f7bc3-da6b-43d0-aa72-6a00503b339f</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>paola.escudero@uws.edu.au</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Escudero, Paola</str>
+                  <str>Simon, Ellen</str>
+                  <str>Mulak, Karen</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The language background questionnaire, word-learning task and word-recognition task used in this study are all linked in IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Instructional / Intervention / Teaching / Training materials</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Learner strategies</str>
+                  <str>Phonology</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris.instrument.software">
+                  <str>EPrime</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Word-learning task</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str/>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Dutch</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Escudero_Orthography plays a limited role when learning the phonological forms of new words: The case of Spanish and English learners of novel Dutch words</str>
+                  <str>2013_Escudero_Broersma_Simon_Learning words in a third language: Effects of vowel inventory and language proficiency</str>
+                  <str>2008_Escudero_Hayes-Harb_Mitterer_Novel L2 words and asymmetric lexical access</str>
+                  <str>2014_Escudero_Simon_Mulak_Learning words in a new language: Orthography doesn't always help</str>
+                  <str>2006_Shatzman_McQueen_Prosodic knowledge affects the recognition of newly acquired words</str>
+               </arr>
+               <str name="iris.references.allauthors">Escudero (2015); Escudero, Broersma, et al. (2013); Escudero, Simon, et al. (2014); </str>
+               <arr name="iris.references.author">
+                  <str>Escudero, Paola</str>
+                  <str>Escudero, Paola</str>
+                  <str>Broersma, Mirjam</str>
+                  <str>Simon, Ellen</str>
+                  <str>Escudero, Paola</str>
+                  <str>Hayes-Harb, Rachel</str>
+                  <str>Mitterer, Holger</str>
+                  <str>Escudero, Paola</str>
+                  <str>Simon, Ellen</str>
+                  <str>Mulak, Karen</str>
+                  <str>Shatzman, Keren</str>
+                  <str>McQueen, James</str>
+               </arr>
+               <str name="iris.references.author.lastnames">escuderoescuderobroersmasimonescuderohayes-harbmittererescuderosimonmulakshatzmanmcqueen</str>
+               <arr name="iris.references.author.noack">
+                  <str>Escudero, Paola</str>
+                  <str>Escudero, Paola</str>
+                  <str>Broersma, Mirjam</str>
+                  <str>Simon, Ellen</str>
+                  <str>Escudero, Paola</str>
+                  <str>Simon, Ellen</str>
+                  <str>Mulak, Karen</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Applied Psycholinguistics</str>
+                  <str>Language and Cognitive Processes</str>
+                  <str>Bilingualism: Language and Cognition</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+                  <str>2013</str>
+                  <str>2008</str>
+                  <str>2014</str>
+                  <str>2006</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+                  <str>2013</str>
+                  <str>2008</str>
+                  <str>2014</str>
+                  <str>2006</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>paola.escudero@uws.edu.au</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Escudero, Paola</str>
+                  <str>Simon, Ellen</str>
+                  <str>Mulak, Karen</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Instructional / Intervention / Teaching / Training materials</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Learner strategies</str>
+                  <str>Phonology</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris2.instrument.software">
+                  <str>EPrime</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str/>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Dutch</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Escudero_Orthography plays a limited role when learning the phonological forms of new words: The case of Spanish and English learners of novel Dutch words</str>
+                  <str>2013_Escudero_Broersma_Simon_Learning words in a third language: Effects of vowel inventory and language proficiency</str>
+                  <str>2008_Escudero_Hayes-Harb_Mitterer_Novel L2 words and asymmetric lexical access</str>
+                  <str>2014_Escudero_Simon_Mulak_Learning words in a new language: Orthography doesn't always help</str>
+                  <str>2006_Shatzman_McQueen_Prosodic knowledge affects the recognition of newly acquired words</str>
+               </arr>
+               <str name="iris2.references.allauthors">Escudero (2015); Escudero, Broersma, et al. (2013); Escudero, Simon, et al. (2014); </str>
+               <arr name="iris2.references.author">
+                  <str>Escudero, Paola</str>
+                  <str>Escudero, Paola</str>
+                  <str>Broersma, Mirjam</str>
+                  <str>Simon, Ellen</str>
+                  <str>Escudero, Paola</str>
+                  <str>Hayes-Harb, Rachel</str>
+                  <str>Mitterer, Holger</str>
+                  <str>Escudero, Paola</str>
+                  <str>Simon, Ellen</str>
+                  <str>Mulak, Karen</str>
+                  <str>Shatzman, Keren</str>
+                  <str>McQueen, James</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">escuderoescuderobroersmasimonescuderohayes-harbmittererescuderosimonmulakshatzmanmcqueen</str>
+               <arr name="iris2.references.journal">
+                  <str>Applied Psycholinguistics</str>
+                  <str>Language and Cognitive Processes</str>
+                  <str>Bilingualism: Language and Cognition</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+                  <str>2013</str>
+                  <str>2008</str>
+                  <str>2014</str>
+                  <str>2006</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+                  <str>2013</str>
+                  <str>2008</str>
+                  <str>2014</str>
+                  <str>2006</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

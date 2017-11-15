@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:925805">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">470</int>
+            <lst name="params">
+               <str name="q">PID:york?925805</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:925805</str>
+               <arr name="dc.creator">
+                  <str>Bowerman, Melissa</str>
+                  <str>Gullberg, Marianne</str>
+                  <str>Asifa, Majid</str>
+                  <str>Bhuvana, Narasimhan</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2016</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The video stimuli and field manual entry for these materials are available to download from http://fieldmanuals.mpi.nl/volumes/2004/put-project/</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:925805</str>
+               </arr>
+               <str name="dc.title">Put Project video stumli</str>
+               <str name="dc.title.sort">Put Project video stumli</str>
+               <arr name="dc.type">
+                  <str>Stimuli for laboratory studies (video)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Bowerman, Melissa</str>
+                  <str>Gullberg, Marianne</str>
+                  <str>Asifa, Majid</str>
+                  <str>Bhuvana, Narasimhan</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2016</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The video stimuli and field manual entry for these materials are available to download from http://fieldmanuals.mpi.nl/volumes/2004/put-project/</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:925805</str>
+               </arr>
+               <str name="dc2.title">Put Project video stumli</str>
+               <arr name="dc2.type">
+                  <str>Stimuli for laboratory studies (video)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Bowerman, Melissa</str>
+                  <str>Gullberg, Marianne</str>
+                  <str>Asifa, Majid</str>
+                  <str>Bhuvana, Narasimhan</str>
+               </arr>
+               <str name="dc3.title">Put Project video stumli</str>
+               <date name="fgs.createdDate">2016-02-23T11:41:13.845Z</date>
+               <date name="fgs.dateCreated.sort">2016-02-23T11:41:13.845Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2016-05-07T20:58:51.702Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>eb652@york.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Bowerman, Melissa</str>
+                  <str>Gullberg, Marianne</str>
+                  <str>Asifa, Majid</str>
+                  <str>Bhuvana, Narasimhan</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Video</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">video stimuli for laboratory studies (video)  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Semantics</str>
+               </arr>
+               <str name="iris.instrument.notes">The video stimuli and field manual entry for these materials are available to download from http://fieldmanuals.mpi.nl/volumes/2004/put-project/</str>
+               <str name="iris.instrument.primaryInstrumentType">Stimuli for laboratory studies &gt; Video</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Speaking / Oral production</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Put Project video stumli</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Video</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2016_Cadierno_Ibarretxe-Antu&#328;ano_Hijazo-Gascón_Semantic categorization of placement verbs in L1 and L2 Danish and Spanish</str>
+               </arr>
+               <str name="iris.references.allauthors">Cadierno, Ibarretxe-Antu&#328;ano, et al. (2016)</str>
+               <arr name="iris.references.author">
+                  <str>Cadierno, Teresa</str>
+                  <str>Ibarretxe-Antu&#328;ano, Iraide</str>
+                  <str>Hijazo-Gascón, Alberto</str>
+               </arr>
+               <str name="iris.references.author.lastnames">cadiernoibarretxe-antu&#328;anohijazo-gascón</str>
+               <arr name="iris.references.author.noack">
+                  <str>Cadierno, Teresa</str>
+                  <str>Ibarretxe-Antu&#328;ano, Iraide</str>
+                  <str>Hijazo-Gascón, Alberto</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>eb652@york.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Bowerman, Melissa</str>
+                  <str>Gullberg, Marianne</str>
+                  <str>Asifa, Majid</str>
+                  <str>Bhuvana, Narasimhan</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Video</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">video stimuli for laboratory studies (video)  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Semantics</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Stimuli for laboratory studies &gt; Video</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Speaking / Oral production</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Video</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2016_Cadierno_Ibarretxe-Antu&#328;ano_Hijazo-Gascón_Semantic categorization of placement verbs in L1 and L2 Danish and Spanish</str>
+               </arr>
+               <str name="iris2.references.allauthors">Cadierno, Ibarretxe-Antu&#328;ano, et al. (2016)</str>
+               <arr name="iris2.references.author">
+                  <str>Cadierno, Teresa</str>
+                  <str>Ibarretxe-Antu&#328;ano, Iraide</str>
+                  <str>Hijazo-Gascón, Alberto</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">cadiernoibarretxe-antu&#328;anohijazo-gascón</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

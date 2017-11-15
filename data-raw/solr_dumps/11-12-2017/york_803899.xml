@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:803899">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">464</int>
+            <lst name="params">
+               <str name="q">PID:york?803899</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:803899</str>
+               <arr name="dc.creator">
+                  <str>Egi, Takako</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2010</str>
+                  <str>2000</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Interaction</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Interview protocol</str>
+                  <str>Stimulated recall</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Egi, Takako</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2010</str>
+                  <str>2000</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Interaction</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Interview protocol</str>
+                  <str>Stimulated recall</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Egi, Takako</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Interaction</str>
+               </arr>
+               <date name="fgs.createdDate">2012-07-06T20:30:25.638Z</date>
+               <date name="fgs.dateCreated.sort">2012-07-06T20:30:25.638Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-18T20:58:04.414Z</date>
+               <str name="fgs.ownerId">fedoraAdmin</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>takako.egi@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Egi, Takako</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Qualitative</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Interview protocol / schedule</str>
+                  <str>Stimulated recall</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">interview protocol / schedule interview protocol / schedule interview schedule stimulated recall stimulated recall  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Stimulated recall</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Interaction</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Interview protocol / schedule</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2010_Egi_Uptake, modified output, and learner perceptions of recasts: Learner responses as language awareness</str>
+                  <str>2000_Mackey_Gass_Stimulated recall methodology in second language research.</str>
+               </arr>
+               <str name="iris.references.allauthors">Egi (2010)</str>
+               <arr name="iris.references.author">
+                  <str>Egi, Takako</str>
+                  <str>Mackey, Alison</str>
+                  <str>Gass, Susan</str>
+               </arr>
+               <str name="iris.references.author.lastnames">egimackeygass</str>
+               <arr name="iris.references.author.noack">
+                  <str>Egi, Takako</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>The Modern Language Journal</str>
+               </arr>
+               <arr name="iris.references.placeOfPublication">
+                  <str>Mahwah, Nj</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2010</str>
+                  <str>2000</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2010</str>
+                  <str>2000</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris.references.publisher">
+                  <str>Lawrence Erlbaum</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>takako.egi@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Egi, Takako</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Qualitative</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Interview protocol / schedule</str>
+                  <str>Stimulated recall</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">interview protocol / schedule interview protocol / schedule interview schedule stimulated recall stimulated recall  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Stimulated recall</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Interaction</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Interview protocol / schedule</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2010_Egi_Uptake, modified output, and learner perceptions of recasts: Learner responses as language awareness</str>
+                  <str>2000_Mackey_Gass_Stimulated recall methodology in second language research.</str>
+               </arr>
+               <str name="iris2.references.allauthors">Egi (2010)</str>
+               <arr name="iris2.references.author">
+                  <str>Egi, Takako</str>
+                  <str>Mackey, Alison</str>
+                  <str>Gass, Susan</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">egimackeygass</str>
+               <arr name="iris2.references.journal">
+                  <str>The Modern Language Journal</str>
+               </arr>
+               <arr name="iris2.references.placeOfPublication">
+                  <str>Mahwah, Nj</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2010</str>
+                  <str>2000</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2010</str>
+                  <str>2000</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris2.references.publisher">
+                  <str>Lawrence Erlbaum</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:803899/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

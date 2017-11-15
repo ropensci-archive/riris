@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:833249">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">523</int>
+            <lst name="params">
+               <str name="q">PID:york?833249</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:833249</str>
+               <arr name="dc.creator">
+                  <str>Révész, Andrea</str>
+                  <str>Sachs, Rebecca</str>
+                  <str>Hama, M.</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2014</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:833249</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Receptive grammar test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Révész, Andrea</str>
+                  <str>Sachs, Rebecca</str>
+                  <str>Hama, M.</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2014</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:833249</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Receptive grammar test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Révész, Andrea</str>
+                  <str>Sachs, Rebecca</str>
+                  <str>Hama, M.</str>
+               </arr>
+               <date name="fgs.createdDate">2014-11-06T18:28:42.465Z</date>
+               <date name="fgs.dateCreated.sort">2014-11-06T18:28:42.465Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2016-11-12T05:48:04.088Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>a.revesz@ioe.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Révész, Andrea</str>
+                  <str>Sachs, Rebecca</str>
+                  <str>Hama, M.</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">receptive receptive grammar test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Aspect</str>
+                  <str>Mood/modals</str>
+                  <str>Tense</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Grammar test / Morphosyntax test &gt; Receptive</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Effectiveness of teaching</str>
+                  <str>Error correction / Corrective feedback</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate/advanced</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2014_Révész_Sachs_Hama_The Effects of Task Complexity and Input Frequency on the Acquisition of the Past Counterfactual Construction Through Recasts</str>
+               </arr>
+               <str name="iris.references.allauthors">Révész, Sachs, et al. (2014)</str>
+               <arr name="iris.references.author">
+                  <str>Révész, Andrea</str>
+                  <str>Sachs, Rebecca</str>
+                  <str>Hama, M.</str>
+               </arr>
+               <str name="iris.references.author.lastnames">révészsachshama</str>
+               <arr name="iris.references.author.noack">
+                  <str>Révész, Andrea</str>
+                  <str>Sachs, Rebecca</str>
+                  <str>Hama, M.</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>a.revesz@ioe.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Révész, Andrea</str>
+                  <str>Sachs, Rebecca</str>
+                  <str>Hama, M.</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">receptive receptive grammar test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Aspect</str>
+                  <str>Mood/modals</str>
+                  <str>Tense</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Grammar test / Morphosyntax test &gt; Receptive</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Effectiveness of teaching</str>
+                  <str>Error correction / Corrective feedback</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate/advanced</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2014_Révész_Sachs_Hama_The Effects of Task Complexity and Input Frequency on the Acquisition of the Past Counterfactual Construction Through Recasts</str>
+               </arr>
+               <str name="iris2.references.allauthors">Révész, Sachs, et al. (2014)</str>
+               <arr name="iris2.references.author">
+                  <str>Révész, Andrea</str>
+                  <str>Sachs, Rebecca</str>
+                  <str>Hama, M.</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">révészsachshama</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:833249/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:833249/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:833249/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:833249/asset/INSTRUMENT3?download=true"/>
+   </files>
+</record>

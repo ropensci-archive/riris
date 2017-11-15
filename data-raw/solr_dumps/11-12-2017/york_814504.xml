@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:814504">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">508</int>
+            <lst name="params">
+               <str name="q">PID:york?814504</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:814504</str>
+               <arr name="dc.creator">
+                  <str>McManus, Kevin</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>This is a French version of Las Hermanas Story created by the SPLLOC research team. See: http://www.splloc.soton.ac.uk/splloc2/index.html</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:814504</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Acquisition</str>
+               </arr>
+               <str name="dc.title">Sisters Story</str>
+               <str name="dc.title.sort">Sisters Story</str>
+               <arr name="dc.type">
+                  <str>Narration / Story retelling</str>
+                  <str>Picture description</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>McManus, Kevin</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>This is a French version of Las Hermanas Story created by the SPLLOC research team. See: http://www.splloc.soton.ac.uk/splloc2/index.html</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:814504</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Acquisition</str>
+               </arr>
+               <str name="dc2.title">Sisters Story</str>
+               <arr name="dc2.type">
+                  <str>Narration / Story retelling</str>
+                  <str>Picture description</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>McManus, Kevin</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Acquisition</str>
+               </arr>
+               <str name="dc3.title">Sisters Story</str>
+               <date name="fgs.createdDate">2013-07-11T09:42:29.657Z</date>
+               <date name="fgs.dateCreated.sort">2013-07-11T09:42:29.657Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-02T14:16:30.693Z</date>
+               <str name="fgs.ownerId">iris-945c419d-9858-4887-ac14-b61e3573bd7b</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>k.mcmanus@soton.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>McManus, Kevin</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">narration / story retelling  narration / story retelling   picture description picture description  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Aspect</str>
+                  <str>Case</str>
+                  <str>Determiners</str>
+                  <str>Gender</str>
+                  <str>Number</str>
+                  <str>Suffixes</str>
+                  <str>Tense</str>
+                  <str>Pronouns</str>
+                  <str>Articles</str>
+                  <str>Quantifiers</str>
+               </arr>
+               <str name="iris.instrument.notes">This is a French version of Las Hermanas Story created by the SPLLOC research team. See: http://www.splloc.soton.ac.uk/splloc2/index.html</str>
+               <str name="iris.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Narration / Story retelling </str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Picture description</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Sisters Story</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Advanced</str>
+                  <str>Intermediate/advanced</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>McManus_The development of aspect in a second language</str>
+               </arr>
+               <str name="iris.references.allauthors">McManus (2011)</str>
+               <arr name="iris.references.author">
+                  <str>McManus, Kevin</str>
+               </arr>
+               <str name="iris.references.author.lastnames">mcmanus</str>
+               <arr name="iris.references.author.noack">
+                  <str>McManus, Kevin</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2011</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2011</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Electronic Resource</str>
+                  <str>Thesis</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>k.mcmanus@soton.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>McManus, Kevin</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">narration / story retelling  narration / story retelling   picture description picture description  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Aspect</str>
+                  <str>Case</str>
+                  <str>Determiners</str>
+                  <str>Gender</str>
+                  <str>Number</str>
+                  <str>Suffixes</str>
+                  <str>Tense</str>
+                  <str>Pronouns</str>
+                  <str>Articles</str>
+                  <str>Quantifiers</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Narration / Story retelling </str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Picture description</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Advanced</str>
+                  <str>Intermediate/advanced</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>McManus_The development of aspect in a second language</str>
+               </arr>
+               <str name="iris2.references.allauthors">McManus (2011)</str>
+               <arr name="iris2.references.author">
+                  <str>McManus, Kevin</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">mcmanus</str>
+               <arr name="iris2.references.publicationDate">
+                  <str>2011</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2011</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str/>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Electronic Resource</str>
+                  <str>Thesis</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:814504/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

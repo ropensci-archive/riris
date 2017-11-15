@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:926007">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">533</int>
+            <lst name="params">
+               <str name="q">PID:york?926007</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:926007</str>
+               <arr name="dc.creator">
+                  <str>Lemhöfer, Kristin</str>
+                  <str>Broersma, Mirjam</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2016</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>To cite this test: Lemhöfer, K., &amp; Broersma, M. (2012). Introducing LexTALE: A quick and valid Lexical Test for Advanced Learners of English. Behavior Research Methods, 44, 325-343.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:926007</str>
+               </arr>
+               <str name="dc.title">LexTALE - Lexical Test for Advanced Learners of English</str>
+               <str name="dc.title.sort">LexTALE - Lexical Test for Advanced Learners of English</str>
+               <arr name="dc.type">
+                  <str>Proficiency test</str>
+                  <str>Vocabulary test (productive)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Lemhöfer, Kristin</str>
+                  <str>Broersma, Mirjam</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2016</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>To cite this test: Lemhöfer, K., &amp; Broersma, M. (2012). Introducing LexTALE: A quick and valid Lexical Test for Advanced Learners of English. Behavior Research Methods, 44, 325-343.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:926007</str>
+               </arr>
+               <str name="dc2.title">LexTALE - Lexical Test for Advanced Learners of English</str>
+               <arr name="dc2.type">
+                  <str>Proficiency test</str>
+                  <str>Vocabulary test (productive)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Lemhöfer, Kristin</str>
+                  <str>Broersma, Mirjam</str>
+               </arr>
+               <str name="dc3.title">LexTALE - Lexical Test for Advanced Learners of English</str>
+               <date name="fgs.createdDate">2016-03-22T13:09:40.358Z</date>
+               <date name="fgs.dateCreated.sort">2016-03-22T13:09:40.358Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-04-17T14:52:34.239Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>k.lemhofer@donders.ru.nl</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Lemhöfer, Kristin</str>
+                  <str>Broersma, Mirjam</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Proficiency test</str>
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">proficiency test proficiency test  productive vocabulary test (productive)  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">To cite this test: Lemhöfer, K., &amp; Broersma, M. (2012). Introducing LexTALE: A quick and valid Lexical Test for Advanced Learners of English. Behavior Research Methods, 44, 325-343.</str>
+               <str name="iris.instrument.primaryInstrumentType">Vocabulary test &gt; Productive</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Bilingualism</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Proficiency</str>
+                  <str>Lexicon (vocabulary)</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Proficiency test</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>LexTALE - Lexical Test for Advanced Learners of English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+                  <str>Foreign language learners</str>
+                  <str>Bilinguals</str>
+                  <str/>
+                  <str/>
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2016_Casillas_Simonet_Production and perception of the English /æ/&#8211;/&#593;/ contrast in switched-dominance speakers</str>
+                  <str>2012_Lemhöfer_Broersma_Introducing LexTALE: A quick and valid Lexical Test for Advanced Learners of English</str>
+               </arr>
+               <str name="iris.references.allauthors">Casillas &amp; Simonet (2016); Lemhöfer &amp; Broersma (2012)</str>
+               <arr name="iris.references.author">
+                  <str>Casillas, Joseph V</str>
+                  <str>Simonet, Miquel</str>
+                  <str>Lemhöfer, Kristin</str>
+                  <str>Broersma, Mirjam</str>
+               </arr>
+               <str name="iris.references.author.lastnames">casillassimonetlemhöferbroersma</str>
+               <arr name="iris.references.author.noack">
+                  <str>Casillas, Joseph V</str>
+                  <str>Simonet, Miquel</str>
+                  <str>Lemhöfer, Kristin</str>
+                  <str>Broersma, Mirjam</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Second Language Research</str>
+                  <str>Behavior Research Methods</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2016</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2016</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>k.lemhofer@donders.ru.nl</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Lemhöfer, Kristin</str>
+                  <str>Broersma, Mirjam</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Proficiency test</str>
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">proficiency test proficiency test  productive vocabulary test (productive)  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Vocabulary test &gt; Productive</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Bilingualism</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Proficiency</str>
+                  <str>Lexicon (vocabulary)</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Proficiency test</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+                  <str>Foreign language learners</str>
+                  <str>Bilinguals</str>
+                  <str/>
+                  <str/>
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2016_Casillas_Simonet_Production and perception of the English /æ/&#8211;/&#593;/ contrast in switched-dominance speakers</str>
+                  <str>2012_Lemhöfer_Broersma_Introducing LexTALE: A quick and valid Lexical Test for Advanced Learners of English</str>
+               </arr>
+               <str name="iris2.references.allauthors">Casillas &amp; Simonet (2016); Lemhöfer &amp; Broersma (2012)</str>
+               <arr name="iris2.references.author">
+                  <str>Casillas, Joseph V</str>
+                  <str>Simonet, Miquel</str>
+                  <str>Lemhöfer, Kristin</str>
+                  <str>Broersma, Mirjam</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">casillassimonetlemhöferbroersma</str>
+               <arr name="iris2.references.journal">
+                  <str>Second Language Research</str>
+                  <str>Behavior Research Methods</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2016</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2016</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

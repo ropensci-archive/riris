@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:818864">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">609</int>
+            <lst name="params">
+               <str name="q">PID:york?818864</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:818864</str>
+               <arr name="dc.creator">
+                  <str>White, Lydia</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2004</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:818864</str>
+               </arr>
+               <str name="dc.title">White et al. 2004 picture task</str>
+               <str name="dc.title.sort">White et al. 2004 picture task</str>
+               <arr name="dc.type">
+                  <str>Reading comprehension test</str>
+                  <str>Picture matching test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>White, Lydia</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2004</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:818864</str>
+               </arr>
+               <str name="dc2.title">White et al. 2004 picture task</str>
+               <arr name="dc2.type">
+                  <str>Reading comprehension test</str>
+                  <str>Picture matching test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>White, Lydia</str>
+               </arr>
+               <str name="dc3.title">White et al. 2004 picture task</str>
+               <date name="fgs.createdDate">2013-11-24T17:12:23.998Z</date>
+               <date name="fgs.dateCreated.sort">2013-11-24T17:12:23.998Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-25T10:56:38.756Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>lydia.white@mcgill.ca</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>White, Lydia</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Comprehension test</str>
+                  <str>Reading</str>
+                  <str>Picture matching test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">reading reading comprehension test  picture matching test picture matching test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Gender</str>
+                  <str>Number</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Picture matching test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Comprehension</str>
+                  <str>Processing</str>
+                  <str>Proficiency</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Reading</str>
+                  <str>Cross-linguistic influence</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Comprehension test &gt; Reading</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>White et al. 2004 picture task</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>French</str>
+                  <str>English</str>
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+                  <str>Native speakers</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2004_White_Valenzuela_Kozlowska-Macgregor_Leung_Gender agreement in nonnative Spanish: Evidence against failed features</str>
+               </arr>
+               <str name="iris.references.allauthors">White, Valenzuela, et al. (2004)</str>
+               <arr name="iris.references.author">
+                  <str>White , L.</str>
+                  <str>Valenzuela, E.</str>
+                  <str>Kozlowska-Macgregor, M.</str>
+                  <str>Leung, Yan-Kit Ingrid</str>
+               </arr>
+               <str name="iris.references.author.lastnames">whitevalenzuelakozlowska-macgregorleung</str>
+               <arr name="iris.references.author.noack">
+                  <str>White , L.</str>
+                  <str>Valenzuela, E.</str>
+                  <str>Kozlowska-Macgregor, M.</str>
+                  <str>Leung, Yan-Kit Ingrid</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Applied Psycholinguistics</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2004</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2004</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>lydia.white@mcgill.ca</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>White, Lydia</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Comprehension test</str>
+                  <str>Reading</str>
+                  <str>Picture matching test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">reading reading comprehension test  picture matching test picture matching test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Gender</str>
+                  <str>Number</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Picture matching test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Comprehension</str>
+                  <str>Processing</str>
+                  <str>Proficiency</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Reading</str>
+                  <str>Cross-linguistic influence</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Comprehension test &gt; Reading</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>French</str>
+                  <str>English</str>
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+                  <str>Native speakers</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2004_White_Valenzuela_Kozlowska-Macgregor_Leung_Gender agreement in nonnative Spanish: Evidence against failed features</str>
+               </arr>
+               <str name="iris2.references.allauthors">White, Valenzuela, et al. (2004)</str>
+               <arr name="iris2.references.author">
+                  <str>White , L.</str>
+                  <str>Valenzuela, E.</str>
+                  <str>Kozlowska-Macgregor, M.</str>
+                  <str>Leung, Yan-Kit Ingrid</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">whitevalenzuelakozlowska-macgregorleung</str>
+               <arr name="iris2.references.journal">
+                  <str>Applied Psycholinguistics</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2004</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2004</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2004</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:818864/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:822642">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">505</int>
+            <lst name="params">
+               <str name="q">PID:york?822642</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:822642</str>
+               <arr name="dc.creator">
+                  <str>Pliatsikas, Christos</str>
+                  <str>Marinis, Theodoros</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2013</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>SPECIAL COLLECTION - SELF-PACED READING. 1995-2016.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:822642</str>
+               </arr>
+               <str name="dc.title">Self-paced reading task sentences</str>
+               <str name="dc.title.sort">Self-paced reading task sentences</str>
+               <arr name="dc.type">
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Pliatsikas, Christos</str>
+                  <str>Marinis, Theodoros</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2013</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>SPECIAL COLLECTION - SELF-PACED READING. 1995-2016.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:822642</str>
+               </arr>
+               <str name="dc2.title">Self-paced reading task sentences</str>
+               <arr name="dc2.type">
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Pliatsikas, Christos</str>
+                  <str>Marinis, Theodoros</str>
+               </arr>
+               <str name="dc3.title">Self-paced reading task sentences</str>
+               <date name="fgs.createdDate">2014-06-06T16:00:20.526Z</date>
+               <date name="fgs.dateCreated.sort">2014-06-06T16:00:20.526Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-03T06:08:44.476Z</date>
+               <str name="fgs.ownerId">iris-f93c2cb0-6fd7-423b-9f16-6fc5b32c1c00</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>pliats@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Pliatsikas, Christos</str>
+                  <str>Marinis, Theodoros</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Written comprehension</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>Economic and Social Research Council (ESRC)</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Verbal</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">verbal stimuli for laboratory studies (visual - verbal)  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Tense</str>
+                  <str>Morphology</str>
+                  <str>Suffixes</str>
+               </arr>
+               <str name="iris.instrument.notes">SPECIAL COLLECTION - SELF-PACED READING. 1995-2016.</str>
+               <str name="iris.instrument.primaryInstrumentType">Stimuli for laboratory studies &gt; Visual &gt; Verbal</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Comprehension</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Self-paced reading task sentences</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Greek</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Oxford Placement Test - Proficient speaker (Effective Operational Proficiency or Advanced)</str>
+                  <str>Oxford Placement Test - Proficient speaker</str>
+                  <str>Oxford Placement Test - Proficient speaker (Mastery or Proficiency)</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2013_Pliatsikas_Marinis_Processing of regular and irregular past tense morphology in highly proficient second language learners of English: A self-paced reading study</str>
+               </arr>
+               <str name="iris.references.allauthors">Pliatsikas &amp; Marinis (2013)</str>
+               <arr name="iris.references.author">
+                  <str>Pliatsikas, Christos</str>
+                  <str>Marinis, Theodoros</str>
+               </arr>
+               <str name="iris.references.author.lastnames">pliatsikasmarinis</str>
+               <arr name="iris.references.author.noack">
+                  <str>Pliatsikas, Christos</str>
+                  <str>Marinis, Theodoros</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Applied Psycholinguistics</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>pliats@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Pliatsikas, Christos</str>
+                  <str>Marinis, Theodoros</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Written comprehension</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>Economic and Social Research Council (ESRC)</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Verbal</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">verbal stimuli for laboratory studies (visual - verbal)  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Tense</str>
+                  <str>Morphology</str>
+                  <str>Suffixes</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Stimuli for laboratory studies &gt; Visual &gt; Verbal</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Comprehension</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Greek</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Oxford Placement Test - Proficient speaker (Effective Operational Proficiency or Advanced)</str>
+                  <str>Oxford Placement Test - Proficient speaker</str>
+                  <str>Oxford Placement Test - Proficient speaker (Mastery or Proficiency)</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2013_Pliatsikas_Marinis_Processing of regular and irregular past tense morphology in highly proficient second language learners of English: A self-paced reading study</str>
+               </arr>
+               <str name="iris2.references.allauthors">Pliatsikas &amp; Marinis (2013)</str>
+               <arr name="iris2.references.author">
+                  <str>Pliatsikas, Christos</str>
+                  <str>Marinis, Theodoros</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">pliatsikasmarinis</str>
+               <arr name="iris2.references.journal">
+                  <str>Applied Psycholinguistics</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:822642/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

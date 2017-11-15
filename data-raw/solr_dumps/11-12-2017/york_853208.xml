@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:853208">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">497</int>
+            <lst name="params">
+               <str name="q">PID:york?853208</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:853208</str>
+               <arr name="dc.creator">
+                  <str>Bordag, Denisa</str>
+                  <str>Kirschenbaum, Amit</str>
+                  <str>Tschirner, Erwin</str>
+                  <str>Opitz, Andreas</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The records for the enhanced self-paced reading; lexical decision task; semantic priming task; vocabulary knowledge scale; language history questionnaire and knowledge test for low-frequency words (6 records) used in this study are linked in IRIS. Please refer to the original article for a full description of how the tasks were implemented in this study.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:853208</str>
+               </arr>
+               <str name="dc.title">Semantic Priming Task</str>
+               <str name="dc.title.sort">Semantic Priming Task</str>
+               <arr name="dc.type">
+                  <str>Script for psycholinguistic techniques (priming)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Bordag, Denisa</str>
+                  <str>Kirschenbaum, Amit</str>
+                  <str>Tschirner, Erwin</str>
+                  <str>Opitz, Andreas</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The records for the enhanced self-paced reading; lexical decision task; semantic priming task; vocabulary knowledge scale; language history questionnaire and knowledge test for low-frequency words (6 records) used in this study are linked in IRIS. Please refer to the original article for a full description of how the tasks were implemented in this study.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:853208</str>
+               </arr>
+               <str name="dc2.title">Semantic Priming Task</str>
+               <arr name="dc2.type">
+                  <str>Script for psycholinguistic techniques (priming)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Bordag, Denisa</str>
+                  <str>Kirschenbaum, Amit</str>
+                  <str>Tschirner, Erwin</str>
+                  <str>Opitz, Andreas</str>
+               </arr>
+               <str name="dc3.title">Semantic Priming Task</str>
+               <date name="fgs.createdDate">2015-05-28T08:45:54.76Z</date>
+               <date name="fgs.dateCreated.sort">2015-05-28T08:45:54.76Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-06T18:22:12.822Z</date>
+               <str name="fgs.ownerId">iris-ce9f7bc3-da6b-43d0-aa72-6a00503b339f</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>denisav@uni-leipzig.de</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Bordag, Denisa</str>
+                  <str>Kirschenbaum, Amit</str>
+                  <str>Tschirner, Erwin</str>
+                  <str>Opitz, Andreas</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Script for psycholinguistic techniques</str>
+                  <str>Priming paradigm</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">priming paradigm script for psycholinguistic techniques (priming)  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The records for the enhanced self-paced reading; lexical decision task; semantic priming task; vocabulary knowledge scale; language history questionnaire and knowledge test for low-frequency words (6 records) used in this study are linked in IRIS. Please refer to the original article for a full description of how the tasks were implemented in this study.</str>
+               <str name="iris.instrument.primaryInstrumentType">Script for psycholinguistic techniques &gt; Priming paradigm</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Implicit learning</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Reading</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Semantic Priming Task</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+                  <str>Software</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Advanced</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>German</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Bordag_Kirschenbaum_Tschirner_Opitz_Incidental acquisition of new words during reading in L2: Inference of meaning and its integration in the L2 mental lexicon</str>
+               </arr>
+               <str name="iris.references.allauthors">Bordag, Kirschenbaum, et al. (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Bordag, Denisa</str>
+                  <str>Kirschenbaum, Amit</str>
+                  <str>Tschirner, Erwin</str>
+                  <str>Opitz, Andreas</str>
+               </arr>
+               <str name="iris.references.author.lastnames">bordagkirschenbaumtschirneropitz</str>
+               <arr name="iris.references.author.noack">
+                  <str>Bordag, Denisa</str>
+                  <str>Kirschenbaum, Amit</str>
+                  <str>Tschirner, Erwin</str>
+                  <str>Opitz, Andreas</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Bilingualism: Language and Cognition</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>denisav@uni-leipzig.de</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Bordag, Denisa</str>
+                  <str>Kirschenbaum, Amit</str>
+                  <str>Tschirner, Erwin</str>
+                  <str>Opitz, Andreas</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Script for psycholinguistic techniques</str>
+                  <str>Priming paradigm</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">priming paradigm script for psycholinguistic techniques (priming)  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Script for psycholinguistic techniques &gt; Priming paradigm</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Implicit learning</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Reading</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+                  <str>Software</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Advanced</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>German</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Bordag_Kirschenbaum_Tschirner_Opitz_Incidental acquisition of new words during reading in L2: Inference of meaning and its integration in the L2 mental lexicon</str>
+               </arr>
+               <str name="iris2.references.allauthors">Bordag, Kirschenbaum, et al. (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Bordag, Denisa</str>
+                  <str>Kirschenbaum, Amit</str>
+                  <str>Tschirner, Erwin</str>
+                  <str>Opitz, Andreas</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">bordagkirschenbaumtschirneropitz</str>
+               <arr name="iris2.references.journal">
+                  <str>Bilingualism: Language and Cognition</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:853208/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

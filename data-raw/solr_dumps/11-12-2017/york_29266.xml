@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:29266">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">450</int>
+            <lst name="params">
+               <str name="q">PID:york?29266</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:29266</str>
+               <arr name="dc.creator">
+                  <str>Mackey, Alison</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2005</str>
+                  <str>2002</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>Not Applicable</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:29266</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Interaction</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Picture description</str>
+                  <str>Narration / Story retelling</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Mackey, Alison</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2005</str>
+                  <str>2002</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>Not Applicable</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:29266</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Interaction</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Picture description</str>
+                  <str>Narration / Story retelling</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Mackey, Alison</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Interaction</str>
+               </arr>
+               <date name="fgs.createdDate">2012-01-10T16:56:09.41Z</date>
+               <date name="fgs.dateCreated.sort">2012-01-10T16:56:09.41Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-02T14:28:39.652Z</date>
+               <str name="fgs.ownerId">fedoraAdmin</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>mackeya@georgetown.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Mackey, Alison</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">picture description picture description  narration / story retelling  narration / story retelling   </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Picture description</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Interaction</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Narration / Story retelling </str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2005_Mackey_Silver_Interactional tasks and English L2 learning by immigrant children in Singapore</str>
+                  <str>2002_Oliver_Mackey_Interactional feedback and children&#8217;s L2 development</str>
+               </arr>
+               <str name="iris.references.allauthors">Mackey &amp; Silver (2005); Oliver &amp; Mackey (2002)</str>
+               <arr name="iris.references.author">
+                  <str>Mackey, Alison</str>
+                  <str>Silver, Rita Elaine</str>
+                  <str>Oliver, Rhonda</str>
+                  <str>Mackey, Alison</str>
+               </arr>
+               <str name="iris.references.author.lastnames">mackeysilverolivermackey</str>
+               <arr name="iris.references.author.noack">
+                  <str>Mackey, Alison</str>
+                  <str>Silver, Rita Elaine</str>
+                  <str>Oliver, Rhonda</str>
+                  <str>Mackey, Alison</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>System</str>
+                  <str>System</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2005</str>
+                  <str>2002</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2005</str>
+                  <str>2002</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>mackeya@georgetown.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Mackey, Alison</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">picture description picture description  narration / story retelling  narration / story retelling   </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Picture description</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Interaction</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Narration / Story retelling </str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2005_Mackey_Silver_Interactional tasks and English L2 learning by immigrant children in Singapore</str>
+                  <str>2002_Oliver_Mackey_Interactional feedback and children&#8217;s L2 development</str>
+               </arr>
+               <str name="iris2.references.allauthors">Mackey &amp; Silver (2005); Oliver &amp; Mackey (2002)</str>
+               <arr name="iris2.references.author">
+                  <str>Mackey, Alison</str>
+                  <str>Silver, Rita Elaine</str>
+                  <str>Oliver, Rhonda</str>
+                  <str>Mackey, Alison</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">mackeysilverolivermackey</str>
+               <arr name="iris2.references.journal">
+                  <str>System</str>
+                  <str>System</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2005</str>
+                  <str>2002</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2005</str>
+                  <str>2002</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2005</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:29266/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:29266/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:29266/asset/INSTRUMENT2?download=true"/>
+   </files>
+</record>

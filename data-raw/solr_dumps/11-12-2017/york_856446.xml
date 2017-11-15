@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:856446">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">488</int>
+            <lst name="params">
+               <str name="q">PID:york?856446</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:856446</str>
+               <arr name="dc.creator">
+                  <str>Stefanou, Charis</str>
+                  <str>Révész, Andrea</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>1997</str>
+                  <str>1986</str>
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The treatment tasks, text summary test (3 versions), truth value judgement test (3 versions) and test of metalanguage used in this study are all linked in IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:856446</str>
+               </arr>
+               <str name="dc.title">Test of metalanguage</str>
+               <str name="dc.title.sort">Test of metalanguage</str>
+               <arr name="dc.type">
+                  <str>Metalinguistic knowledge (MLK) test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Stefanou, Charis</str>
+                  <str>Révész, Andrea</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>1997</str>
+                  <str>1986</str>
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The treatment tasks, text summary test (3 versions), truth value judgement test (3 versions) and test of metalanguage used in this study are all linked in IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:856446</str>
+               </arr>
+               <str name="dc2.title">Test of metalanguage</str>
+               <arr name="dc2.type">
+                  <str>Metalinguistic knowledge (MLK) test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Stefanou, Charis</str>
+                  <str>Révész, Andrea</str>
+               </arr>
+               <str name="dc3.title">Test of metalanguage</str>
+               <date name="fgs.createdDate">2015-11-16T19:55:36.137Z</date>
+               <date name="fgs.dateCreated.sort">2015-11-16T19:55:36.137Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-11T08:09:12.553Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>hstefanou.ling@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Stefanou, Charis</str>
+                  <str>Révész, Andrea</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Metalinguistic knowledge (MLK) test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">metalinguistic knowledge (mlk) test metalinguistic knowledge (mlk) test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Articles</str>
+               </arr>
+               <str name="iris.instrument.notes">The treatment tasks, text summary test (3 versions), truth value judgement test (3 versions) and test of metalanguage used in this study are all linked in IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Metalinguistic knowledge (MLK) test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Error correction / Corrective feedback</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Test of metalanguage</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Greek</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Adolescent learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>1997_Alderson_Clapham_Steel_Metalinguistic knowledge,language aptitude, and language proficiency</str>
+                  <str>1986_Bloor_What do language students know about grammar?</str>
+                  <str>2015_Stefanou_Révész_Direct written corrective feedback, learner differences, and the acquisition of second language article use for generic and specific plural reference</str>
+               </arr>
+               <str name="iris.references.allauthors">Stefanou &amp; Révész (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Alderson, J.C</str>
+                  <str>Clapham, C</str>
+                  <str>Steel, D</str>
+                  <str>Bloor, T</str>
+                  <str>Stefanou, Charis</str>
+                  <str>Révész, Andrea</str>
+               </arr>
+               <str name="iris.references.author.lastnames">aldersonclaphamsteelbloorstefanourévész</str>
+               <arr name="iris.references.author.noack">
+                  <str>Stefanou, Charis</str>
+                  <str>Révész, Andrea</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>The Modern Language Journal</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>1997</str>
+                  <str>1986</str>
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>1997</str>
+                  <str>1986</str>
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>hstefanou.ling@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Stefanou, Charis</str>
+                  <str>Révész, Andrea</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Metalinguistic knowledge (MLK) test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">metalinguistic knowledge (mlk) test metalinguistic knowledge (mlk) test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Articles</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Metalinguistic knowledge (MLK) test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Error correction / Corrective feedback</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Greek</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Adolescent learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>1997_Alderson_Clapham_Steel_Metalinguistic knowledge,language aptitude, and language proficiency</str>
+                  <str>1986_Bloor_What do language students know about grammar?</str>
+                  <str>2015_Stefanou_Révész_Direct written corrective feedback, learner differences, and the acquisition of second language article use for generic and specific plural reference</str>
+               </arr>
+               <str name="iris2.references.allauthors">Stefanou &amp; Révész (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Alderson, J.C</str>
+                  <str>Clapham, C</str>
+                  <str>Steel, D</str>
+                  <str>Bloor, T</str>
+                  <str>Stefanou, Charis</str>
+                  <str>Révész, Andrea</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">aldersonclaphamsteelbloorstefanourévész</str>
+               <arr name="iris2.references.journal">
+                  <str>The Modern Language Journal</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>1997</str>
+                  <str>1986</str>
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>1997</str>
+                  <str>1986</str>
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:856446/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

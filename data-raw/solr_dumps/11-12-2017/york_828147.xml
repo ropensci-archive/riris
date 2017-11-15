@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:828147">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">495</int>
+            <lst name="params">
+               <str name="q">PID:york?828147</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:828147</str>
+               <arr name="dc.creator">
+                  <str>Judy, Tiffany</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:828147</str>
+               </arr>
+               <str name="dc.title">Stimuli used in PhD thesis</str>
+               <str name="dc.title.sort">Stimuli used in PhD thesis</str>
+               <arr name="dc.type">
+                  <str>Grammaticality judgement sentences or acceptability judgement</str>
+                  <str>Stimuli for laboratory studies (visual - verbal)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Judy, Tiffany</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:828147</str>
+               </arr>
+               <str name="dc2.title">Stimuli used in PhD thesis</str>
+               <arr name="dc2.type">
+                  <str>Grammaticality judgement sentences or acceptability judgement</str>
+                  <str>Stimuli for laboratory studies (visual - verbal)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Judy, Tiffany</str>
+               </arr>
+               <str name="dc3.title">Stimuli used in PhD thesis</str>
+               <date name="fgs.createdDate">2014-10-10T14:37:20.721Z</date>
+               <date name="fgs.dateCreated.sort">2014-10-10T14:37:20.721Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-01-14T03:05:08.926Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>judyte@wfu.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Judy, Tiffany</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Verbal</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test verbal stimuli for laboratory studies (visual - verbal)  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Stimuli for laboratory studies &gt; Visual &gt; Verbal</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Processing</str>
+                  <str>Sentence processing</str>
+                  <str>Native / Non-native</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Grammaticality / Acceptability judgement test</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Stimuli used in PhD thesis</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Farsi</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Judy_Sources of performance and processing errors in near-native L2 Spanish speakers, L1 Farsi</str>
+               </arr>
+               <str name="iris.references.allauthors">Judy (2013)</str>
+               <arr name="iris.references.author">
+                  <str>Judy, Tiffany</str>
+               </arr>
+               <str name="iris.references.author.lastnames">judy</str>
+               <arr name="iris.references.author.noack">
+                  <str>Judy, Tiffany</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>judyte@wfu.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Judy, Tiffany</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Verbal</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test verbal stimuli for laboratory studies (visual - verbal)  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Stimuli for laboratory studies &gt; Visual &gt; Verbal</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Processing</str>
+                  <str>Sentence processing</str>
+                  <str>Native / Non-native</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Grammaticality / Acceptability judgement test</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Farsi</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Judy_Sources of performance and processing errors in near-native L2 Spanish speakers, L1 Farsi</str>
+               </arr>
+               <str name="iris2.references.allauthors">Judy (2013)</str>
+               <arr name="iris2.references.author">
+                  <str>Judy, Tiffany</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">judy</str>
+               <arr name="iris2.references.publicationDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str/>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:828147/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:828147/asset/INSTRUMENT1?download=true"/>
+   </files>
+</record>

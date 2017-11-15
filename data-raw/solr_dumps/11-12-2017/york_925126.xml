@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:925126">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">459</int>
+            <lst name="params">
+               <str name="q">PID:york?925126</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:925126</str>
+               <arr name="dc.creator">
+                  <str>Atagi, Eriko</str>
+                  <str>Bent, Tessa</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2013</str>
+                  <str>2016</str>
+                  <str>2014</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The records for the language background questionnaire and auditory free classification tasks are linked in IRIS. Participants also completed a hearing screening prior to the tasks. The tasks used two sentences from the Hearing in Noise Test&#8212;Children&#8217;s Version (Nilsson, Soli, &amp; Gelnett, 1996): &#8220;The ice cream is melting&#8221; and &#8220;The grocer sells butter&#8221;.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:925126</str>
+               </arr>
+               <str name="dc.title">Auditory free classification tasks</str>
+               <str name="dc.title.sort">Auditory free classification tasks</str>
+               <arr name="dc.type">
+                  <str>Discrimination task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Atagi, Eriko</str>
+                  <str>Bent, Tessa</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2013</str>
+                  <str>2016</str>
+                  <str>2014</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The records for the language background questionnaire and auditory free classification tasks are linked in IRIS. Participants also completed a hearing screening prior to the tasks. The tasks used two sentences from the Hearing in Noise Test&#8212;Children&#8217;s Version (Nilsson, Soli, &amp; Gelnett, 1996): &#8220;The ice cream is melting&#8221; and &#8220;The grocer sells butter&#8221;.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:925126</str>
+               </arr>
+               <str name="dc2.title">Auditory free classification tasks</str>
+               <arr name="dc2.type">
+                  <str>Discrimination task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Atagi, Eriko</str>
+                  <str>Bent, Tessa</str>
+               </arr>
+               <str name="dc3.title">Auditory free classification tasks</str>
+               <date name="fgs.createdDate">2016-02-10T10:30:48.049Z</date>
+               <date name="fgs.dateCreated.sort">2016-02-10T10:30:48.049Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2016-02-10T10:31:10.105Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>tbent@indiana.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Atagi, Eriko</str>
+                  <str>Bent, Tessa</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Speech perception</str>
+                  <str>Discrimination task</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">discrimination task discrimination task  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The records for the language background questionnaire and auditory free classification tasks are linked in IRIS. Participants also completed a hearing screening prior to the tasks. The tasks used two sentences from the Hearing in Noise Test&#8212;Children&#8217;s Version (Nilsson, Soli, &amp; Gelnett, 1996): &#8220;The ice cream is melting&#8221; and &#8220;The grocer sells butter&#8221;.</str>
+               <str name="iris.instrument.primaryInstrumentType">Speech perception &gt; Discrimination task</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Native / Non-native</str>
+                  <str>Pronunciation</str>
+                  <str>Speaking / Oral production</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Auditory free classification tasks</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Monolinguals</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2013_Agati_Bent_Auditory free classi&#64257;cation of nonnative speech</str>
+                  <str>2016_Atagi_Bent_Auditory free classification of native and nonnative speech by nonnative listeners</str>
+                  <str>2014_Bent_Children&#8217;s perception of foreign-accented words</str>
+                  <str>2008_Clopper_Auditory free classification: Methods and analysis</str>
+               </arr>
+               <str name="iris.references.allauthors">Atagi &amp; Bent (2016); </str>
+               <arr name="iris.references.author">
+                  <str>Agati, Eriko</str>
+                  <str>Bent, Tessa</str>
+                  <str>Atagi, Eriko</str>
+                  <str>Bent, Tessa</str>
+                  <str>Bent, Tessa</str>
+                  <str>Clopper, Cynthia G</str>
+               </arr>
+               <str name="iris.references.author.lastnames">agatibentatagibentbentclopper</str>
+               <arr name="iris.references.author.noack">
+                  <str>Atagi, Eriko</str>
+                  <str>Bent, Tessa</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Applied Psycholinguistics</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2013</str>
+                  <str>2016</str>
+                  <str>2014</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2013</str>
+                  <str>2016</str>
+                  <str>2014</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>tbent@indiana.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Atagi, Eriko</str>
+                  <str>Bent, Tessa</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Speech perception</str>
+                  <str>Discrimination task</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">discrimination task discrimination task  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Speech perception &gt; Discrimination task</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Native / Non-native</str>
+                  <str>Pronunciation</str>
+                  <str>Speaking / Oral production</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Monolinguals</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2013_Agati_Bent_Auditory free classi&#64257;cation of nonnative speech</str>
+                  <str>2016_Atagi_Bent_Auditory free classification of native and nonnative speech by nonnative listeners</str>
+                  <str>2014_Bent_Children&#8217;s perception of foreign-accented words</str>
+                  <str>2008_Clopper_Auditory free classification: Methods and analysis</str>
+               </arr>
+               <str name="iris2.references.allauthors">Atagi &amp; Bent (2016); </str>
+               <arr name="iris2.references.author">
+                  <str>Agati, Eriko</str>
+                  <str>Bent, Tessa</str>
+                  <str>Atagi, Eriko</str>
+                  <str>Bent, Tessa</str>
+                  <str>Bent, Tessa</str>
+                  <str>Clopper, Cynthia G</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">agatibentatagibentbentclopper</str>
+               <arr name="iris2.references.journal">
+                  <str>Applied Psycholinguistics</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2013</str>
+                  <str>2016</str>
+                  <str>2014</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2013</str>
+                  <str>2016</str>
+                  <str>2014</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

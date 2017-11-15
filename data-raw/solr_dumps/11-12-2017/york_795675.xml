@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:795675">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">438</int>
+            <lst name="params">
+               <str name="q">PID:york?795675</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:795675</str>
+               <arr name="dc.creator">
+                  <str>Mizumoto, Atsushi</str>
+                  <str>Takeuchi, Osamu</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2010</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The questionnaire was also used for other studies reported in Mizumoto (2010). http://www.mizumot.com/files/book2010.pdf</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:795675</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Learner strategies</str>
+               </arr>
+               <str name="dc.title">VLSQ</str>
+               <str name="dc.title.sort">VLSQ</str>
+               <arr name="dc.type">
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Mizumoto, Atsushi</str>
+                  <str>Takeuchi, Osamu</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2010</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The questionnaire was also used for other studies reported in Mizumoto (2010). http://www.mizumot.com/files/book2010.pdf</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:795675</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Learner strategies</str>
+               </arr>
+               <str name="dc2.title">VLSQ</str>
+               <arr name="dc2.type">
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Mizumoto, Atsushi</str>
+                  <str>Takeuchi, Osamu</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Learner strategies</str>
+               </arr>
+               <str name="dc3.title">VLSQ</str>
+               <date name="fgs.createdDate">2012-04-08T03:21:13.811Z</date>
+               <date name="fgs.dateCreated.sort">2012-04-08T03:21:13.811Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-02T15:12:09.84Z</date>
+               <str name="fgs.ownerId">iris-c914d719-8f12-4522-8d24-490e0e03e616</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>atsushi@mizumot.com&gt;</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>2</str>
+               </arr>
+               <arr name="iris.feedback.email_1">
+                  <str>andrias.tri.susanto@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.email_2">
+                  <str>bushrakhurram@yahoo.com</str>
+               </arr>
+               <arr name="iris.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.published_2">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.time_1">
+                  <str>9 Jul 2014 13:00:06 GMT</str>
+               </arr>
+               <arr name="iris.feedback.time_2">
+                  <str>9 Jul 2014 17:41:50 GMT</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Mizumoto, Atsushi</str>
+                  <str>Takeuchi, Osamu</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Closed response format</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">questionnaire questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Vocabulary Learning Strategies</str>
+               </arr>
+               <str name="iris.instrument.notes">The questionnaire was also used for other studies reported in Mizumoto (2010). http://www.mizumot.com/files/book2010.pdf</str>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Learner strategies</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>VLSQ</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate/advanced</str>
+                  <str>Advanced</str>
+                  <str>TOEFL - Reading / listening (Low)</str>
+                  <str>TOEFL - Reading / listening (Intermediate)</str>
+                  <str>TOEFL - Reading / listening</str>
+                  <str>TOEFL - Reading / listening (High)</str>
+                  <str>TOEIC 300-990</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2010_Mizumoto_Exploring the art of vocabulary learning strategies: A closer look at Japanese EFL university students</str>
+                  <str>2009_Mizumoto_Takeuchi_Examining the effectiveness of explicit instruction of vocabulary learning strategies with Japanese EFL university students</str>
+               </arr>
+               <str name="iris.references.allauthors">Mizumoto (2010); Mizumoto &amp; Takeuchi (2009)</str>
+               <arr name="iris.references.author">
+                  <str>Mizumoto, Atsushi</str>
+                  <str>Mizumoto, Atsushi</str>
+                  <str>Takeuchi, Osamu</str>
+               </arr>
+               <str name="iris.references.author.lastnames">mizumotomizumototakeuchi</str>
+               <arr name="iris.references.author.noack">
+                  <str>Mizumoto, Atsushi</str>
+                  <str>Mizumoto, Atsushi</str>
+                  <str>Takeuchi, Osamu</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Teaching Research</str>
+               </arr>
+               <arr name="iris.references.placeOfPublication">
+                  <str>Tokyo</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2010</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2010</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Book</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris.references.publisher">
+                  <str>Kinseido</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>atsushi@mizumot.com&gt;</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>2</str>
+               </arr>
+               <arr name="iris2.feedback.email_1">
+                  <str>andrias.tri.susanto@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.email_2">
+                  <str>bushrakhurram@yahoo.com</str>
+               </arr>
+               <arr name="iris2.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.published_2">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.time_1">
+                  <str>9 Jul 2014 13:00:06 GMT</str>
+               </arr>
+               <arr name="iris2.feedback.time_2">
+                  <str>9 Jul 2014 17:41:50 GMT</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Mizumoto, Atsushi</str>
+                  <str>Takeuchi, Osamu</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Closed response format</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">questionnaire questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Vocabulary Learning Strategies</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Learner strategies</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate/advanced</str>
+                  <str>Advanced</str>
+                  <str>TOEFL - Reading / listening (Low)</str>
+                  <str>TOEFL - Reading / listening (Intermediate)</str>
+                  <str>TOEFL - Reading / listening</str>
+                  <str>TOEFL - Reading / listening (High)</str>
+                  <str>TOEIC 300-990</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2010_Mizumoto_Exploring the art of vocabulary learning strategies: A closer look at Japanese EFL university students</str>
+                  <str>2009_Mizumoto_Takeuchi_Examining the effectiveness of explicit instruction of vocabulary learning strategies with Japanese EFL university students</str>
+               </arr>
+               <str name="iris2.references.allauthors">Mizumoto (2010); Mizumoto &amp; Takeuchi (2009)</str>
+               <arr name="iris2.references.author">
+                  <str>Mizumoto, Atsushi</str>
+                  <str>Mizumoto, Atsushi</str>
+                  <str>Takeuchi, Osamu</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">mizumotomizumototakeuchi</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Teaching Research</str>
+               </arr>
+               <arr name="iris2.references.placeOfPublication">
+                  <str>Tokyo</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2010</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2010</str>
+                  <str>2009</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Book</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.references.publisher">
+                  <str>Kinseido</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:795675/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:852320">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">476</int>
+            <lst name="params">
+               <str name="q">PID:york?852320</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:852320</str>
+               <arr name="dc.creator">
+                  <str>Read, J.</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>1993</str>
+                  <str>1998</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>This instrument contains one of two forms of the 1993 test and a 1998 version of the test. The 1998 version of the test is also freely accessible on the Compleat Lexical Tutor site: http://www.lextutor.ca/tests/associates/. The 1993 version contains a practice sheet, the test itself and the answer key. The 1998 version contains the instructions and the test itself (answers can be scored on the Compleat Lexical Tutor site).</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:852320</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Lexicon (vocabulary)</str>
+               </arr>
+               <str name="dc.title">Word Associates Test</str>
+               <str name="dc.title.sort">Word Associates Test</str>
+               <arr name="dc.type">
+                  <str>Vocabulary test (receptive)</str>
+                  <str>Vocabulary test</str>
+                  <str>Gap-fill / Cloze test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Read, J.</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>1993</str>
+                  <str>1998</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>This instrument contains one of two forms of the 1993 test and a 1998 version of the test. The 1998 version of the test is also freely accessible on the Compleat Lexical Tutor site: http://www.lextutor.ca/tests/associates/. The 1993 version contains a practice sheet, the test itself and the answer key. The 1998 version contains the instructions and the test itself (answers can be scored on the Compleat Lexical Tutor site).</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:852320</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Lexicon (vocabulary)</str>
+               </arr>
+               <str name="dc2.title">Word Associates Test</str>
+               <arr name="dc2.type">
+                  <str>Vocabulary test (receptive)</str>
+                  <str>Vocabulary test</str>
+                  <str>Gap-fill / Cloze test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Read, J.</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Lexicon (vocabulary)</str>
+               </arr>
+               <str name="dc3.title">Word Associates Test</str>
+               <date name="fgs.createdDate">2015-03-26T16:24:12.52Z</date>
+               <date name="fgs.dateCreated.sort">2015-03-26T16:24:12.52Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-28T14:59:48.272Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>ja.read@auckland.ac.nz</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Read, J.</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+                  <str>Vocabulary test</str>
+                  <str>Other vocabulary test</str>
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">receptive vocabulary test (receptive)  other vocabulary test vocabulary test  gap-fill / cloze test / fill in the blank gap-fill / cloze test / fill in the blank fill in the blank, cloze,gap fill </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">This instrument contains one of two forms of the 1993 test and a 1998 version of the test. The 1998 version of the test is also freely accessible on the Compleat Lexical Tutor site: http://www.lextutor.ca/tests/associates/. The 1993 version contains a practice sheet, the test itself and the answer key. The 1998 version contains the instructions and the test itself (answers can be scored on the Compleat Lexical Tutor site).</str>
+               <str name="iris.instrument.primaryInstrumentType">Vocabulary test &gt; Receptive</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Lexicon (vocabulary)</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Vocabulary test &gt; Other vocabulary test</str>
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Word Associates Test</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>1993_Read_The development of a new measure of L2 vocabulary knowledge</str>
+                  <str>1998_Read_Validating a test to measure depth of vocabulary knowledge</str>
+               </arr>
+               <str name="iris.references.allauthors">Read (1993); Read (1998)</str>
+               <arr name="iris.references.author">
+                  <str>Read, J.</str>
+                  <str>Read, J.</str>
+               </arr>
+               <str name="iris.references.author.lastnames">readread</str>
+               <arr name="iris.references.author.noack">
+                  <str>Read, J.</str>
+                  <str>Read, J.</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>Validating a test to measure depth of vocabulary knowledge</str>
+                  <str>Validation in Language Assessment</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Kunnan, A.</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Testing</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>1993</str>
+                  <str>1998</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>1993</str>
+                  <str>1998</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>ja.read@auckland.ac.nz</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Read, J.</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+                  <str>Vocabulary test</str>
+                  <str>Other vocabulary test</str>
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">receptive vocabulary test (receptive)  other vocabulary test vocabulary test  gap-fill / cloze test / fill in the blank gap-fill / cloze test / fill in the blank fill in the blank, cloze,gap fill </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Vocabulary test &gt; Receptive</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Lexicon (vocabulary)</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Vocabulary test &gt; Other vocabulary test</str>
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>1993_Read_The development of a new measure of L2 vocabulary knowledge</str>
+                  <str>1998_Read_Validating a test to measure depth of vocabulary knowledge</str>
+               </arr>
+               <str name="iris2.references.allauthors">Read (1993); Read (1998)</str>
+               <arr name="iris2.references.author">
+                  <str>Read, J.</str>
+                  <str>Read, J.</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">readread</str>
+               <arr name="iris2.references.booktitle">
+                  <str>Validating a test to measure depth of vocabulary knowledge</str>
+                  <str>Validation in Language Assessment</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Kunnan, A.</str>
+               </arr>
+               <arr name="iris2.references.journal">
+                  <str>Language Testing</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>1993</str>
+                  <str>1998</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>1993</str>
+                  <str>1998</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>1998</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852320/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:852320/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:852320/asset/INSTRUMENT2?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:857284">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">508</int>
+            <lst name="params">
+               <str name="q">PID:york?857284</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:857284</str>
+               <arr name="dc.creator">
+                  <str>Santos, Victor Dias De Oliveira</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The records for the vocabulary pre-test, 1st/2nd slide shows, non-scored practice/1st and 2nd post-test used in this study are all linked on IRIS. Seven different conditions were employed in this study (please see the "Conditions" document in the available downloads for more information). For more information about how these instruments were used in the study please refer to the original publication.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:857284</str>
+               </arr>
+               <str name="dc.title">Vocabulary pre-test</str>
+               <str name="dc.title.sort">Vocabulary pre-test</str>
+               <arr name="dc.type">
+                  <str>Vocabulary test (receptive)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Santos, Victor Dias De Oliveira</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The records for the vocabulary pre-test, 1st/2nd slide shows, non-scored practice/1st and 2nd post-test used in this study are all linked on IRIS. Seven different conditions were employed in this study (please see the "Conditions" document in the available downloads for more information). For more information about how these instruments were used in the study please refer to the original publication.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:857284</str>
+               </arr>
+               <str name="dc2.title">Vocabulary pre-test</str>
+               <arr name="dc2.type">
+                  <str>Vocabulary test (receptive)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Santos, Victor Dias De Oliveira</str>
+               </arr>
+               <str name="dc3.title">Vocabulary pre-test</str>
+               <date name="fgs.createdDate">2015-11-26T15:30:50.345Z</date>
+               <date name="fgs.dateCreated.sort">2015-11-26T15:30:50.345Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2016-07-14T08:38:33.765Z</date>
+               <str name="fgs.ownerId">iris-5a53f875-7488-4f75-b2eb-73d764f00b4e</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>vdsantos@iastate.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Santos, Victor Dias De Oliveira</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">receptive vocabulary test (receptive)  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The records for the vocabulary pre-test, 1st/2nd slide shows, non-scored practice/1st and 2nd post-test used in this study are all linked on IRIS. Seven different conditions were employed in this study (please see the "Conditions" document in the available downloads for more information). For more information about how these instruments were used in the study please refer to the original publication.</str>
+               <str name="iris.instrument.primaryInstrumentType">Vocabulary test &gt; Receptive</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+                  <str>Teaching materials and curriculum (syllabus, textbook design)</str>
+                  <str>Lexicon (vocabulary)</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Vocabulary pre-test</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>German</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Santos_Can colors, voices, and images help learners acquire the grammatical gender of German nouns?</str>
+               </arr>
+               <str name="iris.references.allauthors">Santos (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Santos, Victor Dias De Oliveira</str>
+               </arr>
+               <str name="iris.references.author.lastnames">santos</str>
+               <arr name="iris.references.author.noack">
+                  <str>Santos, Victor Dias De Oliveira</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Teaching Research</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>vdsantos@iastate.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Santos, Victor Dias De Oliveira</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">receptive vocabulary test (receptive)  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Vocabulary test &gt; Receptive</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+                  <str>Teaching materials and curriculum (syllabus, textbook design)</str>
+                  <str>Lexicon (vocabulary)</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>German</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Santos_Can colors, voices, and images help learners acquire the grammatical gender of German nouns?</str>
+               </arr>
+               <str name="iris2.references.allauthors">Santos (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Santos, Victor Dias De Oliveira</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">santos</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Teaching Research</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:857284/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:857284/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:857284/asset/INSTRUMENT2?download=true"/>
+   </files>
+</record>

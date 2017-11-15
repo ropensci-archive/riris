@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:822752">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">474</int>
+            <lst name="params">
+               <str name="q">PID:york?822752</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:822752</str>
+               <arr name="dc.creator">
+                  <str>Bardel, Camilla</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2012</str>
+                  <str>2011</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>All files were used for eliciting oral production for the INTERITA corpus, which contains recordings of Swedish students of Italian at Stockholm university, as well as Italían controls (Erasmus students).</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>Italian</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:822752</str>
+               </arr>
+               <str name="dc.title">Oral production elicitation questions</str>
+               <str name="dc.title.sort">Oral production elicitation questions</str>
+               <arr name="dc.type">
+                  <str>Interview protocol / schedule</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Bardel, Camilla</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2012</str>
+                  <str>2011</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>All files were used for eliciting oral production for the INTERITA corpus, which contains recordings of Swedish students of Italian at Stockholm university, as well as Italían controls (Erasmus students).</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>Italian</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:822752</str>
+               </arr>
+               <str name="dc2.title">Oral production elicitation questions</str>
+               <arr name="dc2.type">
+                  <str>Interview protocol / schedule</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Bardel, Camilla</str>
+               </arr>
+               <str name="dc3.title">Oral production elicitation questions</str>
+               <date name="fgs.createdDate">2014-07-08T20:50:07.201Z</date>
+               <date name="fgs.dateCreated.sort">2014-07-08T20:50:07.201Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-12T05:08:48.286Z</date>
+               <str name="fgs.ownerId">iris-a24a89bf-4c33-4fde-99ff-5f2121a5ba0f</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>camilla.bardel@isd.su.se</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Bardel, Camilla</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Interview protocol / schedule</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">interview protocol / schedule interview protocol / schedule interview schedule </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">All files were used for eliciting oral production for the INTERITA corpus, which contains recordings of Swedish students of Italian at Stockholm university, as well as Italían controls (Erasmus students).</str>
+               <str name="iris.instrument.primaryInstrumentType">Interview protocol / schedule</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Complexity</str>
+                  <str>Speaking / Oral production</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>Italian</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Oral production elicitation questions</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Swedish</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Native speakers</str>
+                  <str/>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Italian</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2012_Bardel_Gudmundson_Lindqvist_Aspects of lexical sophistication in advanced learners' oral production: Vocabulary acquisition and use in L2 French and Italian</str>
+                  <str>2011_Lindqvist_Bardel_Gudmundson_Lexical richness in the advanced learner's oral production of French and Italian L2</str>
+                  <str>2013_Lindqvist_Gudmundson_Bardel_A new approach to measuring lexical sophistication in L2 oral production</str>
+               </arr>
+               <str name="iris.references.allauthors">Bardel, Gudmundson, et al. (2012); Lindqvist, Bardel, et al. (2011); Lindqvist, Gudmundson, et al. (2013)</str>
+               <arr name="iris.references.author">
+                  <str>Bardel, Camilla</str>
+                  <str>Gudmundson, Anna</str>
+                  <str>Lindqvist, Christina</str>
+                  <str>Lindqvist, Christina</str>
+                  <str>Bardel, Camilla</str>
+                  <str>Gudmundson, Anna</str>
+                  <str>Lindqvist, Christina</str>
+                  <str>Gudmundson, Anna</str>
+                  <str>Bardel, Camilla</str>
+               </arr>
+               <str name="iris.references.author.lastnames">bardelgudmundsonlindqvistlindqvistbardelgudmundsonlindqvistgudmundsonbardel</str>
+               <arr name="iris.references.author.noack">
+                  <str>Bardel, Camilla</str>
+                  <str>Gudmundson, Anna</str>
+                  <str>Lindqvist, Christina</str>
+                  <str>Lindqvist, Christina</str>
+                  <str>Bardel, Camilla</str>
+                  <str>Gudmundson, Anna</str>
+                  <str>Lindqvist, Christina</str>
+                  <str>Gudmundson, Anna</str>
+                  <str>Bardel, Camilla</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>A new approach to measuring lexical sophistication in L2 oral production</str>
+                  <str>L2 vocabulary acquisition, knowledge and use. New perspectives on assessment and corpus analysis. EUROSLA Monographs Series 2</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Bardel, Camilla</str>
+                  <str>Lindqvist, Christina</str>
+                  <str>Laufer, Batia</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Studies in Second Language Acquisition</str>
+                  <str>International Review of Applied Linguistics</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2012</str>
+                  <str>2011</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2012</str>
+                  <str>2011</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>camilla.bardel@isd.su.se</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Bardel, Camilla</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Interview protocol / schedule</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">interview protocol / schedule interview protocol / schedule interview schedule </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Interview protocol / schedule</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Complexity</str>
+                  <str>Speaking / Oral production</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>Italian</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Swedish</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Native speakers</str>
+                  <str/>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Italian</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2012_Bardel_Gudmundson_Lindqvist_Aspects of lexical sophistication in advanced learners' oral production: Vocabulary acquisition and use in L2 French and Italian</str>
+                  <str>2011_Lindqvist_Bardel_Gudmundson_Lexical richness in the advanced learner's oral production of French and Italian L2</str>
+                  <str>2013_Lindqvist_Gudmundson_Bardel_A new approach to measuring lexical sophistication in L2 oral production</str>
+               </arr>
+               <str name="iris2.references.allauthors">Bardel, Gudmundson, et al. (2012); Lindqvist, Bardel, et al. (2011); Lindqvist, Gudmundson, et al. (2013)</str>
+               <arr name="iris2.references.author">
+                  <str>Bardel, Camilla</str>
+                  <str>Gudmundson, Anna</str>
+                  <str>Lindqvist, Christina</str>
+                  <str>Lindqvist, Christina</str>
+                  <str>Bardel, Camilla</str>
+                  <str>Gudmundson, Anna</str>
+                  <str>Lindqvist, Christina</str>
+                  <str>Gudmundson, Anna</str>
+                  <str>Bardel, Camilla</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">bardelgudmundsonlindqvistlindqvistbardelgudmundsonlindqvistgudmundsonbardel</str>
+               <arr name="iris2.references.booktitle">
+                  <str>A new approach to measuring lexical sophistication in L2 oral production</str>
+                  <str>L2 vocabulary acquisition, knowledge and use. New perspectives on assessment and corpus analysis. EUROSLA Monographs Series 2</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Bardel, Camilla</str>
+                  <str>Lindqvist, Christina</str>
+                  <str>Laufer, Batia</str>
+               </arr>
+               <arr name="iris2.references.journal">
+                  <str>Studies in Second Language Acquisition</str>
+                  <str>International Review of Applied Linguistics</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2012</str>
+                  <str>2011</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2012</str>
+                  <str>2011</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:822752/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:822752/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:822752/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:822752/asset/INSTRUMENT3?download=true"/>
+      <file id="INSTRUMENT4" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:822752/asset/INSTRUMENT4?download=true"/>
+      <file id="INSTRUMENT5" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:822752/asset/INSTRUMENT5?download=true"/>
+      <file id="INSTRUMENT6" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:822752/asset/INSTRUMENT6?download=true"/>
+      <file id="INSTRUMENT7" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:822752/asset/INSTRUMENT7?download=true"/>
+      <file id="INSTRUMENT8" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:822752/asset/INSTRUMENT8?download=true"/>
+      <file id="INSTRUMENT9" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:822752/asset/INSTRUMENT9?download=true"/>
+      <file id="INSTRUMENT10" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:822752/asset/INSTRUMENT10?download=true"/>
+      <file id="INSTRUMENT11" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:822752/asset/INSTRUMENT11?download=true"/>
+      <file id="INSTRUMENT12" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:822752/asset/INSTRUMENT12?download=true"/>
+   </files>
+</record>

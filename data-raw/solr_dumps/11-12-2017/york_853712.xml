@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:853712">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">506</int>
+            <lst name="params">
+               <str name="q">PID:york?853712</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:853712</str>
+               <arr name="dc.creator">
+                  <str>Gallagher, H Colin</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+                  <str>1992</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:853712</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Gallagher, H Colin</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+                  <str>1992</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:853712</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Gallagher, H Colin</str>
+               </arr>
+               <date name="fgs.createdDate">2015-07-13T07:44:48.061Z</date>
+               <date name="fgs.dateCreated.sort">2015-07-13T07:44:48.061Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-25T21:50:52.794Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Gallagher, H Colin</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Other questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">attitude questionnaire attitude questionnaire  other questionnaire questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Other questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Complexity</str>
+                  <str>Motivation</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Attitude questionnaire</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Gallagher_Robins_Network statistical models for language learning contexts: Exponential random graph models and willingness to communicate</str>
+                  <str>1992_McCroskey_Reliability and validity of the willingness to communicate scale</str>
+               </arr>
+               <str name="iris.references.allauthors">Gallagher &amp; Robins (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Gallagher, H Colin</str>
+                  <str>Robins, Garry</str>
+                  <str>McCroskey, James C</str>
+               </arr>
+               <str name="iris.references.author.lastnames">gallagherrobinsmccroskey</str>
+               <arr name="iris.references.author.noack">
+                  <str>Gallagher, H Colin</str>
+                  <str>Robins, Garry</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+                  <str>1992</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+                  <str>1992</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Gallagher, H Colin</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Other questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">attitude questionnaire attitude questionnaire  other questionnaire questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Other questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Complexity</str>
+                  <str>Motivation</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Attitude questionnaire</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Gallagher_Robins_Network statistical models for language learning contexts: Exponential random graph models and willingness to communicate</str>
+                  <str>1992_McCroskey_Reliability and validity of the willingness to communicate scale</str>
+               </arr>
+               <str name="iris2.references.allauthors">Gallagher &amp; Robins (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Gallagher, H Colin</str>
+                  <str>Robins, Garry</str>
+                  <str>McCroskey, James C</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">gallagherrobinsmccroskey</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+                  <str>1992</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+                  <str>1992</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:853712/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:853712/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:853712/asset/INSTRUMENT2?download=true"/>
+   </files>
+</record>

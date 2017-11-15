@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:815146">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">490</int>
+            <lst name="params">
+               <str name="q">PID:york?815146</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:815146</str>
+               <arr name="dc.creator">
+                  <str>Al Khalil, Maimoonah</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>Traditionally employed constructs from Gardner's socio-educational model (1985, 2001, 2006) were combined with newly proposed constructs from Dörnyei's L2 motivational self-system (2005, 2009) in order to provide continuity with established past research and to assess whether new research conceptualizations, which have been advanced in conformity with globalization, were relevant to learners of languages such as Arabic. Linguistic self-confidence (Clément, 1980) and willingness to communicate (MacIntyre et al., 1998) were also assessed because they were empirically found to relate to L2 motivation in task-based interaction (Dörnyei, 2002; Dörnyei &amp; Kormos, 2000; Kormos &amp; Dörnyei, 2004). The questionnaire consisted of 158 Likert-scale items. Those assessing constructs from Gardner's paradigm were adapted from his famed and well-validated AMTB (1985; Gardner, Tremblay, &amp; Masgoret, 1997). Items assessing Dörnyei's L2 motivational self-system, linguistic self-confidence, and willingness to communicate were adapted from instruments employed in an anthology of studies (Dörnyei &amp; Ushioda, 2009) especially conducted to extend the self-system paradigm to several language learning contexts (Al-Shehri; Csizér &amp; Kormos; Ryan; Taguchi et al., 2009). Six new items were added by the researcher for the purposes of this study.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Motivation</str>
+               </arr>
+               <str name="dc.title">Motivation Questionnaire for Learners of Arabic</str>
+               <str name="dc.title.sort">Motivation Questionnaire for Learners of Arabic</str>
+               <arr name="dc.type">
+                  <str>Biographical questionnaire</str>
+                  <str>Debriefing questionnaire</str>
+                  <str>Language Awareness questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Language preferences or dominance questionnaire</str>
+                  <str>Learning strategy questionnaire</str>
+                  <str>Learning style questionnaire</str>
+                  <str>Proficiency questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Self-efficacy questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Al Khalil, Maimoonah</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>Traditionally employed constructs from Gardner's socio-educational model (1985, 2001, 2006) were combined with newly proposed constructs from Dörnyei's L2 motivational self-system (2005, 2009) in order to provide continuity with established past research and to assess whether new research conceptualizations, which have been advanced in conformity with globalization, were relevant to learners of languages such as Arabic. Linguistic self-confidence (Clément, 1980) and willingness to communicate (MacIntyre et al., 1998) were also assessed because they were empirically found to relate to L2 motivation in task-based interaction (Dörnyei, 2002; Dörnyei &amp; Kormos, 2000; Kormos &amp; Dörnyei, 2004). The questionnaire consisted of 158 Likert-scale items. Those assessing constructs from Gardner's paradigm were adapted from his famed and well-validated AMTB (1985; Gardner, Tremblay, &amp; Masgoret, 1997). Items assessing Dörnyei's L2 motivational self-system, linguistic self-confidence, and willingness to communicate were adapted from instruments employed in an anthology of studies (Dörnyei &amp; Ushioda, 2009) especially conducted to extend the self-system paradigm to several language learning contexts (Al-Shehri; Csizér &amp; Kormos; Ryan; Taguchi et al., 2009). Six new items were added by the researcher for the purposes of this study.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Motivation</str>
+               </arr>
+               <str name="dc2.title">Motivation Questionnaire for Learners of Arabic</str>
+               <arr name="dc2.type">
+                  <str>Biographical questionnaire</str>
+                  <str>Debriefing questionnaire</str>
+                  <str>Language Awareness questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Language preferences or dominance questionnaire</str>
+                  <str>Learning strategy questionnaire</str>
+                  <str>Learning style questionnaire</str>
+                  <str>Proficiency questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Self-efficacy questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Al Khalil, Maimoonah</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Motivation</str>
+               </arr>
+               <str name="dc3.title">Motivation Questionnaire for Learners of Arabic</str>
+               <date name="fgs.createdDate">2013-08-15T11:19:59.316Z</date>
+               <date name="fgs.dateCreated.sort">2013-08-15T11:19:59.316Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-16T17:59:50.523Z</date>
+               <str name="fgs.ownerId">iris-239f43f0-4630-4cac-a6c4-68f82695c117</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>maimoonah.alkhalil@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Al Khalil, Maimoonah</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Closed response format</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Debriefing questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language awareness questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language preferences or dominance questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Learning strategy questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Learning style questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Proficiency questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Other questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Self-efficacy questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">biographical questionnaire biographical questionnaire  debriefing questionnaire debriefing questionnaire  language awareness questionnaire language awareness questionnaire  language background questionnaire language background questionnaire  language preferences or dominance questionnaire language preferences or dominance questionnaire  learning strategy questionnaire learning strategy questionnaire learner strategy questionnaire learning style questionnaire learning style questionnaire learner style questionnaire proficiency questionnaire proficiency questionnaire  other questionnaire questionnaire  self-efficacy questionnaire self-efficacy questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">Traditionally employed constructs from Gardner's socio-educational model (1985, 2001, 2006) were combined with newly proposed constructs from Dörnyei's L2 motivational self-system (2005, 2009) in order to provide continuity with established past research and to assess whether new research conceptualizations, which have been advanced in conformity with globalization, were relevant to learners of languages such as Arabic. Linguistic self-confidence (Clément, 1980) and willingness to communicate (MacIntyre et al., 1998) were also assessed because they were empirically found to relate to L2 motivation in task-based interaction (Dörnyei, 2002; Dörnyei &amp; Kormos, 2000; Kormos &amp; Dörnyei, 2004). The questionnaire consisted of 158 Likert-scale items. Those assessing constructs from Gardner's paradigm were adapted from his famed and well-validated AMTB (1985; Gardner, Tremblay, &amp; Masgoret, 1997). Items assessing Dörnyei's L2 motivational self-system, linguistic self-confidence, and willingness to communicate were adapted from instruments employed in an anthology of studies (Dörnyei &amp; Ushioda, 2009) especially conducted to extend the self-system paradigm to several language learning contexts (Al-Shehri; Csizér &amp; Kormos; Ryan; Taguchi et al., 2009). Six new items were added by the researcher for the purposes of this study.</str>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Other questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Motivation</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Biographical questionnaire</str>
+                  <str>Questionnaire &gt; Debriefing questionnaire</str>
+                  <str>Questionnaire &gt; Language awareness questionnaire</str>
+                  <str>Questionnaire &gt; Language background questionnaire</str>
+                  <str>Questionnaire &gt; Language preferences or dominance questionnaire</str>
+                  <str>Questionnaire &gt; Learning strategy questionnaire</str>
+                  <str>Questionnaire &gt; Learning style questionnaire</str>
+                  <str>Questionnaire &gt; Proficiency questionnaire</str>
+                  <str>Questionnaire &gt; Self-efficacy questionnaire</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Motivation Questionnaire for Learners of Arabic</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>Academic</str>
+                  <str>Higher Education</str>
+                  <str>Residence abroad</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Arabic</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Al Khalil_Second language motivation: Its relationship to noticing, affect, and production in task-based interaction</str>
+               </arr>
+               <str name="iris.references.allauthors">Al Khalil (2011)</str>
+               <arr name="iris.references.author">
+                  <str>Al Khalil, M</str>
+               </arr>
+               <str name="iris.references.author.lastnames">al khalil</str>
+               <arr name="iris.references.author.noack">
+                  <str>Al Khalil, M</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2011</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2011</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>maimoonah.alkhalil@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Al Khalil, Maimoonah</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Closed response format</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Debriefing questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language awareness questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language preferences or dominance questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Learning strategy questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Learning style questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Proficiency questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Other questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Self-efficacy questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">biographical questionnaire biographical questionnaire  debriefing questionnaire debriefing questionnaire  language awareness questionnaire language awareness questionnaire  language background questionnaire language background questionnaire  language preferences or dominance questionnaire language preferences or dominance questionnaire  learning strategy questionnaire learning strategy questionnaire learner strategy questionnaire learning style questionnaire learning style questionnaire learner style questionnaire proficiency questionnaire proficiency questionnaire  other questionnaire questionnaire  self-efficacy questionnaire self-efficacy questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Other questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Motivation</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Biographical questionnaire</str>
+                  <str>Questionnaire &gt; Debriefing questionnaire</str>
+                  <str>Questionnaire &gt; Language awareness questionnaire</str>
+                  <str>Questionnaire &gt; Language background questionnaire</str>
+                  <str>Questionnaire &gt; Language preferences or dominance questionnaire</str>
+                  <str>Questionnaire &gt; Learning strategy questionnaire</str>
+                  <str>Questionnaire &gt; Learning style questionnaire</str>
+                  <str>Questionnaire &gt; Proficiency questionnaire</str>
+                  <str>Questionnaire &gt; Self-efficacy questionnaire</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>Academic</str>
+                  <str>Higher Education</str>
+                  <str>Residence abroad</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Arabic</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Al Khalil_Second language motivation: Its relationship to noticing, affect, and production in task-based interaction</str>
+               </arr>
+               <str name="iris2.references.allauthors">Al Khalil (2011)</str>
+               <arr name="iris2.references.author">
+                  <str>Al Khalil, M</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">al khalil</str>
+               <arr name="iris2.references.publicationDate">
+                  <str>2011</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2011</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str/>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:815146/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:815146/asset/INSTRUMENT1?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:853720">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">507</int>
+            <lst name="params">
+               <str name="q">PID:york?853720</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:853720</str>
+               <arr name="dc.creator">
+                  <str>Sanchez Castro, Olga</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>in press</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:853720</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Other</str>
+                  <str>Coding scheme</str>
+                  <str>Formulaic language</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Sanchez Castro, Olga</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>in press</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:853720</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Other</str>
+                  <str>Coding scheme</str>
+                  <str>Formulaic language</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Sanchez Castro, Olga</str>
+               </arr>
+               <date name="fgs.createdDate">2015-07-21T01:19:58.401Z</date>
+               <date name="fgs.dateCreated.sort">2015-07-21T01:19:58.401Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-19T11:57:00.545Z</date>
+               <str name="fgs.ownerId">iris-d0b74c3f-9314-4631-b58d-d05f0cdf9a01</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>olga.castro@flinders.edu.au</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Sanchez Castro, Olga</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Coding scheme for meta-analysis</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Coding scheme</str>
+                  <str>Other coding scheme</str>
+                  <str>Coding scheme</str>
+                  <str>Coding scheme</str>
+                  <str>Formulaic language</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">other coding scheme other coding scheme  coding scheme coding scheme  formulaic language formulaic language  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Communication Strategies</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Coding scheme &gt; Other coding scheme</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Computer-assisted language learning</str>
+                  <str>Discourse</str>
+                  <str>Interaction</str>
+                  <str>Speaking / Oral production</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Coding scheme</str>
+                  <str>Coding scheme &gt; Formulaic language</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>Higher Education</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>in press_Sanchez Castro_Strambi_Exploring the relationship between learner self-efficacy and online participation through Eggins and SLAde's Speech Functions: A preliminary report</str>
+               </arr>
+               <str name="iris.references.allauthors">Sanchez Castro &amp; Strambi (in press)</str>
+               <arr name="iris.references.author">
+                  <str>Sanchez Castro, Olga</str>
+                  <str>Strambi, Antonella</str>
+               </arr>
+               <str name="iris.references.author.lastnames">sanchez castrostrambi</str>
+               <arr name="iris.references.author.noack">
+                  <str>Sanchez Castro, Olga</str>
+                  <str>Strambi, Antonella</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str/>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>olga.castro@flinders.edu.au</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Sanchez Castro, Olga</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Coding scheme for meta-analysis</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Coding scheme</str>
+                  <str>Other coding scheme</str>
+                  <str>Coding scheme</str>
+                  <str>Coding scheme</str>
+                  <str>Formulaic language</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">other coding scheme other coding scheme  coding scheme coding scheme  formulaic language formulaic language  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Communication Strategies</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Coding scheme &gt; Other coding scheme</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Computer-assisted language learning</str>
+                  <str>Discourse</str>
+                  <str>Interaction</str>
+                  <str>Speaking / Oral production</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Coding scheme</str>
+                  <str>Coding scheme &gt; Formulaic language</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>Higher Education</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>in press_Sanchez Castro_Strambi_Exploring the relationship between learner self-efficacy and online participation through Eggins and SLAde's Speech Functions: A preliminary report</str>
+               </arr>
+               <str name="iris2.references.allauthors">Sanchez Castro &amp; Strambi (in press)</str>
+               <arr name="iris2.references.author">
+                  <str>Sanchez Castro, Olga</str>
+                  <str>Strambi, Antonella</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">sanchez castrostrambi</str>
+               <arr name="iris2.references.journal">
+                  <str/>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:853720/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

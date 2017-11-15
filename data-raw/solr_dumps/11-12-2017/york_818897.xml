@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:818897">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">501</int>
+            <lst name="params">
+               <str name="q">PID:york?818897</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:818897</str>
+               <arr name="dc.creator">
+                  <str>Dimroth, Christine</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2010</str>
+               </arr>
+               <str name="dc.title">Dimroth Finite Story Stimulus</str>
+               <str name="dc.title.sort">Dimroth Finite Story Stimulus</str>
+               <arr name="dc.type">
+                  <str>Video</str>
+                  <str>Stimuli for laboratory studies (video)</str>
+                  <str>Narration</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Dimroth, Christine</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2010</str>
+               </arr>
+               <str name="dc2.title">Dimroth Finite Story Stimulus</str>
+               <arr name="dc2.type">
+                  <str>Video</str>
+                  <str>Stimuli for laboratory studies (video)</str>
+                  <str>Narration</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Dimroth, Christine</str>
+               </arr>
+               <str name="dc3.title">Dimroth Finite Story Stimulus</str>
+               <date name="fgs.createdDate">2013-11-29T16:08:24.281Z</date>
+               <date name="fgs.dateCreated.sort">2013-11-29T16:08:24.281Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-25T11:09:53.143Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>christine.dimroth@uni-muenster.de</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Dimroth, Christine</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Video</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Video</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">video video  video stimuli for laboratory studies (video)  narration / story retelling  narration / story retelling   </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Narration / Story retelling </str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Discourse</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Cross-linguistic comparison</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Video</str>
+                  <str>Stimuli for laboratory studies &gt; Video</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Dimroth Finite Story Stimulus</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Video</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>French</str>
+                  <str>Italian</str>
+                  <str>Dutch</str>
+                  <str>German</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Language users</str>
+                  <str>Native speakers</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2010_Dimroth_Andorno_Benazzo_Verhagen_Given claims about new topics. How Romance and Germanic speakers link changed and maintained information in narrative discourse</str>
+               </arr>
+               <str name="iris.references.allauthors">Dimroth, Andorno, et al. (2010)</str>
+               <arr name="iris.references.author">
+                  <str>Dimroth, C.</str>
+                  <str>Andorno, C.</str>
+                  <str>Benazzo, S.</str>
+                  <str>Verhagen, Josje</str>
+               </arr>
+               <str name="iris.references.author.lastnames">dimrothandornobenazzoverhagen</str>
+               <arr name="iris.references.author.noack">
+                  <str>Dimroth, C.</str>
+                  <str>Andorno, C.</str>
+                  <str>Benazzo, S.</str>
+                  <str>Verhagen, Josje</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Journal of Pragmatics</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2010</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2010</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Electronic Resource</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>christine.dimroth@uni-muenster.de</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Dimroth, Christine</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Video</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Video</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">video video  video stimuli for laboratory studies (video)  narration / story retelling  narration / story retelling   </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Narration / Story retelling </str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Discourse</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Cross-linguistic comparison</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Video</str>
+                  <str>Stimuli for laboratory studies &gt; Video</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Video</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>French</str>
+                  <str>Italian</str>
+                  <str>Dutch</str>
+                  <str>German</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Language users</str>
+                  <str>Native speakers</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2010_Dimroth_Andorno_Benazzo_Verhagen_Given claims about new topics. How Romance and Germanic speakers link changed and maintained information in narrative discourse</str>
+               </arr>
+               <str name="iris2.references.allauthors">Dimroth, Andorno, et al. (2010)</str>
+               <arr name="iris2.references.author">
+                  <str>Dimroth, C.</str>
+                  <str>Andorno, C.</str>
+                  <str>Benazzo, S.</str>
+                  <str>Verhagen, Josje</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">dimrothandornobenazzoverhagen</str>
+               <arr name="iris2.references.journal">
+                  <str>Journal of Pragmatics</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Electronic Resource</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:818897/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

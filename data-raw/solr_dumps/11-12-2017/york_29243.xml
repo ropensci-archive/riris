@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:29243">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">464</int>
+            <lst name="params">
+               <str name="q">PID:york?29243</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:29243</str>
+               <arr name="dc.creator">
+                  <str>Muñoz, Carmen</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>1966</str>
+                  <str>2006</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>A selection of oral narratives from the BAF project appear in the BELC Corpus of the research group GRAL (University of Barcelona): www.ub.edu/GRAL/Corpora. For use of this instrument, see also: Fullana, N. &amp; MacKay, I.R.A. (2010). L2 fluency in the production of English extemporaneous speech by Catalan/Spanish bilinguals. In Dziubalska-Kolaczyk, K., Wrembel, M., &amp; Kul, M. (eds). Proceedings of the 6th International Symposium on the Acquisition of Second Language Speech, New Sounds 2010 (pp. 125-130). Fullana, N. &amp; MacKay, I.R.A. (2011). L2 fluency in the production of English extemporaneous speech by Catalan/Spanish bilinguals. In Wrembel, M., Kul, M., &amp; Dziubalska-Kolaczyk, K. (eds.), Achievements and perspectives in the acquisition of second language speech: New Sounds 2010, Vol. 2, pp. 83-92. Frankfurt am Mein: Peter Lang. Gilabert, R., Barón, J. &amp; Llanes, M.A. (2009). Manipulating cognitive complexity across task types and its impact on learners&#8217; interaction during task performance. International Review of Applied Linguistics, 47, 367-395. Gost, C. &amp; Celaya. M.L. (2005). Age and the use of the L1 in EFL oral production. In M.L. Carrió Pastro (Ed.), Perspectivas Interdisciplinares de la Lingüística Aplicada. UPV, Vol 1, 129-136. Llanes, À. &amp; Serrano, R. (in press). Two or three months abroad: Does it make a difference?, Revista Española de Lingüística Aplicada. Llanes, À. &amp; Muñoz, C. (2009a). Task-type and oral fluency performance in a study abroad context. Proceedings of the AESLA XXVII Conference. Llanes, À. &amp; Muñoz, C. (2009b). A short stay abroad: Does it make a difference?. System, 37, 3, pp.353-365. Llanes, À. &amp; Muñoz, C. (accepted). Age effects in a study abroad context: Children and adults studying abroad and at home. Language Learning. Llanes, À., Tragant, E. &amp; Serrano, R. (accepted). The role of individual differences in a study abroad experience: The case of Erasmus students. The International Journal of Multilingualism. DOI: 10.1080/14790718.2011.620614 Miralpeix, I. 2007. Lexical knowledge in instructed language learning: The effects of age and exposure. International Journal of English Studies 7(2), 61-84. Miralpeix, I. 2008. The influence of age on vocabulary acquisition in English as a foreign language. Doctoral dissertation. Universitat de Barcelona. Muñoz, C. &amp; Gilabert, R. (in press). More evidence concerning the Aspect Hypothesis. International Review of Applied Linguistics (IRAL). 49(3). Muñoz, C., and Sanchez, L. (2004) Morpheme development in two groups of EFL learners. In A. Rodríguez, D. Pastor, and P. Pardo (eds.), Actas del XXVII Congreso Internacional de AEDEAN/ Proceedings of the 27th International AEDEAN Conference. CD-ROM. Salamanca: Departamento de Filología Inglesa (Universidad de Salamanca). Sanchez, L. (2011) Luisa and Pedrito's dog will the breakfast eat: Interlanguage transfer and the role of the second language factor. In J.-M. Dewaele, and G. DeAngelis (eds.) New trends in crosslinguistic influence and multilingualism research (pp. 86-104). Clevedon: Multilingual Matters. Sanchez, L. (2011) Against 'canonical word order': Evidence of basic word order transfer at the initial state of LnA. Newcastle Working Papers in Linguistics 17, 220-236. Sanchez, L. (2010) Systematicity and variability over time in IL development: Developmental sequences in the acquisition of order within VPs in English as a foreign language. Odisea. Revista de Estudios Ingleses 59, 59-84. Sanchez, L., and Jarvis, S. (2008) The use of visual prompts in the investigation of crosslinguistic influence. TESOL Quarterly 42, 329-333. Serrano, R. (2007). Time distribution and the acquisition of English as a foreign language. Unpublished doctoral dissertation. Universitat de Barcelona. Serrano, R. (2011). The time factor in EFL classroom practice. Language Learning, 61, 117-143. Serrano, R., Llanes, À. &amp; Tragant, E. (2011). Analyzing the effect of context of second language learning: Domestic intensive and semi-intensive courses vs. study abroad in Europe. System, 39, 2, 133-143. Serrano, R., Tragant, E. &amp; Llanes, À. (accepted). A longitudinal analysis of the effects of one year abroad. The Canadian Modern Language Review. Suárez, M.M. (2010). Language aptitude in young learners: The elementary modern language aptitude test in Spanish and Catalan. Universitat de Barcelona, Barcelona. Unpublished doctoral dissertation. Available online: http://www.tesisenred.net/handle/10803/38244 Viladot, Judith and M. Luz Celaya. 2007. How do you say 'preparar'? L1 use in EFL oral production and task-related differences. In Losada, M., Ron, P., Hernández, S., Casanova, S. (eds.). Proceedings of the 30th AEDEAN Conference. Huelva: Publicaciones Universidad de Huelva. CD format.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>Not Applicable</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:29243</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Vocabulary test (productive)</str>
+                  <str>Productive grammar test</str>
+                  <str>Working memory test</str>
+                  <str>Vocabulary test</str>
+                  <str>Writing test</str>
+                  <str>Picture description</str>
+                  <str>Narration / Story retelling</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Muñoz, Carmen</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>1966</str>
+                  <str>2006</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>A selection of oral narratives from the BAF project appear in the BELC Corpus of the research group GRAL (University of Barcelona): www.ub.edu/GRAL/Corpora. For use of this instrument, see also: Fullana, N. &amp; MacKay, I.R.A. (2010). L2 fluency in the production of English extemporaneous speech by Catalan/Spanish bilinguals. In Dziubalska-Kolaczyk, K., Wrembel, M., &amp; Kul, M. (eds). Proceedings of the 6th International Symposium on the Acquisition of Second Language Speech, New Sounds 2010 (pp. 125-130). Fullana, N. &amp; MacKay, I.R.A. (2011). L2 fluency in the production of English extemporaneous speech by Catalan/Spanish bilinguals. In Wrembel, M., Kul, M., &amp; Dziubalska-Kolaczyk, K. (eds.), Achievements and perspectives in the acquisition of second language speech: New Sounds 2010, Vol. 2, pp. 83-92. Frankfurt am Mein: Peter Lang. Gilabert, R., Barón, J. &amp; Llanes, M.A. (2009). Manipulating cognitive complexity across task types and its impact on learners&#8217; interaction during task performance. International Review of Applied Linguistics, 47, 367-395. Gost, C. &amp; Celaya. M.L. (2005). Age and the use of the L1 in EFL oral production. In M.L. Carrió Pastro (Ed.), Perspectivas Interdisciplinares de la Lingüística Aplicada. UPV, Vol 1, 129-136. Llanes, À. &amp; Serrano, R. (in press). Two or three months abroad: Does it make a difference?, Revista Española de Lingüística Aplicada. Llanes, À. &amp; Muñoz, C. (2009a). Task-type and oral fluency performance in a study abroad context. Proceedings of the AESLA XXVII Conference. Llanes, À. &amp; Muñoz, C. (2009b). A short stay abroad: Does it make a difference?. System, 37, 3, pp.353-365. Llanes, À. &amp; Muñoz, C. (accepted). Age effects in a study abroad context: Children and adults studying abroad and at home. Language Learning. Llanes, À., Tragant, E. &amp; Serrano, R. (accepted). The role of individual differences in a study abroad experience: The case of Erasmus students. The International Journal of Multilingualism. DOI: 10.1080/14790718.2011.620614 Miralpeix, I. 2007. Lexical knowledge in instructed language learning: The effects of age and exposure. International Journal of English Studies 7(2), 61-84. Miralpeix, I. 2008. The influence of age on vocabulary acquisition in English as a foreign language. Doctoral dissertation. Universitat de Barcelona. Muñoz, C. &amp; Gilabert, R. (in press). More evidence concerning the Aspect Hypothesis. International Review of Applied Linguistics (IRAL). 49(3). Muñoz, C., and Sanchez, L. (2004) Morpheme development in two groups of EFL learners. In A. Rodríguez, D. Pastor, and P. Pardo (eds.), Actas del XXVII Congreso Internacional de AEDEAN/ Proceedings of the 27th International AEDEAN Conference. CD-ROM. Salamanca: Departamento de Filología Inglesa (Universidad de Salamanca). Sanchez, L. (2011) Luisa and Pedrito's dog will the breakfast eat: Interlanguage transfer and the role of the second language factor. In J.-M. Dewaele, and G. DeAngelis (eds.) New trends in crosslinguistic influence and multilingualism research (pp. 86-104). Clevedon: Multilingual Matters. Sanchez, L. (2011) Against 'canonical word order': Evidence of basic word order transfer at the initial state of LnA. Newcastle Working Papers in Linguistics 17, 220-236. Sanchez, L. (2010) Systematicity and variability over time in IL development: Developmental sequences in the acquisition of order within VPs in English as a foreign language. Odisea. Revista de Estudios Ingleses 59, 59-84. Sanchez, L., and Jarvis, S. (2008) The use of visual prompts in the investigation of crosslinguistic influence. TESOL Quarterly 42, 329-333. Serrano, R. (2007). Time distribution and the acquisition of English as a foreign language. Unpublished doctoral dissertation. Universitat de Barcelona. Serrano, R. (2011). The time factor in EFL classroom practice. Language Learning, 61, 117-143. Serrano, R., Llanes, À. &amp; Tragant, E. (2011). Analyzing the effect of context of second language learning: Domestic intensive and semi-intensive courses vs. study abroad in Europe. System, 39, 2, 133-143. Serrano, R., Tragant, E. &amp; Llanes, À. (accepted). A longitudinal analysis of the effects of one year abroad. The Canadian Modern Language Review. Suárez, M.M. (2010). Language aptitude in young learners: The elementary modern language aptitude test in Spanish and Catalan. Universitat de Barcelona, Barcelona. Unpublished doctoral dissertation. Available online: http://www.tesisenred.net/handle/10803/38244 Viladot, Judith and M. Luz Celaya. 2007. How do you say 'preparar'? L1 use in EFL oral production and task-related differences. In Losada, M., Ron, P., Hernández, S., Casanova, S. (eds.). Proceedings of the 30th AEDEAN Conference. Huelva: Publicaciones Universidad de Huelva. CD format.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>Not Applicable</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:29243</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Vocabulary test (productive)</str>
+                  <str>Productive grammar test</str>
+                  <str>Working memory test</str>
+                  <str>Vocabulary test</str>
+                  <str>Writing test</str>
+                  <str>Picture description</str>
+                  <str>Narration / Story retelling</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Muñoz, Carmen</str>
+               </arr>
+               <date name="fgs.createdDate">2012-01-09T15:03:51.848Z</date>
+               <date name="fgs.dateCreated.sort">2012-01-09T15:03:51.848Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-25T11:21:28.937Z</date>
+               <str name="fgs.ownerId">fedoraAdmin</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>munoz@ub.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>4</str>
+               </arr>
+               <arr name="iris.feedback.email_1">
+                  <str>maq7@nau.edu</str>
+               </arr>
+               <arr name="iris.feedback.email_2">
+                  <str>maq7@nau.edu</str>
+               </arr>
+               <arr name="iris.feedback.email_3">
+                  <str>lisa-maria.mueller@univie.ac.at</str>
+               </arr>
+               <arr name="iris.feedback.email_4">
+                  <str>lhrodri@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.published_2">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.published_3">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.published_4">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.time_1">
+                  <str>15 Apr 2013 14:19:48 GMT</str>
+               </arr>
+               <arr name="iris.feedback.time_2">
+                  <str>15 Apr 2013 14:22:47 GMT</str>
+               </arr>
+               <arr name="iris.feedback.time_3">
+                  <str>10 Jun 2013 18:52:00 GMT</str>
+               </arr>
+               <arr name="iris.feedback.time_4">
+                  <str>9 Jul 2014 13:47:58 GMT</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Muñoz, Carmen</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Oral production</str>
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Working memory test</str>
+                  <str>Other working memory test</str>
+                  <str>Vocabulary test</str>
+                  <str>Other vocabulary test</str>
+                  <str>Writing test</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">productive vocabulary test (productive)  productive productive grammar test  other working memory test working memory test wm other vocabulary test vocabulary test  writing test writing test  picture description picture description  narration / story retelling  narration / story retelling   </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Aspect</str>
+                  <str>Case</str>
+                  <str>Number</str>
+                  <str>Gender</str>
+                  <str>Tense</str>
+                  <str>Lexis (vocabulary)</str>
+                  <str>Closed class</str>
+                  <str>Open class</str>
+                  <str>Phonology</str>
+                  <str>Codas</str>
+                  <str>Stress</str>
+                  <str>Syllable</str>
+               </arr>
+               <str name="iris.instrument.notes">A selection of oral narratives from the BAF project appear in the BELC Corpus of the research group GRAL (University of Barcelona): www.ub.edu/GRAL/Corpora. For use of this instrument, see also: Fullana, N. &amp; MacKay, I.R.A. (2010). L2 fluency in the production of English extemporaneous speech by Catalan/Spanish bilinguals. In Dziubalska-Kolaczyk, K., Wrembel, M., &amp; Kul, M. (eds). Proceedings of the 6th International Symposium on the Acquisition of Second Language Speech, New Sounds 2010 (pp. 125-130). Fullana, N. &amp; MacKay, I.R.A. (2011). L2 fluency in the production of English extemporaneous speech by Catalan/Spanish bilinguals. In Wrembel, M., Kul, M., &amp; Dziubalska-Kolaczyk, K. (eds.), Achievements and perspectives in the acquisition of second language speech: New Sounds 2010, Vol. 2, pp. 83-92. Frankfurt am Mein: Peter Lang. Gilabert, R., Barón, J. &amp; Llanes, M.A. (2009). Manipulating cognitive complexity across task types and its impact on learners&#8217; interaction during task performance. International Review of Applied Linguistics, 47, 367-395. Gost, C. &amp; Celaya. M.L. (2005). Age and the use of the L1 in EFL oral production. In M.L. Carrió Pastro (Ed.), Perspectivas Interdisciplinares de la Lingüística Aplicada. UPV, Vol 1, 129-136. Llanes, À. &amp; Serrano, R. (in press). Two or three months abroad: Does it make a difference?, Revista Española de Lingüística Aplicada. Llanes, À. &amp; Muñoz, C. (2009a). Task-type and oral fluency performance in a study abroad context. Proceedings of the AESLA XXVII Conference. Llanes, À. &amp; Muñoz, C. (2009b). A short stay abroad: Does it make a difference?. System, 37, 3, pp.353-365. Llanes, À. &amp; Muñoz, C. (accepted). Age effects in a study abroad context: Children and adults studying abroad and at home. Language Learning. Llanes, À., Tragant, E. &amp; Serrano, R. (accepted). The role of individual differences in a study abroad experience: The case of Erasmus students. The International Journal of Multilingualism. DOI: 10.1080/14790718.2011.620614 Miralpeix, I. 2007. Lexical knowledge in instructed language learning: The effects of age and exposure. International Journal of English Studies 7(2), 61-84. Miralpeix, I. 2008. The influence of age on vocabulary acquisition in English as a foreign language. Doctoral dissertation. Universitat de Barcelona. Muñoz, C. &amp; Gilabert, R. (in press). More evidence concerning the Aspect Hypothesis. International Review of Applied Linguistics (IRAL). 49(3). Muñoz, C., and Sanchez, L. (2004) Morpheme development in two groups of EFL learners. In A. Rodríguez, D. Pastor, and P. Pardo (eds.), Actas del XXVII Congreso Internacional de AEDEAN/ Proceedings of the 27th International AEDEAN Conference. CD-ROM. Salamanca: Departamento de Filología Inglesa (Universidad de Salamanca). Sanchez, L. (2011) Luisa and Pedrito's dog will the breakfast eat: Interlanguage transfer and the role of the second language factor. In J.-M. Dewaele, and G. DeAngelis (eds.) New trends in crosslinguistic influence and multilingualism research (pp. 86-104). Clevedon: Multilingual Matters. Sanchez, L. (2011) Against 'canonical word order': Evidence of basic word order transfer at the initial state of LnA. Newcastle Working Papers in Linguistics 17, 220-236. Sanchez, L. (2010) Systematicity and variability over time in IL development: Developmental sequences in the acquisition of order within VPs in English as a foreign language. Odisea. Revista de Estudios Ingleses 59, 59-84. Sanchez, L., and Jarvis, S. (2008) The use of visual prompts in the investigation of crosslinguistic influence. TESOL Quarterly 42, 329-333. Serrano, R. (2007). Time distribution and the acquisition of English as a foreign language. Unpublished doctoral dissertation. Universitat de Barcelona. Serrano, R. (2011). The time factor in EFL classroom practice. Language Learning, 61, 117-143. Serrano, R., Llanes, À. &amp; Tragant, E. (2011). Analyzing the effect of context of second language learning: Domestic intensive and semi-intensive courses vs. study abroad in Europe. System, 39, 2, 133-143. Serrano, R., Tragant, E. &amp; Llanes, À. (accepted). A longitudinal analysis of the effects of one year abroad. The Canadian Modern Language Review. Suárez, M.M. (2010). Language aptitude in young learners: The elementary modern language aptitude test in Spanish and Catalan. Universitat de Barcelona, Barcelona. Unpublished doctoral dissertation. Available online: http://www.tesisenred.net/handle/10803/38244 Viladot, Judith and M. Luz Celaya. 2007. How do you say 'preparar'? L1 use in EFL oral production and task-related differences. In Losada, M., Ron, P., Hernández, S., Casanova, S. (eds.). Proceedings of the 30th AEDEAN Conference. Huelva: Publicaciones Universidad de Huelva. CD format.</str>
+               <str name="iris.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Picture description</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Complexity</str>
+                  <str>Fluency</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Pronunciation</str>
+                  <str>Discourse</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Vocabulary test &gt; Productive</str>
+                  <str>Grammar test / Morphosyntax test &gt; Productive</str>
+                  <str>Working memory test &gt; Other working memory test</str>
+                  <str>Vocabulary test &gt; Other vocabulary test</str>
+                  <str>Writing test</str>
+                  <str>Speaking test / Oral production test &gt; Narration / Story retelling </str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Catalan</str>
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Near beginner</str>
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+                  <str>Intermediate/advanced</str>
+                  <str>CFER - Basic Speaker (Breakthrough or Beginner)</str>
+                  <str>CFER - Basic Speaker</str>
+                  <str>CFER - Basic Speaker (Waystage or Elementary)</str>
+                  <str>CFER - Independent Speaker (Threshold or Intermediate)</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>1966_Heaton_Composition through pictures</str>
+                  <str>2006_Muñoz_Chapters 1, 3, 4, 5, 6 and 8</str>
+               </arr>
+               <str name="iris.references.allauthors">Muñoz (2006)</str>
+               <arr name="iris.references.author">
+                  <str>Heaton, J. B.</str>
+                  <str>Muñoz, Carmen</str>
+               </arr>
+               <str name="iris.references.author.lastnames">heatonmuñoz</str>
+               <arr name="iris.references.author.noack">
+                  <str>Muñoz, Carmen</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>Chapters 1, 3, 4, 5, 6 and 8</str>
+                  <str>Age and the rate of foreign language learning</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Muñoz, Carmen</str>
+               </arr>
+               <arr name="iris.references.placeOfPublication">
+                  <str>London</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>1966</str>
+                  <str>2006</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>1966</str>
+                  <str>2006</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Book</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="iris.references.publisher">
+                  <str>Longman</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>munoz@ub.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>4</str>
+               </arr>
+               <arr name="iris2.feedback.email_1">
+                  <str>maq7@nau.edu</str>
+               </arr>
+               <arr name="iris2.feedback.email_2">
+                  <str>maq7@nau.edu</str>
+               </arr>
+               <arr name="iris2.feedback.email_3">
+                  <str>lisa-maria.mueller@univie.ac.at</str>
+               </arr>
+               <arr name="iris2.feedback.email_4">
+                  <str>lhrodri@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.published_2">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.published_3">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.published_4">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.time_1">
+                  <str>15 Apr 2013 14:19:48 GMT</str>
+               </arr>
+               <arr name="iris2.feedback.time_2">
+                  <str>15 Apr 2013 14:22:47 GMT</str>
+               </arr>
+               <arr name="iris2.feedback.time_3">
+                  <str>10 Jun 2013 18:52:00 GMT</str>
+               </arr>
+               <arr name="iris2.feedback.time_4">
+                  <str>9 Jul 2014 13:47:58 GMT</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Muñoz, Carmen</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Oral production</str>
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Working memory test</str>
+                  <str>Other working memory test</str>
+                  <str>Vocabulary test</str>
+                  <str>Other vocabulary test</str>
+                  <str>Writing test</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">productive vocabulary test (productive)  productive productive grammar test  other working memory test working memory test wm other vocabulary test vocabulary test  writing test writing test  picture description picture description  narration / story retelling  narration / story retelling   </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Aspect</str>
+                  <str>Case</str>
+                  <str>Number</str>
+                  <str>Gender</str>
+                  <str>Tense</str>
+                  <str>Lexis (vocabulary)</str>
+                  <str>Closed class</str>
+                  <str>Open class</str>
+                  <str>Phonology</str>
+                  <str>Codas</str>
+                  <str>Stress</str>
+                  <str>Syllable</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Picture description</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Complexity</str>
+                  <str>Fluency</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Pronunciation</str>
+                  <str>Discourse</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Vocabulary test &gt; Productive</str>
+                  <str>Grammar test / Morphosyntax test &gt; Productive</str>
+                  <str>Working memory test &gt; Other working memory test</str>
+                  <str>Vocabulary test &gt; Other vocabulary test</str>
+                  <str>Writing test</str>
+                  <str>Speaking test / Oral production test &gt; Narration / Story retelling </str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Catalan</str>
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Near beginner</str>
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+                  <str>Intermediate/advanced</str>
+                  <str>CFER - Basic Speaker (Breakthrough or Beginner)</str>
+                  <str>CFER - Basic Speaker</str>
+                  <str>CFER - Basic Speaker (Waystage or Elementary)</str>
+                  <str>CFER - Independent Speaker (Threshold or Intermediate)</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>1966_Heaton_Composition through pictures</str>
+                  <str>2006_Muñoz_Chapters 1, 3, 4, 5, 6 and 8</str>
+               </arr>
+               <str name="iris2.references.allauthors">Muñoz (2006)</str>
+               <arr name="iris2.references.author">
+                  <str>Heaton, J. B.</str>
+                  <str>Muñoz, Carmen</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">heatonmuñoz</str>
+               <arr name="iris2.references.booktitle">
+                  <str>Chapters 1, 3, 4, 5, 6 and 8</str>
+                  <str>Age and the rate of foreign language learning</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Muñoz, Carmen</str>
+               </arr>
+               <arr name="iris2.references.placeOfPublication">
+                  <str>London</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>1966</str>
+                  <str>2006</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>1966</str>
+                  <str>2006</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2006</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Book</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="iris2.references.publisher">
+                  <str>Longman</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:29243/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

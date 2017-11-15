@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:852665">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">490</int>
+            <lst name="params">
+               <str name="q">PID:york?852665</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:852665</str>
+               <arr name="dc.creator">
+                  <str>Andringa, Sible</str>
+                  <str>Olsthoorn, Nomi</str>
+                  <str>Hulstijn, Jan</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2014</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>This instrument can be used with Dutch L2 learners of any L1 background. The researchers used the instrument with learners from many different language backgrounds.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>Dutch</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:852665</str>
+               </arr>
+               <str name="dc.title">Test of Dutch vocabulary for native and nonnative speakers</str>
+               <str name="dc.title.sort">Test of Dutch vocabulary for native and nonnative speakers</str>
+               <arr name="dc.type">
+                  <str>Vocabulary test (receptive)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Andringa, Sible</str>
+                  <str>Olsthoorn, Nomi</str>
+                  <str>Hulstijn, Jan</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2014</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>This instrument can be used with Dutch L2 learners of any L1 background. The researchers used the instrument with learners from many different language backgrounds.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>Dutch</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:852665</str>
+               </arr>
+               <str name="dc2.title">Test of Dutch vocabulary for native and nonnative speakers</str>
+               <arr name="dc2.type">
+                  <str>Vocabulary test (receptive)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Andringa, Sible</str>
+                  <str>Olsthoorn, Nomi</str>
+                  <str>Hulstijn, Jan</str>
+               </arr>
+               <str name="dc3.title">Test of Dutch vocabulary for native and nonnative speakers</str>
+               <date name="fgs.createdDate">2015-04-23T08:17:01.194Z</date>
+               <date name="fgs.dateCreated.sort">2015-04-23T08:17:01.194Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-18T15:16:05.443Z</date>
+               <str name="fgs.ownerId">iris-2d9b8264-6eac-4c43-bf6e-9cc0ae7b8961</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>s.j.andringa@uva.nl</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Andringa, Sible</str>
+                  <str>Olsthoorn, Nomi</str>
+                  <str>Hulstijn, Jan</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Closed response format</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>Netherlands Organisation for Scientific Research (NWO)</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">receptive vocabulary test (receptive)  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Open class</str>
+                  <str>Adjectives</str>
+                  <str>Adverbs</str>
+                  <str>Nouns</str>
+                  <str>Verbs</str>
+                  <str>Other</str>
+               </arr>
+               <str name="iris.instrument.notes">This instrument can be used with Dutch L2 learners of any L1 background. The researchers used the instrument with learners from many different language backgrounds.</str>
+               <str name="iris.instrument.primaryInstrumentType">Vocabulary test &gt; Receptive</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Comprehension</str>
+                  <str>Acquisition</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Proficiency</str>
+                  <str>Testing</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>Dutch</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Test of Dutch vocabulary for native and nonnative speakers</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Language users</str>
+                  <str>Monolinguals</str>
+                  <str>Native speakers</str>
+                  <str>Second language learners</str>
+                  <str>First language learners</str>
+                  <str>Bilinguals</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+                  <str>Intermediate/advanced</str>
+                  <str>Near native</str>
+                  <str>Advanced</str>
+                  <str>Native</str>
+                  <str>Bilingual since infancy</str>
+                  <str>CFER - Independent Speaker</str>
+                  <str>CFER - Independent Speaker (Threshold or Intermediate)</str>
+                  <str>CFER - Independent Speaker (Vantage or Upper intermediate)</str>
+                  <str>CFER - Proficient Speaker</str>
+                  <str>CFER - Proficient Speaker (Effective Operational Proficiency or Advanced)</str>
+                  <str>CFER - Proficient Speaker (Mastery or Proficiency)</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Dutch</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2014_Andringa_The use of native speaker norms in critical period hypothesis research</str>
+                  <str>2012_Andringa_Olsthoorn_Van Beuningen_Schoonen_Hulstijn_Determinants of success in native and non-native listening comprehension: An individual differences approach</str>
+               </arr>
+               <str name="iris.references.allauthors">Andringa (2014); Andringa, Olsthoorn, et al. (2012)</str>
+               <arr name="iris.references.author">
+                  <str>Andringa, Sible</str>
+                  <str>Andringa, Sible</str>
+                  <str>Olsthoorn, Nomi</str>
+                  <str>Van Beuningen, Catherine</str>
+                  <str>Schoonen, Rob</str>
+                  <str>Hulstijn, Jan</str>
+               </arr>
+               <str name="iris.references.author.lastnames">andringaandringaolsthoornvan beuningenschoonenhulstijn</str>
+               <arr name="iris.references.author.noack">
+                  <str>Andringa, Sible</str>
+                  <str>Andringa, Sible</str>
+                  <str>Olsthoorn, Nomi</str>
+                  <str>Van Beuningen, Catherine</str>
+                  <str>Schoonen, Rob</str>
+                  <str>Hulstijn, Jan</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Studies in Second Language Acquisition</str>
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2014</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2014</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>s.j.andringa@uva.nl</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Andringa, Sible</str>
+                  <str>Olsthoorn, Nomi</str>
+                  <str>Hulstijn, Jan</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Closed response format</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>Netherlands Organisation for Scientific Research (NWO)</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">receptive vocabulary test (receptive)  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Open class</str>
+                  <str>Adjectives</str>
+                  <str>Adverbs</str>
+                  <str>Nouns</str>
+                  <str>Verbs</str>
+                  <str>Other</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Vocabulary test &gt; Receptive</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Comprehension</str>
+                  <str>Acquisition</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Proficiency</str>
+                  <str>Testing</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>Dutch</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Language users</str>
+                  <str>Monolinguals</str>
+                  <str>Native speakers</str>
+                  <str>Second language learners</str>
+                  <str>First language learners</str>
+                  <str>Bilinguals</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+                  <str>Intermediate/advanced</str>
+                  <str>Near native</str>
+                  <str>Advanced</str>
+                  <str>Native</str>
+                  <str>Bilingual since infancy</str>
+                  <str>CFER - Independent Speaker</str>
+                  <str>CFER - Independent Speaker (Threshold or Intermediate)</str>
+                  <str>CFER - Independent Speaker (Vantage or Upper intermediate)</str>
+                  <str>CFER - Proficient Speaker</str>
+                  <str>CFER - Proficient Speaker (Effective Operational Proficiency or Advanced)</str>
+                  <str>CFER - Proficient Speaker (Mastery or Proficiency)</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Dutch</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2014_Andringa_The use of native speaker norms in critical period hypothesis research</str>
+                  <str>2012_Andringa_Olsthoorn_Van Beuningen_Schoonen_Hulstijn_Determinants of success in native and non-native listening comprehension: An individual differences approach</str>
+               </arr>
+               <str name="iris2.references.allauthors">Andringa (2014); Andringa, Olsthoorn, et al. (2012)</str>
+               <arr name="iris2.references.author">
+                  <str>Andringa, Sible</str>
+                  <str>Andringa, Sible</str>
+                  <str>Olsthoorn, Nomi</str>
+                  <str>Van Beuningen, Catherine</str>
+                  <str>Schoonen, Rob</str>
+                  <str>Hulstijn, Jan</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">andringaandringaolsthoornvan beuningenschoonenhulstijn</str>
+               <arr name="iris2.references.journal">
+                  <str>Studies in Second Language Acquisition</str>
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2014</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2014</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:852665/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

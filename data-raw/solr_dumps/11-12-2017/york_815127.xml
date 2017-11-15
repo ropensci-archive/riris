@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:815127">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">498</int>
+            <lst name="params">
+               <str name="q">PID:york?815127</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:815127</str>
+               <arr name="dc.creator">
+                  <str>Gurzynski-Weiss, Laura</str>
+                  <str>Baralt, Melissa</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2014</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>Used in Gurzynski-Weiss &amp; Baralt (2014), examining learner perception of feedback in task-based interaction comparing FTF and CMC.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:815127</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Stimulated recall</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Gurzynski-Weiss, Laura</str>
+                  <str>Baralt, Melissa</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2014</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>Used in Gurzynski-Weiss &amp; Baralt (2014), examining learner perception of feedback in task-based interaction comparing FTF and CMC.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:815127</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Stimulated recall</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Gurzynski-Weiss, Laura</str>
+                  <str>Baralt, Melissa</str>
+               </arr>
+               <date name="fgs.createdDate">2013-08-09T17:45:43.065Z</date>
+               <date name="fgs.dateCreated.sort">2013-08-09T17:45:43.065Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-26T06:15:04.815Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>lgurzyns@indiana.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>1</str>
+               </arr>
+               <arr name="iris.feedback.email_1">
+                  <str>jebali.adel@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.time_1">
+                  <str>9 Jul 2014 12:44:33 GMT</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Gurzynski-Weiss, Laura</str>
+                  <str>Baralt, Melissa</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Open response</str>
+                  <str>Qualitative</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Stimulated recall</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">stimulated recall stimulated recall  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Closed class</str>
+               </arr>
+               <str name="iris.instrument.notes">Used in Gurzynski-Weiss &amp; Baralt (2014), examining learner perception of feedback in task-based interaction comparing FTF and CMC.</str>
+               <str name="iris.instrument.primaryInstrumentType">Stimulated recall</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Error correction / Corrective feedback</str>
+                  <str>Interaction</str>
+                  <str>Computer-assisted language learning</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2014_Gurzynski-Weiss_Baralt_Exploring learner perception and use of task-based interactional feedback in face-to-face and computer-mediated modes</str>
+               </arr>
+               <str name="iris.references.allauthors">Gurzynski-Weiss &amp; Baralt (2014)</str>
+               <arr name="iris.references.author">
+                  <str>Gurzynski-Weiss, Laura</str>
+                  <str>Baralt, Melissa</str>
+               </arr>
+               <str name="iris.references.author.lastnames">gurzynski-weissbaralt</str>
+               <arr name="iris.references.author.noack">
+                  <str>Gurzynski-Weiss, Laura</str>
+                  <str>Baralt, Melissa</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Studies in Second Language Acquisition</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>lgurzyns@indiana.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>1</str>
+               </arr>
+               <arr name="iris2.feedback.email_1">
+                  <str>jebali.adel@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.time_1">
+                  <str>9 Jul 2014 12:44:33 GMT</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Gurzynski-Weiss, Laura</str>
+                  <str>Baralt, Melissa</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Open response</str>
+                  <str>Qualitative</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Stimulated recall</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">stimulated recall stimulated recall  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Closed class</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Stimulated recall</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Error correction / Corrective feedback</str>
+                  <str>Interaction</str>
+                  <str>Computer-assisted language learning</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2014_Gurzynski-Weiss_Baralt_Exploring learner perception and use of task-based interactional feedback in face-to-face and computer-mediated modes</str>
+               </arr>
+               <str name="iris2.references.allauthors">Gurzynski-Weiss &amp; Baralt (2014)</str>
+               <arr name="iris2.references.author">
+                  <str>Gurzynski-Weiss, Laura</str>
+                  <str>Baralt, Melissa</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">gurzynski-weissbaralt</str>
+               <arr name="iris2.references.journal">
+                  <str>Studies in Second Language Acquisition</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:815127/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

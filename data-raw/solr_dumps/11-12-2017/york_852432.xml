@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:852432">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">478</int>
+            <lst name="params">
+               <str name="q">PID:york?852432</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:852432</str>
+               <arr name="dc.creator">
+                  <str>Lichtman, Karen</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2013</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>Spanish</str>
+                  <str>Artificial language</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:852432</str>
+               </arr>
+               <str name="dc.title">ASCOPS</str>
+               <str name="dc.title.sort">ASCOPS</str>
+               <arr name="dc.type">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive grammar test</str>
+                  <str>Receptive grammar test</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Metalinguistic knowledge (MLK) test</str>
+                  <str>Picture description</str>
+                  <str>Proficiency test</str>
+                  <str>Retrospective think-aloud</str>
+                  <str>Think-aloud (other)</str>
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Lichtman, Karen</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2013</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>Spanish</str>
+                  <str>Artificial language</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:852432</str>
+               </arr>
+               <str name="dc2.title">ASCOPS</str>
+               <arr name="dc2.type">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive grammar test</str>
+                  <str>Receptive grammar test</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Metalinguistic knowledge (MLK) test</str>
+                  <str>Picture description</str>
+                  <str>Proficiency test</str>
+                  <str>Retrospective think-aloud</str>
+                  <str>Think-aloud (other)</str>
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Lichtman, Karen</str>
+               </arr>
+               <str name="dc3.title">ASCOPS</str>
+               <date name="fgs.createdDate">2015-04-05T23:05:20.923Z</date>
+               <date name="fgs.dateCreated.sort">2015-04-05T23:05:20.923Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-28T17:56:01.518Z</date>
+               <str name="fgs.ownerId">iris-d3ad1d24-a797-4c3f-9c2f-8507b33cacb2</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>klichtman@niu.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Lichtman, Karen</str>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>National Science Foundation (NSF)</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Metalinguistic knowledge (MLK) test</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+                  <str>Proficiency test</str>
+                  <str>Introspective technique / Think-aloud protocol / Self-report</str>
+                  <str>Retrospective think-aloud</str>
+                  <str>Introspective technique / Think-aloud protocol / Self-report</str>
+                  <str>Other think-aloud</str>
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">grammar test / morphosyntax test grammar test / morphosyntax test morphosyntax test,morphology test,syntax test productive productive grammar test  receptive receptive grammar test  grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test metalinguistic knowledge (mlk) test metalinguistic knowledge (mlk) test  picture description picture description  proficiency test proficiency test  retrospective think-aloud retrospective think-aloud  other think-aloud other think-aloud  elicited imitation protocol / sentence repetition task elicited imitation protocol / sentence repetition task elicited imitation </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Articles</str>
+                  <str>Determiners</str>
+                  <str>Gender</str>
+                  <str>Suffixes</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Grammar test / Morphosyntax test &gt; Productive</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Effectiveness of teaching</str>
+                  <str>Fluency</str>
+                  <str>Implicit learning</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Writing</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Metalinguistic knowledge (MLK) test</str>
+                  <str>Speaking test / Oral production test &gt; Picture description</str>
+                  <str>Proficiency test</str>
+                  <str>Introspective technique / Think-aloud protocol / Self-report &gt; Retrospective think-aloud</str>
+                  <str>Introspective technique / Think-aloud protocol / Self-report &gt; Other think-aloud</str>
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>Spanish</str>
+                  <str>Artificial language</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>ASCOPS</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Sound</str>
+                  <str>Still Image</str>
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Adolescent learners</str>
+                  <str>Bilinguals</str>
+                  <str>Artificial language learners</str>
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+                  <str>Young learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Pre-intermediate</str>
+                  <str>Near beginner</str>
+                  <str>Complete beginner</str>
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Spanish</str>
+                  <str>Artificial language</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Lichtman_Child-Adult Differences in Implicit and Explicit Second Language Learning</str>
+                  <str>2013_Lichtman_Developmental Comparisons of Implicit and Explicit Language Learning</str>
+               </arr>
+               <str name="iris.references.allauthors">Lichtman (2012); Lichtman (2013)</str>
+               <arr name="iris.references.author">
+                  <str>Lichtman, Karen</str>
+                  <str>Lichtman, Karen</str>
+               </arr>
+               <str name="iris.references.author.lastnames">lichtmanlichtman</str>
+               <arr name="iris.references.author.noack">
+                  <str>Lichtman, Karen</str>
+                  <str>Lichtman, Karen</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Acquisition</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2013</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2013</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>klichtman@niu.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Lichtman, Karen</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>National Science Foundation (NSF)</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Metalinguistic knowledge (MLK) test</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture description</str>
+                  <str>Proficiency test</str>
+                  <str>Introspective technique / Think-aloud protocol / Self-report</str>
+                  <str>Retrospective think-aloud</str>
+                  <str>Introspective technique / Think-aloud protocol / Self-report</str>
+                  <str>Other think-aloud</str>
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">grammar test / morphosyntax test grammar test / morphosyntax test morphosyntax test,morphology test,syntax test productive productive grammar test  receptive receptive grammar test  grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test metalinguistic knowledge (mlk) test metalinguistic knowledge (mlk) test  picture description picture description  proficiency test proficiency test  retrospective think-aloud retrospective think-aloud  other think-aloud other think-aloud  elicited imitation protocol / sentence repetition task elicited imitation protocol / sentence repetition task elicited imitation </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Articles</str>
+                  <str>Determiners</str>
+                  <str>Gender</str>
+                  <str>Suffixes</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Grammar test / Morphosyntax test &gt; Productive</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Effectiveness of teaching</str>
+                  <str>Fluency</str>
+                  <str>Implicit learning</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Writing</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Metalinguistic knowledge (MLK) test</str>
+                  <str>Speaking test / Oral production test &gt; Picture description</str>
+                  <str>Proficiency test</str>
+                  <str>Introspective technique / Think-aloud protocol / Self-report &gt; Retrospective think-aloud</str>
+                  <str>Introspective technique / Think-aloud protocol / Self-report &gt; Other think-aloud</str>
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>Spanish</str>
+                  <str>Artificial language</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Sound</str>
+                  <str>Still Image</str>
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Adolescent learners</str>
+                  <str>Bilinguals</str>
+                  <str>Artificial language learners</str>
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+                  <str>Young learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Pre-intermediate</str>
+                  <str>Near beginner</str>
+                  <str>Complete beginner</str>
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Spanish</str>
+                  <str>Artificial language</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Lichtman_Child-Adult Differences in Implicit and Explicit Second Language Learning</str>
+                  <str>2013_Lichtman_Developmental Comparisons of Implicit and Explicit Language Learning</str>
+               </arr>
+               <str name="iris2.references.allauthors">Lichtman (2012); Lichtman (2013)</str>
+               <arr name="iris2.references.author">
+                  <str>Lichtman, Karen</str>
+                  <str>Lichtman, Karen</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">lichtmanlichtman</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Acquisition</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2013</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2013</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852432/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852432/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:852432/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:852432/asset/INSTRUMENT3?download=true"/>
+      <file id="INSTRUMENT4" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852432/asset/INSTRUMENT4?download=true"/>
+      <file id="INSTRUMENT5" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:852432/asset/INSTRUMENT5?download=true"/>
+      <file id="INSTRUMENT6" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852432/asset/INSTRUMENT6?download=true"/>
+      <file id="INSTRUMENT7" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852432/asset/INSTRUMENT7?download=true"/>
+      <file id="INSTRUMENT8" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852432/asset/INSTRUMENT8?download=true"/>
+   </files>
+</record>

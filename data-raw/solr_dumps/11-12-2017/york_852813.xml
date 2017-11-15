@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:852813">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">479</int>
+            <lst name="params">
+               <str name="q">PID:york?852813</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:852813</str>
+               <arr name="dc.creator">
+                  <str>Römer, Ute</str>
+                  <str>O'Donnell, Matthew Brook</str>
+                  <str>Ellis, N.C.</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2014</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>In the original study, the authors used Qualtrics to administer the task.The 20 sentences were shown once with either she or he as a subject and once with it as a subject. These 40 prompts were shown in random order and the participants filled the gaps in each frame.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:852813</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Gap-fill / Cloze test</str>
+                  <str>Productive grammar test</str>
+                  <str>Lexical decision task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Römer, Ute</str>
+                  <str>O'Donnell, Matthew Brook</str>
+                  <str>Ellis, N.C.</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2014</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>In the original study, the authors used Qualtrics to administer the task.The 20 sentences were shown once with either she or he as a subject and once with it as a subject. These 40 prompts were shown in random order and the participants filled the gaps in each frame.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:852813</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Gap-fill / Cloze test</str>
+                  <str>Productive grammar test</str>
+                  <str>Lexical decision task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Römer, Ute</str>
+                  <str>O'Donnell, Matthew Brook</str>
+                  <str>Ellis, N.C.</str>
+               </arr>
+               <date name="fgs.createdDate">2015-05-06T08:27:13.357Z</date>
+               <date name="fgs.dateCreated.sort">2015-05-06T08:27:13.357Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-19T15:09:36.729Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>uroemer@gsu.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Römer, Ute</str>
+                  <str>O'Donnell, Matthew Brook</str>
+                  <str>Ellis, N.C.</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Lexical decision task</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">gap-fill / cloze test / fill in the blank gap-fill / cloze test / fill in the blank fill in the blank, cloze,gap fill productive productive grammar test  lexical decision task lexical decision task  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">In the original study, the authors used Qualtrics to administer the task.The 20 sentences were shown once with either she or he as a subject and once with it as a subject. These 40 prompts were shown in random order and the participants filled the gaps in each frame.</str>
+               <str name="iris.instrument.primaryInstrumentType">Gap-fill / Cloze test / Fill in the blank</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Cross-linguistic influence</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Native / Non-native</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Productive</str>
+                  <str>Lexical decision task</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+                  <str>Czech</str>
+                  <str>German</str>
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Native speakers</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2014_Römer_O'Donnell_Ellis_Second language learner knowledge of verb-argument constructions: Effects of language transfer and typology</str>
+               </arr>
+               <str name="iris.references.allauthors">Römer, O'Donnell, et al. (2014)</str>
+               <arr name="iris.references.author">
+                  <str>Römer, Ute</str>
+                  <str>O'Donnell, Matthew Brook</str>
+                  <str>Ellis, N.C.</str>
+               </arr>
+               <str name="iris.references.author.lastnames">römero'donnellellis</str>
+               <arr name="iris.references.author.noack">
+                  <str>Römer, Ute</str>
+                  <str>O'Donnell, Matthew Brook</str>
+                  <str>Ellis, N.C.</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>The Modern Language Journal</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>uroemer@gsu.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Römer, Ute</str>
+                  <str>O'Donnell, Matthew Brook</str>
+                  <str>Ellis, N.C.</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Lexical decision task</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">gap-fill / cloze test / fill in the blank gap-fill / cloze test / fill in the blank fill in the blank, cloze,gap fill productive productive grammar test  lexical decision task lexical decision task  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Gap-fill / Cloze test / Fill in the blank</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Cross-linguistic influence</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Native / Non-native</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Productive</str>
+                  <str>Lexical decision task</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+                  <str>Czech</str>
+                  <str>German</str>
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Native speakers</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2014_Römer_O'Donnell_Ellis_Second language learner knowledge of verb-argument constructions: Effects of language transfer and typology</str>
+               </arr>
+               <str name="iris2.references.allauthors">Römer, O'Donnell, et al. (2014)</str>
+               <arr name="iris2.references.author">
+                  <str>Römer, Ute</str>
+                  <str>O'Donnell, Matthew Brook</str>
+                  <str>Ellis, N.C.</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">römero'donnellellis</str>
+               <arr name="iris2.references.journal">
+                  <str>The Modern Language Journal</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852813/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

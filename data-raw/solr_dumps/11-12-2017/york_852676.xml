@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:852676">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">500</int>
+            <lst name="params">
+               <str name="q">PID:york?852676</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:852676</str>
+               <arr name="dc.creator">
+                  <str>Wu, Shu-Ling</str>
+                  <str>Ortega, Lourdes</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2002</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>(This information is provided in the "IRIS information sheet" available in the downloads of each record for this study) There are six records for the following EITs available on IRIS: - the English, German, Japanese and Spanish L2 EITs used in the original study - the French and Mandarin versions, adapted from the originals, used in later studies. There are also Korean and Portuguese versions, not yet published in a peer-reviewed publication, available in the English record. If you wish to use these materials, please cite the author(s) named on the IRIS record. Further details of each instrument (as well as information about citations) can be found in the "IRIS information sheet" document and the other documents available in the downloads of each record: - the "information about the study" document - the "original design additional information" document Before using the later versions of the EITs, please refer to the original versions and their corresponding information documents. The "qualitative commentary" provides more information about the findings for each item in the study in English, Spanish and German. The original study used elicited imitation tests across four different second languages. The materials for each L2 can be found on separate IRIS records: 1) English: http://www.iris-database.org//iris/app/home/detail?id=york%3a852670&amp;ref=search The English EIT was also re-recorded by Park. The English task with Korean instructions is available in this record. This is the most up-to-date recording and currently recommended for use by Ortega et al. Within the English record, there are also the EITs for Korean and Portuguese L2s. These have not yet been published in a peer-reviewed publication. If you wish to use these tests, please contact the authors. (please see below) 2) German: http://www.iris-database.org//iris/app/home/detail?id=york%3a852671&amp;ref=search 3) Japanese: http://www.iris-database.org//iris/app/home/detail?id=york%3a852672&amp;ref=search 4) Spanish: http://www.iris-database.org//iris/app/home/detail?id=york%3a852674&amp;ref=search The Spanish was re-recorded and updates by Bowden (2007). This is also available in the downloads of this record. The study has also since been carried out for L2 Korean, Portuguese, Mandarin and French. The L2 Korean and Portuguese versions (unpublished) are available with the English version at the following URL: http://www.iris-database.org//iris/app/home/detail?id=york%3a852670&amp;ref=search 1) Korean: This test was developed by Youjin Kim at Georgia State University (ykim39@gsu.edu) and Nicole Tracey-Ventura at University of South Florida (nkt@usf.edu) 2) Portuguese: This test was created by Luciane Maimone (lumaimone@gmail.com; llm35@georgetown.edu) and Ariel Zach (aaz9@georgetown.edu), in August, 2014; adapted from Ortega, L., Iwashita, N., Rabie, S., &amp; Norris, J. M. (1999). A multilanguage comparison of measures of syntactic complexity. Honolulu: University of Hawai'i, National Foreign Language Resource Center. The task was created as part of the study: Maimone, L. and Zach, A. Collaborative language learning in Teletandem and gains in oral complexity, accuracy and fluency (in preparation). 3) Mandarin: Shu-Ling Wu and Ying Zhou developed the Mandarin EIT. If you use the Mandarin L2 EIT in your own research, please cite the following as its source: Wu, S.-L., &amp; Ortega, L. (2013). Measuring global oral proficiency in SLA research: A new elicited imitation test of L2 Chinese. Foreign Language Annals, 46, 680-704. doi: 10.1111/flan.12063 If you quote the scoring rubrics, please cite: Zhou, Y. (2012). Willingness to communicate in learning Mandarin as a foreign and heritage language. Unpublished doctoral dissertation, University of Hawaii at Manoa, Honolulu. 4) French: URL: http://www.iris-database.org//iris/app/home/detail?id=york%3a852723&amp;ref=search The French EIT was designed by Nicole Tracy-Ventura (http://languages.usf.edu/people/ntventura/) &amp; Kevin McManus (http://www.york.ac.uk/education/our-staff/academic/kevin-mcmanus/).</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:852676</str>
+               </arr>
+               <str name="dc.title">EIT Mandarin</str>
+               <str name="dc.title.sort">EIT Mandarin</str>
+               <arr name="dc.type">
+                  <str>Proficiency test</str>
+                  <str>Vocabulary test (productive)</str>
+                  <str>Listening / Aural test</str>
+                  <str>Productive grammar test</str>
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>Other speaking test / oral production test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Wu, Shu-Ling</str>
+                  <str>Ortega, Lourdes</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2002</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>(This information is provided in the "IRIS information sheet" available in the downloads of each record for this study) There are six records for the following EITs available on IRIS: - the English, German, Japanese and Spanish L2 EITs used in the original study - the French and Mandarin versions, adapted from the originals, used in later studies. There are also Korean and Portuguese versions, not yet published in a peer-reviewed publication, available in the English record. If you wish to use these materials, please cite the author(s) named on the IRIS record. Further details of each instrument (as well as information about citations) can be found in the "IRIS information sheet" document and the other documents available in the downloads of each record: - the "information about the study" document - the "original design additional information" document Before using the later versions of the EITs, please refer to the original versions and their corresponding information documents. The "qualitative commentary" provides more information about the findings for each item in the study in English, Spanish and German. The original study used elicited imitation tests across four different second languages. The materials for each L2 can be found on separate IRIS records: 1) English: http://www.iris-database.org//iris/app/home/detail?id=york%3a852670&amp;ref=search The English EIT was also re-recorded by Park. The English task with Korean instructions is available in this record. This is the most up-to-date recording and currently recommended for use by Ortega et al. Within the English record, there are also the EITs for Korean and Portuguese L2s. These have not yet been published in a peer-reviewed publication. If you wish to use these tests, please contact the authors. (please see below) 2) German: http://www.iris-database.org//iris/app/home/detail?id=york%3a852671&amp;ref=search 3) Japanese: http://www.iris-database.org//iris/app/home/detail?id=york%3a852672&amp;ref=search 4) Spanish: http://www.iris-database.org//iris/app/home/detail?id=york%3a852674&amp;ref=search The Spanish was re-recorded and updates by Bowden (2007). This is also available in the downloads of this record. The study has also since been carried out for L2 Korean, Portuguese, Mandarin and French. The L2 Korean and Portuguese versions (unpublished) are available with the English version at the following URL: http://www.iris-database.org//iris/app/home/detail?id=york%3a852670&amp;ref=search 1) Korean: This test was developed by Youjin Kim at Georgia State University (ykim39@gsu.edu) and Nicole Tracey-Ventura at University of South Florida (nkt@usf.edu) 2) Portuguese: This test was created by Luciane Maimone (lumaimone@gmail.com; llm35@georgetown.edu) and Ariel Zach (aaz9@georgetown.edu), in August, 2014; adapted from Ortega, L., Iwashita, N., Rabie, S., &amp; Norris, J. M. (1999). A multilanguage comparison of measures of syntactic complexity. Honolulu: University of Hawai'i, National Foreign Language Resource Center. The task was created as part of the study: Maimone, L. and Zach, A. Collaborative language learning in Teletandem and gains in oral complexity, accuracy and fluency (in preparation). 3) Mandarin: Shu-Ling Wu and Ying Zhou developed the Mandarin EIT. If you use the Mandarin L2 EIT in your own research, please cite the following as its source: Wu, S.-L., &amp; Ortega, L. (2013). Measuring global oral proficiency in SLA research: A new elicited imitation test of L2 Chinese. Foreign Language Annals, 46, 680-704. doi: 10.1111/flan.12063 If you quote the scoring rubrics, please cite: Zhou, Y. (2012). Willingness to communicate in learning Mandarin as a foreign and heritage language. Unpublished doctoral dissertation, University of Hawaii at Manoa, Honolulu. 4) French: URL: http://www.iris-database.org//iris/app/home/detail?id=york%3a852723&amp;ref=search The French EIT was designed by Nicole Tracy-Ventura (http://languages.usf.edu/people/ntventura/) &amp; Kevin McManus (http://www.york.ac.uk/education/our-staff/academic/kevin-mcmanus/).</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:852676</str>
+               </arr>
+               <str name="dc2.title">EIT Mandarin</str>
+               <arr name="dc2.type">
+                  <str>Proficiency test</str>
+                  <str>Vocabulary test (productive)</str>
+                  <str>Listening / Aural test</str>
+                  <str>Productive grammar test</str>
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>Other speaking test / oral production test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Wu, Shu-Ling</str>
+                  <str>Ortega, Lourdes</str>
+               </arr>
+               <str name="dc3.title">EIT Mandarin</str>
+               <date name="fgs.createdDate">2015-04-23T12:09:32.822Z</date>
+               <date name="fgs.dateCreated.sort">2015-04-23T12:09:32.822Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-07T15:42:45.535Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Wu, Shu-Ling</str>
+                  <str>Ortega, Lourdes</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Proficiency test</str>
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+                  <str>Listening / Aural test</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Other speaking test / oral production test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">proficiency test proficiency test  productive vocabulary test (productive)  listening / aural test listening / aural test aural test productive productive grammar test  elicited imitation protocol / sentence repetition task elicited imitation protocol / sentence repetition task elicited imitation other speaking test / oral production test other speaking test / oral production test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">(This information is provided in the "IRIS information sheet" available in the downloads of each record for this study) There are six records for the following EITs available on IRIS: - the English, German, Japanese and Spanish L2 EITs used in the original study - the French and Mandarin versions, adapted from the originals, used in later studies. There are also Korean and Portuguese versions, not yet published in a peer-reviewed publication, available in the English record. If you wish to use these materials, please cite the author(s) named on the IRIS record. Further details of each instrument (as well as information about citations) can be found in the "IRIS information sheet" document and the other documents available in the downloads of each record: - the "information about the study" document - the "original design additional information" document Before using the later versions of the EITs, please refer to the original versions and their corresponding information documents. The "qualitative commentary" provides more information about the findings for each item in the study in English, Spanish and German. The original study used elicited imitation tests across four different second languages. The materials for each L2 can be found on separate IRIS records: 1) English: http://www.iris-database.org//iris/app/home/detail?id=york%3a852670&amp;ref=search The English EIT was also re-recorded by Park. The English task with Korean instructions is available in this record. This is the most up-to-date recording and currently recommended for use by Ortega et al. Within the English record, there are also the EITs for Korean and Portuguese L2s. These have not yet been published in a peer-reviewed publication. If you wish to use these tests, please contact the authors. (please see below) 2) German: http://www.iris-database.org//iris/app/home/detail?id=york%3a852671&amp;ref=search 3) Japanese: http://www.iris-database.org//iris/app/home/detail?id=york%3a852672&amp;ref=search 4) Spanish: http://www.iris-database.org//iris/app/home/detail?id=york%3a852674&amp;ref=search The Spanish was re-recorded and updates by Bowden (2007). This is also available in the downloads of this record. The study has also since been carried out for L2 Korean, Portuguese, Mandarin and French. The L2 Korean and Portuguese versions (unpublished) are available with the English version at the following URL: http://www.iris-database.org//iris/app/home/detail?id=york%3a852670&amp;ref=search 1) Korean: This test was developed by Youjin Kim at Georgia State University (ykim39@gsu.edu) and Nicole Tracey-Ventura at University of South Florida (nkt@usf.edu) 2) Portuguese: This test was created by Luciane Maimone (lumaimone@gmail.com; llm35@georgetown.edu) and Ariel Zach (aaz9@georgetown.edu), in August, 2014; adapted from Ortega, L., Iwashita, N., Rabie, S., &amp; Norris, J. M. (1999). A multilanguage comparison of measures of syntactic complexity. Honolulu: University of Hawai'i, National Foreign Language Resource Center. The task was created as part of the study: Maimone, L. and Zach, A. Collaborative language learning in Teletandem and gains in oral complexity, accuracy and fluency (in preparation). 3) Mandarin: Shu-Ling Wu and Ying Zhou developed the Mandarin EIT. If you use the Mandarin L2 EIT in your own research, please cite the following as its source: Wu, S.-L., &amp; Ortega, L. (2013). Measuring global oral proficiency in SLA research: A new elicited imitation test of L2 Chinese. Foreign Language Annals, 46, 680-704. doi: 10.1111/flan.12063 If you quote the scoring rubrics, please cite: Zhou, Y. (2012). Willingness to communicate in learning Mandarin as a foreign and heritage language. Unpublished doctoral dissertation, University of Hawaii at Manoa, Honolulu. 4) French: URL: http://www.iris-database.org//iris/app/home/detail?id=york%3a852723&amp;ref=search The French EIT was designed by Nicole Tracy-Ventura (http://languages.usf.edu/people/ntventura/) &amp; Kevin McManus (http://www.york.ac.uk/education/our-staff/academic/kevin-mcmanus/).</str>
+               <str name="iris.instrument.primaryInstrumentType">Elicited imitation protocol / Sentence repetition task</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Proficiency</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Fluency</str>
+                  <str>Listening</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Lexicon (vocabulary)</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Proficiency test</str>
+                  <str>Vocabulary test &gt; Productive</str>
+                  <str>Listening / Aural test</str>
+                  <str>Grammar test / Morphosyntax test &gt; Productive</str>
+                  <str>Speaking test / Oral production test &gt; Other speaking test / oral production test</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>EIT Mandarin</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+                  <str>Sound</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2002_Ortega_Iwashita_Norris_Rabie_An investigation of elicited imitation tasks in crosslinguistic SLA research</str>
+                  <str>2013_Wu_Ortega_Measuring global oral proficiency in SLA research: A new elicited imitation test of L2 Chinese</str>
+                  <str>Wu_Learning to express motion events in L2 Chinese: A cognitive linguistic perspective</str>
+               </arr>
+               <str name="iris.references.allauthors">Wu &amp; Ortega (2013); Wu (2011)</str>
+               <arr name="iris.references.author">
+                  <str>Ortega, Lourdes</str>
+                  <str>Iwashita, Noriko</str>
+                  <str>Norris, J.M.</str>
+                  <str>Rabie, S.</str>
+                  <str>Wu, S.-L.</str>
+                  <str>Ortega, Lourdes</str>
+                  <str>Wu, S-L</str>
+               </arr>
+               <str name="iris.references.author.lastnames">ortegaiwashitanorrisrabiewuortegawu</str>
+               <arr name="iris.references.author.noack">
+                  <str>Wu, S.-L.</str>
+                  <str>Ortega, Lourdes</str>
+                  <str>Wu, S-L</str>
+               </arr>
+               <arr name="iris.references.conferenceName">
+                  <str>Second Language Research Forum, Toronto</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str/>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2002</str>
+                  <str>2013</str>
+                  <str>2011</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2002</str>
+                  <str>2013</str>
+                  <str>2011</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Proceedings</str>
+                  <str>Journal Article</str>
+                  <str>Thesis</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Wu, Shu-Ling</str>
+                  <str>Ortega, Lourdes</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Proficiency test</str>
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+                  <str>Listening / Aural test</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Elicited imitation protocol / Sentence repetition task</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Other speaking test / oral production test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">proficiency test proficiency test  productive vocabulary test (productive)  listening / aural test listening / aural test aural test productive productive grammar test  elicited imitation protocol / sentence repetition task elicited imitation protocol / sentence repetition task elicited imitation other speaking test / oral production test other speaking test / oral production test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Elicited imitation protocol / Sentence repetition task</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Proficiency</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Fluency</str>
+                  <str>Listening</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Lexicon (vocabulary)</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Proficiency test</str>
+                  <str>Vocabulary test &gt; Productive</str>
+                  <str>Listening / Aural test</str>
+                  <str>Grammar test / Morphosyntax test &gt; Productive</str>
+                  <str>Speaking test / Oral production test &gt; Other speaking test / oral production test</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+                  <str>Sound</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2002_Ortega_Iwashita_Norris_Rabie_An investigation of elicited imitation tasks in crosslinguistic SLA research</str>
+                  <str>2013_Wu_Ortega_Measuring global oral proficiency in SLA research: A new elicited imitation test of L2 Chinese</str>
+                  <str>Wu_Learning to express motion events in L2 Chinese: A cognitive linguistic perspective</str>
+               </arr>
+               <str name="iris2.references.allauthors">Wu &amp; Ortega (2013); Wu (2011)</str>
+               <arr name="iris2.references.author">
+                  <str>Ortega, Lourdes</str>
+                  <str>Iwashita, Noriko</str>
+                  <str>Norris, J.M.</str>
+                  <str>Rabie, S.</str>
+                  <str>Wu, S.-L.</str>
+                  <str>Ortega, Lourdes</str>
+                  <str>Wu, S-L</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">ortegaiwashitanorrisrabiewuortegawu</str>
+               <arr name="iris2.references.conferenceName">
+                  <str>Second Language Research Forum, Toronto</str>
+               </arr>
+               <arr name="iris2.references.journal">
+                  <str/>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2002</str>
+                  <str>2013</str>
+                  <str>2011</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2002</str>
+                  <str>2013</str>
+                  <str>2011</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Proceedings</str>
+                  <str>Journal Article</str>
+                  <str>Thesis</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT1" mime="audio/mpeg" url="https://www.iris-database.org/iris/api/resource/york:852676/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT3" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:852676/asset/INSTRUMENT3?download=true"/>
+      <file id="INSTRUMENT4" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:852676/asset/INSTRUMENT4?download=true"/>
+      <file id="INSTRUMENT6" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:852676/asset/INSTRUMENT6?download=true"/>
+      <file id="INSTRUMENT9" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852676/asset/INSTRUMENT9?download=true"/>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852676/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT2" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852676/asset/INSTRUMENT2?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:914932">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">463</int>
+            <lst name="params">
+               <str name="q">PID:york?914932</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:914932</str>
+               <arr name="dc.creator">
+                  <str>Nakata, Tatsuya</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The five records for the productive and receptive pre-tests, treatment, immediate and delayed post-tests are all linked on IRIS. The pre-tests, treatment and immediate post tests are all contained within the same excel file, attached to these records. The delayed post-test is a different file held in the delayed post-test record. At the beginning of the program, you are asked to enter your ID. Please enter any number between 1-8. You will be assigned to one of the following four conditions, depending on the number you enter. 1 or 2: massed group 3 or 4: short spacing group 5 or 6: medium spacing group 7 or 8: long spacing group</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:914932</str>
+               </arr>
+               <str name="dc.title">Productive pre-test</str>
+               <str name="dc.title.sort">Productive pre-test</str>
+               <arr name="dc.type">
+                  <str>Vocabulary test (productive)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Nakata, Tatsuya</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The five records for the productive and receptive pre-tests, treatment, immediate and delayed post-tests are all linked on IRIS. The pre-tests, treatment and immediate post tests are all contained within the same excel file, attached to these records. The delayed post-test is a different file held in the delayed post-test record. At the beginning of the program, you are asked to enter your ID. Please enter any number between 1-8. You will be assigned to one of the following four conditions, depending on the number you enter. 1 or 2: massed group 3 or 4: short spacing group 5 or 6: medium spacing group 7 or 8: long spacing group</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:914932</str>
+               </arr>
+               <str name="dc2.title">Productive pre-test</str>
+               <arr name="dc2.type">
+                  <str>Vocabulary test (productive)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Nakata, Tatsuya</str>
+               </arr>
+               <str name="dc3.title">Productive pre-test</str>
+               <date name="fgs.createdDate">2016-01-14T14:27:34.818Z</date>
+               <date name="fgs.dateCreated.sort">2016-01-14T14:27:34.818Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-30T11:01:51.891Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>nakata@kansai-u.ac.jp</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Nakata, Tatsuya</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">productive vocabulary test (productive)  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The five records for the productive and receptive pre-tests, treatment, immediate and delayed post-tests are all linked on IRIS. The pre-tests, treatment and immediate post tests are all contained within the same excel file, attached to these records. The delayed post-test is a different file held in the delayed post-test record. At the beginning of the program, you are asked to enter your ID. Please enter any number between 1-8. You will be assigned to one of the following four conditions, depending on the number you enter. 1 or 2: massed group 3 or 4: short spacing group 5 or 6: medium spacing group 7 or 8: long spacing group</str>
+               <str name="iris.instrument.primaryInstrumentType">Vocabulary test &gt; Productive</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Error correction / Corrective feedback</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Productive pre-test</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str/>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate/advanced</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Nakata_Effects of feedback timing on second language vocabulary learning: Does delaying feedback increase learning?</str>
+               </arr>
+               <str name="iris.references.allauthors">Nakata (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Nakata, Tatsuya</str>
+               </arr>
+               <str name="iris.references.author.lastnames">nakata</str>
+               <arr name="iris.references.author.noack">
+                  <str>Nakata, Tatsuya</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Teaching Research</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>nakata@kansai-u.ac.jp</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Nakata, Tatsuya</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">productive vocabulary test (productive)  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Vocabulary test &gt; Productive</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Error correction / Corrective feedback</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str/>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate/advanced</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Nakata_Effects of feedback timing on second language vocabulary learning: Does delaying feedback increase learning?</str>
+               </arr>
+               <str name="iris2.references.allauthors">Nakata (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Nakata, Tatsuya</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">nakata</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Teaching Research</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:914932/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:914932/asset/INSTRUMENT1?download=true"/>
+   </files>
+</record>

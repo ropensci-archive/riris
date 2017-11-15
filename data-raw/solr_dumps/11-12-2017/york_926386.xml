@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:926386">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">554</int>
+            <lst name="params">
+               <str name="q">PID:york?926386</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:926386</str>
+               <arr name="dc.creator">
+                  <str>MacIntyre, P.</str>
+                  <str>Gardner, Robert</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>1994</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The records for the IPOA scales, FLCAS questionnaire, word span task, digit span task, T-scope, French achievement test, paragraph translation task, paired associates learning task, thing category task, cloze test and self-description task and rating scales are all linked on IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:926386</str>
+               </arr>
+               <str name="dc.title">Paragraph translation task</str>
+               <str name="dc.title.sort">Paragraph translation task</str>
+               <arr name="dc.type">
+                  <str>L2 (L3, L4, etc.) to L1</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>MacIntyre, P.</str>
+                  <str>Gardner, Robert</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>1994</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The records for the IPOA scales, FLCAS questionnaire, word span task, digit span task, T-scope, French achievement test, paragraph translation task, paired associates learning task, thing category task, cloze test and self-description task and rating scales are all linked on IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:926386</str>
+               </arr>
+               <str name="dc2.title">Paragraph translation task</str>
+               <arr name="dc2.type">
+                  <str>L2 (L3, L4, etc.) to L1</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>MacIntyre, P.</str>
+                  <str>Gardner, Robert</str>
+               </arr>
+               <str name="dc3.title">Paragraph translation task</str>
+               <date name="fgs.createdDate">2016-05-20T08:20:23.55Z</date>
+               <date name="fgs.dateCreated.sort">2016-05-20T08:20:23.55Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2016-05-20T08:20:48.772Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>MacIntyre, P.</str>
+                  <str>Gardner, Robert</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Translation task</str>
+                  <str>L2 (L3, L4, etc.) to L1</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">l2 (l3, l4, etc.) to l1 l2 (l3, l4, etc.) to l1  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The records for the IPOA scales, FLCAS questionnaire, word span task, digit span task, T-scope, French achievement test, paragraph translation task, paired associates learning task, thing category task, cloze test and self-description task and rating scales are all linked on IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Translation task &gt; L2 (L3, L4, etc.) to L1</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Learner attitudes</str>
+                  <str>Processing</str>
+                  <str>Tasks</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Paragraph translation task</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>1994_MacIntyre_Gardner_The subtle effects of languge anxiety on cognitive processing in the second language</str>
+               </arr>
+               <str name="iris.references.allauthors">MacIntyre &amp; Gardner (1994)</str>
+               <arr name="iris.references.author">
+                  <str>MacIntyre, P.</str>
+                  <str>Gardner, Robert</str>
+               </arr>
+               <str name="iris.references.author.lastnames">macintyregardner</str>
+               <arr name="iris.references.author.noack">
+                  <str>MacIntyre, P.</str>
+                  <str>Gardner, Robert</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>1994</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>1994</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>MacIntyre, P.</str>
+                  <str>Gardner, Robert</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Translation task</str>
+                  <str>L2 (L3, L4, etc.) to L1</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">l2 (l3, l4, etc.) to l1 l2 (l3, l4, etc.) to l1  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Translation task &gt; L2 (L3, L4, etc.) to L1</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Learner attitudes</str>
+                  <str>Processing</str>
+                  <str>Tasks</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>1994_MacIntyre_Gardner_The subtle effects of languge anxiety on cognitive processing in the second language</str>
+               </arr>
+               <str name="iris2.references.allauthors">MacIntyre &amp; Gardner (1994)</str>
+               <arr name="iris2.references.author">
+                  <str>MacIntyre, P.</str>
+                  <str>Gardner, Robert</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">macintyregardner</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>1994</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>1994</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>1994</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

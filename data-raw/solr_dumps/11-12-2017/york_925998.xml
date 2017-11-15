@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:925998">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">479</int>
+            <lst name="params">
+               <str name="q">PID:york?925998</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:925998</str>
+               <arr name="dc.creator">
+                  <str>Haim, Orly</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The 3 parts of the Russian assessment battery (can-do statements, Russian school context questionnaire and letter writing task) and academic proficiency tests for Hebrew and English are all linked as 5 seperate records on IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:925998</str>
+               </arr>
+               <str name="dc.title">Academic proficiency test for Hebrew</str>
+               <str name="dc.title.sort">Academic proficiency test for Hebrew</str>
+               <arr name="dc.type">
+                  <str>Writing test</str>
+                  <str>Other</str>
+                  <str>Proficiency test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Haim, Orly</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The 3 parts of the Russian assessment battery (can-do statements, Russian school context questionnaire and letter writing task) and academic proficiency tests for Hebrew and English are all linked as 5 seperate records on IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:925998</str>
+               </arr>
+               <str name="dc2.title">Academic proficiency test for Hebrew</str>
+               <arr name="dc2.type">
+                  <str>Writing test</str>
+                  <str>Other</str>
+                  <str>Proficiency test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Haim, Orly</str>
+               </arr>
+               <str name="dc3.title">Academic proficiency test for Hebrew</str>
+               <date name="fgs.createdDate">2016-03-18T15:29:49.553Z</date>
+               <date name="fgs.dateCreated.sort">2016-03-18T15:29:49.553Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2016-03-18T15:29:58.397Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>haimorly@zahav.net.il</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Haim, Orly</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Writing test</str>
+                  <str>Reading test</str>
+                  <str>Other reading test</str>
+                  <str>Proficiency test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">writing test writing test  other reading test other reading test  proficiency test proficiency test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The 3 parts of the Russian assessment battery (can-do statements, Russian school context questionnaire and letter writing task) and academic proficiency tests for Hebrew and English are all linked as 5 seperate records on IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Proficiency test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Cross-linguistic influence</str>
+                  <str>Reading</str>
+                  <str>Writing</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Writing test</str>
+                  <str>Reading test &gt; Other reading test</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Academic proficiency test for Hebrew</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Russian</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str/>
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Hebrew</str>
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Haim_Investigating Transfer of Academic Proficiency Among Trilingual Immigrant Students: A Holistic Tri-Directional Approach</str>
+                  <str>2008_Levin_Shohamy_Achievement of immigrant students in mathematics and academic Hebrew in Israeli school: A large-scale evaluation study</str>
+               </arr>
+               <str name="iris.references.allauthors">Haim (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Haim, Orly</str>
+                  <str>Levin, T</str>
+                  <str>Shohamy, Elena</str>
+               </arr>
+               <str name="iris.references.author.lastnames">haimlevinshohamy</str>
+               <arr name="iris.references.author.noack">
+                  <str>Haim, Orly</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>The Modern Language Journal</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>haimorly@zahav.net.il</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Haim, Orly</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Writing test</str>
+                  <str>Reading test</str>
+                  <str>Other reading test</str>
+                  <str>Proficiency test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">writing test writing test  other reading test other reading test  proficiency test proficiency test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Proficiency test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Cross-linguistic influence</str>
+                  <str>Reading</str>
+                  <str>Writing</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Writing test</str>
+                  <str>Reading test &gt; Other reading test</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Russian</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str/>
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Hebrew</str>
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Haim_Investigating Transfer of Academic Proficiency Among Trilingual Immigrant Students: A Holistic Tri-Directional Approach</str>
+                  <str>2008_Levin_Shohamy_Achievement of immigrant students in mathematics and academic Hebrew in Israeli school: A large-scale evaluation study</str>
+               </arr>
+               <str name="iris2.references.allauthors">Haim (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Haim, Orly</str>
+                  <str>Levin, T</str>
+                  <str>Shohamy, Elena</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">haimlevinshohamy</str>
+               <arr name="iris2.references.journal">
+                  <str>The Modern Language Journal</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:823003">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">494</int>
+            <lst name="params">
+               <str name="q">PID:york?823003</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:823003</str>
+               <arr name="dc.creator">
+                  <str>Razi, Salim</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>50 items in TAWR 2 points each 5 groups: Introduction (8 items); Citation (16 items); Academic writing (8 items); Idea presentation (11 items); and Mechanics (7 items) Cronbach&#8217;s alpha reliability of 0.89 Intra-rater reliability: Pearson&#8217;s r(55) = 0.99, p &lt; 0.001 Inter-rater reliability: Pearson&#8217;s r(55) = 0.97, p &lt; 0.001</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:823003</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Writing</str>
+               </arr>
+               <str name="dc.title">Transparent Academic Writing Rubric (TAWR)</str>
+               <str name="dc.title.sort">Transparent Academic Writing Rubric (TAWR)</str>
+               <arr name="dc.type">
+                  <str>Writing test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Razi, Salim</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>50 items in TAWR 2 points each 5 groups: Introduction (8 items); Citation (16 items); Academic writing (8 items); Idea presentation (11 items); and Mechanics (7 items) Cronbach&#8217;s alpha reliability of 0.89 Intra-rater reliability: Pearson&#8217;s r(55) = 0.99, p &lt; 0.001 Inter-rater reliability: Pearson&#8217;s r(55) = 0.97, p &lt; 0.001</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:823003</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Writing</str>
+               </arr>
+               <str name="dc2.title">Transparent Academic Writing Rubric (TAWR)</str>
+               <arr name="dc2.type">
+                  <str>Writing test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Razi, Salim</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Writing</str>
+               </arr>
+               <str name="dc3.title">Transparent Academic Writing Rubric (TAWR)</str>
+               <date name="fgs.createdDate">2014-08-13T23:17:13.312Z</date>
+               <date name="fgs.dateCreated.sort">2014-08-13T23:17:13.312Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-23T07:38:28.819Z</date>
+               <str name="fgs.ownerId">iris-8d2c8a8b-e33b-4a5d-b3c1-0124f1c73e6c</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>salimrazi@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Razi, Salim</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Writing test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">writing test writing test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">50 items in TAWR 2 points each 5 groups: Introduction (8 items); Citation (16 items); Academic writing (8 items); Idea presentation (11 items); and Mechanics (7 items) Cronbach&#8217;s alpha reliability of 0.89 Intra-rater reliability: Pearson&#8217;s r(55) = 0.99, p &lt; 0.001 Inter-rater reliability: Pearson&#8217;s r(55) = 0.97, p &lt; 0.001</str>
+               <str name="iris.instrument.primaryInstrumentType">Writing test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Writing</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Transparent Academic Writing Rubric (TAWR)</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Turkish</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Teacher trainees</str>
+                  <str/>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate/advanced</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Razi_Development of a rubric to assess academic writing incorporating plagiarism detectors</str>
+               </arr>
+               <str name="iris.references.allauthors">Razi (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Razi, Salim</str>
+               </arr>
+               <str name="iris.references.author.lastnames">razi</str>
+               <arr name="iris.references.author.noack">
+                  <str>Razi, Salim</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>SAGE Open</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>salimrazi@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Razi, Salim</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Writing test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">writing test writing test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Writing test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Writing</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Turkish</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Teacher trainees</str>
+                  <str/>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate/advanced</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Razi_Development of a rubric to assess academic writing incorporating plagiarism detectors</str>
+               </arr>
+               <str name="iris2.references.allauthors">Razi (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Razi, Salim</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">razi</str>
+               <arr name="iris2.references.journal">
+                  <str>SAGE Open</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:823003/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

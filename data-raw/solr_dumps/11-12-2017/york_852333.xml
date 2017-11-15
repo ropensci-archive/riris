@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:852333">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">460</int>
+            <lst name="params">
+               <str name="q">PID:york?852333</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:852333</str>
+               <arr name="dc.creator">
+                  <str>Basterrechea, María</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2014</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The dictogloss was adapted from a text in: Social Sciences. Compulsory Secondary Education. Second cycle. Vol 3, page 21 (see acknowledgements).</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:852333</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Dictogloss task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Basterrechea, María</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2014</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The dictogloss was adapted from a text in: Social Sciences. Compulsory Secondary Education. Second cycle. Vol 3, page 21 (see acknowledgements).</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:852333</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Dictogloss task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Basterrechea, María</str>
+               </arr>
+               <date name="fgs.createdDate">2015-03-29T16:35:42.722Z</date>
+               <date name="fgs.dateCreated.sort">2015-03-29T16:35:42.722Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-28T01:02:12.253Z</date>
+               <str name="fgs.ownerId">iris-818e0843-f7cc-468c-bb43-b767c6c86d3c</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>mariapilar.garciamayo@ehu.es</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Basterrechea, María</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Dictogloss task</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">dictogloss task dictogloss task  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Tense</str>
+                  <str>Suffixes</str>
+               </arr>
+               <str name="iris.instrument.notes">The dictogloss was adapted from a text in: Social Sciences. Compulsory Secondary Education. Second cycle. Vol 3, page 21 (see acknowledgements).</str>
+               <str name="iris.instrument.primaryInstrumentType">Dictogloss task</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Bilingualism</str>
+                  <str>Discourse</str>
+                  <str>Interaction</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+                  <str>School - subject(s) other than language</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Spanish</str>
+                  <str>Basque</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Adolescent learners</str>
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Pre-intermediate</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2014_Basterrechea_García Mayo_Leeser_Pushed output and noticing in a dictogloss: Task implementation in the CLIL classroom</str>
+                  <str>2008_Beobide_Ball_Social Sciences. Compulsory Secondary Education. Second cycle. Vol 3: The story goes on</str>
+               </arr>
+               <str name="iris.references.allauthors">Basterrechea, García Mayo, et al. (2014)</str>
+               <arr name="iris.references.author">
+                  <str>Basterrechea, María</str>
+                  <str>García Mayo, María del Pilar</str>
+                  <str>Leeser, Michael</str>
+                  <str>Beobide, H.</str>
+                  <str>Ball, P.</str>
+               </arr>
+               <str name="iris.references.author.lastnames">basterrecheagarcía mayoleeserbeobideball</str>
+               <arr name="iris.references.author.noack">
+                  <str>Basterrechea, María</str>
+                  <str>García Mayo, María del Pilar</str>
+                  <str>Leeser, Michael</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Porta Linguarum</str>
+               </arr>
+               <arr name="iris.references.placeOfPublication">
+                  <str>Donostia-San Sebastián</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2014</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2014</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris.references.publisher">
+                  <str>Ostadar</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>mariapilar.garciamayo@ehu.es</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Basterrechea, María</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Dictogloss task</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">dictogloss task dictogloss task  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Tense</str>
+                  <str>Suffixes</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Dictogloss task</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Bilingualism</str>
+                  <str>Discourse</str>
+                  <str>Interaction</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+                  <str>School - subject(s) other than language</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Spanish</str>
+                  <str>Basque</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Adolescent learners</str>
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Pre-intermediate</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2014_Basterrechea_García Mayo_Leeser_Pushed output and noticing in a dictogloss: Task implementation in the CLIL classroom</str>
+                  <str>2008_Beobide_Ball_Social Sciences. Compulsory Secondary Education. Second cycle. Vol 3: The story goes on</str>
+               </arr>
+               <str name="iris2.references.allauthors">Basterrechea, García Mayo, et al. (2014)</str>
+               <arr name="iris2.references.author">
+                  <str>Basterrechea, María</str>
+                  <str>García Mayo, María del Pilar</str>
+                  <str>Leeser, Michael</str>
+                  <str>Beobide, H.</str>
+                  <str>Ball, P.</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">basterrecheagarcía mayoleeserbeobideball</str>
+               <arr name="iris2.references.journal">
+                  <str>Porta Linguarum</str>
+               </arr>
+               <arr name="iris2.references.placeOfPublication">
+                  <str>Donostia-San Sebastián</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2014</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2014</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris2.references.publisher">
+                  <str>Ostadar</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:852333/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

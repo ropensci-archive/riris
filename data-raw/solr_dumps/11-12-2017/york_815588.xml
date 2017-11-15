@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:815588">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">501</int>
+            <lst name="params">
+               <str name="q">PID:york?815588</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:815588</str>
+               <arr name="dc.creator">
+                  <str>Kuhn, Sandra</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>German version of the reading span test: Hacker, W., Handrick, S. &amp; Veres, T. (2002). Lesespannentest. The study involved spoken and written recall.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>German</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:815588</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Stimulated recall</str>
+                  <str>Stimuli for laboratory studies (audio)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Kuhn, Sandra</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>German version of the reading span test: Hacker, W., Handrick, S. &amp; Veres, T. (2002). Lesespannentest. The study involved spoken and written recall.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>German</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:815588</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Stimulated recall</str>
+                  <str>Stimuli for laboratory studies (audio)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Kuhn, Sandra</str>
+               </arr>
+               <date name="fgs.createdDate">2013-08-31T16:59:26.135Z</date>
+               <date name="fgs.dateCreated.sort">2013-08-31T16:59:26.135Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-05-09T02:10:35.941Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>judith.schweppe@uni-erfurt.de</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Kuhn, Sandra</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Oral production</str>
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Stimulated recall</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Audio</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">stimulated recall stimulated recall  audio stimuli for laboratory studies (audio)  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Syntax</str>
+                  <str>Semantics</str>
+                  <str>Closed class</str>
+                  <str>Open class</str>
+               </arr>
+               <str name="iris.instrument.notes">German version of the reading span test: Hacker, W., Handrick, S. &amp; Veres, T. (2002). Lesespannentest. The study involved spoken and written recall.</str>
+               <str name="iris.instrument.primaryInstrumentType">Stimuli for laboratory studies &gt; Audio</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Native / Non-native</str>
+                  <str>Sentence processing</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Stimulated recall</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>German</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Sound</str>
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Bilinguals</str>
+                  <str>Native speakers</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Near native</str>
+                  <str>Native</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>German</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Kuhn_Satzbehalten in einer Zweitsprache: Anteile automatisierter und kontrollierter Verarbeitung</str>
+               </arr>
+               <str name="iris.references.allauthors">Kuhn (2012)</str>
+               <arr name="iris.references.author">
+                  <str>Kuhn, Sandra</str>
+               </arr>
+               <str name="iris.references.author.lastnames">kuhn</str>
+               <arr name="iris.references.author.noack">
+                  <str>Kuhn, Sandra</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>judith.schweppe@uni-erfurt.de</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Kuhn, Sandra</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Oral production</str>
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Stimulated recall</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Audio</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">stimulated recall stimulated recall  audio stimuli for laboratory studies (audio)  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Syntax</str>
+                  <str>Semantics</str>
+                  <str>Closed class</str>
+                  <str>Open class</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Stimuli for laboratory studies &gt; Audio</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Native / Non-native</str>
+                  <str>Sentence processing</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Stimulated recall</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>German</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Sound</str>
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Bilinguals</str>
+                  <str>Native speakers</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Near native</str>
+                  <str>Native</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>German</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Kuhn_Satzbehalten in einer Zweitsprache: Anteile automatisierter und kontrollierter Verarbeitung</str>
+               </arr>
+               <str name="iris2.references.allauthors">Kuhn (2012)</str>
+               <arr name="iris2.references.author">
+                  <str>Kuhn, Sandra</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">kuhn</str>
+               <arr name="iris2.references.publicationDate">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str/>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:815588/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT2" mime="application/zip" url="https://www.iris-database.org/iris/api/resource/york:815588/asset/INSTRUMENT2?download=true"/>
+   </files>
+</record>

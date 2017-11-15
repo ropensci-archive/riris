@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:853390">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">537</int>
+            <lst name="params">
+               <str name="q">PID:york?853390</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:853390</str>
+               <arr name="dc.creator">
+                  <str>Service, Elisabet</str>
+                  <str>Kohonen, Viljo</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>1995</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The records for the pseudoword recognition task, communicative test and traditional test are all linked on IRIS. Unfortunately, these files are unable to digitized and uploaded to IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:853390</str>
+               </arr>
+               <str name="dc.title">Traditional Test</str>
+               <str name="dc.title.sort">Traditional Test</str>
+               <arr name="dc.type">
+                  <str>Reading comprehension test</str>
+                  <str>Writing test</str>
+                  <str>Other comprehension test</str>
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+                  <str>L2 (L3, L4, etc.) to L1</str>
+                  <str>Productive grammar test</str>
+                  <str>Proficiency test</str>
+                  <str>Other speaking test / oral production test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Service, Elisabet</str>
+                  <str>Kohonen, Viljo</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>1995</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The records for the pseudoword recognition task, communicative test and traditional test are all linked on IRIS. Unfortunately, these files are unable to digitized and uploaded to IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:853390</str>
+               </arr>
+               <str name="dc2.title">Traditional Test</str>
+               <arr name="dc2.type">
+                  <str>Reading comprehension test</str>
+                  <str>Writing test</str>
+                  <str>Other comprehension test</str>
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+                  <str>L2 (L3, L4, etc.) to L1</str>
+                  <str>Productive grammar test</str>
+                  <str>Proficiency test</str>
+                  <str>Other speaking test / oral production test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Service, Elisabet</str>
+                  <str>Kohonen, Viljo</str>
+               </arr>
+               <str name="dc3.title">Traditional Test</str>
+               <date name="fgs.createdDate">2015-06-10T19:09:20.313Z</date>
+               <date name="fgs.dateCreated.sort">2015-06-10T19:09:20.313Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-01-11T09:58:33.161Z</date>
+               <str name="fgs.ownerId">iris-ce9f7bc3-da6b-43d0-aa72-6a00503b339f</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>eservic@mcmaster.ca</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Service, Elisabet</str>
+                  <str>Kohonen, Viljo</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Comprehension test</str>
+                  <str>Reading</str>
+                  <str>Writing test</str>
+                  <str>Comprehension test</str>
+                  <str>Listening</str>
+                  <str>Other</str>
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+                  <str>Translation task</str>
+                  <str>L2 (L3, L4, etc.) to L1</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Proficiency test</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Other speaking test / oral production test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">reading reading comprehension test  writing test writing test  other other  gap-fill / cloze test / fill in the blank gap-fill / cloze test / fill in the blank fill in the blank, cloze,gap fill l2 (l3, l4, etc.) to l1 l2 (l3, l4, etc.) to l1  productive productive grammar test  proficiency test proficiency test  other speaking test / oral production test other speaking test / oral production test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The records for the pseudoword recognition task, communicative test and traditional test are all linked on IRIS. Unfortunately, these files are unable to digitized and uploaded to IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Proficiency test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Phonology</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Comprehension test &gt; Reading</str>
+                  <str>Writing test</str>
+                  <str>Comprehension test &gt; Listening &gt; Other</str>
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+                  <str>Translation task &gt; L2 (L3, L4, etc.) to L1</str>
+                  <str>Grammar test / Morphosyntax test &gt; Productive</str>
+                  <str>Speaking test / Oral production test &gt; Other speaking test / oral production test</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Traditional Test</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Finnish</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Young learners</str>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>1995_Service_Kohonen_Is the relation between phonological memory and foreign language learning accounted for by vocabulary acquisition</str>
+               </arr>
+               <str name="iris.references.allauthors">Service &amp; Kohonen (1995)</str>
+               <arr name="iris.references.author">
+                  <str>Service, Elisabet</str>
+                  <str>Kohonen, Viljo</str>
+               </arr>
+               <str name="iris.references.author.lastnames">servicekohonen</str>
+               <arr name="iris.references.author.noack">
+                  <str>Service, Elisabet</str>
+                  <str>Kohonen, Viljo</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Applied Psycholinguistics</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>1995</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>1995</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>eservic@mcmaster.ca</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Service, Elisabet</str>
+                  <str>Kohonen, Viljo</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Comprehension test</str>
+                  <str>Reading</str>
+                  <str>Writing test</str>
+                  <str>Comprehension test</str>
+                  <str>Listening</str>
+                  <str>Other</str>
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+                  <str>Translation task</str>
+                  <str>L2 (L3, L4, etc.) to L1</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Proficiency test</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Other speaking test / oral production test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">reading reading comprehension test  writing test writing test  other other  gap-fill / cloze test / fill in the blank gap-fill / cloze test / fill in the blank fill in the blank, cloze,gap fill l2 (l3, l4, etc.) to l1 l2 (l3, l4, etc.) to l1  productive productive grammar test  proficiency test proficiency test  other speaking test / oral production test other speaking test / oral production test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Proficiency test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Phonology</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Comprehension test &gt; Reading</str>
+                  <str>Writing test</str>
+                  <str>Comprehension test &gt; Listening &gt; Other</str>
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+                  <str>Translation task &gt; L2 (L3, L4, etc.) to L1</str>
+                  <str>Grammar test / Morphosyntax test &gt; Productive</str>
+                  <str>Speaking test / Oral production test &gt; Other speaking test / oral production test</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Finnish</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Young learners</str>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>1995_Service_Kohonen_Is the relation between phonological memory and foreign language learning accounted for by vocabulary acquisition</str>
+               </arr>
+               <str name="iris2.references.allauthors">Service &amp; Kohonen (1995)</str>
+               <arr name="iris2.references.author">
+                  <str>Service, Elisabet</str>
+                  <str>Kohonen, Viljo</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">servicekohonen</str>
+               <arr name="iris2.references.journal">
+                  <str>Applied Psycholinguistics</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>1995</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>1995</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>1995</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

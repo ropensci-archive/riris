@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:926196">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">464</int>
+            <lst name="params">
+               <str name="q">PID:york?926196</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:926196</str>
+               <arr name="dc.creator">
+                  <str>Lopez, Nuria</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2016</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The vocabulary tests (one and two), the pre-dictionary task questionnaire, post-dictionary task questionnaire and the post-task interview protocol are all linked as five separate records in IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:926196</str>
+               </arr>
+               <str name="dc.title">Vocabulary test two</str>
+               <str name="dc.title.sort">Vocabulary test two</str>
+               <arr name="dc.type">
+                  <str>Vocabulary test (productive)</str>
+                  <str>Vocabulary test (receptive)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Lopez, Nuria</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2016</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The vocabulary tests (one and two), the pre-dictionary task questionnaire, post-dictionary task questionnaire and the post-task interview protocol are all linked as five separate records in IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:926196</str>
+               </arr>
+               <str name="dc2.title">Vocabulary test two</str>
+               <arr name="dc2.type">
+                  <str>Vocabulary test (productive)</str>
+                  <str>Vocabulary test (receptive)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Lopez, Nuria</str>
+               </arr>
+               <str name="dc3.title">Vocabulary test two</str>
+               <date name="fgs.createdDate">2016-05-09T11:26:43.681Z</date>
+               <date name="fgs.dateCreated.sort">2016-05-09T11:26:43.681Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-22T11:44:48.882Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>nuria.lopez@newcastle.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Lopez, Nuria</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">productive vocabulary test (productive)  receptive vocabulary test (receptive)  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The vocabulary tests (one and two), the pre-dictionary task questionnaire, post-dictionary task questionnaire and the post-task interview protocol are all linked as five separate records in IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Vocabulary test &gt; Productive</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Task-based language teaching (TBLT)</str>
+                  <str>Writing</str>
+                  <str>Other motivation</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Vocabulary test &gt; Receptive</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Vocabulary test two</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Near beginner</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2016_Lopez_A case study: Writing a Spanish dictionary as a collaborative task among beginner students</str>
+               </arr>
+               <str name="iris.references.allauthors">Lopez (2016)</str>
+               <arr name="iris.references.author">
+                  <str>Lopez, Nuria</str>
+               </arr>
+               <str name="iris.references.author.lastnames">lopez</str>
+               <arr name="iris.references.author.noack">
+                  <str>Lopez, Nuria</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>The Language Learning Journal</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>nuria.lopez@newcastle.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Lopez, Nuria</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">productive vocabulary test (productive)  receptive vocabulary test (receptive)  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Vocabulary test &gt; Productive</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Task-based language teaching (TBLT)</str>
+                  <str>Writing</str>
+                  <str>Other motivation</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Vocabulary test &gt; Receptive</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Near beginner</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2016_Lopez_A case study: Writing a Spanish dictionary as a collaborative task among beginner students</str>
+               </arr>
+               <str name="iris2.references.allauthors">Lopez (2016)</str>
+               <arr name="iris2.references.author">
+                  <str>Lopez, Nuria</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">lopez</str>
+               <arr name="iris2.references.journal">
+                  <str>The Language Learning Journal</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="image/gif" url="https://www.iris-database.org/iris/api/resource/york:926196/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

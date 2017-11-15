@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:853612">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">506</int>
+            <lst name="params">
+               <str name="q">PID:york?853612</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:853612</str>
+               <arr name="dc.creator">
+                  <str>Leung, A. H.-C.</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2012</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The Picture choosing task and Sound discrimination task (AX3) were both used in Leung (2012) and are linked in IRIS. Participants were Hong Kong Cantonese (L1) child learners of English. The experimental group had each had a Filipino domestic helper at home whereas the control group had not.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:853612</str>
+               </arr>
+               <str name="dc.title">Sound discrimination task AX3</str>
+               <str name="dc.title.sort">Sound discrimination task AX3</str>
+               <arr name="dc.type">
+                  <str>Listening test</str>
+                  <str>Discrimination task</str>
+                  <str>Identification task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Leung, A. H.-C.</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2012</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The Picture choosing task and Sound discrimination task (AX3) were both used in Leung (2012) and are linked in IRIS. Participants were Hong Kong Cantonese (L1) child learners of English. The experimental group had each had a Filipino domestic helper at home whereas the control group had not.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:853612</str>
+               </arr>
+               <str name="dc2.title">Sound discrimination task AX3</str>
+               <arr name="dc2.type">
+                  <str>Listening test</str>
+                  <str>Discrimination task</str>
+                  <str>Identification task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Leung, A. H.-C.</str>
+               </arr>
+               <str name="dc3.title">Sound discrimination task AX3</str>
+               <date name="fgs.createdDate">2015-06-24T16:05:20.261Z</date>
+               <date name="fgs.dateCreated.sort">2015-06-24T16:05:20.261Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-03T08:41:04.078Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>alex.ho-cheong.leung@northumbria.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Leung, A. H.-C.</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Listening / Aural test</str>
+                  <str>Speech perception</str>
+                  <str>Discrimination task</str>
+                  <str>Speech perception</str>
+                  <str>Identification task</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">listening / aural test listening / aural test aural test discrimination task discrimination task  identification task identification task  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Syllable</str>
+               </arr>
+               <str name="iris.instrument.notes">The Picture choosing task and Sound discrimination task (AX3) were both used in Leung (2012) and are linked in IRIS. Participants were Hong Kong Cantonese (L1) child learners of English. The experimental group had each had a Filipino domestic helper at home whereas the control group had not.</str>
+               <str name="iris.instrument.primaryInstrumentType">Speech perception &gt; Discrimination task</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Listening</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Listening / Aural test</str>
+                  <str>Speech perception &gt; Identification task</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Sound discrimination task AX3</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Chinese</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Young learners</str>
+                  <str>Second language learners</str>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2012_Leung_Bad influence? - an investigation into the purported negative influence of foreign domestic helpers on children's second language English acquisition</str>
+               </arr>
+               <str name="iris.references.allauthors">Leung (2012)</str>
+               <arr name="iris.references.author">
+                  <str>Leung, A. H.-C.</str>
+               </arr>
+               <str name="iris.references.author.lastnames">leung</str>
+               <arr name="iris.references.author.noack">
+                  <str>Leung, A. H.-C.</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Journal of Multilingual and Multicultural Development</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>alex.ho-cheong.leung@northumbria.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Leung, A. H.-C.</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Listening / Aural test</str>
+                  <str>Speech perception</str>
+                  <str>Discrimination task</str>
+                  <str>Speech perception</str>
+                  <str>Identification task</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">listening / aural test listening / aural test aural test discrimination task discrimination task  identification task identification task  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Syllable</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Speech perception &gt; Discrimination task</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Listening</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Listening / Aural test</str>
+                  <str>Speech perception &gt; Identification task</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Chinese</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Young learners</str>
+                  <str>Second language learners</str>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2012_Leung_Bad influence? - an investigation into the purported negative influence of foreign domestic helpers on children's second language English acquisition</str>
+               </arr>
+               <str name="iris2.references.allauthors">Leung (2012)</str>
+               <arr name="iris2.references.author">
+                  <str>Leung, A. H.-C.</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">leung</str>
+               <arr name="iris2.references.journal">
+                  <str>Journal of Multilingual and Multicultural Development</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:853612/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

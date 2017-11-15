@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:814498">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">483</int>
+            <lst name="params">
+               <str name="q">PID:york?814498</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:814498</str>
+               <arr name="dc.creator">
+                  <str>Blom, Elma</str>
+                  <str>Orgassa, Antje</str>
+                  <str>Polisenská, Daniela</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2008</str>
+                  <str>2013</str>
+                  <str>2013</str>
+                  <str>2011</str>
+                  <str>2006</str>
+                  <str>2008</str>
+                  <str>2010</str>
+                  <str>in press</str>
+                  <str>2010</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:814498</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <str name="dc.title">FlexiT</str>
+               <str name="dc.title.sort">FlexiT</str>
+               <arr name="dc.type">
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+                  <str>Productive grammar test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Blom, Elma</str>
+                  <str>Orgassa, Antje</str>
+                  <str>Polisenská, Daniela</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2008</str>
+                  <str>2013</str>
+                  <str>2013</str>
+                  <str>2011</str>
+                  <str>2006</str>
+                  <str>2008</str>
+                  <str>2010</str>
+                  <str>in press</str>
+                  <str>2010</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:814498</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <str name="dc2.title">FlexiT</str>
+               <arr name="dc2.type">
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+                  <str>Productive grammar test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Blom, Elma</str>
+                  <str>Orgassa, Antje</str>
+                  <str>Polisenská, Daniela</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <str name="dc3.title">FlexiT</str>
+               <date name="fgs.createdDate">2013-07-08T12:34:30.065Z</date>
+               <date name="fgs.dateCreated.sort">2013-07-08T12:34:30.065Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-12T05:18:29.054Z</date>
+               <str name="fgs.ownerId">iris-47817ead-9306-44b9-aa19-a80fa2eb07ea</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>w.b.t.blom@uu.nl</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>1</str>
+               </arr>
+               <arr name="iris.feedback.email_1">
+                  <str>martje.wijers@ugent.be</str>
+               </arr>
+               <arr name="iris.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.time_1">
+                  <str>9 Jul 2014 12:29:15 GMT</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Blom, Elma</str>
+                  <str>Orgassa, Antje</str>
+                  <str>Polisenská, Daniela</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>Netherlands Organisation for Scientific Research (NWO)</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">gap-fill / cloze test / fill in the blank gap-fill / cloze test / fill in the blank fill in the blank, cloze,gap fill productive productive grammar test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Number</str>
+                  <str>Suffixes</str>
+                  <str>Determiners</str>
+                  <str>Gender</str>
+                  <str>Tense</str>
+                  <str>Articles</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Gap-fill / Cloze test / Fill in the blank</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Productive</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>FlexiT</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Dutch</str>
+                  <str>Turkish</str>
+                  <str>Arabic</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>First language learners</str>
+                  <str>Bilinguals</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Near beginner</str>
+                  <str>Intermediate</str>
+                  <str>Advanced</str>
+                  <str>Native</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Dutch</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2008_Blom_Testing the domain-by-age model: Inflection and placement of Dutch verbs</str>
+                  <str>2013_Blom_Baayen_The impact of verb form, sentence position, home language and proficiency on subject-verb agreement in child L2 Dutch</str>
+                  <str>2013_Blom_De Jong_Orgassa_Baker_Weerman_Verb inflection in monolingual Dutch and sequential bilingual Turkish-Dutch children with and without SLI</str>
+                  <str>2011_Blom_De Korte_Dummy auxiliaries in child and adult second language acquisition of Dutch</str>
+                  <str>2006_Blom_Polisenská_Weerman_Effects of age on the acquisition of agreement inflection</str>
+                  <str>2008_Blom_Polisenská_Weerman_Articles, adjectives and age of onset: The acquisition of Dutch grammatical gender</str>
+                  <str>2010_De Jong_Notes on the nature of bilingual specific language impairment</str>
+                  <str>in press_De Jong_Blom_Orgassa_Dummy auxiliaries in children with SLI - A study on Dutch, in monolinguals and bilinguals</str>
+                  <str>2010_De Jong_Cavus_Baker_Language impairment in Turkish-Dutch bilingual children</str>
+                  <str>Orgassa_Specific language impairment in a bilingual context: The acquisition of Dutch inflection by Turkish-Dutch learners</str>
+                  <str>2008_Orgassa_Weerman_Dutch gender in specific language impairment and second language acquisition</str>
+                  <str>Polisenská_Dutch children&#8217;s acquisition of verbal and adjectival inflection</str>
+               </arr>
+               <str name="iris.references.allauthors">Blom (2008); Blom &amp; Baayen (2013); Blom, De Jong, et al. (2013); Blom &amp; De Korte (2011); Blom, Polisenská, et al. (2006); Blom, Polisenská, et al. (2008); De Jong (2010); De Jong, Blom, et al. (in press); De Jong, Cavus, et al. (2010); Orgassa (2009); Orgassa &amp; Weerman (2008); Polisenská (2010)</str>
+               <arr name="iris.references.author">
+                  <str>Blom, Elma</str>
+                  <str>Blom, Elma</str>
+                  <str>Baayen, Harald</str>
+                  <str>Blom, Elma</str>
+                  <str>De Jong, Jan</str>
+                  <str>Orgassa, Antje</str>
+                  <str>Baker, Anne</str>
+                  <str>Weerman, Fred</str>
+                  <str>Blom, Elma</str>
+                  <str>De Korte, Siebe</str>
+                  <str>Blom, Elma</str>
+                  <str>Polisenská, Daniela</str>
+                  <str>Weerman, Fred</str>
+                  <str>Blom, Elma</str>
+                  <str>Polisenská, Daniela</str>
+                  <str>Weerman, Fred</str>
+                  <str>De Jong, Jan</str>
+                  <str>De Jong, Jan</str>
+                  <str>Blom, Elma</str>
+                  <str>Orgassa, Antje</str>
+                  <str>De Jong, Jan</str>
+                  <str>Cavus, Nazife</str>
+                  <str>Baker, Anne</str>
+                  <str>Orgassa, Antje</str>
+                  <str>Orgassa, Antje</str>
+                  <str>Weerman, Fred</str>
+                  <str>Polisenská, Daniela</str>
+               </arr>
+               <str name="iris.references.author.lastnames">blomblombaayenblomde jongorgassabakerweermanblomde korteblompolisenskáweermanblompolisenskáweermande jongde jongblomorgassade jongcavusbakerorgassaorgassaweermanpolisenská</str>
+               <arr name="iris.references.author.noack">
+                  <str>Blom, Elma</str>
+                  <str>Blom, Elma</str>
+                  <str>Baayen, Harald</str>
+                  <str>Blom, Elma</str>
+                  <str>De Jong, Jan</str>
+                  <str>Orgassa, Antje</str>
+                  <str>Baker, Anne</str>
+                  <str>Weerman, Fred</str>
+                  <str>Blom, Elma</str>
+                  <str>De Korte, Siebe</str>
+                  <str>Blom, Elma</str>
+                  <str>Polisenská, Daniela</str>
+                  <str>Weerman, Fred</str>
+                  <str>Blom, Elma</str>
+                  <str>Polisenská, Daniela</str>
+                  <str>Weerman, Fred</str>
+                  <str>De Jong, Jan</str>
+                  <str>De Jong, Jan</str>
+                  <str>Blom, Elma</str>
+                  <str>Orgassa, Antje</str>
+                  <str>De Jong, Jan</str>
+                  <str>Cavus, Nazife</str>
+                  <str>Baker, Anne</str>
+                  <str>Orgassa, Antje</str>
+                  <str>Orgassa, Antje</str>
+                  <str>Weerman, Fred</str>
+                  <str>Polisenská, Daniela</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>Testing the domain-by-age model: Inflection and placement of Dutch verbs</str>
+                  <str>Current trends in child second language acquisition: A generative perspective</str>
+                  <str>Dummy auxiliaries in children with SLI - A study on Dutch, in monolinguals and bilinguals</str>
+                  <str>Dummy auxiliaries in first and second language acquisition</str>
+                  <str>Language impairment in Turkish-Dutch bilingual children</str>
+                  <str>Communication disorders in Turkish</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Haznedar, Belma</str>
+                  <str>Gavruseva, Elena</str>
+                  <str>Blom, Elma</str>
+                  <str>Van De Craats, Ineke</str>
+                  <str>Verhagen, Josje</str>
+                  <str>Topbas, Seyhun</str>
+                  <str>Yavas, Mehmet</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Applied Psycholinguistics</str>
+                  <str>International Journal of Language &amp; Communication Disorders</str>
+                  <str>Lingua</str>
+                  <str>Morphology</str>
+                  <str>Second Language Research</str>
+                  <str>Applied Psycholinguistics</str>
+                  <str>Second Language Research</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2008</str>
+                  <str>2013</str>
+                  <str>2013</str>
+                  <str>2011</str>
+                  <str>2006</str>
+                  <str>2008</str>
+                  <str>2010</str>
+                  <str>in press</str>
+                  <str>2010</str>
+                  <str>2008</str>
+                  <str>2009</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2008</str>
+                  <str>2013</str>
+                  <str>2013</str>
+                  <str>2011</str>
+                  <str>2006</str>
+                  <str>2008</str>
+                  <str>2010</str>
+                  <str>in press</str>
+                  <str>2010</str>
+                  <str>2008</str>
+                  <str>2009</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Chapter</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+                  <str>Chapter</str>
+                  <str>Thesis</str>
+                  <str>Journal Article</str>
+                  <str>Thesis</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>w.b.t.blom@uu.nl</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>1</str>
+               </arr>
+               <arr name="iris2.feedback.email_1">
+                  <str>martje.wijers@ugent.be</str>
+               </arr>
+               <arr name="iris2.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.time_1">
+                  <str>9 Jul 2014 12:29:15 GMT</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Blom, Elma</str>
+                  <str>Orgassa, Antje</str>
+                  <str>Polisenská, Daniela</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>Netherlands Organisation for Scientific Research (NWO)</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">gap-fill / cloze test / fill in the blank gap-fill / cloze test / fill in the blank fill in the blank, cloze,gap fill productive productive grammar test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Number</str>
+                  <str>Suffixes</str>
+                  <str>Determiners</str>
+                  <str>Gender</str>
+                  <str>Tense</str>
+                  <str>Articles</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Gap-fill / Cloze test / Fill in the blank</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Productive</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Dutch</str>
+                  <str>Turkish</str>
+                  <str>Arabic</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>First language learners</str>
+                  <str>Bilinguals</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Near beginner</str>
+                  <str>Intermediate</str>
+                  <str>Advanced</str>
+                  <str>Native</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Dutch</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2008_Blom_Testing the domain-by-age model: Inflection and placement of Dutch verbs</str>
+                  <str>2013_Blom_Baayen_The impact of verb form, sentence position, home language and proficiency on subject-verb agreement in child L2 Dutch</str>
+                  <str>2013_Blom_De Jong_Orgassa_Baker_Weerman_Verb inflection in monolingual Dutch and sequential bilingual Turkish-Dutch children with and without SLI</str>
+                  <str>2011_Blom_De Korte_Dummy auxiliaries in child and adult second language acquisition of Dutch</str>
+                  <str>2006_Blom_Polisenská_Weerman_Effects of age on the acquisition of agreement inflection</str>
+                  <str>2008_Blom_Polisenská_Weerman_Articles, adjectives and age of onset: The acquisition of Dutch grammatical gender</str>
+                  <str>2010_De Jong_Notes on the nature of bilingual specific language impairment</str>
+                  <str>in press_De Jong_Blom_Orgassa_Dummy auxiliaries in children with SLI - A study on Dutch, in monolinguals and bilinguals</str>
+                  <str>2010_De Jong_Cavus_Baker_Language impairment in Turkish-Dutch bilingual children</str>
+                  <str>Orgassa_Specific language impairment in a bilingual context: The acquisition of Dutch inflection by Turkish-Dutch learners</str>
+                  <str>2008_Orgassa_Weerman_Dutch gender in specific language impairment and second language acquisition</str>
+                  <str>Polisenská_Dutch children&#8217;s acquisition of verbal and adjectival inflection</str>
+               </arr>
+               <str name="iris2.references.allauthors">Blom (2008); Blom &amp; Baayen (2013); Blom, De Jong, et al. (2013); Blom &amp; De Korte (2011); Blom, Polisenská, et al. (2006); Blom, Polisenská, et al. (2008); De Jong (2010); De Jong, Blom, et al. (in press); De Jong, Cavus, et al. (2010); Orgassa (2009); Orgassa &amp; Weerman (2008); Polisenská (2010)</str>
+               <arr name="iris2.references.author">
+                  <str>Blom, Elma</str>
+                  <str>Blom, Elma</str>
+                  <str>Baayen, Harald</str>
+                  <str>Blom, Elma</str>
+                  <str>De Jong, Jan</str>
+                  <str>Orgassa, Antje</str>
+                  <str>Baker, Anne</str>
+                  <str>Weerman, Fred</str>
+                  <str>Blom, Elma</str>
+                  <str>De Korte, Siebe</str>
+                  <str>Blom, Elma</str>
+                  <str>Polisenská, Daniela</str>
+                  <str>Weerman, Fred</str>
+                  <str>Blom, Elma</str>
+                  <str>Polisenská, Daniela</str>
+                  <str>Weerman, Fred</str>
+                  <str>De Jong, Jan</str>
+                  <str>De Jong, Jan</str>
+                  <str>Blom, Elma</str>
+                  <str>Orgassa, Antje</str>
+                  <str>De Jong, Jan</str>
+                  <str>Cavus, Nazife</str>
+                  <str>Baker, Anne</str>
+                  <str>Orgassa, Antje</str>
+                  <str>Orgassa, Antje</str>
+                  <str>Weerman, Fred</str>
+                  <str>Polisenská, Daniela</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">blomblombaayenblomde jongorgassabakerweermanblomde korteblompolisenskáweermanblompolisenskáweermande jongde jongblomorgassade jongcavusbakerorgassaorgassaweermanpolisenská</str>
+               <arr name="iris2.references.booktitle">
+                  <str>Testing the domain-by-age model: Inflection and placement of Dutch verbs</str>
+                  <str>Current trends in child second language acquisition: A generative perspective</str>
+                  <str>Dummy auxiliaries in children with SLI - A study on Dutch, in monolinguals and bilinguals</str>
+                  <str>Dummy auxiliaries in first and second language acquisition</str>
+                  <str>Language impairment in Turkish-Dutch bilingual children</str>
+                  <str>Communication disorders in Turkish</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Haznedar, Belma</str>
+                  <str>Gavruseva, Elena</str>
+                  <str>Blom, Elma</str>
+                  <str>Van De Craats, Ineke</str>
+                  <str>Verhagen, Josje</str>
+                  <str>Topbas, Seyhun</str>
+                  <str>Yavas, Mehmet</str>
+               </arr>
+               <arr name="iris2.references.journal">
+                  <str>Applied Psycholinguistics</str>
+                  <str>International Journal of Language &amp; Communication Disorders</str>
+                  <str>Lingua</str>
+                  <str>Morphology</str>
+                  <str>Second Language Research</str>
+                  <str>Applied Psycholinguistics</str>
+                  <str>Second Language Research</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2008</str>
+                  <str>2013</str>
+                  <str>2013</str>
+                  <str>2011</str>
+                  <str>2006</str>
+                  <str>2008</str>
+                  <str>2010</str>
+                  <str>in press</str>
+                  <str>2010</str>
+                  <str>2008</str>
+                  <str>2009</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2008</str>
+                  <str>2013</str>
+                  <str>2013</str>
+                  <str>2011</str>
+                  <str>2006</str>
+                  <str>2008</str>
+                  <str>2010</str>
+                  <str>in press</str>
+                  <str>2010</str>
+                  <str>2008</str>
+                  <str>2009</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Chapter</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+                  <str>Chapter</str>
+                  <str>Thesis</str>
+                  <str>Journal Article</str>
+                  <str>Thesis</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:814498/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:814498/asset/INSTRUMENT1?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:805246">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">448</int>
+            <lst name="params">
+               <str name="q">PID:york?805246</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:805246</str>
+               <arr name="dc.creator">
+                  <str>De Jong, Nivja</str>
+                  <str>Steinel, Margarita</str>
+                  <str>Florijn, Arjen</str>
+                  <str>Schoonen, Rob</str>
+                  <str>Hulstijn, Jan</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2012</str>
+                  <str>in press</str>
+                  <str>in press</str>
+                  <str>2012</str>
+                  <str>2011</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The .exe file is made in Authorware (http://www.adobe.com/products/authorware/). However, more files are needed in a directory to be able to run this file (.dll-files). These files are sent upon request or uploaded to this database at a later stage. The .ppt file shows what the speaking tasks looked like when the .exe is run. Originally, PRAAT (http://www.fon.hum.uva.nl/praat/) was used to automatically record the speaking performances on the same computer as the .exe file is run on. The .doc-file, finally, shows the scoresheets that were used by the raters to judge the speaking performances on functional adequacy/communicative success.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>Dutch</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:805246</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Rating guidelines / Criteria</str>
+                  <str>Other</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>De Jong, Nivja</str>
+                  <str>Steinel, Margarita</str>
+                  <str>Florijn, Arjen</str>
+                  <str>Schoonen, Rob</str>
+                  <str>Hulstijn, Jan</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2012</str>
+                  <str>in press</str>
+                  <str>in press</str>
+                  <str>2012</str>
+                  <str>2011</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The .exe file is made in Authorware (http://www.adobe.com/products/authorware/). However, more files are needed in a directory to be able to run this file (.dll-files). These files are sent upon request or uploaded to this database at a later stage. The .ppt file shows what the speaking tasks looked like when the .exe is run. Originally, PRAAT (http://www.fon.hum.uva.nl/praat/) was used to automatically record the speaking performances on the same computer as the .exe file is run on. The .doc-file, finally, shows the scoresheets that were used by the raters to judge the speaking performances on functional adequacy/communicative success.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>Dutch</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:805246</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Rating guidelines / Criteria</str>
+                  <str>Other</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>De Jong, Nivja</str>
+                  <str>Steinel, Margarita</str>
+                  <str>Florijn, Arjen</str>
+                  <str>Schoonen, Rob</str>
+                  <str>Hulstijn, Jan</str>
+               </arr>
+               <date name="fgs.createdDate">2012-08-28T08:59:20.723Z</date>
+               <date name="fgs.dateCreated.sort">2012-08-28T08:59:20.723Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-06T19:29:40.022Z</date>
+               <str name="fgs.ownerId">iris-691e924b-7637-48a5-b82f-92d1de24eddb</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>nivjadj@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>2</str>
+               </arr>
+               <arr name="iris.feedback.email_1">
+                  <str>mikishros@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.email_2">
+                  <str>n.carty.1@research.gla.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.published_2">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.time_1">
+                  <str>9 Jul 2014 12:38:31 GMT</str>
+               </arr>
+               <arr name="iris.feedback.time_2">
+                  <str>9 Jul 2014 15:12:01 GMT</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>De Jong, Nivja</str>
+                  <str>Steinel, Margarita</str>
+                  <str>Florijn, Arjen</str>
+                  <str>Schoonen, Rob</str>
+                  <str>Hulstijn, Jan</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>Irish Research Council for Humanities and Social Sciences</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Speaking test / Oral production test</str>
+                  <str>Rating guidelines / Criteria</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Other speaking test / oral production test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">rating guidelines / criteria rating guidelines / criteria  other speaking test / oral production test other speaking test / oral production test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The .exe file is made in Authorware (http://www.adobe.com/products/authorware/). However, more files are needed in a directory to be able to run this file (.dll-files). These files are sent upon request or uploaded to this database at a later stage. The .ppt file shows what the speaking tasks looked like when the .exe is run. Originally, PRAAT (http://www.fon.hum.uva.nl/praat/) was used to automatically record the speaking performances on the same computer as the .exe file is run on. The .doc-file, finally, shows the scoresheets that were used by the raters to judge the speaking performances on functional adequacy/communicative success.</str>
+               <str name="iris.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Other speaking test / oral production test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Speaking / Oral production</str>
+                  <str>Fluency</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Rating guidelines / Criteria</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>Dutch</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+                  <str>Sound</str>
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+                  <str>Native speakers</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+                  <str>Intermediate/advanced</str>
+                  <str>Advanced</str>
+                  <str>Near native</str>
+                  <str>Native</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Dutch</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2012_De Jong_Steinel_Florijn_Schoonen_Hulstijn_Facets of speaking proficiency</str>
+                  <str>in press_De Jong_Steinel_Florijn_Schoonen_Hulstijn_Linguistic skills and speaking fluency in a second language</str>
+                  <str>in press_De Jong_Steinel_Florijn_Schoonen_Hulstijn_The effect of task complexity on functional adequacy, fluency and lexical diversity in speaking performances of native and nonnative speakers</str>
+                  <str>2012_Hulstijn_Schoonen_De Jong_Steinel_Florijn_Linguistic competences of learners of Dutch as a second language at the B1 and B2 levels of speaking proficiency of the common European framework of reference for languages (CEFR)</str>
+                  <str>2011_Mulder_Hulstijn_Linguistic skills of adult native speakers, as a function of age and level of education</str>
+               </arr>
+               <str name="iris.references.allauthors">De Jong, Steinel, et al. (2012); De Jong, Steinel, et al. (in press); De Jong, Steinel, et al. (in press); Hulstijn, Schoonen, et al. (2012); Mulder &amp; Hulstijn (2011)</str>
+               <arr name="iris.references.author">
+                  <str>De Jong, Nivja</str>
+                  <str>Steinel, Margarita</str>
+                  <str>Florijn, Arjen</str>
+                  <str>Schoonen, Rob</str>
+                  <str>Hulstijn, Jan</str>
+                  <str>De Jong, Nivja</str>
+                  <str>Steinel, Margarita</str>
+                  <str>Florijn, Arjen</str>
+                  <str>Schoonen, Rob</str>
+                  <str>Hulstijn, Jan</str>
+                  <str>De Jong, Nivja</str>
+                  <str>Steinel, Margarita</str>
+                  <str>Florijn, Arjen</str>
+                  <str>Schoonen, Rob</str>
+                  <str>Hulstijn, Jan</str>
+                  <str>Hulstijn, Jan</str>
+                  <str>Schoonen, Rob</str>
+                  <str>De Jong, Nivja</str>
+                  <str>Steinel, Margarita</str>
+                  <str>Florijn, Arjen</str>
+                  <str>Mulder, K.</str>
+                  <str>Hulstijn, Jan</str>
+               </arr>
+               <str name="iris.references.author.lastnames">de jongsteinelflorijnschoonenhulstijnde jongsteinelflorijnschoonenhulstijnde jongsteinelflorijnschoonenhulstijnhulstijnschoonende jongsteinelflorijnmulderhulstijn</str>
+               <arr name="iris.references.author.noack">
+                  <str>De Jong, Nivja</str>
+                  <str>Steinel, Margarita</str>
+                  <str>Florijn, Arjen</str>
+                  <str>Schoonen, Rob</str>
+                  <str>Hulstijn, Jan</str>
+                  <str>De Jong, Nivja</str>
+                  <str>Steinel, Margarita</str>
+                  <str>Florijn, Arjen</str>
+                  <str>Schoonen, Rob</str>
+                  <str>Hulstijn, Jan</str>
+                  <str>De Jong, Nivja</str>
+                  <str>Steinel, Margarita</str>
+                  <str>Florijn, Arjen</str>
+                  <str>Schoonen, Rob</str>
+                  <str>Hulstijn, Jan</str>
+                  <str>Hulstijn, Jan</str>
+                  <str>Schoonen, Rob</str>
+                  <str>De Jong, Nivja</str>
+                  <str>Steinel, Margarita</str>
+                  <str>Florijn, Arjen</str>
+                  <str>Mulder, K.</str>
+                  <str>Hulstijn, Jan</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>The effect of task complexity on functional adequacy, fluency and lexical diversity in speaking performances of native and nonnative speakers</str>
+                  <str>Dimensions of L2 performance and proficiency: Investigating complexity, accuracy and fluency in SLA</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Housen, A.</str>
+                  <str>Kuiken, F.</str>
+                  <str>Vedder, I.</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Studies in Second Language Acquisition</str>
+                  <str>Applied Psycholinguistics</str>
+                  <str>Language Testing</str>
+                  <str>Applied Linguistics</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2012</str>
+                  <str>in press</str>
+                  <str>in press</str>
+                  <str>2012</str>
+                  <str>2011</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2012</str>
+                  <str>in press</str>
+                  <str>in press</str>
+                  <str>2012</str>
+                  <str>2011</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>nivjadj@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>2</str>
+               </arr>
+               <arr name="iris2.feedback.email_1">
+                  <str>mikishros@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.email_2">
+                  <str>n.carty.1@research.gla.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.published_2">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.time_1">
+                  <str>9 Jul 2014 12:38:31 GMT</str>
+               </arr>
+               <arr name="iris2.feedback.time_2">
+                  <str>9 Jul 2014 15:12:01 GMT</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>De Jong, Nivja</str>
+                  <str>Steinel, Margarita</str>
+                  <str>Florijn, Arjen</str>
+                  <str>Schoonen, Rob</str>
+                  <str>Hulstijn, Jan</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>Irish Research Council for Humanities and Social Sciences</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Speaking test / Oral production test</str>
+                  <str>Rating guidelines / Criteria</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Other speaking test / oral production test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">rating guidelines / criteria rating guidelines / criteria  other speaking test / oral production test other speaking test / oral production test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Other speaking test / oral production test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Speaking / Oral production</str>
+                  <str>Fluency</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Rating guidelines / Criteria</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>Dutch</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+                  <str>Sound</str>
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+                  <str>Native speakers</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+                  <str>Intermediate/advanced</str>
+                  <str>Advanced</str>
+                  <str>Near native</str>
+                  <str>Native</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Dutch</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2012_De Jong_Steinel_Florijn_Schoonen_Hulstijn_Facets of speaking proficiency</str>
+                  <str>in press_De Jong_Steinel_Florijn_Schoonen_Hulstijn_Linguistic skills and speaking fluency in a second language</str>
+                  <str>in press_De Jong_Steinel_Florijn_Schoonen_Hulstijn_The effect of task complexity on functional adequacy, fluency and lexical diversity in speaking performances of native and nonnative speakers</str>
+                  <str>2012_Hulstijn_Schoonen_De Jong_Steinel_Florijn_Linguistic competences of learners of Dutch as a second language at the B1 and B2 levels of speaking proficiency of the common European framework of reference for languages (CEFR)</str>
+                  <str>2011_Mulder_Hulstijn_Linguistic skills of adult native speakers, as a function of age and level of education</str>
+               </arr>
+               <str name="iris2.references.allauthors">De Jong, Steinel, et al. (2012); De Jong, Steinel, et al. (in press); De Jong, Steinel, et al. (in press); Hulstijn, Schoonen, et al. (2012); Mulder &amp; Hulstijn (2011)</str>
+               <arr name="iris2.references.author">
+                  <str>De Jong, Nivja</str>
+                  <str>Steinel, Margarita</str>
+                  <str>Florijn, Arjen</str>
+                  <str>Schoonen, Rob</str>
+                  <str>Hulstijn, Jan</str>
+                  <str>De Jong, Nivja</str>
+                  <str>Steinel, Margarita</str>
+                  <str>Florijn, Arjen</str>
+                  <str>Schoonen, Rob</str>
+                  <str>Hulstijn, Jan</str>
+                  <str>De Jong, Nivja</str>
+                  <str>Steinel, Margarita</str>
+                  <str>Florijn, Arjen</str>
+                  <str>Schoonen, Rob</str>
+                  <str>Hulstijn, Jan</str>
+                  <str>Hulstijn, Jan</str>
+                  <str>Schoonen, Rob</str>
+                  <str>De Jong, Nivja</str>
+                  <str>Steinel, Margarita</str>
+                  <str>Florijn, Arjen</str>
+                  <str>Mulder, K.</str>
+                  <str>Hulstijn, Jan</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">de jongsteinelflorijnschoonenhulstijnde jongsteinelflorijnschoonenhulstijnde jongsteinelflorijnschoonenhulstijnhulstijnschoonende jongsteinelflorijnmulderhulstijn</str>
+               <arr name="iris2.references.booktitle">
+                  <str>The effect of task complexity on functional adequacy, fluency and lexical diversity in speaking performances of native and nonnative speakers</str>
+                  <str>Dimensions of L2 performance and proficiency: Investigating complexity, accuracy and fluency in SLA</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Housen, A.</str>
+                  <str>Kuiken, F.</str>
+                  <str>Vedder, I.</str>
+               </arr>
+               <arr name="iris2.references.journal">
+                  <str>Studies in Second Language Acquisition</str>
+                  <str>Applied Psycholinguistics</str>
+                  <str>Language Testing</str>
+                  <str>Applied Linguistics</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2012</str>
+                  <str>in press</str>
+                  <str>in press</str>
+                  <str>2012</str>
+                  <str>2011</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2012</str>
+                  <str>in press</str>
+                  <str>in press</str>
+                  <str>2012</str>
+                  <str>2011</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:805246/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:805246/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:805246/asset/INSTRUMENT2?download=true"/>
+   </files>
+</record>

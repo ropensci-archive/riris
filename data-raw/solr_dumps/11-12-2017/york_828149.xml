@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:828149">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">480</int>
+            <lst name="params">
+               <str name="q">PID:york?828149</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:828149</str>
+               <arr name="dc.creator">
+                  <str>Wagner, Thomas</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>in press</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>Experiment 1a ST, Experiment 1a TS, Experiment 1b ST, Experiment 1b TS, and the Rawdata file used in Wagner (in press) are all linked in IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:828149</str>
+               </arr>
+               <str name="dc.title">Experiment 1b ST</str>
+               <str name="dc.title.sort">Experiment 1b ST</str>
+               <arr name="dc.type">
+                  <str>Productive grammar test</str>
+                  <str>Listening test</str>
+                  <str>Reading test</str>
+                  <str>Gap-fill / Cloze test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Wagner, Thomas</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>in press</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>Experiment 1a ST, Experiment 1a TS, Experiment 1b ST, Experiment 1b TS, and the Rawdata file used in Wagner (in press) are all linked in IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:828149</str>
+               </arr>
+               <str name="dc2.title">Experiment 1b ST</str>
+               <arr name="dc2.type">
+                  <str>Productive grammar test</str>
+                  <str>Listening test</str>
+                  <str>Reading test</str>
+                  <str>Gap-fill / Cloze test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Wagner, Thomas</str>
+               </arr>
+               <str name="dc3.title">Experiment 1b ST</str>
+               <date name="fgs.createdDate">2014-10-10T16:42:08.934Z</date>
+               <date name="fgs.dateCreated.sort">2014-10-10T16:42:08.934Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-03-18T17:00:26.94Z</date>
+               <str name="fgs.ownerId">iris-1bd87db6-4b23-4bbf-bd83-ccbc40cf2c28</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>thomas.wagner@ph-ooe.at</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Wagner, Thomas</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Listening / Aural test</str>
+                  <str>Reading test</str>
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">productive productive grammar test  listening / aural test listening / aural test aural test reading test reading test  gap-fill / cloze test / fill in the blank gap-fill / cloze test / fill in the blank fill in the blank, cloze,gap fill </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Nonwords</str>
+                  <str>Tense</str>
+                  <str>Morphology</str>
+               </arr>
+               <str name="iris.instrument.notes">Experiment 1a ST, Experiment 1a TS, Experiment 1b ST, Experiment 1b TS, and the Rawdata file used in Wagner (in press) are all linked in IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Grammar test / Morphosyntax test &gt; Productive</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Listening / Aural test</str>
+                  <str>Reading test</str>
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Experiment 1b ST</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Sound</str>
+                  <str>Text</str>
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>German</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Adolescent learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>in press_Wagner_Proceedings from the 41st Austrian Linguistics Conference</str>
+               </arr>
+               <str name="iris.references.allauthors">Wagner (in press)</str>
+               <arr name="iris.references.author">
+                  <str>Wagner, Thomas</str>
+               </arr>
+               <str name="iris.references.author.lastnames">wagner</str>
+               <arr name="iris.references.author.noack">
+                  <str>Wagner, Thomas</str>
+               </arr>
+               <arr name="iris.references.conferenceName">
+                  <str>41st Austrian Linguistics Conference (41. Österreichische Linguistiktagung)</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Proceedings</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>thomas.wagner@ph-ooe.at</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Wagner, Thomas</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Listening / Aural test</str>
+                  <str>Reading test</str>
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">productive productive grammar test  listening / aural test listening / aural test aural test reading test reading test  gap-fill / cloze test / fill in the blank gap-fill / cloze test / fill in the blank fill in the blank, cloze,gap fill </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Nonwords</str>
+                  <str>Tense</str>
+                  <str>Morphology</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Grammar test / Morphosyntax test &gt; Productive</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Listening / Aural test</str>
+                  <str>Reading test</str>
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Sound</str>
+                  <str>Text</str>
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>German</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Adolescent learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>in press_Wagner_Proceedings from the 41st Austrian Linguistics Conference</str>
+               </arr>
+               <str name="iris2.references.allauthors">Wagner (in press)</str>
+               <arr name="iris2.references.author">
+                  <str>Wagner, Thomas</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">wagner</str>
+               <arr name="iris2.references.conferenceName">
+                  <str>41st Austrian Linguistics Conference (41. Österreichische Linguistiktagung)</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Proceedings</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:828149/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="audio/mpeg" url="https://www.iris-database.org/iris/api/resource/york:828149/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:828149/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:828149/asset/INSTRUMENT3?download=true"/>
+   </files>
+</record>

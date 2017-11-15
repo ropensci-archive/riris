@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:853773">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">496</int>
+            <lst name="params">
+               <str name="q">PID:york?853773</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:853773</str>
+               <arr name="dc.creator">
+                  <str>In'nami, Yo</str>
+                  <str>Koizumi, Rie</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>in press</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:853773</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Meta-analysis assessment</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>In'nami, Yo</str>
+                  <str>Koizumi, Rie</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>in press</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:853773</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Meta-analysis assessment</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>In'nami, Yo</str>
+                  <str>Koizumi, Rie</str>
+               </arr>
+               <date name="fgs.createdDate">2015-08-04T01:36:05.351Z</date>
+               <date name="fgs.dateCreated.sort">2015-08-04T01:36:05.351Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-07T20:40:16.064Z</date>
+               <str name="fgs.ownerId">iris-b30878fc-a28d-4049-9dc3-6ba52e2f2cf3</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>riekoizumi1@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>In'nami, Yo</str>
+                  <str>Koizumi, Rie</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Coding scheme for meta-analysis</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Meta-analysis assessment</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">meta-analysis assessment meta-analysis assessment  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Meta-analysis assessment</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Meta-analysis</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Testing</str>
+                  <str>Writing</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>in press_In'nami_Koizumi_Task and rater effects in L2 speaking and writing: A synthesis of generalizability studies</str>
+               </arr>
+               <str name="iris.references.allauthors">In'nami &amp; Koizumi (in press)</str>
+               <arr name="iris.references.author">
+                  <str>In'nami, Yo</str>
+                  <str>Koizumi, Rie</str>
+               </arr>
+               <str name="iris.references.author.lastnames">in'namikoizumi</str>
+               <arr name="iris.references.author.noack">
+                  <str>In'nami, Yo</str>
+                  <str>Koizumi, Rie</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Testing</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>riekoizumi1@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>In'nami, Yo</str>
+                  <str>Koizumi, Rie</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Coding scheme for meta-analysis</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Meta-analysis assessment</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">meta-analysis assessment meta-analysis assessment  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Meta-analysis assessment</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Meta-analysis</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Testing</str>
+                  <str>Writing</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>in press_In'nami_Koizumi_Task and rater effects in L2 speaking and writing: A synthesis of generalizability studies</str>
+               </arr>
+               <str name="iris2.references.allauthors">In'nami &amp; Koizumi (in press)</str>
+               <arr name="iris2.references.author">
+                  <str>In'nami, Yo</str>
+                  <str>Koizumi, Rie</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">in'namikoizumi</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Testing</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:853773/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:853773/asset/INSTRUMENT1?download=true"/>
+   </files>
+</record>

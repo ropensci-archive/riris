@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:804455">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">454</int>
+            <lst name="params">
+               <str name="q">PID:york?804455</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:804455</str>
+               <arr name="dc.creator">
+                  <str>Graham, Suzanne</str>
+                  <str>Santos, Denise</str>
+                  <str>Vanderplank, Robert</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>1990</str>
+                  <str>2008</str>
+                  <str>2011</str>
+                  <str>2000</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:804455</str>
+               </arr>
+               <str name="dc.title">L2 listening strategies</str>
+               <str name="dc.title.sort">L2 listening strategies</str>
+               <arr name="dc.type">
+                  <str>Listening comprehension test</str>
+                  <str>Listening test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Graham, Suzanne</str>
+                  <str>Santos, Denise</str>
+                  <str>Vanderplank, Robert</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>1990</str>
+                  <str>2008</str>
+                  <str>2011</str>
+                  <str>2000</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:804455</str>
+               </arr>
+               <str name="dc2.title">L2 listening strategies</str>
+               <arr name="dc2.type">
+                  <str>Listening comprehension test</str>
+                  <str>Listening test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Graham, Suzanne</str>
+                  <str>Santos, Denise</str>
+                  <str>Vanderplank, Robert</str>
+               </arr>
+               <str name="dc3.title">L2 listening strategies</str>
+               <date name="fgs.createdDate">2012-08-01T11:22:16.012Z</date>
+               <date name="fgs.dateCreated.sort">2012-08-01T11:22:16.012Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-04T06:53:53.841Z</date>
+               <str name="fgs.ownerId">iris-c9eef44b-2090-4506-8e00-17b9b0ea7da2</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>s.j.graham@reading.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Graham, Suzanne</str>
+                  <str>Santos, Denise</str>
+                  <str>Vanderplank, Robert</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Oral comprehension</str>
+                  <str>Closed response format</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Comprehension test</str>
+                  <str>Listening</str>
+                  <str>Listening / Aural test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">listening listening comprehension test  listening / aural test listening / aural test aural test </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Comprehension test &gt; Listening</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Comprehension</str>
+                  <str>Learner strategies</str>
+                  <str>Learning style</str>
+                  <str>Listening</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Listening / Aural test</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>L2 listening strategies</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+                  <str>Intermediate/advanced</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>1990_Corless_Corless_Gaskell_Signes du temps: Vecu</str>
+                  <str>2008_Graham_Santos_Vanderplank_Listening comprehension and strategy use: A longitudinal exploration</str>
+                  <str>2011_Graham_Santos_Vanderplank_Exploring the relationship between listening development and strategy use</str>
+                  <str>2000_Pillette_Graham_Objectif Bac 2</str>
+                  <str>2008_Santos_Graham_Vanderplank_Second language listening strategy research: Methodological challenges and perspectives</str>
+               </arr>
+               <str name="iris.references.allauthors">Graham, Santos, et al. (2008); Graham, Santos, et al. (2011); Santos, Graham, et al. (2008)</str>
+               <arr name="iris.references.author">
+                  <str>Corless, F</str>
+                  <str>Corless, H</str>
+                  <str>Gaskell, R</str>
+                  <str>Graham, Suzanne</str>
+                  <str>Santos, Denise</str>
+                  <str>Vanderplank, Robert</str>
+                  <str>Graham, Suzanne</str>
+                  <str>Santos, Denise</str>
+                  <str>Vanderplank, Robert</str>
+                  <str>Pillette, M</str>
+                  <str>Graham, Suzanne</str>
+                  <str>Santos, Denise</str>
+                  <str>Graham, Suzanne</str>
+                  <str>Vanderplank, Robert</str>
+               </arr>
+               <str name="iris.references.author.lastnames">corlesscorlessgaskellgrahamsantosvanderplankgrahamsantosvanderplankpillettegrahamsantosgrahamvanderplank</str>
+               <arr name="iris.references.author.noack">
+                  <str>Graham, Suzanne</str>
+                  <str>Santos, Denise</str>
+                  <str>Vanderplank, Robert</str>
+                  <str>Graham, Suzanne</str>
+                  <str>Santos, Denise</str>
+                  <str>Vanderplank, Robert</str>
+                  <str>Santos, Denise</str>
+                  <str>Graham, Suzanne</str>
+                  <str>Vanderplank, Robert</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>System</str>
+                  <str>Language Teaching Research</str>
+                  <str>Evaluation and Research in Education</str>
+               </arr>
+               <arr name="iris.references.placeOfPublication">
+                  <str>London</str>
+                  <str>London</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>1990</str>
+                  <str>2008</str>
+                  <str>2011</str>
+                  <str>2000</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>1990</str>
+                  <str>2008</str>
+                  <str>2011</str>
+                  <str>2000</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Book</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Book</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris.references.publisher">
+                  <str>Collins Educational</str>
+                  <str>Collins Educational</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>s.j.graham@reading.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Graham, Suzanne</str>
+                  <str>Santos, Denise</str>
+                  <str>Vanderplank, Robert</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Oral comprehension</str>
+                  <str>Closed response format</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Comprehension test</str>
+                  <str>Listening</str>
+                  <str>Listening / Aural test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">listening listening comprehension test  listening / aural test listening / aural test aural test </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Comprehension test &gt; Listening</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Comprehension</str>
+                  <str>Learner strategies</str>
+                  <str>Learning style</str>
+                  <str>Listening</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Listening / Aural test</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+                  <str>Intermediate/advanced</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>1990_Corless_Corless_Gaskell_Signes du temps: Vecu</str>
+                  <str>2008_Graham_Santos_Vanderplank_Listening comprehension and strategy use: A longitudinal exploration</str>
+                  <str>2011_Graham_Santos_Vanderplank_Exploring the relationship between listening development and strategy use</str>
+                  <str>2000_Pillette_Graham_Objectif Bac 2</str>
+                  <str>2008_Santos_Graham_Vanderplank_Second language listening strategy research: Methodological challenges and perspectives</str>
+               </arr>
+               <str name="iris2.references.allauthors">Graham, Santos, et al. (2008); Graham, Santos, et al. (2011); Santos, Graham, et al. (2008)</str>
+               <arr name="iris2.references.author">
+                  <str>Corless, F</str>
+                  <str>Corless, H</str>
+                  <str>Gaskell, R</str>
+                  <str>Graham, Suzanne</str>
+                  <str>Santos, Denise</str>
+                  <str>Vanderplank, Robert</str>
+                  <str>Graham, Suzanne</str>
+                  <str>Santos, Denise</str>
+                  <str>Vanderplank, Robert</str>
+                  <str>Pillette, M</str>
+                  <str>Graham, Suzanne</str>
+                  <str>Santos, Denise</str>
+                  <str>Graham, Suzanne</str>
+                  <str>Vanderplank, Robert</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">corlesscorlessgaskellgrahamsantosvanderplankgrahamsantosvanderplankpillettegrahamsantosgrahamvanderplank</str>
+               <arr name="iris2.references.journal">
+                  <str>System</str>
+                  <str>Language Teaching Research</str>
+                  <str>Evaluation and Research in Education</str>
+               </arr>
+               <arr name="iris2.references.placeOfPublication">
+                  <str>London</str>
+                  <str>London</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>1990</str>
+                  <str>2008</str>
+                  <str>2011</str>
+                  <str>2000</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>1990</str>
+                  <str>2008</str>
+                  <str>2011</str>
+                  <str>2000</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2011</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Book</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Book</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.references.publisher">
+                  <str>Collins Educational</str>
+                  <str>Collins Educational</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:804455/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

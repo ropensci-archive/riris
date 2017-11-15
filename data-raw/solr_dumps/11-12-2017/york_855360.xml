@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:855360">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">479</int>
+            <lst name="params">
+               <str name="q">PID:york?855360</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:855360</str>
+               <arr name="dc.creator">
+                  <str>Azkarai, Agurtzane</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+                  <str>2015</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The dictogloss task and text editing task used in the referenced publications are linked in IRIS. These tasks were chosen from the following textbooks: Oxenden, Clive, Christina Latham-Koenig &amp; Paul Seligson. 1997b. New English File Pre Intermediate. Student's Book. Oxford: Oxford University Press. Oxenden, Clive, Christina Latham-Koenig &amp; Paul Seligson. 1997c. New English File Upper Intermediate. Student's Book. Oxford: Oxford University Press.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:855360</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Text editing</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Azkarai, Agurtzane</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+                  <str>2015</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The dictogloss task and text editing task used in the referenced publications are linked in IRIS. These tasks were chosen from the following textbooks: Oxenden, Clive, Christina Latham-Koenig &amp; Paul Seligson. 1997b. New English File Pre Intermediate. Student's Book. Oxford: Oxford University Press. Oxenden, Clive, Christina Latham-Koenig &amp; Paul Seligson. 1997c. New English File Upper Intermediate. Student's Book. Oxford: Oxford University Press.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:855360</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Text editing</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Azkarai, Agurtzane</str>
+               </arr>
+               <date name="fgs.createdDate">2015-10-13T11:02:58.747Z</date>
+               <date name="fgs.dateCreated.sort">2015-10-13T11:02:58.747Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-09T14:37:36.888Z</date>
+               <str name="fgs.ownerId">fedoraAdmin</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Azkarai, Agurtzane</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Text editing</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">text editing text editing  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The dictogloss task and text editing task used in the referenced publications are linked in IRIS. These tasks were chosen from the following textbooks: Oxenden, Clive, Christina Latham-Koenig &amp; Paul Seligson. 1997b. New English File Pre Intermediate. Student's Book. Oxford: Oxford University Press. Oxenden, Clive, Christina Latham-Koenig &amp; Paul Seligson. 1997c. New English File Upper Intermediate. Student's Book. Oxford: Oxford University Press.</str>
+               <str name="iris.instrument.primaryInstrumentType">Text editing</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Interaction</str>
+                  <str>Writing</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str/>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Azkarai_Males and females in EFL task-based interaction: Does gender have an impact on LREs?</str>
+                  <str>2015_Azkarai_García Mayo_Task-modality and L1 use in EFL oral interaction</str>
+                  <str>in press_García Mayo_Azkarai_EFL task-based interaction: Does task modality impact on language-related episodes?</str>
+               </arr>
+               <str name="iris.references.allauthors">Azkarai (2015); Azkarai &amp; García Mayo (2015); García Mayo &amp; Azkarai (in press)</str>
+               <arr name="iris.references.author">
+                  <str>Azkarai, Agurtzane</str>
+                  <str>Azkarai, Agurtzane</str>
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Azkarai, Agurtzane</str>
+               </arr>
+               <str name="iris.references.author.lastnames">azkaraiazkaraigarcía mayogarcía mayoazkarai</str>
+               <arr name="iris.references.author.noack">
+                  <str>Azkarai, Agurtzane</str>
+                  <str>Azkarai, Agurtzane</str>
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Azkarai, Agurtzane</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>EFL task-based interaction: Does task modality impact on language-related episodes?</str>
+                  <str>Peer Interaction and Second Language Learning: Research Agenda and Pedagogical Implications</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Sato, Masatoshi</str>
+                  <str>Ballinger, Susan</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>VIAL - Vigo International Journal of Applied Linguistics</str>
+                  <str>Language Teaching Research</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+                  <str>2015</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+                  <str>2015</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Azkarai, Agurtzane</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Text editing</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">text editing text editing  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Text editing</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Interaction</str>
+                  <str>Writing</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str/>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Azkarai_Males and females in EFL task-based interaction: Does gender have an impact on LREs?</str>
+                  <str>2015_Azkarai_García Mayo_Task-modality and L1 use in EFL oral interaction</str>
+                  <str>in press_García Mayo_Azkarai_EFL task-based interaction: Does task modality impact on language-related episodes?</str>
+               </arr>
+               <str name="iris2.references.allauthors">Azkarai (2015); Azkarai &amp; García Mayo (2015); García Mayo &amp; Azkarai (in press)</str>
+               <arr name="iris2.references.author">
+                  <str>Azkarai, Agurtzane</str>
+                  <str>Azkarai, Agurtzane</str>
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Azkarai, Agurtzane</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">azkaraiazkaraigarcía mayogarcía mayoazkarai</str>
+               <arr name="iris2.references.booktitle">
+                  <str>EFL task-based interaction: Does task modality impact on language-related episodes?</str>
+                  <str>Peer Interaction and Second Language Learning: Research Agenda and Pedagogical Implications</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Sato, Masatoshi</str>
+                  <str>Ballinger, Susan</str>
+               </arr>
+               <arr name="iris2.references.journal">
+                  <str>VIAL - Vigo International Journal of Applied Linguistics</str>
+                  <str>Language Teaching Research</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+                  <str>2015</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+                  <str>2015</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:855360/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:806356">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">448</int>
+            <lst name="params">
+               <str name="q">PID:york?806356</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:806356</str>
+               <arr name="dc.creator">
+                  <str>Schmid, M.</str>
+                  <str>Keijzer, M.</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2007</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>Excel spreadsheet for data entry also available at http://www.let.rug.nl/languageattrition/CanDo. Please see the Attrition website http://www.let.rug.nl/languageattrition/AMTB for other versions of instruments, notes, associated projects and publications.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+                  <str>German</str>
+                  <str>Dutch</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:806356</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Attrition</str>
+               </arr>
+               <str name="dc.title">Can-Do Scale</str>
+               <str name="dc.title.sort">Can-Do Scale</str>
+               <arr name="dc.type">
+                  <str>Self-efficacy questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Schmid, M.</str>
+                  <str>Keijzer, M.</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2007</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>Excel spreadsheet for data entry also available at http://www.let.rug.nl/languageattrition/CanDo. Please see the Attrition website http://www.let.rug.nl/languageattrition/AMTB for other versions of instruments, notes, associated projects and publications.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+                  <str>German</str>
+                  <str>Dutch</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:806356</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Attrition</str>
+               </arr>
+               <str name="dc2.title">Can-Do Scale</str>
+               <arr name="dc2.type">
+                  <str>Self-efficacy questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Schmid, M.</str>
+                  <str>Keijzer, M.</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Attrition</str>
+               </arr>
+               <str name="dc3.title">Can-Do Scale</str>
+               <date name="fgs.createdDate">2012-09-28T12:39:45.84Z</date>
+               <date name="fgs.dateCreated.sort">2012-09-28T12:39:45.84Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-29T23:27:50.858Z</date>
+               <str name="fgs.ownerId">fedoraAdmin</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>mschmid@essex.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Schmid, M.</str>
+                  <str>Keijzer, M.</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Self-efficacy questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">self-efficacy questionnaire self-efficacy questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">Excel spreadsheet for data entry also available at http://www.let.rug.nl/languageattrition/CanDo. Please see the Attrition website http://www.let.rug.nl/languageattrition/AMTB for other versions of instruments, notes, associated projects and publications.</str>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Self-efficacy questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Attrition</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+                  <str>German</str>
+                  <str>Dutch</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Can-Do Scale</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Keijzer_Last in first out? An investigation of the regression hypothesis in Dutch emigrants in anglophone Canada</str>
+                  <str>Mehotcheva_After the Fiesta is over: Foreign language attrition of Spanish in Dutch and German Erasmus students</str>
+                  <str>2007_Schmid_The role of L1 use for L1 attrition</str>
+               </arr>
+               <str name="iris.references.allauthors">Keijzer (2007); Mehotcheva (2010); Schmid (2007)</str>
+               <arr name="iris.references.author">
+                  <str>Keijzer, M.</str>
+                  <str>Mehotcheva, T.</str>
+                  <str>Schmid, M.</str>
+               </arr>
+               <str name="iris.references.author.lastnames">keijzermehotchevaschmid</str>
+               <arr name="iris.references.author.noack">
+                  <str>Keijzer, M.</str>
+                  <str>Mehotcheva, T.</str>
+                  <str>Schmid, M.</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>The role of L1 use for L1 attrition</str>
+                  <str>Language attrition: Theoretical perspectives</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Köpke, B.</str>
+                  <str>Schmid, M.</str>
+                  <str>Keijzer, M.</str>
+                  <str>Dostert, S.</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2007</str>
+                  <str>2007</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2007</str>
+                  <str>2007</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Thesis</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>mschmid@essex.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Schmid, M.</str>
+                  <str>Keijzer, M.</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Self-efficacy questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">self-efficacy questionnaire self-efficacy questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Self-efficacy questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Attrition</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+                  <str>German</str>
+                  <str>Dutch</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Keijzer_Last in first out? An investigation of the regression hypothesis in Dutch emigrants in anglophone Canada</str>
+                  <str>Mehotcheva_After the Fiesta is over: Foreign language attrition of Spanish in Dutch and German Erasmus students</str>
+                  <str>2007_Schmid_The role of L1 use for L1 attrition</str>
+               </arr>
+               <str name="iris2.references.allauthors">Keijzer (2007); Mehotcheva (2010); Schmid (2007)</str>
+               <arr name="iris2.references.author">
+                  <str>Keijzer, M.</str>
+                  <str>Mehotcheva, T.</str>
+                  <str>Schmid, M.</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">keijzermehotchevaschmid</str>
+               <arr name="iris2.references.booktitle">
+                  <str>The role of L1 use for L1 attrition</str>
+                  <str>Language attrition: Theoretical perspectives</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Köpke, B.</str>
+                  <str>Schmid, M.</str>
+                  <str>Keijzer, M.</str>
+                  <str>Dostert, S.</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2007</str>
+                  <str>2007</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2007</str>
+                  <str>2007</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Thesis</str>
+                  <str>Chapter</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:806356/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:806356/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:806356/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:806356/asset/INSTRUMENT3?download=true"/>
+   </files>
+</record>

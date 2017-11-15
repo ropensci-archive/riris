@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:847528">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">462</int>
+            <lst name="params">
+               <str name="q">PID:york?847528</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:847528</str>
+               <arr name="dc.creator">
+                  <str>You, Chenjing</str>
+                  <str>Dörnyei, Zoltán</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2010</str>
+                  <str>2009</str>
+                  <str>2016</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:847528</str>
+               </arr>
+               <str name="dc.title">Motivation Questionnaire</str>
+               <str name="dc.title.sort">Motivation Questionnaire</str>
+               <arr name="dc.type">
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>You, Chenjing</str>
+                  <str>Dörnyei, Zoltán</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2010</str>
+                  <str>2009</str>
+                  <str>2016</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:847528</str>
+               </arr>
+               <str name="dc2.title">Motivation Questionnaire</str>
+               <arr name="dc2.type">
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>You, Chenjing</str>
+                  <str>Dörnyei, Zoltán</str>
+               </arr>
+               <str name="dc3.title">Motivation Questionnaire</str>
+               <date name="fgs.createdDate">2015-01-21T14:39:06.963Z</date>
+               <date name="fgs.dateCreated.sort">2015-01-21T14:39:06.963Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-13T02:21:36.488Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>You, Chenjing</str>
+                  <str>Dörnyei, Zoltán</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Other questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">attitude questionnaire attitude questionnaire  other questionnaire questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Attitude questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Learner attitudes</str>
+                  <str>Motivation</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Other questionnaire</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Motivation Questionnaire</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Chinese</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Adolescent learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2010_Dörnyei_Questionnaires in Second Language Research: Construction, Administration, and Processing 2nd ed</str>
+                  <str>2009_Taguchi_Magid_Papi_The L2 motivational self system among Japanese, Chinese and Iranian learners of English: A comparative study</str>
+                  <str>2016_You_Dörnyei_Csizér_Motivation, vision, and gender: A survey of Chinese learners of English</str>
+                  <str>in press_You_Dörnyei_Language learning motivation in China: Results of a large-scale stratified survey</str>
+               </arr>
+               <str name="iris.references.allauthors">You, Dörnyei, et al. (2016); You &amp; Dörnyei (in press)</str>
+               <arr name="iris.references.author">
+                  <str>Dörnyei, Zoltán</str>
+                  <str>Taguchi , Tatsuya</str>
+                  <str>Magid, Micheal</str>
+                  <str>Papi, Mostafa</str>
+                  <str>You, Chenjing, J</str>
+                  <str>Dörnyei, Zoltán</str>
+                  <str>Csizér, Kata</str>
+                  <str>You, Chenjing, J</str>
+                  <str>Dörnyei, Zoltán</str>
+               </arr>
+               <str name="iris.references.author.lastnames">dörnyeitaguchimagidpapiyoudörnyeicsizéryoudörnyei</str>
+               <arr name="iris.references.author.noack">
+                  <str>You, Chenjing, J</str>
+                  <str>Dörnyei, Zoltán</str>
+                  <str>Csizér, Kata</str>
+                  <str>You, Chenjing, J</str>
+                  <str>Dörnyei, Zoltán</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>The L2 motivational self system among Japanese, Chinese and Iranian learners of English: A comparative study</str>
+                  <str>Motivation, Language Identity and the L2 Self</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Dörnyei, Zoltán</str>
+                  <str>Ushioda, Ema</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Learning</str>
+                  <str>Applied Linguistics</str>
+               </arr>
+               <arr name="iris.references.placeOfPublication">
+                  <str>London</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2010</str>
+                  <str>2009</str>
+                  <str>2016</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2010</str>
+                  <str>2009</str>
+                  <str>2016</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Book</str>
+                  <str>Chapter</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris.references.publisher">
+                  <str>Routledge</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>You, Chenjing</str>
+                  <str>Dörnyei, Zoltán</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Other questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">attitude questionnaire attitude questionnaire  other questionnaire questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Attitude questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Learner attitudes</str>
+                  <str>Motivation</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Other questionnaire</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Chinese</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Adolescent learners</str>
+                  <str/>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2010_Dörnyei_Questionnaires in Second Language Research: Construction, Administration, and Processing 2nd ed</str>
+                  <str>2009_Taguchi_Magid_Papi_The L2 motivational self system among Japanese, Chinese and Iranian learners of English: A comparative study</str>
+                  <str>2016_You_Dörnyei_Csizér_Motivation, vision, and gender: A survey of Chinese learners of English</str>
+                  <str>in press_You_Dörnyei_Language learning motivation in China: Results of a large-scale stratified survey</str>
+               </arr>
+               <str name="iris2.references.allauthors">You, Dörnyei, et al. (2016); You &amp; Dörnyei (in press)</str>
+               <arr name="iris2.references.author">
+                  <str>Dörnyei, Zoltán</str>
+                  <str>Taguchi , Tatsuya</str>
+                  <str>Magid, Micheal</str>
+                  <str>Papi, Mostafa</str>
+                  <str>You, Chenjing, J</str>
+                  <str>Dörnyei, Zoltán</str>
+                  <str>Csizér, Kata</str>
+                  <str>You, Chenjing, J</str>
+                  <str>Dörnyei, Zoltán</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">dörnyeitaguchimagidpapiyoudörnyeicsizéryoudörnyei</str>
+               <arr name="iris2.references.booktitle">
+                  <str>The L2 motivational self system among Japanese, Chinese and Iranian learners of English: A comparative study</str>
+                  <str>Motivation, Language Identity and the L2 Self</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Dörnyei, Zoltán</str>
+                  <str>Ushioda, Ema</str>
+               </arr>
+               <arr name="iris2.references.journal">
+                  <str>Language Learning</str>
+                  <str>Applied Linguistics</str>
+               </arr>
+               <arr name="iris2.references.placeOfPublication">
+                  <str>London</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2010</str>
+                  <str>2009</str>
+                  <str>2016</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2010</str>
+                  <str>2009</str>
+                  <str>2016</str>
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Book</str>
+                  <str>Chapter</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.references.publisher">
+                  <str>Routledge</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT1" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847528/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:847528/asset/INSTRUMENT2?download=true"/>
+   </files>
+</record>

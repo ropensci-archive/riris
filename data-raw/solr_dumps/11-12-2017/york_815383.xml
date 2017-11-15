@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:815383">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">547</int>
+            <lst name="params">
+               <str name="q">PID:york?815383</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:815383</str>
+               <arr name="dc.creator">
+                  <str>Sugiura, Kaori</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2012</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>Full article is open access http://ci.nii.ac.jp/vol_issue/nels/AA12522111_en.html</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:815383</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Processing</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Word list</str>
+                  <str>Stimuli for laboratory studies (audio)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Sugiura, Kaori</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2012</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>Full article is open access http://ci.nii.ac.jp/vol_issue/nels/AA12522111_en.html</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:815383</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Processing</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Word list</str>
+                  <str>Stimuli for laboratory studies (audio)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Sugiura, Kaori</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Processing</str>
+               </arr>
+               <date name="fgs.createdDate">2013-08-26T10:21:50.564Z</date>
+               <date name="fgs.dateCreated.sort">2013-08-26T10:21:50.564Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2015-02-27T17:59:39.712Z</date>
+               <str name="fgs.ownerId">iris-c1e91615-df2a-4a9e-ac61-c55df6280056</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>oliver51twist@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Sugiura, Kaori</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Reaction times</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Word list</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Audio</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">word list word list  audio stimuli for laboratory studies (audio)  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">Full article is open access http://ci.nii.ac.jp/vol_issue/nels/AA12522111_en.html</str>
+               <str name="iris.instrument.primaryInstrumentType">Stimuli for laboratory studies &gt; Audio</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Processing</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Word list</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2012_Sugiura_Auditory priming effect in Japanese learners of English: An investigation using a repetition task of spoken words</str>
+               </arr>
+               <str name="iris.references.allauthors">Sugiura (2012)</str>
+               <arr name="iris.references.author">
+                  <str>Sugiura, Kaori</str>
+               </arr>
+               <str name="iris.references.author.lastnames">sugiura</str>
+               <arr name="iris.references.author.noack">
+                  <str>Sugiura, Kaori</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Kate Journal</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>oliver51twist@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Sugiura, Kaori</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Reaction times</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Word list</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Audio</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">word list word list  audio stimuli for laboratory studies (audio)  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Stimuli for laboratory studies &gt; Audio</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Processing</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Word list</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2012_Sugiura_Auditory priming effect in Japanese learners of English: An investigation using a repetition task of spoken words</str>
+               </arr>
+               <str name="iris2.references.allauthors">Sugiura (2012)</str>
+               <arr name="iris2.references.author">
+                  <str>Sugiura, Kaori</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">sugiura</str>
+               <arr name="iris2.references.journal">
+                  <str>Kate Journal</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:815383/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:815383/asset/INSTRUMENT1?download=true"/>
+   </files>
+</record>

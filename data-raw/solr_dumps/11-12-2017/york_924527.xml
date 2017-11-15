@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:924527">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">453</int>
+            <lst name="params">
+               <str name="q">PID:york?924527</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:924527</str>
+               <arr name="dc.creator">
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Lazaro Ibarrola, Amparo</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:924527</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Information exchange tasks</str>
+                  <str>Picture matching test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Lazaro Ibarrola, Amparo</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:924527</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Information exchange tasks</str>
+                  <str>Picture matching test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Lazaro Ibarrola, Amparo</str>
+               </arr>
+               <date name="fgs.createdDate">2016-02-09T14:46:59.894Z</date>
+               <date name="fgs.dateCreated.sort">2016-02-09T14:46:59.894Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-01T11:00:42.696Z</date>
+               <str name="fgs.ownerId">iris-818e0843-f7cc-468c-bb43-b767c6c86d3c</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>mariapilar.garciamayo@ehu.eus</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Lazaro Ibarrola, Amparo</str>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>Ministerio de Economia y Competitividad (Spain)</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Communicative / Interactive task</str>
+                  <str>Information exchange</str>
+                  <str>Picture matching test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">information exchange information exchange tasks  picture matching test picture matching test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Syntax</str>
+                  <str>Interrogatives / Questions</str>
+                  <str>Part of speech / Agent-patient</str>
+                  <str>Passive / active voice</str>
+                  <str>Other syntax</str>
+                  <str>Lexis (vocabulary)</str>
+                  <str>Closed class</str>
+                  <str>Prepositions</str>
+                  <str>Other lexis (vocabulary)</str>
+                  <str>Collocations/lexical chunks</str>
+                  <str>Nonwords</str>
+                  <str>Open class</str>
+                  <str>Adjectives</str>
+                  <str>Adverbs</str>
+                  <str>Nouns</str>
+                  <str>Verbs</str>
+                  <str>Other</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Communicative / Interactive task &gt; Information exchange</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Bilingualism</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Fluency</str>
+                  <str>Discourse</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Picture matching test</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str/>
+                  <str>Foreign language learners</str>
+                  <str>Primary school</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Near beginner</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_García Mayo_Lazaro Ibarrola_Do children negotiate for meaning in task-based interaction? Evidence from CLIL and EFL settings</str>
+               </arr>
+               <str name="iris.references.allauthors">García Mayo &amp; Lazaro Ibarrola (2015)</str>
+               <arr name="iris.references.author">
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Lazaro Ibarrola, Amparo</str>
+               </arr>
+               <str name="iris.references.author.lastnames">garcía mayolazaro ibarrola</str>
+               <arr name="iris.references.author.noack">
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Lazaro Ibarrola, Amparo</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>System</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>mariapilar.garciamayo@ehu.eus</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Lazaro Ibarrola, Amparo</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>Ministerio de Economia y Competitividad (Spain)</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Communicative / Interactive task</str>
+                  <str>Information exchange</str>
+                  <str>Picture matching test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">information exchange information exchange tasks  picture matching test picture matching test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Syntax</str>
+                  <str>Interrogatives / Questions</str>
+                  <str>Part of speech / Agent-patient</str>
+                  <str>Passive / active voice</str>
+                  <str>Other syntax</str>
+                  <str>Lexis (vocabulary)</str>
+                  <str>Closed class</str>
+                  <str>Prepositions</str>
+                  <str>Other lexis (vocabulary)</str>
+                  <str>Collocations/lexical chunks</str>
+                  <str>Nonwords</str>
+                  <str>Open class</str>
+                  <str>Adjectives</str>
+                  <str>Adverbs</str>
+                  <str>Nouns</str>
+                  <str>Verbs</str>
+                  <str>Other</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Communicative / Interactive task &gt; Information exchange</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Bilingualism</str>
+                  <str>Speaking / Oral production</str>
+                  <str>Fluency</str>
+                  <str>Discourse</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Picture matching test</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str/>
+                  <str>Foreign language learners</str>
+                  <str>Primary school</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Near beginner</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_García Mayo_Lazaro Ibarrola_Do children negotiate for meaning in task-based interaction? Evidence from CLIL and EFL settings</str>
+               </arr>
+               <str name="iris2.references.allauthors">García Mayo &amp; Lazaro Ibarrola (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Lazaro Ibarrola, Amparo</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">garcía mayolazaro ibarrola</str>
+               <arr name="iris2.references.journal">
+                  <str>System</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:924527/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

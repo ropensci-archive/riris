@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:847881">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">475</int>
+            <lst name="params">
+               <str name="q">PID:york?847881</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:847881</str>
+               <arr name="dc.creator">
+                  <str>Perpiñán, Silvia</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2014</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The linguistic background questionnaire and proficiency test (see article for details) were used before the main experimental 'spot the difference' task. The records for the linguistic background questionnaire and 'spot the difference' task are linked in IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:847881</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Vocabulary test (productive)</str>
+                  <str>Speaking test</str>
+                  <str>Picture spot the difference</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Perpiñán, Silvia</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2014</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The linguistic background questionnaire and proficiency test (see article for details) were used before the main experimental 'spot the difference' task. The records for the linguistic background questionnaire and 'spot the difference' task are linked in IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:847881</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Vocabulary test (productive)</str>
+                  <str>Speaking test</str>
+                  <str>Picture spot the difference</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Perpiñán, Silvia</str>
+               </arr>
+               <date name="fgs.createdDate">2015-02-03T12:32:35.545Z</date>
+               <date name="fgs.dateCreated.sort">2015-02-03T12:32:35.545Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-15T17:32:40.778Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>sperpina@uwo.ca</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Perpiñán, Silvia</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture spot the difference</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">productive vocabulary test (productive)  speaking test / oral production test speaking test / oral production test oral test picture spot the difference picture spot the difference  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Semantics</str>
+                  <str>Part of speech / Agent-patient</str>
+               </arr>
+               <str name="iris.instrument.notes">The linguistic background questionnaire and proficiency test (see article for details) were used before the main experimental 'spot the difference' task. The records for the linguistic background questionnaire and 'spot the difference' task are linked in IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Picture spot the difference</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Speaking / Oral production</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Vocabulary test &gt; Productive</str>
+                  <str>Speaking test / Oral production test</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+                  <str>Arabic</str>
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Native speakers</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2014_Perpiñán_Locatives and existentials in L2 Spanish: The acquisition of the semantic contrasts among ser, estar and haber</str>
+               </arr>
+               <str name="iris.references.allauthors">Perpiñán (2014)</str>
+               <arr name="iris.references.author">
+                  <str>Perpiñán, Silvia</str>
+               </arr>
+               <str name="iris.references.author.lastnames">perpiñán</str>
+               <arr name="iris.references.author.noack">
+                  <str>Perpiñán, Silvia</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Second Language Research</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>sperpina@uwo.ca</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Perpiñán, Silvia</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Picture spot the difference</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">productive vocabulary test (productive)  speaking test / oral production test speaking test / oral production test oral test picture spot the difference picture spot the difference  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Semantics</str>
+                  <str>Part of speech / Agent-patient</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Picture spot the difference</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Speaking / Oral production</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Vocabulary test &gt; Productive</str>
+                  <str>Speaking test / Oral production test</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Software</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+                  <str>Arabic</str>
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Native speakers</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2014_Perpiñán_Locatives and existentials in L2 Spanish: The acquisition of the semantic contrasts among ser, estar and haber</str>
+               </arr>
+               <str name="iris2.references.allauthors">Perpiñán (2014)</str>
+               <arr name="iris2.references.author">
+                  <str>Perpiñán, Silvia</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">perpiñán</str>
+               <arr name="iris2.references.journal">
+                  <str>Second Language Research</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847881/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847881/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847881/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847881/asset/INSTRUMENT3?download=true"/>
+      <file id="INSTRUMENT4" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:847881/asset/INSTRUMENT4?download=true"/>
+   </files>
+</record>

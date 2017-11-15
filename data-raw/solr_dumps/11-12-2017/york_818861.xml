@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:818861">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">513</int>
+            <lst name="params">
+               <str name="q">PID:york?818861</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:818861</str>
+               <arr name="dc.creator">
+                  <str>Noels, Kimberly</str>
+                  <str>Zhang, Rui</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2004</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>This instrument, originally used by Cameron (2004), was adapted for use by Zhang and Noels (2012).</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:818861</str>
+               </arr>
+               <str name="dc.title">Social Identification Scale</str>
+               <str name="dc.title.sort">Social Identification Scale</str>
+               <arr name="dc.type">
+                  <str>Attitude questionnaire</str>
+                  <str>Ethnic/social/cultural identity questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Noels, Kimberly</str>
+                  <str>Zhang, Rui</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2004</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>This instrument, originally used by Cameron (2004), was adapted for use by Zhang and Noels (2012).</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:818861</str>
+               </arr>
+               <str name="dc2.title">Social Identification Scale</str>
+               <arr name="dc2.type">
+                  <str>Attitude questionnaire</str>
+                  <str>Ethnic/social/cultural identity questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Noels, Kimberly</str>
+                  <str>Zhang, Rui</str>
+               </arr>
+               <str name="dc3.title">Social Identification Scale</str>
+               <date name="fgs.createdDate">2013-11-23T20:59:14.8Z</date>
+               <date name="fgs.dateCreated.sort">2013-11-23T20:59:14.8Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-20T04:04:23.246Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>knoels@ualberta.ca</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Noels, Kimberly</str>
+                  <str>Zhang, Rui</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Ethnic/social/cultural identity questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">attitude questionnaire attitude questionnaire  ethnic/social/cultural identity questionnaire ethnic/social/cultural identity questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">This instrument, originally used by Cameron (2004), was adapted for use by Zhang and Noels (2012).</str>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Ethnic/social/cultural identity questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Cultural identity</str>
+                  <str>Culture</str>
+                  <str>Identity</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Attitude questionnaire</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Social Identification Scale</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Native speakers</str>
+                  <str>Second language learners</str>
+                  <str>Language users</str>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2004_Cameron_A three-factor model of social identity</str>
+                  <str>2012_Zhang_Noels_When ethnic identities vary: Cross-situation and within-situation variation, authenticity and well-being</str>
+               </arr>
+               <str name="iris.references.allauthors">Cameron (2004); Zhang &amp; Noels (2012)</str>
+               <arr name="iris.references.author">
+                  <str>Cameron, J. E.</str>
+                  <str>Zhang, Rui</str>
+                  <str>Noels, Kimberly</str>
+               </arr>
+               <str name="iris.references.author.lastnames">cameronzhangnoels</str>
+               <arr name="iris.references.author.noack">
+                  <str>Cameron, J. E.</str>
+                  <str>Zhang, Rui</str>
+                  <str>Noels, Kimberly</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Self and Identity</str>
+                  <str>Journal of Cross-Cultural Psychology</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2004</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2004</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>knoels@ualberta.ca</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Noels, Kimberly</str>
+                  <str>Zhang, Rui</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Ethnic/social/cultural identity questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">attitude questionnaire attitude questionnaire  ethnic/social/cultural identity questionnaire ethnic/social/cultural identity questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Ethnic/social/cultural identity questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Cultural identity</str>
+                  <str>Culture</str>
+                  <str>Identity</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Attitude questionnaire</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Native speakers</str>
+                  <str>Second language learners</str>
+                  <str>Language users</str>
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2004_Cameron_A three-factor model of social identity</str>
+                  <str>2012_Zhang_Noels_When ethnic identities vary: Cross-situation and within-situation variation, authenticity and well-being</str>
+               </arr>
+               <str name="iris2.references.allauthors">Cameron (2004); Zhang &amp; Noels (2012)</str>
+               <arr name="iris2.references.author">
+                  <str>Cameron, J. E.</str>
+                  <str>Zhang, Rui</str>
+                  <str>Noels, Kimberly</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">cameronzhangnoels</str>
+               <arr name="iris2.references.journal">
+                  <str>Self and Identity</str>
+                  <str>Journal of Cross-Cultural Psychology</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2004</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2004</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:818861/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

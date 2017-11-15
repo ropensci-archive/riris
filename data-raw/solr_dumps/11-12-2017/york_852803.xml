@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:852803">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">486</int>
+            <lst name="params">
+               <str name="q">PID:york?852803</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:852803</str>
+               <arr name="dc.creator">
+                  <str>Oliver, Rhonda</str>
+                  <str>Grote, Ellen</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2016</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>This Needs Analysis interview instrument can be adapted for other learners for which a Task Based Language Teaching Syllabus is designed</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:852803</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Teaching materials and curriculum (syllabus, textbook design)</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Interview protocol / schedule</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Oliver, Rhonda</str>
+                  <str>Grote, Ellen</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2016</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>This Needs Analysis interview instrument can be adapted for other learners for which a Task Based Language Teaching Syllabus is designed</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:852803</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Teaching materials and curriculum (syllabus, textbook design)</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Interview protocol / schedule</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Oliver, Rhonda</str>
+                  <str>Grote, Ellen</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Teaching materials and curriculum (syllabus, textbook design)</str>
+               </arr>
+               <date name="fgs.createdDate">2015-05-04T06:17:09.903Z</date>
+               <date name="fgs.dateCreated.sort">2015-05-04T06:17:09.903Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-07T15:31:47.389Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>rhonda.oliver@curtin.edu.au</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Oliver, Rhonda</str>
+                  <str>Grote, Ellen</str>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>Australian Research Council</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Interview protocol / schedule</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">interview protocol / schedule interview protocol / schedule interview schedule </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">This Needs Analysis interview instrument can be adapted for other learners for which a Task Based Language Teaching Syllabus is designed</str>
+               <str name="iris.instrument.primaryInstrumentType">Interview protocol / schedule</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Teaching materials and curriculum (syllabus, textbook design)</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Other</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Adolescent learners</str>
+                  <str>Second language learners</str>
+                  <str>Teachers</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Complete beginner</str>
+                  <str>Near beginner</str>
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+                  <str>Intermediate/advanced</str>
+                  <str>Advanced</str>
+                  <str>Near native</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2016_Oliver_Grote_A Second Language Task-Based Needs Analysis for Australian Aboriginal Learners: Accessing Insider Perspectives of the Workplace and Cultural Domains</str>
+                  <str>2012_Oliver_Rochecouste_Grote_Exell_Addressing the Language and Literacy Needs of Aboriginal High School VET Students who Speak SAE as an Additional Language.</str>
+               </arr>
+               <str name="iris.references.allauthors">Oliver &amp; Grote (2016)</str>
+               <arr name="iris.references.author">
+                  <str>Oliver, Rhonda</str>
+                  <str>Grote, Ellen</str>
+                  <str>Oliver, Rhonda</str>
+                  <str>Rochecouste, Judith</str>
+                  <str>Grote, Ellen</str>
+                  <str>Exell, Mike</str>
+               </arr>
+               <str name="iris.references.author.lastnames">olivergroteoliverrochecoustegroteexell</str>
+               <arr name="iris.references.author.noack">
+                  <str>Oliver, Rhonda</str>
+                  <str>Grote, Ellen</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>A Second Language Task-Based Needs Analysis for Australian Aboriginal Learners: Accessing Insider Perspectives of the Workplace and Cultural Domains</str>
+                  <str>Advancing Methodology and Practice: The IRIS repository of instruments for research into second languages</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Mackey, Alison</str>
+                  <str>Marsden, Emma</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2016</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2016</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Chapter</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>rhonda.oliver@curtin.edu.au</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Oliver, Rhonda</str>
+                  <str>Grote, Ellen</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>Australian Research Council</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Interview protocol / schedule</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">interview protocol / schedule interview protocol / schedule interview schedule </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Interview protocol / schedule</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Teaching materials and curriculum (syllabus, textbook design)</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Other</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Adolescent learners</str>
+                  <str>Second language learners</str>
+                  <str>Teachers</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Complete beginner</str>
+                  <str>Near beginner</str>
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+                  <str>Intermediate/advanced</str>
+                  <str>Advanced</str>
+                  <str>Near native</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2016_Oliver_Grote_A Second Language Task-Based Needs Analysis for Australian Aboriginal Learners: Accessing Insider Perspectives of the Workplace and Cultural Domains</str>
+                  <str>2012_Oliver_Rochecouste_Grote_Exell_Addressing the Language and Literacy Needs of Aboriginal High School VET Students who Speak SAE as an Additional Language.</str>
+               </arr>
+               <str name="iris2.references.allauthors">Oliver &amp; Grote (2016)</str>
+               <arr name="iris2.references.author">
+                  <str>Oliver, Rhonda</str>
+                  <str>Grote, Ellen</str>
+                  <str>Oliver, Rhonda</str>
+                  <str>Rochecouste, Judith</str>
+                  <str>Grote, Ellen</str>
+                  <str>Exell, Mike</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">olivergroteoliverrochecoustegroteexell</str>
+               <arr name="iris2.references.booktitle">
+                  <str>A Second Language Task-Based Needs Analysis for Australian Aboriginal Learners: Accessing Insider Perspectives of the Workplace and Cultural Domains</str>
+                  <str>Advancing Methodology and Practice: The IRIS repository of instruments for research into second languages</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Mackey, Alison</str>
+                  <str>Marsden, Emma</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2016</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2016</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Chapter</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:852803/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

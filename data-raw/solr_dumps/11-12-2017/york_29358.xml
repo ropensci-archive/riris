@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:29358">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">439</int>
+            <lst name="params">
+               <str name="q">PID:york?29358</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:29358</str>
+               <arr name="dc.creator">
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Pica, Teresa</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2005</str>
+                  <str>2000</str>
+                  <str>2000</str>
+                  <str>1996</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+                  <str>Not Applicable</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:29358</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Interaction</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Information exchange tasks</str>
+                  <str>Information gap tasks (e.g. spot difference, map task)</str>
+                  <str>Other communicative / interactive task</str>
+                  <str>Decision-making / Argumentative task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Pica, Teresa</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2005</str>
+                  <str>2000</str>
+                  <str>2000</str>
+                  <str>1996</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+                  <str>Not Applicable</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:29358</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Interaction</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Information exchange tasks</str>
+                  <str>Information gap tasks (e.g. spot difference, map task)</str>
+                  <str>Other communicative / interactive task</str>
+                  <str>Decision-making / Argumentative task</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Pica, Teresa</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Interaction</str>
+               </arr>
+               <date name="fgs.createdDate">2012-01-18T15:45:41.638Z</date>
+               <date name="fgs.dateCreated.sort">2012-01-18T15:45:41.638Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-25T11:41:23.974Z</date>
+               <str name="fgs.ownerId">iris-818e0843-f7cc-468c-bb43-b767c6c86d3c</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>mariapilar.garciamayo@ehu.es</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Pica, Teresa</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Communicative / Interactive task</str>
+                  <str>Information exchange</str>
+                  <str>Communicative / Interactive task</str>
+                  <str>Information gap</str>
+                  <str>Communicative / Interactive task</str>
+                  <str>Other task</str>
+                  <str>Communicative / Interactive task</str>
+                  <str>Decision-making / Argumentative task</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">information exchange information exchange tasks  information gap information gap tasks (e.g. spot difference, map task)  other task communicative task  decision-making / argumentative task decision-making / argumentative task  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Aspect</str>
+                  <str>Number</str>
+                  <str>Tense</str>
+                  <str>Closed class</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Communicative / Interactive task &gt; Decision-making / Argumentative task</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Interaction</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Communicative / Interactive task &gt; Information exchange</str>
+                  <str>Communicative / Interactive task &gt; Information gap</str>
+                  <str>Communicative / Interactive task &gt; Other task</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Basque</str>
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate/advanced</str>
+                  <str>TOEFL - Reading / listening (High)</str>
+                  <str>TOEFL - Speaking (Good)</str>
+                  <str>TOEFL - Writing (Good)</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2005_García Mayo_Interactional strategies for interlanguage communication: Do they provide evidence for attention to form?</str>
+                  <str>2000_Pica_García Mayo_Interaction among proficient learners: Are input, feedback and output needs addressed in a foreign language context?</str>
+                  <str>2000_Pica_García Mayo_L2 learner interaction in a foreign language setting: Are learning needs addressed?</str>
+                  <str>1996_Ur_Discussions that work: Task-centred fluency practice</str>
+               </arr>
+               <str name="iris.references.allauthors">García Mayo (2005); Pica &amp; García Mayo (2000); Pica &amp; García Mayo (2000)</str>
+               <arr name="iris.references.author">
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Pica, Teresa</str>
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Pica, Teresa</str>
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Ur, Penny</str>
+               </arr>
+               <str name="iris.references.author.lastnames">garcía mayopicagarcía mayopicagarcía mayour</str>
+               <arr name="iris.references.author.noack">
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Pica, Teresa</str>
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Pica, Teresa</str>
+                  <str>García Mayo, María Del Pilar</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>Interactional strategies for interlanguage communication: Do they provide evidence for attention to form?</str>
+                  <str>Investigations in instructed second language acquisition (Studies on Language Acquisition Series)</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>Housen, Alex</str>
+                  <str>Pierrard, Michel</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Studia Linguistica</str>
+                  <str>International Review of Applied Linguistics</str>
+               </arr>
+               <arr name="iris.references.placeOfPublication">
+                  <str>Cambridge</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2005</str>
+                  <str>2000</str>
+                  <str>2000</str>
+                  <str>1996</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2005</str>
+                  <str>2000</str>
+                  <str>2000</str>
+                  <str>1996</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Chapter</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris.references.publisher">
+                  <str>Cambridge University Press</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>mariapilar.garciamayo@ehu.es</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Pica, Teresa</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Oral production</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Communicative / Interactive task</str>
+                  <str>Information exchange</str>
+                  <str>Communicative / Interactive task</str>
+                  <str>Information gap</str>
+                  <str>Communicative / Interactive task</str>
+                  <str>Other task</str>
+                  <str>Communicative / Interactive task</str>
+                  <str>Decision-making / Argumentative task</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">information exchange information exchange tasks  information gap information gap tasks (e.g. spot difference, map task)  other task communicative task  decision-making / argumentative task decision-making / argumentative task  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Aspect</str>
+                  <str>Number</str>
+                  <str>Tense</str>
+                  <str>Closed class</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Communicative / Interactive task &gt; Decision-making / Argumentative task</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Interaction</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Communicative / Interactive task &gt; Information exchange</str>
+                  <str>Communicative / Interactive task &gt; Information gap</str>
+                  <str>Communicative / Interactive task &gt; Other task</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Basque</str>
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate/advanced</str>
+                  <str>TOEFL - Reading / listening (High)</str>
+                  <str>TOEFL - Speaking (Good)</str>
+                  <str>TOEFL - Writing (Good)</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2005_García Mayo_Interactional strategies for interlanguage communication: Do they provide evidence for attention to form?</str>
+                  <str>2000_Pica_García Mayo_Interaction among proficient learners: Are input, feedback and output needs addressed in a foreign language context?</str>
+                  <str>2000_Pica_García Mayo_L2 learner interaction in a foreign language setting: Are learning needs addressed?</str>
+                  <str>1996_Ur_Discussions that work: Task-centred fluency practice</str>
+               </arr>
+               <str name="iris2.references.allauthors">García Mayo (2005); Pica &amp; García Mayo (2000); Pica &amp; García Mayo (2000)</str>
+               <arr name="iris2.references.author">
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Pica, Teresa</str>
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Pica, Teresa</str>
+                  <str>García Mayo, María Del Pilar</str>
+                  <str>Ur, Penny</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">garcía mayopicagarcía mayopicagarcía mayour</str>
+               <arr name="iris2.references.booktitle">
+                  <str>Interactional strategies for interlanguage communication: Do they provide evidence for attention to form?</str>
+                  <str>Investigations in instructed second language acquisition (Studies on Language Acquisition Series)</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>Housen, Alex</str>
+                  <str>Pierrard, Michel</str>
+               </arr>
+               <arr name="iris2.references.journal">
+                  <str>Studia Linguistica</str>
+                  <str>International Review of Applied Linguistics</str>
+               </arr>
+               <arr name="iris2.references.placeOfPublication">
+                  <str>Cambridge</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2005</str>
+                  <str>2000</str>
+                  <str>2000</str>
+                  <str>1996</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2005</str>
+                  <str>2000</str>
+                  <str>2000</str>
+                  <str>1996</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2005</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Chapter</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris2.references.publisher">
+                  <str>Cambridge University Press</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:29358/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="image/jpg" url="https://www.iris-database.org/iris/api/resource/york:29358/asset/INSTRUMENT1?download=true"/>
+   </files>
+</record>

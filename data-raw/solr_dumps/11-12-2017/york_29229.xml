@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:29229">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">464</int>
+            <lst name="params">
+               <str name="q">PID:york?29229</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:29229</str>
+               <arr name="dc.creator">
+                  <str>Nuevo, Ana-Maria</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2012</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>We had a Spanish speaker record a version of the instrument based on the appendix provided in Speciale et al.'s (2004) paper. We omitted some of the nonwords, added others, and changed some of the vowels and consonants. This instrument was also mentioned in papers presented at the following conferences: Sachs R. &amp; Hama M. (August 2008), 'Elderly Latino immigrants learning English in the US: Interactional feedback, working memory and modified output'; AILA 15th World Congress of Applied Linguistics, Essen, Germany. Sachs R. &amp; Hama M. (September 2007), 'Working memory, interactive language production and L2 development among elderly ESL learners'; International Symposium on Processability, Bilingualism and Second Language Acquisition, Gateshead, UK.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:29229</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Working memory test (PSTM)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Nuevo, Ana-Maria</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2012</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>We had a Spanish speaker record a version of the instrument based on the appendix provided in Speciale et al.'s (2004) paper. We omitted some of the nonwords, added others, and changed some of the vowels and consonants. This instrument was also mentioned in papers presented at the following conferences: Sachs R. &amp; Hama M. (August 2008), 'Elderly Latino immigrants learning English in the US: Interactional feedback, working memory and modified output'; AILA 15th World Congress of Applied Linguistics, Essen, Germany. Sachs R. &amp; Hama M. (September 2007), 'Working memory, interactive language production and L2 development among elderly ESL learners'; International Symposium on Processability, Bilingualism and Second Language Acquisition, Gateshead, UK.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:29229</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Working memory test (PSTM)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Nuevo, Ana-Maria</str>
+               </arr>
+               <date name="fgs.createdDate">2012-01-04T15:01:09.395Z</date>
+               <date name="fgs.dateCreated.sort">2012-01-04T15:01:09.395Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-23T02:08:00.128Z</date>
+               <str name="fgs.ownerId">fedoraAdmin</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>rrs8@georgetown.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>3</str>
+               </arr>
+               <arr name="iris.feedback.email_1">
+                  <str>a.revesz@ioe.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.email_2">
+                  <str>jbl34@georgetown.edu</str>
+               </arr>
+               <arr name="iris.feedback.email_3">
+                  <str>jbl34@georgetown.edu</str>
+               </arr>
+               <arr name="iris.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.published_2">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.published_3">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.time_1">
+                  <str>9 Jul 2014 14:38:46 GMT</str>
+               </arr>
+               <arr name="iris.feedback.time_2">
+                  <str>12 Jul 2014 18:28:24 GMT</str>
+               </arr>
+               <arr name="iris.feedback.time_3">
+                  <str>12 Jul 2014 18:28:38 GMT</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Nuevo, Ana-Maria</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Oral production</str>
+                  <str>Closed response format</str>
+                  <str>Verbal recall</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>Center for Population and Health at Georgetown University</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Working memory test</str>
+                  <str>Phonological short term memory</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">phonological short term memory working memory test (pstm) phonological short term memory test,phonological working memory test,wm,pstm </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Nonwords</str>
+               </arr>
+               <str name="iris.instrument.notes">We had a Spanish speaker record a version of the instrument based on the appendix provided in Speciale et al.'s (2004) paper. We omitted some of the nonwords, added others, and changed some of the vowels and consonants. This instrument was also mentioned in papers presented at the following conferences: Sachs R. &amp; Hama M. (August 2008), 'Elderly Latino immigrants learning English in the US: Interactional feedback, working memory and modified output'; AILA 15th World Congress of Applied Linguistics, Essen, Germany. Sachs R. &amp; Hama M. (September 2007), 'Working memory, interactive language production and L2 development among elderly ESL learners'; International Symposium on Processability, Bilingualism and Second Language Acquisition, Gateshead, UK.</str>
+               <str name="iris.instrument.primaryInstrumentType">Working memory test &gt; Phonological short term memory</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Aptitude</str>
+                  <str>Memory</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+                  <str>Foreign language learners</str>
+                  <str>Language users</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2012_Mackey_Sachs_Older learners in SLA research: A first look at working memory, feedback, and L2 development</str>
+                  <str>2004_Speciale_Ellis_Bywater_Phonological sequence learning and short-term store capacity determine second language vocabulary acquisition</str>
+               </arr>
+               <str name="iris.references.allauthors">Mackey &amp; Sachs (2012)</str>
+               <arr name="iris.references.author">
+                  <str>Mackey, Alison</str>
+                  <str>Sachs, Rebecca</str>
+                  <str>Speciale, G.</str>
+                  <str>Ellis, N.C.</str>
+                  <str>Bywater, T.</str>
+               </arr>
+               <str name="iris.references.author.lastnames">mackeysachsspecialeellisbywater</str>
+               <arr name="iris.references.author.noack">
+                  <str>Mackey, Alison</str>
+                  <str>Sachs, Rebecca</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2012</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2012</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>rrs8@georgetown.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>3</str>
+               </arr>
+               <arr name="iris2.feedback.email_1">
+                  <str>a.revesz@ioe.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.email_2">
+                  <str>jbl34@georgetown.edu</str>
+               </arr>
+               <arr name="iris2.feedback.email_3">
+                  <str>jbl34@georgetown.edu</str>
+               </arr>
+               <arr name="iris2.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.published_2">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.published_3">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.time_1">
+                  <str>9 Jul 2014 14:38:46 GMT</str>
+               </arr>
+               <arr name="iris2.feedback.time_2">
+                  <str>12 Jul 2014 18:28:24 GMT</str>
+               </arr>
+               <arr name="iris2.feedback.time_3">
+                  <str>12 Jul 2014 18:28:38 GMT</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Nuevo, Ana-Maria</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Oral production</str>
+                  <str>Closed response format</str>
+                  <str>Verbal recall</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>Center for Population and Health at Georgetown University</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Working memory test</str>
+                  <str>Phonological short term memory</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">phonological short term memory working memory test (pstm) phonological short term memory test,phonological working memory test,wm,pstm </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Nonwords</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Working memory test &gt; Phonological short term memory</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Aptitude</str>
+                  <str>Memory</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+                  <str>Foreign language learners</str>
+                  <str>Language users</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2012_Mackey_Sachs_Older learners in SLA research: A first look at working memory, feedback, and L2 development</str>
+                  <str>2004_Speciale_Ellis_Bywater_Phonological sequence learning and short-term store capacity determine second language vocabulary acquisition</str>
+               </arr>
+               <str name="iris2.references.allauthors">Mackey &amp; Sachs (2012)</str>
+               <arr name="iris2.references.author">
+                  <str>Mackey, Alison</str>
+                  <str>Sachs, Rebecca</str>
+                  <str>Speciale, G.</str>
+                  <str>Ellis, N.C.</str>
+                  <str>Bywater, T.</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">mackeysachsspecialeellisbywater</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2012</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2012</str>
+                  <str>2004</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:29229/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

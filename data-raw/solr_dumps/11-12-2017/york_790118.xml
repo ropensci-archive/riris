@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:790118">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">452</int>
+            <lst name="params">
+               <str name="q">PID:york?790118</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:790118</str>
+               <arr name="dc.creator">
+                  <str>Marian, Viorica</str>
+                  <str>Blumenfeld, Henrike</str>
+                  <str>Kaushanskaya, Margarita</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2016</str>
+                  <str>2007</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The questionnaire is also available in different languages and can be downloaded from our laboratory website at: http://comm.soc.northwestern.edu/bilingualism-psycholinguistics/language-experience-and-proficiency-questionnaire/.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:790118</str>
+               </arr>
+               <str name="dc.title">LEAP-Q</str>
+               <str name="dc.title.sort">LEAP-Q</str>
+               <arr name="dc.type">
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Marian, Viorica</str>
+                  <str>Blumenfeld, Henrike</str>
+                  <str>Kaushanskaya, Margarita</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2016</str>
+                  <str>2007</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The questionnaire is also available in different languages and can be downloaded from our laboratory website at: http://comm.soc.northwestern.edu/bilingualism-psycholinguistics/language-experience-and-proficiency-questionnaire/.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:790118</str>
+               </arr>
+               <str name="dc2.title">LEAP-Q</str>
+               <arr name="dc2.type">
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Marian, Viorica</str>
+                  <str>Blumenfeld, Henrike</str>
+                  <str>Kaushanskaya, Margarita</str>
+               </arr>
+               <str name="dc3.title">LEAP-Q</str>
+               <date name="fgs.createdDate">2012-02-21T22:43:41.088Z</date>
+               <date name="fgs.dateCreated.sort">2012-02-21T22:43:41.088Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-06T22:16:46.234Z</date>
+               <str name="fgs.ownerId">fedoraAdmin</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>v-marian@northwestern.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Marian, Viorica</str>
+                  <str>Blumenfeld, Henrike</str>
+                  <str>Kaushanskaya, Margarita</str>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>NIH</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">questionnaire questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Morphology</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Aspect</str>
+                  <str>Case</str>
+                  <str>Determiners</str>
+                  <str>Gender</str>
+                  <str>Number</str>
+                  <str>Tense</str>
+                  <str>Lexis (vocabulary)</str>
+                  <str>Closed class</str>
+                  <str>Open class</str>
+                  <str>Pragmatics</str>
+                  <str>Apologies</str>
+                  <str>Complaints</str>
+                  <str>Greetings</str>
+                  <str>Promises</str>
+                  <str>Requests</str>
+                  <str>Phonology</str>
+                  <str>Codas</str>
+                  <str>Stress</str>
+                  <str>Syllable</str>
+                  <str>Syntax</str>
+               </arr>
+               <str name="iris.instrument.notes">The questionnaire is also available in different languages and can be downloaded from our laboratory website at: http://comm.soc.northwestern.edu/bilingualism-psycholinguistics/language-experience-and-proficiency-questionnaire/.</str>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Aptitude</str>
+                  <str>Acquisition</str>
+                  <str>Comprehension</str>
+                  <str>Culture</str>
+                  <str>Fluency</str>
+                  <str>Linguistic identity</str>
+                  <str>Reading</str>
+                  <str>Pronunciation</str>
+                  <str>Speaking / Oral production</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>LEAP-Q</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Bilinguals</str>
+                  <str>Foreign language learners</str>
+                  <str>First language learners</str>
+                  <str>Language users</str>
+                  <str>Monolinguals</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2016_Bovee_Raney_Evaluating missing-letter effects and comprehension in pro&#64257;cient and nonpro&#64257;cient languages.</str>
+                  <str>2007_Marian_Blumenfeld_Kaushanskaya_The Language Experience and Proficiency Questionnaire (LEAP-Q): Assessing Language Profiles in Bilinguals and Multilinguals</str>
+               </arr>
+               <str name="iris.references.allauthors">Bovee &amp; Raney (2016); Marian, Blumenfeld, et al. (2007)</str>
+               <arr name="iris.references.author">
+                  <str>Bovee, Joanna C</str>
+                  <str>Raney, Gary</str>
+                  <str>Marian, Viorica</str>
+                  <str>Blumenfeld, Henrike</str>
+                  <str>Kaushanskaya, Margarita</str>
+               </arr>
+               <str name="iris.references.author.lastnames">boveeraneymarianblumenfeldkaushanskaya</str>
+               <arr name="iris.references.author.noack">
+                  <str>Bovee, Joanna C</str>
+                  <str>Raney, Gary</str>
+                  <str>Marian, Viorica</str>
+                  <str>Blumenfeld, Henrike</str>
+                  <str>Kaushanskaya, Margarita</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Applied Psycholinguistics</str>
+                  <str>Journal of Speech, Language, and Hearing Research</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2016</str>
+                  <str>2007</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2016</str>
+                  <str>2007</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>v-marian@northwestern.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Marian, Viorica</str>
+                  <str>Blumenfeld, Henrike</str>
+                  <str>Kaushanskaya, Margarita</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>NIH</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">questionnaire questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Morphology</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Aspect</str>
+                  <str>Case</str>
+                  <str>Determiners</str>
+                  <str>Gender</str>
+                  <str>Number</str>
+                  <str>Tense</str>
+                  <str>Lexis (vocabulary)</str>
+                  <str>Closed class</str>
+                  <str>Open class</str>
+                  <str>Pragmatics</str>
+                  <str>Apologies</str>
+                  <str>Complaints</str>
+                  <str>Greetings</str>
+                  <str>Promises</str>
+                  <str>Requests</str>
+                  <str>Phonology</str>
+                  <str>Codas</str>
+                  <str>Stress</str>
+                  <str>Syllable</str>
+                  <str>Syntax</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Aptitude</str>
+                  <str>Acquisition</str>
+                  <str>Comprehension</str>
+                  <str>Culture</str>
+                  <str>Fluency</str>
+                  <str>Linguistic identity</str>
+                  <str>Reading</str>
+                  <str>Pronunciation</str>
+                  <str>Speaking / Oral production</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Bilinguals</str>
+                  <str>Foreign language learners</str>
+                  <str>First language learners</str>
+                  <str>Language users</str>
+                  <str>Monolinguals</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2016_Bovee_Raney_Evaluating missing-letter effects and comprehension in pro&#64257;cient and nonpro&#64257;cient languages.</str>
+                  <str>2007_Marian_Blumenfeld_Kaushanskaya_The Language Experience and Proficiency Questionnaire (LEAP-Q): Assessing Language Profiles in Bilinguals and Multilinguals</str>
+               </arr>
+               <str name="iris2.references.allauthors">Bovee &amp; Raney (2016); Marian, Blumenfeld, et al. (2007)</str>
+               <arr name="iris2.references.author">
+                  <str>Bovee, Joanna C</str>
+                  <str>Raney, Gary</str>
+                  <str>Marian, Viorica</str>
+                  <str>Blumenfeld, Henrike</str>
+                  <str>Kaushanskaya, Margarita</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">boveeraneymarianblumenfeldkaushanskaya</str>
+               <arr name="iris2.references.journal">
+                  <str>Applied Psycholinguistics</str>
+                  <str>Journal of Speech, Language, and Hearing Research</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2016</str>
+                  <str>2007</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2016</str>
+                  <str>2007</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:790118/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:790118/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:790118/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:790118/asset/INSTRUMENT3?download=true"/>
+      <file id="INSTRUMENT4" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:790118/asset/INSTRUMENT4?download=true"/>
+      <file id="INSTRUMENT5" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:790118/asset/INSTRUMENT5?download=true"/>
+      <file id="INSTRUMENT6" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:790118/asset/INSTRUMENT6?download=true"/>
+      <file id="INSTRUMENT7" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:790118/asset/INSTRUMENT7?download=true"/>
+      <file id="INSTRUMENT8" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:790118/asset/INSTRUMENT8?download=true"/>
+      <file id="INSTRUMENT9" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:790118/asset/INSTRUMENT9?download=true"/>
+      <file id="INSTRUMENT10" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:790118/asset/INSTRUMENT10?download=true"/>
+      <file id="INSTRUMENT11" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:790118/asset/INSTRUMENT11?download=true"/>
+      <file id="INSTRUMENT12" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:790118/asset/INSTRUMENT12?download=true"/>
+      <file id="INSTRUMENT13" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:790118/asset/INSTRUMENT13?download=true"/>
+      <file id="INSTRUMENT14" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:790118/asset/INSTRUMENT14?download=true"/>
+   </files>
+</record>

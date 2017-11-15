@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:838960">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">493</int>
+            <lst name="params">
+               <str name="q">PID:york?838960</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:838960</str>
+               <arr name="dc.creator">
+                  <str>Shintani, Natsuko</str>
+                  <str>Ellis, Rod</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2014</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The two instruction tasks (one record, same materials used) and four pre/post test tasks used in Shintani and Ellis (2014) are linked in IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:838960</str>
+               </arr>
+               <str name="dc.title">Discrete-item word production test</str>
+               <str name="dc.title.sort">Discrete-item word production test</str>
+               <arr name="dc.type">
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+                  <str>Vocabulary test (productive)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Shintani, Natsuko</str>
+                  <str>Ellis, Rod</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2014</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The two instruction tasks (one record, same materials used) and four pre/post test tasks used in Shintani and Ellis (2014) are linked in IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:838960</str>
+               </arr>
+               <str name="dc2.title">Discrete-item word production test</str>
+               <arr name="dc2.type">
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+                  <str>Vocabulary test (productive)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Shintani, Natsuko</str>
+                  <str>Ellis, Rod</str>
+               </arr>
+               <str name="dc3.title">Discrete-item word production test</str>
+               <date name="fgs.createdDate">2014-12-03T13:38:32.214Z</date>
+               <date name="fgs.dateCreated.sort">2014-12-03T13:38:32.214Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-26T12:21:29.654Z</date>
+               <str name="fgs.ownerId">iris-a24a89bf-4c33-4fde-99ff-5f2121a5ba0f</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Shintani, Natsuko</str>
+                  <str>Ellis, Rod</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">gap-fill / cloze test / fill in the blank gap-fill / cloze test / fill in the blank fill in the blank, cloze,gap fill productive vocabulary test (productive)  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Adjectives</str>
+               </arr>
+               <str name="iris.instrument.notes">The two instruction tasks (one record, same materials used) and four pre/post test tasks used in Shintani and Ellis (2014) are linked in IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Vocabulary test &gt; Productive</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Effectiveness of teaching</str>
+                  <str>Listening</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+                  <str>Interaction</str>
+                  <str>Learning style</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Discrete-item word production test</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Young learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2014_Shintani_Ellis_Tracking 'learning behaviours' in the incidental acquisition of two dimensional adjectives by Japanese beginner learners of L2 English</str>
+               </arr>
+               <str name="iris.references.allauthors">Shintani &amp; Ellis (2014)</str>
+               <arr name="iris.references.author">
+                  <str>Shintani, Natsuko</str>
+                  <str>Ellis, Rod</str>
+               </arr>
+               <str name="iris.references.author.lastnames">shintaniellis</str>
+               <arr name="iris.references.author.noack">
+                  <str>Shintani, Natsuko</str>
+                  <str>Ellis, Rod</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Teaching Research</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Shintani, Natsuko</str>
+                  <str>Ellis, Rod</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+                  <str>Vocabulary test</str>
+                  <str>Productive</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">gap-fill / cloze test / fill in the blank gap-fill / cloze test / fill in the blank fill in the blank, cloze,gap fill productive vocabulary test (productive)  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Adjectives</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Vocabulary test &gt; Productive</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Effectiveness of teaching</str>
+                  <str>Listening</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+                  <str>Interaction</str>
+                  <str>Learning style</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Gap-fill / Cloze test / Fill in the blank</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Young learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2014_Shintani_Ellis_Tracking 'learning behaviours' in the incidental acquisition of two dimensional adjectives by Japanese beginner learners of L2 English</str>
+               </arr>
+               <str name="iris2.references.allauthors">Shintani &amp; Ellis (2014)</str>
+               <arr name="iris2.references.author">
+                  <str>Shintani, Natsuko</str>
+                  <str>Ellis, Rod</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">shintaniellis</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Teaching Research</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:838960/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

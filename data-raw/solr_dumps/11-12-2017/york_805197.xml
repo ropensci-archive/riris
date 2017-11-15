@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:805197">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">481</int>
+            <lst name="params">
+               <str name="q">PID:york?805197</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:805197</str>
+               <arr name="dc.creator">
+                  <str>Richards, Brian</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2011</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Aptitude</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <str name="dc.title">The University of Reading Diagnostic Language Test for French</str>
+               <str name="dc.title.sort">The University of Reading Diagnostic Language Test for French</str>
+               <arr name="dc.type">
+                  <str>Receptive grammar test</str>
+                  <str>Grammaticality judgement sentences or acceptability judgement</str>
+                  <str>Reading test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Richards, Brian</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2011</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Aptitude</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <str name="dc2.title">The University of Reading Diagnostic Language Test for French</str>
+               <arr name="dc2.type">
+                  <str>Receptive grammar test</str>
+                  <str>Grammaticality judgement sentences or acceptability judgement</str>
+                  <str>Reading test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Richards, Brian</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Aptitude</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <str name="dc3.title">The University of Reading Diagnostic Language Test for French</str>
+               <date name="fgs.createdDate">2012-08-21T14:05:01.884Z</date>
+               <date name="fgs.dateCreated.sort">2012-08-21T14:05:01.884Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-21T07:38:07.548Z</date>
+               <str name="fgs.ownerId">fedoraAdmin</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>b.j.richards@reading.ac.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>2</str>
+               </arr>
+               <arr name="iris.feedback.email_1">
+                  <str>eservic@mcmaster.ca</str>
+               </arr>
+               <arr name="iris.feedback.email_2">
+                  <str>eservic@mcmaster.ca</str>
+               </arr>
+               <arr name="iris.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.published_2">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.time_1">
+                  <str>14 Jun 2013 22:02:58 GMT</str>
+               </arr>
+               <arr name="iris.feedback.time_2">
+                  <str>14 Jun 2013 22:03:12 GMT</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Richards, Brian</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Closed response format</str>
+                  <str>Open response</str>
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>Irish Research Council for Humanities and Social Sciences</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Reading test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">receptive receptive grammar test  grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test reading test reading test  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Syntax</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Aspect</str>
+                  <str>Case</str>
+                  <str>Determiners</str>
+                  <str>Gender</str>
+                  <str>Number</str>
+                  <str>Tense</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Grammar test / Morphosyntax test &gt; Receptive</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Aptitude</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Reading test</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>The University of Reading Diagnostic Language Test for French</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+                  <str>French</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Teacher trainees</str>
+                  <str>Native speakers</str>
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Native</str>
+                  <str>Near native</str>
+                  <str>Advanced</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2011_Burrell_Graham_Medley_Richards_Roberts_A model for the development and application of a diagnostic test for trainee foreign language teachers</str>
+               </arr>
+               <str name="iris.references.allauthors">Burrell, Graham, et al. (2011)</str>
+               <arr name="iris.references.author">
+                  <str>Burrell, D</str>
+                  <str>Graham, Suzanne</str>
+                  <str>Medley, D</str>
+                  <str>Richards, Brian</str>
+                  <str>Roberts, J</str>
+               </arr>
+               <str name="iris.references.author.lastnames">burrellgrahammedleyrichardsroberts</str>
+               <arr name="iris.references.author.noack">
+                  <str>Burrell, D</str>
+                  <str>Graham, Suzanne</str>
+                  <str>Medley, D</str>
+                  <str>Richards, Brian</str>
+                  <str>Roberts, J</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>A model for the development and application of a diagnostic test for trainee foreign language teachers</str>
+                  <str>Advances in foreign language assessment</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>O'Sullivan, B</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2011</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2011</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Chapter</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>b.j.richards@reading.ac.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>2</str>
+               </arr>
+               <arr name="iris2.feedback.email_1">
+                  <str>eservic@mcmaster.ca</str>
+               </arr>
+               <arr name="iris2.feedback.email_2">
+                  <str>eservic@mcmaster.ca</str>
+               </arr>
+               <arr name="iris2.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.published_2">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.time_1">
+                  <str>14 Jun 2013 22:02:58 GMT</str>
+               </arr>
+               <arr name="iris2.feedback.time_2">
+                  <str>14 Jun 2013 22:03:12 GMT</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Richards, Brian</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Closed response format</str>
+                  <str>Open response</str>
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>Irish Research Council for Humanities and Social Sciences</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Reading test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">receptive receptive grammar test  grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test reading test reading test  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Syntax</str>
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Aspect</str>
+                  <str>Case</str>
+                  <str>Determiners</str>
+                  <str>Gender</str>
+                  <str>Number</str>
+                  <str>Tense</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Grammar test / Morphosyntax test &gt; Receptive</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Aptitude</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>Reading test</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+                  <str>French</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Teacher trainees</str>
+                  <str>Native speakers</str>
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Native</str>
+                  <str>Near native</str>
+                  <str>Advanced</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2011_Burrell_Graham_Medley_Richards_Roberts_A model for the development and application of a diagnostic test for trainee foreign language teachers</str>
+               </arr>
+               <str name="iris2.references.allauthors">Burrell, Graham, et al. (2011)</str>
+               <arr name="iris2.references.author">
+                  <str>Burrell, D</str>
+                  <str>Graham, Suzanne</str>
+                  <str>Medley, D</str>
+                  <str>Richards, Brian</str>
+                  <str>Roberts, J</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">burrellgrahammedleyrichardsroberts</str>
+               <arr name="iris2.references.booktitle">
+                  <str>A model for the development and application of a diagnostic test for trainee foreign language teachers</str>
+                  <str>Advances in foreign language assessment</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>O'Sullivan, B</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2011</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2011</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2011</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Chapter</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/msword" url="https://www.iris-database.org/iris/api/resource/york:805197/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:815125">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">599</int>
+            <lst name="params">
+               <str name="q">PID:york?815125</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:815125</str>
+               <arr name="dc.creator">
+                  <str>Sasayama, Shoko</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2013</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Learner attitudes</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Attitude questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Sasayama, Shoko</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2013</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Learner attitudes</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Attitude questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Sasayama, Shoko</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Learner attitudes</str>
+               </arr>
+               <date name="fgs.createdDate">2013-08-06T12:46:14.816Z</date>
+               <date name="fgs.dateCreated.sort">2013-08-06T12:46:14.816Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-29T20:38:17.339Z</date>
+               <str name="fgs.ownerId">iris-0df23524-051f-41b0-b83c-af1b2863fb4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>ss2228@georgetown.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Sasayama, Shoko</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">attitude questionnaire attitude questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Attitude questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Learner attitudes</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2013_Sasayama_Japanese college students' attitudes towards Japan English and American English</str>
+               </arr>
+               <str name="iris.references.allauthors">Sasayama (2013)</str>
+               <arr name="iris.references.author">
+                  <str>Sasayama, Shoko</str>
+               </arr>
+               <str name="iris.references.author.lastnames">sasayama</str>
+               <arr name="iris.references.author.noack">
+                  <str>Sasayama, Shoko</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Journal of Multilingual and Multicultural Development</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>ss2228@georgetown.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Sasayama, Shoko</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">attitude questionnaire attitude questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Attitude questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Learner attitudes</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Japanese</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2013_Sasayama_Japanese college students' attitudes towards Japan English and American English</str>
+               </arr>
+               <str name="iris2.references.allauthors">Sasayama (2013)</str>
+               <arr name="iris2.references.author">
+                  <str>Sasayama, Shoko</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">sasayama</str>
+               <arr name="iris2.references.journal">
+                  <str>Journal of Multilingual and Multicultural Development</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:815125/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

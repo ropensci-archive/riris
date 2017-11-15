@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:854272">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">532</int>
+            <lst name="params">
+               <str name="q">PID:york?854272</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:854272</str>
+               <arr name="dc.creator">
+                  <str>Tellier, Angela J</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>A Full-colour 20-page children's project book (non-language specific), including reference pages with activities, a picture dictionary presenting the lexicon divided into named grammatical categories (nouns, adjectives, prepositions and adverbs, and verbs), and a back-cover extension activity. The dictionary section of each project book presents over 100 lexical items in a table of illustrated word-boxes for children to record the target-language word. Each box is identified by a reference number which cross-references with the reference cards to allow children to independently access information. The records for the pupil questionnaires (biodata and attitude); prior input questionnaires; metalinguistic knowledge tasks and L2 French listening,reading,writing and grammar tests used in this study are all linked on IRIS. There were many teaching materials used throughout the study, if you would like to know more about the other materials used, please contact Angela Tellier</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:854272</str>
+               </arr>
+               <str name="dc.title">Sample pages from the project book (non-language specific)</str>
+               <str name="dc.title.sort">Sample pages from the project book (non-language specific)</str>
+               <arr name="dc.type">
+                  <str>Instructional material / Intervention activities / Teaching activities</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Tellier, Angela J</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>A Full-colour 20-page children's project book (non-language specific), including reference pages with activities, a picture dictionary presenting the lexicon divided into named grammatical categories (nouns, adjectives, prepositions and adverbs, and verbs), and a back-cover extension activity. The dictionary section of each project book presents over 100 lexical items in a table of illustrated word-boxes for children to record the target-language word. Each box is identified by a reference number which cross-references with the reference cards to allow children to independently access information. The records for the pupil questionnaires (biodata and attitude); prior input questionnaires; metalinguistic knowledge tasks and L2 French listening,reading,writing and grammar tests used in this study are all linked on IRIS. There were many teaching materials used throughout the study, if you would like to know more about the other materials used, please contact Angela Tellier</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:854272</str>
+               </arr>
+               <str name="dc2.title">Sample pages from the project book (non-language specific)</str>
+               <arr name="dc2.type">
+                  <str>Instructional material / Intervention activities / Teaching activities</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Tellier, Angela J</str>
+               </arr>
+               <str name="dc3.title">Sample pages from the project book (non-language specific)</str>
+               <date name="fgs.createdDate">2015-09-03T14:31:34.645Z</date>
+               <date name="fgs.dateCreated.sort">2015-09-03T14:31:34.645Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-25T10:05:38.676Z</date>
+               <str name="fgs.ownerId">iris-5a53f875-7488-4f75-b2eb-73d764f00b4e</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>angela@tellier.co.uk</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Tellier, Angela J</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">A Full-colour 20-page children's project book (non-language specific), including reference pages with activities, a picture dictionary presenting the lexicon divided into named grammatical categories (nouns, adjectives, prepositions and adverbs, and verbs), and a back-cover extension activity. The dictionary section of each project book presents over 100 lexical items in a table of illustrated word-boxes for children to record the target-language word. Each box is identified by a reference number which cross-references with the reference cards to allow children to independently access information. The records for the pupil questionnaires (biodata and attitude); prior input questionnaires; metalinguistic knowledge tasks and L2 French listening,reading,writing and grammar tests used in this study are all linked on IRIS. There were many teaching materials used throughout the study, if you would like to know more about the other materials used, please contact Angela Tellier</str>
+               <str name="iris.instrument.primaryInstrumentType">Instructional / Intervention / Teaching / Training materials</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Effectiveness of teaching</str>
+                  <str>Teaching materials and curriculum (syllabus, textbook design)</str>
+                  <str>Teaching policy</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Sample pages from the project book (non-language specific)</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Young learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Esperanto</str>
+                  <str>French</str>
+                  <str>German</str>
+                  <str>Italian</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Tellier_Metalinguistic awareness and foreign language learning in primary schools: A classroom study with children aged 8 to 9 years</str>
+               </arr>
+               <str name="iris.references.allauthors">Tellier (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Tellier, Angela J</str>
+               </arr>
+               <str name="iris.references.author.lastnames">tellier</str>
+               <arr name="iris.references.author.noack">
+                  <str>Tellier, Angela J</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>angela@tellier.co.uk</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Tellier, Angela J</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Instructional / Intervention / Teaching / Training materials</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Effectiveness of teaching</str>
+                  <str>Teaching materials and curriculum (syllabus, textbook design)</str>
+                  <str>Teaching policy</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Young learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Esperanto</str>
+                  <str>French</str>
+                  <str>German</str>
+                  <str>Italian</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Tellier_Metalinguistic awareness and foreign language learning in primary schools: A classroom study with children aged 8 to 9 years</str>
+               </arr>
+               <str name="iris2.references.allauthors">Tellier (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Tellier, Angela J</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">tellier</str>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str/>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:854272/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:854272/asset/INSTRUMENT1?download=true"/>
+   </files>
+</record>

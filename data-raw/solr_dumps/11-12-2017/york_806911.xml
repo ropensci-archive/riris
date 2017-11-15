@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:806911">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">488</int>
+            <lst name="params">
+               <str name="q">PID:york?806911</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:806911</str>
+               <arr name="dc.creator">
+                  <str>Lozano, Cristóbal</str>
+                  <str>Mendikoetxea, Amaya</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2002</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The data collection materials (essay topics and questionnaires) and supplementary concordance data files come from two learner corpora: (1) ICLE corpus (subcorpus L1 Spanish-L2 English) and LOCNESS corpus (English natives): Granger, S., Dagneaux, E., &amp; Meunier, F. (2002). International Corpus of Learner English [version 1]. Louvain: UCL Presses Universitaires de Louvain. (2) Wricle corpus of L1 Spanish-L2 English: Rollinson, P., &amp; Mendikoetxea, A. (2010). Learner corpora and second language acquisition: Introducing WRICLE. In J. L. Bueno Alonso, D. Gonzáliz Álvarez, U. Kirsten Torrado, A. E. Martínez Insua, J. Pérez-Guerra, E. Rama Martínez, &amp; R. Rodríguez Vazquez (Eds.), Analizar datos &gt; Describir variación / Analysing Data &gt; Describing Variation (pp. 1-12). Vigo: Universidade de Vigo (Servizo de Publicacións). Please check the corpora websites for conditions and guidelines before using these materials to collect data: https://www.uclouvain.be/en-cecl-icle.html; https://www.uclouvain.be/en-cecl-locness.html; http://web.uam.es/proyectosinv/woslac/Wricle/.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:806911</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <str name="dc.title">ICLE and LOCNESS data collection materials (essay topics and questionnaires)</str>
+               <str name="dc.title.sort">ICLE and LOCNESS data collection materials (essay topics and questionnaires)</str>
+               <arr name="dc.type">
+                  <str>Writing test</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Corpus</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Lozano, Cristóbal</str>
+                  <str>Mendikoetxea, Amaya</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2002</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The data collection materials (essay topics and questionnaires) and supplementary concordance data files come from two learner corpora: (1) ICLE corpus (subcorpus L1 Spanish-L2 English) and LOCNESS corpus (English natives): Granger, S., Dagneaux, E., &amp; Meunier, F. (2002). International Corpus of Learner English [version 1]. Louvain: UCL Presses Universitaires de Louvain. (2) Wricle corpus of L1 Spanish-L2 English: Rollinson, P., &amp; Mendikoetxea, A. (2010). Learner corpora and second language acquisition: Introducing WRICLE. In J. L. Bueno Alonso, D. Gonzáliz Álvarez, U. Kirsten Torrado, A. E. Martínez Insua, J. Pérez-Guerra, E. Rama Martínez, &amp; R. Rodríguez Vazquez (Eds.), Analizar datos &gt; Describir variación / Analysing Data &gt; Describing Variation (pp. 1-12). Vigo: Universidade de Vigo (Servizo de Publicacións). Please check the corpora websites for conditions and guidelines before using these materials to collect data: https://www.uclouvain.be/en-cecl-icle.html; https://www.uclouvain.be/en-cecl-locness.html; http://web.uam.es/proyectosinv/woslac/Wricle/.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:806911</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <str name="dc2.title">ICLE and LOCNESS data collection materials (essay topics and questionnaires)</str>
+               <arr name="dc2.type">
+                  <str>Writing test</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Corpus</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Lozano, Cristóbal</str>
+                  <str>Mendikoetxea, Amaya</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <str name="dc3.title">ICLE and LOCNESS data collection materials (essay topics and questionnaires)</str>
+               <date name="fgs.createdDate">2012-11-08T09:26:47.031Z</date>
+               <date name="fgs.dateCreated.sort">2012-11-08T09:26:47.031Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-22T09:37:30.471Z</date>
+               <str name="fgs.ownerId">iris-733de2d2-e601-4fcb-af03-22664dceb6a1</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>cristoballozano@ugr.es</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Lozano, Cristóbal</str>
+                  <str>Mendikoetxea, Amaya</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Writing test</str>
+                  <str>Questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Other questionnaire</str>
+                  <str>Data</str>
+                  <str>Corpus</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">writing test writing test  biographical questionnaire biographical questionnaire  language background questionnaire language background questionnaire  other questionnaire questionnaire  corpus corpus  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Syntax</str>
+               </arr>
+               <str name="iris.instrument.notes">The data collection materials (essay topics and questionnaires) and supplementary concordance data files come from two learner corpora: (1) ICLE corpus (subcorpus L1 Spanish-L2 English) and LOCNESS corpus (English natives): Granger, S., Dagneaux, E., &amp; Meunier, F. (2002). International Corpus of Learner English [version 1]. Louvain: UCL Presses Universitaires de Louvain. (2) Wricle corpus of L1 Spanish-L2 English: Rollinson, P., &amp; Mendikoetxea, A. (2010). Learner corpora and second language acquisition: Introducing WRICLE. In J. L. Bueno Alonso, D. Gonzáliz Álvarez, U. Kirsten Torrado, A. E. Martínez Insua, J. Pérez-Guerra, E. Rama Martínez, &amp; R. Rodríguez Vazquez (Eds.), Analizar datos &gt; Describir variación / Analysing Data &gt; Describing Variation (pp. 1-12). Vigo: Universidade de Vigo (Servizo de Publicacións). Please check the corpora websites for conditions and guidelines before using these materials to collect data: https://www.uclouvain.be/en-cecl-icle.html; https://www.uclouvain.be/en-cecl-locness.html; http://web.uam.es/proyectosinv/woslac/Wricle/.</str>
+               <str name="iris.instrument.primaryInstrumentType">Writing test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Biographical questionnaire</str>
+                  <str>Questionnaire &gt; Language background questionnaire</str>
+                  <str>Questionnaire &gt; Other questionnaire</str>
+                  <str>Data &gt; Corpus</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>ICLE and LOCNESS data collection materials (essay topics and questionnaires)</str>
+                  <str>WriCLE data collection materials (essay topics and questionnaires)</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Intermediate/advanced</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2002_Granger_Dagneaux_Meunier_International corpus of learner English [version 1]?</str>
+                  <str>2010_Lozano_Mendikoetxea_Interface conditions on postverbal subjects: A corpus study of L2 English?</str>
+               </arr>
+               <str name="iris.references.allauthors">Lozano &amp; Mendikoetxea (2010)</str>
+               <arr name="iris.references.author">
+                  <str>Granger, Sylviane</str>
+                  <str>Dagneaux, Estelle</str>
+                  <str>Meunier, Fanny</str>
+                  <str>Lozano, Cristóbal</str>
+                  <str>Mendikoetxea, Amaya</str>
+               </arr>
+               <str name="iris.references.author.lastnames">grangerdagneauxmeunierlozanomendikoetxea</str>
+               <arr name="iris.references.author.noack">
+                  <str>Lozano, Cristóbal</str>
+                  <str>Mendikoetxea, Amaya</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Bilingualism: Language and Cognition</str>
+               </arr>
+               <arr name="iris.references.placeOfPublication">
+                  <str>Louvain?</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2002</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2002</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Book</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris.references.publisher">
+                  <str>Ucl Presses Universitaires De Louvain?</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>cristoballozano@ugr.es</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Lozano, Cristóbal</str>
+                  <str>Mendikoetxea, Amaya</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Writing test</str>
+                  <str>Questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Other questionnaire</str>
+                  <str>Data</str>
+                  <str>Corpus</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">writing test writing test  biographical questionnaire biographical questionnaire  language background questionnaire language background questionnaire  other questionnaire questionnaire  corpus corpus  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Syntax</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Writing test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Biographical questionnaire</str>
+                  <str>Questionnaire &gt; Language background questionnaire</str>
+                  <str>Questionnaire &gt; Other questionnaire</str>
+                  <str>Data &gt; Corpus</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Intermediate/advanced</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2002_Granger_Dagneaux_Meunier_International corpus of learner English [version 1]?</str>
+                  <str>2010_Lozano_Mendikoetxea_Interface conditions on postverbal subjects: A corpus study of L2 English?</str>
+               </arr>
+               <str name="iris2.references.allauthors">Lozano &amp; Mendikoetxea (2010)</str>
+               <arr name="iris2.references.author">
+                  <str>Granger, Sylviane</str>
+                  <str>Dagneaux, Estelle</str>
+                  <str>Meunier, Fanny</str>
+                  <str>Lozano, Cristóbal</str>
+                  <str>Mendikoetxea, Amaya</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">grangerdagneauxmeunierlozanomendikoetxea</str>
+               <arr name="iris2.references.journal">
+                  <str>Bilingualism: Language and Cognition</str>
+               </arr>
+               <arr name="iris2.references.placeOfPublication">
+                  <str>Louvain?</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2002</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2002</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Book</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.references.publisher">
+                  <str>Ucl Presses Universitaires De Louvain?</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:806911/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:806911/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:806911/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:806911/asset/INSTRUMENT3?download=true"/>
+      <file id="INSTRUMENT4" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:806911/asset/INSTRUMENT4?download=true"/>
+      <file id="INSTRUMENT5" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:806911/asset/INSTRUMENT5?download=true"/>
+      <file id="INSTRUMENT6" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:806911/asset/INSTRUMENT6?download=true"/>
+      <file id="INSTRUMENT7" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:806911/asset/INSTRUMENT7?download=true"/>
+      <file id="INSTRUMENT8" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:806911/asset/INSTRUMENT8?download=true"/>
+      <file id="INSTRUMENT9" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:806911/asset/INSTRUMENT9?download=true"/>
+   </files>
+</record>

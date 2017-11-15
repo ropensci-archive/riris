@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:29232">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">437</int>
+            <lst name="params">
+               <str name="q">PID:york?29232</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:29232</str>
+               <arr name="dc.creator">
+                  <str>Taylor, Florentina</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2013</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>A version of the L2 Quadripolar Identity Questionnaire was used in a cross-sectional study of learning and teaching English as a Foreign Language and Mathematics (control subject) in four European countries, with funding from the British Council. This version of the questionnaire (only for learning English, at the moment) is also available to download from IRIS in Bulgarian, Dutch, German and Spanish. The following colleagues (co-investigators on the European project) contributed minor edits and/or translations of the original questionnaire: Drs Barbara Roosken (Fontys University, The Netherlands), Dr Vera Busse (University of the Basque Country, Spain/ Carl von Ossietzky University, Germany), Mrs Lubina Gagova (University of Sofia, Bulgaria), Dr Emma Marsden (University of York, UK). A research paper reporting on key findings from this large European project is available from: http://www.teachingenglish.org.uk/publications</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:29232</str>
+               </arr>
+               <str name="dc.title">L2 Quadripolar Identity Questionnaire</str>
+               <str name="dc.title.sort">L2 Quadripolar Identity Questionnaire</str>
+               <arr name="dc.type">
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Taylor, Florentina</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2013</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>A version of the L2 Quadripolar Identity Questionnaire was used in a cross-sectional study of learning and teaching English as a Foreign Language and Mathematics (control subject) in four European countries, with funding from the British Council. This version of the questionnaire (only for learning English, at the moment) is also available to download from IRIS in Bulgarian, Dutch, German and Spanish. The following colleagues (co-investigators on the European project) contributed minor edits and/or translations of the original questionnaire: Drs Barbara Roosken (Fontys University, The Netherlands), Dr Vera Busse (University of the Basque Country, Spain/ Carl von Ossietzky University, Germany), Mrs Lubina Gagova (University of Sofia, Bulgaria), Dr Emma Marsden (University of York, UK). A research paper reporting on key findings from this large European project is available from: http://www.teachingenglish.org.uk/publications</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:29232</str>
+               </arr>
+               <str name="dc2.title">L2 Quadripolar Identity Questionnaire</str>
+               <arr name="dc2.type">
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Taylor, Florentina</str>
+               </arr>
+               <str name="dc3.title">L2 Quadripolar Identity Questionnaire</str>
+               <date name="fgs.createdDate">2012-01-04T16:10:54.97Z</date>
+               <date name="fgs.dateCreated.sort">2012-01-04T16:10:54.97Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-13T02:36:20.416Z</date>
+               <str name="fgs.ownerId">iris-0cd3f4a4-62c5-4c7a-852c-9585ac79dab6</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>florentina.taylor@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>3</str>
+               </arr>
+               <arr name="iris.feedback.email_1">
+                  <str>kdwhite2@wisc.edu</str>
+               </arr>
+               <arr name="iris.feedback.email_2">
+                  <str>kdwhite2@wisc.edu</str>
+               </arr>
+               <arr name="iris.feedback.email_3">
+                  <str>noywatcharin_16@hotmail.com</str>
+               </arr>
+               <arr name="iris.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.published_2">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.published_3">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.time_1">
+                  <str>19 Feb 2013 14:51:27 GMT</str>
+               </arr>
+               <arr name="iris.feedback.time_2">
+                  <str>19 Feb 2013 14:51:38 GMT</str>
+               </arr>
+               <arr name="iris.feedback.time_3">
+                  <str>24 Jul 2014 06:38:49 GMT</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Taylor, Florentina</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Closed response format</str>
+                  <str>Judgements</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">questionnaire questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial</str>
+               </arr>
+               <str name="iris.instrument.notes">A version of the L2 Quadripolar Identity Questionnaire was used in a cross-sectional study of learning and teaching English as a Foreign Language and Mathematics (control subject) in four European countries, with funding from the British Council. This version of the questionnaire (only for learning English, at the moment) is also available to download from IRIS in Bulgarian, Dutch, German and Spanish. The following colleagues (co-investigators on the European project) contributed minor edits and/or translations of the original questionnaire: Drs Barbara Roosken (Fontys University, The Netherlands), Dr Vera Busse (University of the Basque Country, Spain/ Carl von Ossietzky University, Germany), Mrs Lubina Gagova (University of Sofia, Bulgaria), Dr Emma Marsden (University of York, UK). A research paper reporting on key findings from this large European project is available from: http://www.teachingenglish.org.uk/publications</str>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Linguistic identity</str>
+                  <str>Motivation</str>
+                  <str>Learner attitudes</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>L2 Quadripolar Identity Questionnaire</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+                  <str>With wider family</str>
+                  <str>With friends</str>
+                  <str>Home</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>Romanian</str>
+                  <str>Bulgarian</str>
+                  <str>Dutch</str>
+                  <str>German</str>
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.proficiencyLearner">
+                  <str>Complete beginner</str>
+                  <str>Near beginner</str>
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+                  <str>Intermediate/advanced</str>
+                  <str>Advanced</str>
+                  <str>CFER - Basic Speaker</str>
+                  <str>CFER - Basic Speaker (Breakthrough or Beginner)</str>
+                  <str>CFER - Basic Speaker (Waystage or Elementary)</str>
+                  <str>CFER - Independent Speaker</str>
+                  <str>CFER - Independent Speaker (Threshold or Intermediate)</str>
+                  <str>CFER - Independent Speaker (Vantage or Upper intermediate)</str>
+                  <str>CFER - Proficient Speaker (Effective Operational Proficiency or Advanced)</str>
+                  <str>ACTFL - Novice Low</str>
+                  <str>ACTFL - Novice Mid</str>
+                  <str>ACTFL - Novice High</str>
+                  <str>ACTFL - Intermediate Low</str>
+                  <str>ACTFL - Intermediate Mid</str>
+                  <str>ACTFL - Intermediate High</str>
+                  <str>ACTFL - Advanced Low</str>
+                  <str>ACTFL - Advanced Mid</str>
+                  <str>ACTFL - Advanced High</str>
+                  <str>TOEFL</str>
+                  <str>TOEFL - Reading / listening</str>
+                  <str>TOEFL - Reading / listening (Low)</str>
+                  <str>TOEFL - Reading / listening (Intermediate)</str>
+                  <str>TOEFL - Reading / listening (High)</str>
+                  <str>TOEFL - Speaking</str>
+                  <str>TOEFL - Speaking (Weak)</str>
+                  <str>TOEFL - Speaking (Limited)</str>
+                  <str>TOEFL - Speaking (Fair)</str>
+                  <str>TOEFL - Speaking (Good)</str>
+                  <str>TOEFL - Writing</str>
+                  <str>TOEFL - Writing (Limited)</str>
+                  <str>TOEFL - Writing (Fair)</str>
+                  <str>TOEFL - Writing (Good)</str>
+                  <str>IELTS (overall score) - Non User (1)</str>
+                  <str>IELTS (overall score) - Intermittent User (2)</str>
+                  <str>IELTS (overall score) - Extremely Limited User (3)</str>
+                  <str>IELTS (overall score) - Limited User (4)</str>
+                  <str>IELTS (overall score) - Modest User (5)</str>
+                  <str>IELTS (overall score) - Competent User (6)</str>
+                  <str>IELTS (overall score) - Good User (7)</str>
+                  <str>IELTS (overall score) - Very Good User (8)</str>
+                  <str>Oxford Placement Test - Basic speaker</str>
+                  <str>Oxford Placement Test - Basic speaker (Breakthrough or Beginner)</str>
+                  <str>Oxford Placement Test - Basic speaker (Waystage or Elementary)</str>
+                  <str>Oxford Placement Test - Independent speaker</str>
+                  <str>Oxford Placement Test - Independent speaker (Threshold or Intermediate)</str>
+                  <str>Oxford Placement Test - Independent speaker (Vantage or Upper intermediate)</str>
+                  <str>Oxford Placement Test - Proficient speaker (Effective Operational Proficiency or Advanced)</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Taylor_A quadripolar model of identity in adolescent foreign language learners</str>
+                  <str>2013_Taylor_Self and identity in adolescent foreign language learning</str>
+               </arr>
+               <str name="iris.references.allauthors">Taylor (2010); Taylor (2013)</str>
+               <arr name="iris.references.author">
+                  <str>Taylor, Florentina</str>
+                  <str>Taylor, Florentina</str>
+               </arr>
+               <str name="iris.references.author.lastnames">taylortaylor</str>
+               <arr name="iris.references.author.noack">
+                  <str>Taylor, Florentina</str>
+                  <str>Taylor, Florentina</str>
+               </arr>
+               <arr name="iris.references.placeOfPublication">
+                  <str>Bristol</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2013</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2013</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris.references.publisher">
+                  <str>Multilingual Matters</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>florentina.taylor@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>3</str>
+               </arr>
+               <arr name="iris2.feedback.email_1">
+                  <str>kdwhite2@wisc.edu</str>
+               </arr>
+               <arr name="iris2.feedback.email_2">
+                  <str>kdwhite2@wisc.edu</str>
+               </arr>
+               <arr name="iris2.feedback.email_3">
+                  <str>noywatcharin_16@hotmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.published_2">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.published_3">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.time_1">
+                  <str>19 Feb 2013 14:51:27 GMT</str>
+               </arr>
+               <arr name="iris2.feedback.time_2">
+                  <str>19 Feb 2013 14:51:38 GMT</str>
+               </arr>
+               <arr name="iris2.feedback.time_3">
+                  <str>24 Jul 2014 06:38:49 GMT</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Taylor, Florentina</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Closed response format</str>
+                  <str>Judgements</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">questionnaire questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Linguistic identity</str>
+                  <str>Motivation</str>
+                  <str>Learner attitudes</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.domainOfUse">
+                  <str>School - language instruction only</str>
+                  <str>With wider family</str>
+                  <str>With friends</str>
+                  <str>Home</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>Romanian</str>
+                  <str>Bulgarian</str>
+                  <str>Dutch</str>
+                  <str>German</str>
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.proficiencyLearner">
+                  <str>Complete beginner</str>
+                  <str>Near beginner</str>
+                  <str>Pre-intermediate</str>
+                  <str>Intermediate</str>
+                  <str>Intermediate/advanced</str>
+                  <str>Advanced</str>
+                  <str>CFER - Basic Speaker</str>
+                  <str>CFER - Basic Speaker (Breakthrough or Beginner)</str>
+                  <str>CFER - Basic Speaker (Waystage or Elementary)</str>
+                  <str>CFER - Independent Speaker</str>
+                  <str>CFER - Independent Speaker (Threshold or Intermediate)</str>
+                  <str>CFER - Independent Speaker (Vantage or Upper intermediate)</str>
+                  <str>CFER - Proficient Speaker (Effective Operational Proficiency or Advanced)</str>
+                  <str>ACTFL - Novice Low</str>
+                  <str>ACTFL - Novice Mid</str>
+                  <str>ACTFL - Novice High</str>
+                  <str>ACTFL - Intermediate Low</str>
+                  <str>ACTFL - Intermediate Mid</str>
+                  <str>ACTFL - Intermediate High</str>
+                  <str>ACTFL - Advanced Low</str>
+                  <str>ACTFL - Advanced Mid</str>
+                  <str>ACTFL - Advanced High</str>
+                  <str>TOEFL</str>
+                  <str>TOEFL - Reading / listening</str>
+                  <str>TOEFL - Reading / listening (Low)</str>
+                  <str>TOEFL - Reading / listening (Intermediate)</str>
+                  <str>TOEFL - Reading / listening (High)</str>
+                  <str>TOEFL - Speaking</str>
+                  <str>TOEFL - Speaking (Weak)</str>
+                  <str>TOEFL - Speaking (Limited)</str>
+                  <str>TOEFL - Speaking (Fair)</str>
+                  <str>TOEFL - Speaking (Good)</str>
+                  <str>TOEFL - Writing</str>
+                  <str>TOEFL - Writing (Limited)</str>
+                  <str>TOEFL - Writing (Fair)</str>
+                  <str>TOEFL - Writing (Good)</str>
+                  <str>IELTS (overall score) - Non User (1)</str>
+                  <str>IELTS (overall score) - Intermittent User (2)</str>
+                  <str>IELTS (overall score) - Extremely Limited User (3)</str>
+                  <str>IELTS (overall score) - Limited User (4)</str>
+                  <str>IELTS (overall score) - Modest User (5)</str>
+                  <str>IELTS (overall score) - Competent User (6)</str>
+                  <str>IELTS (overall score) - Good User (7)</str>
+                  <str>IELTS (overall score) - Very Good User (8)</str>
+                  <str>Oxford Placement Test - Basic speaker</str>
+                  <str>Oxford Placement Test - Basic speaker (Breakthrough or Beginner)</str>
+                  <str>Oxford Placement Test - Basic speaker (Waystage or Elementary)</str>
+                  <str>Oxford Placement Test - Independent speaker</str>
+                  <str>Oxford Placement Test - Independent speaker (Threshold or Intermediate)</str>
+                  <str>Oxford Placement Test - Independent speaker (Vantage or Upper intermediate)</str>
+                  <str>Oxford Placement Test - Proficient speaker (Effective Operational Proficiency or Advanced)</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Taylor_A quadripolar model of identity in adolescent foreign language learners</str>
+                  <str>2013_Taylor_Self and identity in adolescent foreign language learning</str>
+               </arr>
+               <str name="iris2.references.allauthors">Taylor (2010); Taylor (2013)</str>
+               <arr name="iris2.references.author">
+                  <str>Taylor, Florentina</str>
+                  <str>Taylor, Florentina</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">taylortaylor</str>
+               <arr name="iris2.references.placeOfPublication">
+                  <str>Bristol</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2013</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2013</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris2.references.publisher">
+                  <str>Multilingual Matters</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:29232/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:29232/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:29232/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:29232/asset/INSTRUMENT3?download=true"/>
+      <file id="INSTRUMENT4" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:29232/asset/INSTRUMENT4?download=true"/>
+      <file id="INSTRUMENT5" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:29232/asset/INSTRUMENT5?download=true"/>
+      <file id="INSTRUMENT6" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:29232/asset/INSTRUMENT6?download=true"/>
+      <file id="INSTRUMENT7" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:29232/asset/INSTRUMENT7?download=true"/>
+   </files>
+</record>

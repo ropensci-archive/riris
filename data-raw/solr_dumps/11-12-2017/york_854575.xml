@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:854575">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">497</int>
+            <lst name="params">
+               <str name="q">PID:york?854575</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:854575</str>
+               <arr name="dc.creator">
+                  <str>Malovrh, Paul</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2014</str>
+                  <str>2010</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The videos are also available to download on Paul Malovrh's webpage http://artsandsciences.sc.edu/dllc/Spanish/faculty/Malovrh/malovrh.html</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:854575</str>
+               </arr>
+               <str name="dc.title">La tortilla rag</str>
+               <str name="dc.title.sort">La tortilla rag</str>
+               <arr name="dc.type">
+                  <str>Video</str>
+                  <str>Narration / Story retelling</str>
+                  <str>Productive grammar test</str>
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Malovrh, Paul</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2014</str>
+                  <str>2010</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The videos are also available to download on Paul Malovrh's webpage http://artsandsciences.sc.edu/dllc/Spanish/faculty/Malovrh/malovrh.html</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:854575</str>
+               </arr>
+               <str name="dc2.title">La tortilla rag</str>
+               <arr name="dc2.type">
+                  <str>Video</str>
+                  <str>Narration / Story retelling</str>
+                  <str>Productive grammar test</str>
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Malovrh, Paul</str>
+               </arr>
+               <str name="dc3.title">La tortilla rag</str>
+               <date name="fgs.createdDate">2015-10-06T08:18:46.807Z</date>
+               <date name="fgs.dateCreated.sort">2015-10-06T08:18:46.807Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-11T13:39:53.336Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>malovrh@mailbox.sc.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Malovrh, Paul</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Video</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">video video  narration / story retelling  narration / story retelling   productive productive grammar test  instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Pronouns</str>
+               </arr>
+               <str name="iris.instrument.notes">The videos are also available to download on Paul Malovrh's webpage http://artsandsciences.sc.edu/dllc/Spanish/faculty/Malovrh/malovrh.html</str>
+               <str name="iris.instrument.primaryInstrumentType">Video</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Narration / Story retelling </str>
+                  <str>Grammar test / Morphosyntax test &gt; Productive</str>
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>La tortilla rag</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Video</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Native speakers</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>Malovrh_A multifaceted analysis of the interlanguage development of Spanish direct -object clitic pronouns observed in L2-learner production</str>
+                  <str>2014_Malovrh_Variability and systematicity in interlanguage development: An analysis of mode and its effect on L2 Spanish morphology</str>
+                  <str>2010_Malovrh_Lee_Connections between processing, production and placement: Acquiring object pronouns in Spanish as a second language</str>
+                  <str>2013_Malovrh_Lee_The developmental dimension in instructed second language learning: The L2 acquisition of object pronouns in Spanish</str>
+               </arr>
+               <str name="iris.references.allauthors">Malovrh (2008); Malovrh (2014); Malovrh &amp; Lee (2010); Malovrh &amp; Lee (2013)</str>
+               <arr name="iris.references.author">
+                  <str>Malovrh, Paul</str>
+                  <str>Malovrh, Paul</str>
+                  <str>Malovrh, Paul</str>
+                  <str>Lee, James F</str>
+                  <str>Malovrh, Paul</str>
+                  <str>Lee, James F</str>
+               </arr>
+               <str name="iris.references.author.lastnames">malovrhmalovrhmalovrhleemalovrhlee</str>
+               <arr name="iris.references.author.noack">
+                  <str>Malovrh, Paul</str>
+                  <str>Malovrh, Paul</str>
+                  <str>Malovrh, Paul</str>
+                  <str>Lee, James F</str>
+                  <str>Malovrh, Paul</str>
+                  <str>Lee, James F</str>
+               </arr>
+               <arr name="iris.references.booktitle">
+                  <str>Connections between processing, production and placement: Acquiring object pronouns in Spanish as a second language</str>
+                  <str>Second Language Processing and Parsing</str>
+               </arr>
+               <arr name="iris.references.editor">
+                  <str>VanPatten, Bill</str>
+                  <str>Jegerski, Jill</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Studies in Hispanic and Lusophone Linguistics</str>
+               </arr>
+               <arr name="iris.references.placeOfPublication">
+                  <str>London</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2014</str>
+                  <str>2010</str>
+                  <str>2013</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2014</str>
+                  <str>2010</str>
+                  <str>2013</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris.references.publisher">
+                  <str>Bloomsbury</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>malovrh@mailbox.sc.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Malovrh, Paul</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Video</str>
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Productive</str>
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">video video  narration / story retelling  narration / story retelling   productive productive grammar test  instructional / intervention / teaching / training materials instructional / intervention / teaching / training materials intervention materials,experimental teaching,experimental tasks,training tasks,intervention tasks </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Pronouns</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Video</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Speaking test / Oral production test &gt; Narration / Story retelling </str>
+                  <str>Grammar test / Morphosyntax test &gt; Productive</str>
+                  <str>Instructional / Intervention / Teaching / Training materials</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Video</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Native speakers</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>Malovrh_A multifaceted analysis of the interlanguage development of Spanish direct -object clitic pronouns observed in L2-learner production</str>
+                  <str>2014_Malovrh_Variability and systematicity in interlanguage development: An analysis of mode and its effect on L2 Spanish morphology</str>
+                  <str>2010_Malovrh_Lee_Connections between processing, production and placement: Acquiring object pronouns in Spanish as a second language</str>
+                  <str>2013_Malovrh_Lee_The developmental dimension in instructed second language learning: The L2 acquisition of object pronouns in Spanish</str>
+               </arr>
+               <str name="iris2.references.allauthors">Malovrh (2008); Malovrh (2014); Malovrh &amp; Lee (2010); Malovrh &amp; Lee (2013)</str>
+               <arr name="iris2.references.author">
+                  <str>Malovrh, Paul</str>
+                  <str>Malovrh, Paul</str>
+                  <str>Malovrh, Paul</str>
+                  <str>Lee, James F</str>
+                  <str>Malovrh, Paul</str>
+                  <str>Lee, James F</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">malovrhmalovrhmalovrhleemalovrhlee</str>
+               <arr name="iris2.references.booktitle">
+                  <str>Connections between processing, production and placement: Acquiring object pronouns in Spanish as a second language</str>
+                  <str>Second Language Processing and Parsing</str>
+               </arr>
+               <arr name="iris2.references.editor">
+                  <str>VanPatten, Bill</str>
+                  <str>Jegerski, Jill</str>
+               </arr>
+               <arr name="iris2.references.journal">
+                  <str>Studies in Hispanic and Lusophone Linguistics</str>
+               </arr>
+               <arr name="iris2.references.placeOfPublication">
+                  <str>London</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2014</str>
+                  <str>2010</str>
+                  <str>2013</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2014</str>
+                  <str>2010</str>
+                  <str>2013</str>
+                  <str>2008</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2014</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Thesis</str>
+                  <str>Journal Article</str>
+                  <str>Chapter</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris2.references.publisher">
+                  <str>Bloomsbury</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:854575/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:854575/asset/INSTRUMENT1?download=true"/>
+   </files>
+</record>

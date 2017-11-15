@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:817099">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">509</int>
+            <lst name="params">
+               <str name="q">PID:york?817099</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:817099</str>
+               <arr name="dc.creator">
+                  <str>Dewey, Dan P.</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2013</str>
+                  <str>2012</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>This is a version of the Study Abroad Social Interaction Questionnaire (SASIQ). Similar versions of this questionnaire were used in the papers listed below. This version was used for research involving learners of Arabic studying in Jordan. If the reader desires to use this questionnaire or to modify it and use items contained here, he or she is welcome to contact the authors to gain access to a version that can be administered via Qualtrics, the survey tool used to administer the survey to date. Dewey, D. P., Ring, S., Gardner, D., &amp; Belnap, R. K. (2013). Social network formation and development during study abroad in the Middle East. System: An International Journal of Educational Technology and Applied Linguistics, 41, 269-282. DOI: 10.1016/j.system.2013.02.004 Dewey, D. P., Belnap, R. K., &amp; Hilstrom, R. (2013). Social network development, language use, and language acquisition during study abroad: Arabic language learners' perspectives. Frontiers: The Interdisciplinary Journal of Study Abroad, 21, 84-110 Found at http://frontiersjournal.com/documents/Dewey-Belknap-Hillstrom-FRONTIERS2012-13.pdf Dewey, D. P., Bown, J., &amp; Eggett, D. (2012). Japanese language proficiency, social networking, and language use during study abroad: Learners' perspectives. Canadian Modern Language Review, 68, 111-137. Ring, S. A., Gardner, D., &amp; Dewey, D. P. (2013). Social network development during study abroad in Japan. In K. Kondo-Brown, Y. Saito-Abbott, S. Satsutani, M. Tsutsui, &amp; A. Wehmeyer (Eds.), New perspectives on Japanese language learning, linguistics, and culture (pp. 95-122). Honolulu: University of Hawai'i At Manoa, National Foreign Language Resource Center.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:817099</str>
+               </arr>
+               <str name="dc.title">Study Abroad Social Interaction Questionnaire (SASIQ)</str>
+               <str name="dc.title.sort">Study Abroad Social Interaction Questionnaire (SASIQ)</str>
+               <arr name="dc.type">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Debriefing questionnaire</str>
+                  <str>Language Awareness questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Language preferences or dominance questionnaire</str>
+                  <str>Learning strategy questionnaire</str>
+                  <str>Learning style questionnaire</str>
+                  <str>Proficiency questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Self-efficacy questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Dewey, Dan P.</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2013</str>
+                  <str>2012</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>This is a version of the Study Abroad Social Interaction Questionnaire (SASIQ). Similar versions of this questionnaire were used in the papers listed below. This version was used for research involving learners of Arabic studying in Jordan. If the reader desires to use this questionnaire or to modify it and use items contained here, he or she is welcome to contact the authors to gain access to a version that can be administered via Qualtrics, the survey tool used to administer the survey to date. Dewey, D. P., Ring, S., Gardner, D., &amp; Belnap, R. K. (2013). Social network formation and development during study abroad in the Middle East. System: An International Journal of Educational Technology and Applied Linguistics, 41, 269-282. DOI: 10.1016/j.system.2013.02.004 Dewey, D. P., Belnap, R. K., &amp; Hilstrom, R. (2013). Social network development, language use, and language acquisition during study abroad: Arabic language learners' perspectives. Frontiers: The Interdisciplinary Journal of Study Abroad, 21, 84-110 Found at http://frontiersjournal.com/documents/Dewey-Belknap-Hillstrom-FRONTIERS2012-13.pdf Dewey, D. P., Bown, J., &amp; Eggett, D. (2012). Japanese language proficiency, social networking, and language use during study abroad: Learners' perspectives. Canadian Modern Language Review, 68, 111-137. Ring, S. A., Gardner, D., &amp; Dewey, D. P. (2013). Social network development during study abroad in Japan. In K. Kondo-Brown, Y. Saito-Abbott, S. Satsutani, M. Tsutsui, &amp; A. Wehmeyer (Eds.), New perspectives on Japanese language learning, linguistics, and culture (pp. 95-122). Honolulu: University of Hawai'i At Manoa, National Foreign Language Resource Center.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:817099</str>
+               </arr>
+               <str name="dc2.title">Study Abroad Social Interaction Questionnaire (SASIQ)</str>
+               <arr name="dc2.type">
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Debriefing questionnaire</str>
+                  <str>Language Awareness questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Language preferences or dominance questionnaire</str>
+                  <str>Learning strategy questionnaire</str>
+                  <str>Learning style questionnaire</str>
+                  <str>Proficiency questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Self-efficacy questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Dewey, Dan P.</str>
+               </arr>
+               <str name="dc3.title">Study Abroad Social Interaction Questionnaire (SASIQ)</str>
+               <date name="fgs.createdDate">2013-10-29T00:19:12.383Z</date>
+               <date name="fgs.dateCreated.sort">2013-10-29T00:19:12.383Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-11-03T22:45:36.406Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>ddewey@byu.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Dewey, Dan P.</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Debriefing questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language awareness questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language preferences or dominance questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Learning strategy questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Learning style questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Proficiency questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Other questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Self-efficacy questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">questionnaire questionnaire  attitude questionnaire attitude questionnaire  biographical questionnaire biographical questionnaire  debriefing questionnaire debriefing questionnaire  language awareness questionnaire language awareness questionnaire  language background questionnaire language background questionnaire  language preferences or dominance questionnaire language preferences or dominance questionnaire  learning strategy questionnaire learning strategy questionnaire learner strategy questionnaire learning style questionnaire learning style questionnaire learner style questionnaire proficiency questionnaire proficiency questionnaire  other questionnaire questionnaire  self-efficacy questionnaire self-efficacy questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">This is a version of the Study Abroad Social Interaction Questionnaire (SASIQ). Similar versions of this questionnaire were used in the papers listed below. This version was used for research involving learners of Arabic studying in Jordan. If the reader desires to use this questionnaire or to modify it and use items contained here, he or she is welcome to contact the authors to gain access to a version that can be administered via Qualtrics, the survey tool used to administer the survey to date. Dewey, D. P., Ring, S., Gardner, D., &amp; Belnap, R. K. (2013). Social network formation and development during study abroad in the Middle East. System: An International Journal of Educational Technology and Applied Linguistics, 41, 269-282. DOI: 10.1016/j.system.2013.02.004 Dewey, D. P., Belnap, R. K., &amp; Hilstrom, R. (2013). Social network development, language use, and language acquisition during study abroad: Arabic language learners' perspectives. Frontiers: The Interdisciplinary Journal of Study Abroad, 21, 84-110 Found at http://frontiersjournal.com/documents/Dewey-Belknap-Hillstrom-FRONTIERS2012-13.pdf Dewey, D. P., Bown, J., &amp; Eggett, D. (2012). Japanese language proficiency, social networking, and language use during study abroad: Learners' perspectives. Canadian Modern Language Review, 68, 111-137. Ring, S. A., Gardner, D., &amp; Dewey, D. P. (2013). Social network development during study abroad in Japan. In K. Kondo-Brown, Y. Saito-Abbott, S. Satsutani, M. Tsutsui, &amp; A. Wehmeyer (Eds.), New perspectives on Japanese language learning, linguistics, and culture (pp. 95-122). Honolulu: University of Hawai'i At Manoa, National Foreign Language Resource Center.</str>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Study abroad</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Attitude questionnaire</str>
+                  <str>Questionnaire &gt; Biographical questionnaire</str>
+                  <str>Questionnaire &gt; Debriefing questionnaire</str>
+                  <str>Questionnaire &gt; Language awareness questionnaire</str>
+                  <str>Questionnaire &gt; Language background questionnaire</str>
+                  <str>Questionnaire &gt; Language preferences or dominance questionnaire</str>
+                  <str>Questionnaire &gt; Learning strategy questionnaire</str>
+                  <str>Questionnaire &gt; Learning style questionnaire</str>
+                  <str>Questionnaire &gt; Proficiency questionnaire</str>
+                  <str>Questionnaire &gt; Other questionnaire</str>
+                  <str>Questionnaire &gt; Self-efficacy questionnaire</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Study Abroad Social Interaction Questionnaire (SASIQ)</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Arabic</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2013_Dewey_Belnap_Hillstrom_Social network development, language use, and language acquisition during study abroad: Arabic language learners' perspectives</str>
+                  <str>2012_Dewey_Bown_Eggett_Japanese language proficiency, social networking, and language use during study abroad: Learners&#8217; perspectives</str>
+                  <str>2013_Dewey_Ring_Gardner_Belnap_Social network formation and development during study abroad in the Middle East</str>
+               </arr>
+               <str name="iris.references.allauthors">Dewey, Belnap, et al. (2013); Dewey, Bown, et al. (2012); Dewey, Ring, et al. (2013)</str>
+               <arr name="iris.references.author">
+                  <str>Dewey, Dan P.</str>
+                  <str>Belnap, R. Kirk</str>
+                  <str>Hillstrom, Rebecca</str>
+                  <str>Dewey, Dan P.</str>
+                  <str>Bown, Jennifer</str>
+                  <str>Eggett, Dennis</str>
+                  <str>Dewey, Dan P.</str>
+                  <str>Ring, Spencer</str>
+                  <str>Gardner, Daniel</str>
+                  <str>Belnap, R. Kirk</str>
+               </arr>
+               <str name="iris.references.author.lastnames">deweybelnaphillstromdeweybowneggettdeweyringgardnerbelnap</str>
+               <arr name="iris.references.author.noack">
+                  <str>Dewey, Dan P.</str>
+                  <str>Belnap, R. Kirk</str>
+                  <str>Hillstrom, Rebecca</str>
+                  <str>Dewey, Dan P.</str>
+                  <str>Bown, Jennifer</str>
+                  <str>Eggett, Dennis</str>
+                  <str>Dewey, Dan P.</str>
+                  <str>Ring, Spencer</str>
+                  <str>Gardner, Daniel</str>
+                  <str>Belnap, R. Kirk</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Frontiers: The Interdisciplinary Journal of Study Abroad</str>
+                  <str>Canadian Modern Language Review</str>
+                  <str>System</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2013</str>
+                  <str>2012</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2013</str>
+                  <str>2012</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>ddewey@byu.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Dewey, Dan P.</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Attitude questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Biographical questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Debriefing questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language awareness questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language background questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Language preferences or dominance questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Learning strategy questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Learning style questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Proficiency questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Other questionnaire</str>
+                  <str>Questionnaire</str>
+                  <str>Self-efficacy questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">questionnaire questionnaire  attitude questionnaire attitude questionnaire  biographical questionnaire biographical questionnaire  debriefing questionnaire debriefing questionnaire  language awareness questionnaire language awareness questionnaire  language background questionnaire language background questionnaire  language preferences or dominance questionnaire language preferences or dominance questionnaire  learning strategy questionnaire learning strategy questionnaire learner strategy questionnaire learning style questionnaire learning style questionnaire learner style questionnaire proficiency questionnaire proficiency questionnaire  other questionnaire questionnaire  self-efficacy questionnaire self-efficacy questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Study abroad</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Attitude questionnaire</str>
+                  <str>Questionnaire &gt; Biographical questionnaire</str>
+                  <str>Questionnaire &gt; Debriefing questionnaire</str>
+                  <str>Questionnaire &gt; Language awareness questionnaire</str>
+                  <str>Questionnaire &gt; Language background questionnaire</str>
+                  <str>Questionnaire &gt; Language preferences or dominance questionnaire</str>
+                  <str>Questionnaire &gt; Learning strategy questionnaire</str>
+                  <str>Questionnaire &gt; Learning style questionnaire</str>
+                  <str>Questionnaire &gt; Proficiency questionnaire</str>
+                  <str>Questionnaire &gt; Other questionnaire</str>
+                  <str>Questionnaire &gt; Self-efficacy questionnaire</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Arabic</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2013_Dewey_Belnap_Hillstrom_Social network development, language use, and language acquisition during study abroad: Arabic language learners' perspectives</str>
+                  <str>2012_Dewey_Bown_Eggett_Japanese language proficiency, social networking, and language use during study abroad: Learners&#8217; perspectives</str>
+                  <str>2013_Dewey_Ring_Gardner_Belnap_Social network formation and development during study abroad in the Middle East</str>
+               </arr>
+               <str name="iris2.references.allauthors">Dewey, Belnap, et al. (2013); Dewey, Bown, et al. (2012); Dewey, Ring, et al. (2013)</str>
+               <arr name="iris2.references.author">
+                  <str>Dewey, Dan P.</str>
+                  <str>Belnap, R. Kirk</str>
+                  <str>Hillstrom, Rebecca</str>
+                  <str>Dewey, Dan P.</str>
+                  <str>Bown, Jennifer</str>
+                  <str>Eggett, Dennis</str>
+                  <str>Dewey, Dan P.</str>
+                  <str>Ring, Spencer</str>
+                  <str>Gardner, Daniel</str>
+                  <str>Belnap, R. Kirk</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">deweybelnaphillstromdeweybowneggettdeweyringgardnerbelnap</str>
+               <arr name="iris2.references.journal">
+                  <str>Frontiers: The Interdisciplinary Journal of Study Abroad</str>
+                  <str>Canadian Modern Language Review</str>
+                  <str>System</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2013</str>
+                  <str>2012</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2013</str>
+                  <str>2012</str>
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2013</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:817099/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

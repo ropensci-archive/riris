@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:926683">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">463</int>
+            <lst name="params">
+               <str name="q">PID:york?926683</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:926683</str>
+               <arr name="dc.creator">
+                  <str>French, Leif M</str>
+                  <str>Beaulieu, Suzie</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2016</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>Both the records for the oral narrative task with planning time and oral narrative task without planning time "the suitcase story" are available on IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:926683</str>
+               </arr>
+               <str name="dc.title">Oral narrative task with planning time</str>
+               <str name="dc.title.sort">Oral narrative task with planning time</str>
+               <arr name="dc.type">
+                  <str>Narration / Story retelling</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>French, Leif M</str>
+                  <str>Beaulieu, Suzie</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2016</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>Both the records for the oral narrative task with planning time and oral narrative task without planning time "the suitcase story" are available on IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:926683</str>
+               </arr>
+               <str name="dc2.title">Oral narrative task with planning time</str>
+               <arr name="dc2.type">
+                  <str>Narration / Story retelling</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>French, Leif M</str>
+                  <str>Beaulieu, Suzie</str>
+               </arr>
+               <str name="dc3.title">Oral narrative task with planning time</str>
+               <date name="fgs.createdDate">2016-06-25T13:44:12.646Z</date>
+               <date name="fgs.dateCreated.sort">2016-06-25T13:44:12.646Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2016-06-25T13:44:20.655Z</date>
+               <str name="fgs.ownerId">iris-d08416f6-c0e0-4133-b894-d081ce103a4d</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>suzie.beaulieu@lli.ulaval.ca</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>French, Leif M</str>
+                  <str>Beaulieu, Suzie</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">narration / story retelling  narration / story retelling   </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">Both the records for the oral narrative task with planning time and oral narrative task without planning time "the suitcase story" are available on IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Narration / Story retelling </str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Fluency</str>
+                  <str>Speaking / Oral production</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Oral narrative task with planning time</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2016_French_Beaulieu_Effects of sociolinguistic awarenesson French L2 learners' planned and unplanned oral production of stylistic variation</str>
+               </arr>
+               <str name="iris.references.allauthors">French &amp; Beaulieu (2016)</str>
+               <arr name="iris.references.author">
+                  <str>French, Leif M</str>
+                  <str>Beaulieu, Suzie</str>
+               </arr>
+               <str name="iris.references.author.lastnames">frenchbeaulieu</str>
+               <arr name="iris.references.author.noack">
+                  <str>French, Leif M</str>
+                  <str>Beaulieu, Suzie</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Awareness</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>suzie.beaulieu@lli.ulaval.ca</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>French, Leif M</str>
+                  <str>Beaulieu, Suzie</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Speaking test / Oral production test</str>
+                  <str>Narration / Story retelling </str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">narration / story retelling  narration / story retelling   </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Speaking test / Oral production test &gt; Narration / Story retelling </str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Fluency</str>
+                  <str>Speaking / Oral production</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2016_French_Beaulieu_Effects of sociolinguistic awarenesson French L2 learners' planned and unplanned oral production of stylistic variation</str>
+               </arr>
+               <str name="iris2.references.allauthors">French &amp; Beaulieu (2016)</str>
+               <arr name="iris2.references.author">
+                  <str>French, Leif M</str>
+                  <str>Beaulieu, Suzie</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">frenchbeaulieu</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Awareness</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2016</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

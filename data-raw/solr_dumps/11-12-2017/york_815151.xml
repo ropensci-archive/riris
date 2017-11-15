@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:815151">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">524</int>
+            <lst name="params">
+               <str name="q">PID:york?815151</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:815151</str>
+               <arr name="dc.creator">
+                  <str>Mifka-Profozic, Nadia</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>1988</str>
+                  <str>1987</str>
+                  <str>1982</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The picture tasks were used to elicit the use of French passe compose (PC) and imparfait (IMP). The tasks used in oral production elicited a range of 5-15 obligatory occasions for the use of PC, with an average of 10 per test per student, and a range of 3-13 obligatory occasions for the IMP, with an average of 6 per test per student. In written production the tasks elicited 3-15 obligatory occasions for PC (average: 8 per test per student), and 3-11 for IMP (average: 6 per test per student).</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>French</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:815151</str>
+               </arr>
+               <arr name="dc.subject">
+                  <str>Error correction / Corrective feedback</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Communicative task</str>
+                  <str>Information exchange tasks</str>
+                  <str>Communicative task</str>
+                  <str>Information gap tasks (e.g. spot difference, map task)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Mifka-Profozic, Nadia</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>1988</str>
+                  <str>1987</str>
+                  <str>1982</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The picture tasks were used to elicit the use of French passe compose (PC) and imparfait (IMP). The tasks used in oral production elicited a range of 5-15 obligatory occasions for the use of PC, with an average of 10 per test per student, and a range of 3-13 obligatory occasions for the IMP, with an average of 6 per test per student. In written production the tasks elicited 3-15 obligatory occasions for PC (average: 8 per test per student), and 3-11 for IMP (average: 6 per test per student).</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>French</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:815151</str>
+               </arr>
+               <arr name="dc2.subject">
+                  <str>Error correction / Corrective feedback</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Communicative task</str>
+                  <str>Information exchange tasks</str>
+                  <str>Communicative task</str>
+                  <str>Information gap tasks (e.g. spot difference, map task)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Mifka-Profozic, Nadia</str>
+               </arr>
+               <arr name="dc3.subject">
+                  <str>Error correction / Corrective feedback</str>
+               </arr>
+               <date name="fgs.createdDate">2013-08-16T15:33:28.253Z</date>
+               <date name="fgs.dateCreated.sort">2013-08-16T15:33:28.253Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-10-16T17:16:07.608Z</date>
+               <str name="fgs.ownerId">iris-73764308-bbb6-40fc-b5c9-1ccf52f6e070</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>nmprofozic@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Mifka-Profozic, Nadia</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Oral production</str>
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Communicative / Interactive task</str>
+                  <str>Other task</str>
+                  <str>Communicative / Interactive task</str>
+                  <str>Information exchange</str>
+                  <str>Communicative / Interactive task</str>
+                  <str>Communicative / Interactive task</str>
+                  <str>Information gap</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">other task communicative task  information exchange information exchange tasks  communicative / interactive task communicative / interactive task  information gap information gap tasks (e.g. spot difference, map task)  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Aspect</str>
+                  <str>Tense</str>
+               </arr>
+               <str name="iris.instrument.notes">The picture tasks were used to elicit the use of French passe compose (PC) and imparfait (IMP). The tasks used in oral production elicited a range of 5-15 obligatory occasions for the use of PC, with an average of 10 per test per student, and a range of 3-13 obligatory occasions for the IMP, with an average of 6 per test per student. In written production the tasks elicited 3-15 obligatory occasions for PC (average: 8 per test per student), and 3-11 for IMP (average: 6 per test per student).</str>
+               <str name="iris.instrument.primaryInstrumentType">Communicative / Interactive task &gt; Other task</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Error correction / Corrective feedback</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Communicative / Interactive task &gt; Information exchange</str>
+                  <str>Communicative / Interactive task</str>
+                  <str>Communicative / Interactive task &gt; Information gap</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>1988_Curnow_Recent School Certificate questions with suggested solutions: French</str>
+                  <str>Mifka-Profozic_Oral corrective feedback, individual differences and L2 acquisition of French past tenses</str>
+                  <str>1987_Plumb_Aries_Debney_Facon de parler, 2</str>
+                  <str>1982_Sprake_Higgins_Communiqué. Practice for the CSE and 16+ examination</str>
+               </arr>
+               <str name="iris.references.allauthors">Mifka-Profozic (2012)</str>
+               <arr name="iris.references.author">
+                  <str>Curnow, Simon</str>
+                  <str>Mifka-Profozic, Nadia</str>
+                  <str>Plumb, John</str>
+                  <str>Aries, Angela</str>
+                  <str>Debney, Dominique</str>
+                  <str>Sprake, David</str>
+                  <str>Higgins, Graham</str>
+               </arr>
+               <str name="iris.references.author.lastnames">curnowmifka-profozicplumbariesdebneysprakehiggins</str>
+               <arr name="iris.references.author.noack">
+                  <str>Mifka-Profozic, Nadia</str>
+               </arr>
+               <arr name="iris.references.placeOfPublication">
+                  <str>Auckland</str>
+                  <str>Sevenoaks, Kent</str>
+                  <str>Oxford</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>1988</str>
+                  <str>1987</str>
+                  <str>1982</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>1988</str>
+                  <str>1987</str>
+                  <str>1982</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Book</str>
+                  <str>Thesis</str>
+                  <str>Book</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris.references.publisher">
+                  <str>ESA Publications</str>
+                  <str>Hodder and Stoughton</str>
+                  <str>Oxford University Press</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>nmprofozic@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Mifka-Profozic, Nadia</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Oral production</str>
+                  <str>Written production</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Communicative / Interactive task</str>
+                  <str>Other task</str>
+                  <str>Communicative / Interactive task</str>
+                  <str>Information exchange</str>
+                  <str>Communicative / Interactive task</str>
+                  <str>Communicative / Interactive task</str>
+                  <str>Information gap</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">other task communicative task  information exchange information exchange tasks  communicative / interactive task communicative / interactive task  information gap information gap tasks (e.g. spot difference, map task)  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Aspect</str>
+                  <str>Tense</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Communicative / Interactive task &gt; Other task</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Error correction / Corrective feedback</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Communicative / Interactive task &gt; Information exchange</str>
+                  <str>Communicative / Interactive task</str>
+                  <str>Communicative / Interactive task &gt; Information gap</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>French</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>1988_Curnow_Recent School Certificate questions with suggested solutions: French</str>
+                  <str>Mifka-Profozic_Oral corrective feedback, individual differences and L2 acquisition of French past tenses</str>
+                  <str>1987_Plumb_Aries_Debney_Facon de parler, 2</str>
+                  <str>1982_Sprake_Higgins_Communiqué. Practice for the CSE and 16+ examination</str>
+               </arr>
+               <str name="iris2.references.allauthors">Mifka-Profozic (2012)</str>
+               <arr name="iris2.references.author">
+                  <str>Curnow, Simon</str>
+                  <str>Mifka-Profozic, Nadia</str>
+                  <str>Plumb, John</str>
+                  <str>Aries, Angela</str>
+                  <str>Debney, Dominique</str>
+                  <str>Sprake, David</str>
+                  <str>Higgins, Graham</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">curnowmifka-profozicplumbariesdebneysprakehiggins</str>
+               <arr name="iris2.references.placeOfPublication">
+                  <str>Auckland</str>
+                  <str>Sevenoaks, Kent</str>
+                  <str>Oxford</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>1988</str>
+                  <str>1987</str>
+                  <str>1982</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>1988</str>
+                  <str>1987</str>
+                  <str>1982</str>
+                  <str>2012</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str/>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Book</str>
+                  <str>Thesis</str>
+                  <str>Book</str>
+                  <str>Book</str>
+               </arr>
+               <arr name="iris2.references.publisher">
+                  <str>ESA Publications</str>
+                  <str>Hodder and Stoughton</str>
+                  <str>Oxford University Press</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:815151/asset/INSTRUMENT?download=true"/>
+      <file id="INSTRUMENT1" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:815151/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:815151/asset/INSTRUMENT2?download=true"/>
+      <file id="INSTRUMENT3" mime="application/pdf" url="https://www.iris-database.org/iris/api/resource/york:815151/asset/INSTRUMENT3?download=true"/>
+   </files>
+</record>

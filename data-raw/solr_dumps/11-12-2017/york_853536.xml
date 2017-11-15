@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:853536">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">529</int>
+            <lst name="params">
+               <str name="q">PID:york?853536</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:853536</str>
+               <arr name="dc.creator">
+                  <str>Golonka, Ewa</str>
+                  <str>Kramasz, Debra</str>
+                  <str>Bowles, Anita</str>
+                  <str>Blake, Charles</str>
+                  <str>Silbert, Noah</str>
+                  <str>Buckwalter, Tim</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+                  <str>1996</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The records for the tasks and the vocabulary knowledge scale used in this study are linked in IRIS. 12 tasks were developed for the three lexical environments: Fully Contextualised, Semi-Contextualised and Decontextualised.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:853536</str>
+               </arr>
+               <str name="dc.title">Vocabulary Knowledge Scale</str>
+               <str name="dc.title.sort">Vocabulary Knowledge Scale</str>
+               <arr name="dc.type">
+                  <str>Debriefing questionnaire</str>
+                  <str>Vocabulary test (receptive)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Golonka, Ewa</str>
+                  <str>Kramasz, Debra</str>
+                  <str>Bowles, Anita</str>
+                  <str>Blake, Charles</str>
+                  <str>Silbert, Noah</str>
+                  <str>Buckwalter, Tim</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+                  <str>1996</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The records for the tasks and the vocabulary knowledge scale used in this study are linked in IRIS. 12 tasks were developed for the three lexical environments: Fully Contextualised, Semi-Contextualised and Decontextualised.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:853536</str>
+               </arr>
+               <str name="dc2.title">Vocabulary Knowledge Scale</str>
+               <arr name="dc2.type">
+                  <str>Debriefing questionnaire</str>
+                  <str>Vocabulary test (receptive)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Golonka, Ewa</str>
+                  <str>Kramasz, Debra</str>
+                  <str>Bowles, Anita</str>
+                  <str>Blake, Charles</str>
+                  <str>Silbert, Noah</str>
+                  <str>Buckwalter, Tim</str>
+               </arr>
+               <str name="dc3.title">Vocabulary Knowledge Scale</str>
+               <date name="fgs.createdDate">2015-06-19T16:24:01.965Z</date>
+               <date name="fgs.dateCreated.sort">2015-06-19T16:24:01.965Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2016-07-08T08:42:37.13Z</date>
+               <str name="fgs.ownerId">iris-ce9f7bc3-da6b-43d0-aa72-6a00503b339f</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>egolonka@umd.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Golonka, Ewa</str>
+                  <str>Kramasz, Debra</str>
+                  <str>Bowles, Anita</str>
+                  <str>Blake, Charles</str>
+                  <str>Silbert, Noah</str>
+                  <str>Buckwalter, Tim</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Debriefing questionnaire</str>
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">debriefing questionnaire debriefing questionnaire  receptive vocabulary test (receptive)  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">The records for the tasks and the vocabulary knowledge scale used in this study are linked in IRIS. 12 tasks were developed for the three lexical environments: Fully Contextualised, Semi-Contextualised and Decontextualised.</str>
+               <str name="iris.instrument.primaryInstrumentType">Vocabulary test &gt; Receptive</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Teaching materials and curriculum (syllabus, textbook design)</str>
+                  <str>Effectiveness of teaching</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Debriefing questionnaire</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Vocabulary Knowledge Scale</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Arabic</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Golonka_Kramasz_Bowles_Blake_Silbert_Buckwalter_The role of context and cognitive effort in vocabualrly learning: A study of intermediate-level learners of Arabic</str>
+                  <str>1996_Wesche_Paribakht_Assessing second language vocabulary knowledge: Depth versus breadth</str>
+               </arr>
+               <str name="iris.references.allauthors">Golonka, Kramasz, et al. (2015); </str>
+               <arr name="iris.references.author">
+                  <str>Golonka, Ewa</str>
+                  <str>Kramasz, Debra</str>
+                  <str>Bowles, Anita</str>
+                  <str>Blake, Charles</str>
+                  <str>Silbert, Noah</str>
+                  <str>Buckwalter, Tim</str>
+                  <str>Wesche, M.</str>
+                  <str>Paribakht, Tahereh</str>
+               </arr>
+               <str name="iris.references.author.lastnames">golonkakramaszbowlesblakesilbertbuckwalterwescheparibakht</str>
+               <arr name="iris.references.author.noack">
+                  <str>Golonka, Ewa</str>
+                  <str>Kramasz, Debra</str>
+                  <str>Bowles, Anita</str>
+                  <str>Blake, Charles</str>
+                  <str>Silbert, Noah</str>
+                  <str>Buckwalter, Tim</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>The Modern Language Journal</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+                  <str>1996</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+                  <str>1996</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>egolonka@umd.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Golonka, Ewa</str>
+                  <str>Kramasz, Debra</str>
+                  <str>Bowles, Anita</str>
+                  <str>Blake, Charles</str>
+                  <str>Silbert, Noah</str>
+                  <str>Buckwalter, Tim</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Debriefing questionnaire</str>
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">debriefing questionnaire debriefing questionnaire  receptive vocabulary test (receptive)  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Vocabulary test &gt; Receptive</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Lexicon (vocabulary)</str>
+                  <str>Teaching materials and curriculum (syllabus, textbook design)</str>
+                  <str>Effectiveness of teaching</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Questionnaire &gt; Debriefing questionnaire</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Foreign language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Arabic</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Golonka_Kramasz_Bowles_Blake_Silbert_Buckwalter_The role of context and cognitive effort in vocabualrly learning: A study of intermediate-level learners of Arabic</str>
+                  <str>1996_Wesche_Paribakht_Assessing second language vocabulary knowledge: Depth versus breadth</str>
+               </arr>
+               <str name="iris2.references.allauthors">Golonka, Kramasz, et al. (2015); </str>
+               <arr name="iris2.references.author">
+                  <str>Golonka, Ewa</str>
+                  <str>Kramasz, Debra</str>
+                  <str>Bowles, Anita</str>
+                  <str>Blake, Charles</str>
+                  <str>Silbert, Noah</str>
+                  <str>Buckwalter, Tim</str>
+                  <str>Wesche, M.</str>
+                  <str>Paribakht, Tahereh</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">golonkakramaszbowlesblakesilbertbuckwalterwescheparibakht</str>
+               <arr name="iris2.references.journal">
+                  <str>The Modern Language Journal</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+                  <str>1996</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+                  <str>1996</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>

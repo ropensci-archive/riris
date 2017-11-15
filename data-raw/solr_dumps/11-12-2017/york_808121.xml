@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:808121">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">468</int>
+            <lst name="params">
+               <str name="q">PID:york?808121</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:808121</str>
+               <arr name="dc.creator">
+                  <str>Lew-Williams, Casey</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2007</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:808121</str>
+               </arr>
+               <str name="dc.title">Use of grammatical gender by Spanish learners: auditory stimuli</str>
+               <str name="dc.title.sort">Use of grammatical gender by Spanish learners: auditory stimuli</str>
+               <arr name="dc.type">
+                  <str>Receptive grammar test</str>
+                  <str>Listening / Aural test</str>
+                  <str>Stimuli for laboratory studies (audio)</str>
+                  <str>Stimuli for laboratory studies (visual - pictorial)</str>
+                  <str>Vocabulary test (receptive)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Lew-Williams, Casey</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2007</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:808121</str>
+               </arr>
+               <str name="dc2.title">Use of grammatical gender by Spanish learners: auditory stimuli</str>
+               <arr name="dc2.type">
+                  <str>Receptive grammar test</str>
+                  <str>Listening / Aural test</str>
+                  <str>Stimuli for laboratory studies (audio)</str>
+                  <str>Stimuli for laboratory studies (visual - pictorial)</str>
+                  <str>Vocabulary test (receptive)</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Lew-Williams, Casey</str>
+               </arr>
+               <str name="dc3.title">Use of grammatical gender by Spanish learners: auditory stimuli</str>
+               <date name="fgs.createdDate">2013-01-15T11:54:10.761Z</date>
+               <date name="fgs.dateCreated.sort">2013-01-15T11:54:10.761Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-05-11T10:26:03.673Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>caseylw@northwestern.edu</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>1</str>
+               </arr>
+               <arr name="iris.feedback.email_1">
+                  <str>godfroid@msu.edu</str>
+               </arr>
+               <arr name="iris.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris.feedback.time_1">
+                  <str>27 Jul 2014 02:43:51 GMT</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Lew-Williams, Casey</str>
+               </arr>
+               <arr name="iris.instrument.dataType">
+                  <str>Reaction times</str>
+               </arr>
+               <arr name="iris.instrument.dataType.alternate">
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.funder">
+                  <str>Fonds Wetenschappelijk Onderzoek (FWO)</str>
+                  <str>National Science Foundation (NSF)</str>
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Listening / Aural test</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Audio</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Pictorial</str>
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">receptive receptive grammar test  listening / aural test listening / aural test aural test audio stimuli for laboratory studies (audio)  pictorial stimuli for laboratory studies (visual - pictorial)  receptive vocabulary test (receptive)  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Gender</str>
+               </arr>
+               <str name="iris.instrument.primaryInstrumentType">Stimuli for laboratory studies &gt; Audio</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Processing</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+                  <str>Listening / Aural test</str>
+                  <str>Stimuli for laboratory studies &gt; Visual &gt; Pictorial</str>
+                  <str>Vocabulary test &gt; Receptive</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Use of grammatical gender by Spanish learners: auditory stimuli</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Sound</str>
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>English</str>
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>First language learners</str>
+                  <str>Native speakers</str>
+                  <str>Monolinguals</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2007_Lew-Williams_Fernald_Young children learning Spanish make rapid use of grammatical gender in spoken word recognition</str>
+                  <str>2010_Lew-Williams_Fernald_Real-time processing of gender-marked articles by native and non-native Spanish speakers</str>
+               </arr>
+               <str name="iris.references.allauthors">Lew-Williams &amp; Fernald (2007); Lew-Williams &amp; Fernald (2010)</str>
+               <arr name="iris.references.author">
+                  <str>Lew-Williams, Casey</str>
+                  <str>Fernald, Anne</str>
+                  <str>Lew-Williams, Casey</str>
+                  <str>Fernald, Anne</str>
+               </arr>
+               <str name="iris.references.author.lastnames">lew-williamsfernaldlew-williamsfernald</str>
+               <arr name="iris.references.author.noack">
+                  <str>Lew-Williams, Casey</str>
+                  <str>Fernald, Anne</str>
+                  <str>Lew-Williams, Casey</str>
+                  <str>Fernald, Anne</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Psychological Science</str>
+                  <str>Journal of Memory and Language</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2007</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2007</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>caseylw@northwestern.edu</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>1</str>
+               </arr>
+               <arr name="iris2.feedback.email_1">
+                  <str>godfroid@msu.edu</str>
+               </arr>
+               <arr name="iris2.feedback.published_1">
+                  <str>false</str>
+               </arr>
+               <arr name="iris2.feedback.time_1">
+                  <str>27 Jul 2014 02:43:51 GMT</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Lew-Williams, Casey</str>
+               </arr>
+               <arr name="iris2.instrument.dataType">
+                  <str>Reaction times</str>
+               </arr>
+               <arr name="iris2.instrument.funder">
+                  <str>Fonds Wetenschappelijk Onderzoek (FWO)</str>
+                  <str>National Science Foundation (NSF)</str>
+                  <str/>
+                  <str/>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Listening / Aural test</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Audio</str>
+                  <str>Stimuli for laboratory studies</str>
+                  <str>Visual</str>
+                  <str>Pictorial</str>
+                  <str>Vocabulary test</str>
+                  <str>Receptive</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">receptive receptive grammar test  listening / aural test listening / aural test aural test audio stimuli for laboratory studies (audio)  pictorial stimuli for laboratory studies (visual - pictorial)  receptive vocabulary test (receptive)  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Gender</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Stimuli for laboratory studies &gt; Audio</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Morphosyntax (grammar)</str>
+                  <str>Processing</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+                  <str>Listening / Aural test</str>
+                  <str>Stimuli for laboratory studies &gt; Visual &gt; Pictorial</str>
+                  <str>Vocabulary test &gt; Receptive</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Sound</str>
+                  <str>Still Image</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>English</str>
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.participants.gender">
+                  <str>mixed</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>First language learners</str>
+                  <str>Native speakers</str>
+                  <str>Monolinguals</str>
+                  <str>Second language learners</str>
+               </arr>
+               <arr name="iris2.participants.targetLanguage">
+                  <str>Spanish</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2007_Lew-Williams_Fernald_Young children learning Spanish make rapid use of grammatical gender in spoken word recognition</str>
+                  <str>2010_Lew-Williams_Fernald_Real-time processing of gender-marked articles by native and non-native Spanish speakers</str>
+               </arr>
+               <str name="iris2.references.allauthors">Lew-Williams &amp; Fernald (2007); Lew-Williams &amp; Fernald (2010)</str>
+               <arr name="iris2.references.author">
+                  <str>Lew-Williams, Casey</str>
+                  <str>Fernald, Anne</str>
+                  <str>Lew-Williams, Casey</str>
+                  <str>Fernald, Anne</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">lew-williamsfernaldlew-williamsfernald</str>
+               <arr name="iris2.references.journal">
+                  <str>Psychological Science</str>
+                  <str>Journal of Memory and Language</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2007</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2007</str>
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT1" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:808121/asset/INSTRUMENT1?download=true"/>
+      <file id="INSTRUMENT2" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:808121/asset/INSTRUMENT2?download=true"/>
+   </files>
+</record>

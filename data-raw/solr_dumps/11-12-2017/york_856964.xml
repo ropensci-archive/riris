@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:856964">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">512</int>
+            <lst name="params">
+               <str name="q">PID:york?856964</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:856964</str>
+               <arr name="dc.creator">
+                  <str>Bukhari, Syeda Saima Ferheen</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The researcher prepared a questionnaire based on the main and the sub-objectives of the study. It was a Likert Scale questionnaire, divided into two parts. First part was to investigate the problems related to teaching EFL writing and the second part was to find out about different teaching techniques used / adopted by EFL teachers while teaching English writing to the EFL learners. The rating scale was divided from 1-5: 1=Strongly Disagree, 2=Disagree, 3=Neither Agree nor Disagree, 4=Agree, 5=Strongly Agree. The first part contained 17 items, the second part consisted 14 statements (items), and an open statement was also given to mention any specific problems faced by the teachers in teaching English writing skill to the EFL learners. Secondly, to check the validity of the questionnaire, it was sent to the four selected, experienced and qualified experts in the field of research as the jury members (a penal). It was to get their opinion and judgment on all the statements&#8217; clarity, appropriateness and relevance. Finally, on per their advice, opinions, and responses, some modification (related to five items&#8217; clarity and relevance) was done in five items of the questionnaire. The instrument was tested firstly on the SPSS for a Reliability check and the result was: Case Processing Summary Reliability Statistics N % Cronbach's Alpha N of Items Cases Valid 20 100.0 Excludeda 0 .0 .746 31 Total 20 100.0 a. Listwise deletion based on all variables in the procedure.</str>
+               </arr>
+               <arr name="dc.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:856964</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Bukhari, Syeda Saima Ferheen</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2015</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The researcher prepared a questionnaire based on the main and the sub-objectives of the study. It was a Likert Scale questionnaire, divided into two parts. First part was to investigate the problems related to teaching EFL writing and the second part was to find out about different teaching techniques used / adopted by EFL teachers while teaching English writing to the EFL learners. The rating scale was divided from 1-5: 1=Strongly Disagree, 2=Disagree, 3=Neither Agree nor Disagree, 4=Agree, 5=Strongly Agree. The first part contained 17 items, the second part consisted 14 statements (items), and an open statement was also given to mention any specific problems faced by the teachers in teaching English writing skill to the EFL learners. Secondly, to check the validity of the questionnaire, it was sent to the four selected, experienced and qualified experts in the field of research as the jury members (a penal). It was to get their opinion and judgment on all the statements&#8217; clarity, appropriateness and relevance. Finally, on per their advice, opinions, and responses, some modification (related to five items&#8217; clarity and relevance) was done in five items of the questionnaire. The instrument was tested firstly on the SPSS for a Reliability check and the result was: Case Processing Summary Reliability Statistics N % Cronbach's Alpha N of Items Cases Valid 20 100.0 Excludeda 0 .0 .746 31 Total 20 100.0 a. Listwise deletion based on all variables in the procedure.</str>
+               </arr>
+               <arr name="dc2.format">
+                  <str>English</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:856964</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Questionnaire</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Bukhari, Syeda Saima Ferheen</str>
+               </arr>
+               <date name="fgs.createdDate">2015-11-20T10:07:04.528Z</date>
+               <date name="fgs.dateCreated.sort">2015-11-20T10:07:04.528Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-09-22T09:38:58.593Z</date>
+               <str name="fgs.ownerId">iris-00fa5318-42ce-44c4-8b5b-3b5c5ec629ec</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>saimaferheen@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Bukhari, Syeda Saima Ferheen</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Other questionnaire</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">other questionnaire questionnaire  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Clarification</str>
+                  <str>Statements</str>
+               </arr>
+               <str name="iris.instrument.notes">The researcher prepared a questionnaire based on the main and the sub-objectives of the study. It was a Likert Scale questionnaire, divided into two parts. First part was to investigate the problems related to teaching EFL writing and the second part was to find out about different teaching techniques used / adopted by EFL teachers while teaching English writing to the EFL learners. The rating scale was divided from 1-5: 1=Strongly Disagree, 2=Disagree, 3=Neither Agree nor Disagree, 4=Agree, 5=Strongly Agree. The first part contained 17 items, the second part consisted 14 statements (items), and an open statement was also given to mention any specific problems faced by the teachers in teaching English writing skill to the EFL learners. Secondly, to check the validity of the questionnaire, it was sent to the four selected, experienced and qualified experts in the field of research as the jury members (a penal). It was to get their opinion and judgment on all the statements&#8217; clarity, appropriateness and relevance. Finally, on per their advice, opinions, and responses, some modification (related to five items&#8217; clarity and relevance) was done in five items of the questionnaire. The instrument was tested firstly on the SPSS for a Reliability check and the result was: Case Processing Summary Reliability Statistics N % Cronbach's Alpha N of Items Cases Valid 20 100.0 Excludeda 0 .0 .746 31 Total 20 100.0 a. Listwise deletion based on all variables in the procedure.</str>
+               <str name="iris.instrument.primaryInstrumentType">Questionnaire &gt; Other questionnaire</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Writing</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Teachers</str>
+                  <str>(EFL) Teachers at English Language Institute</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2015_Bukhari_Application of Mindmapping Techniques to Enhance EFL Learners' Writing</str>
+               </arr>
+               <str name="iris.references.allauthors">Bukhari (2015)</str>
+               <arr name="iris.references.author">
+                  <str>Bukhari, Syeda Saima Ferheen</str>
+               </arr>
+               <str name="iris.references.author.lastnames">bukhari</str>
+               <arr name="iris.references.author.noack">
+                  <str>Bukhari, Syeda Saima Ferheen</str>
+               </arr>
+               <arr name="iris.references.placeOfPublication">
+                  <str>Germany</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Book</str>
+               </arr>
+               <arr name="iris.references.publisher">
+                  <str>LAP LAMBERT Academic Publishing</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>saimaferheen@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Bukhari, Syeda Saima Ferheen</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Questionnaire</str>
+                  <str>Other questionnaire</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">other questionnaire questionnaire  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Clarification</str>
+                  <str>Statements</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Questionnaire &gt; Other questionnaire</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Writing</str>
+                  <str>Teaching methods (style, approach, technique)</str>
+               </arr>
+               <arr name="iris2.instrument.sourceLanguage">
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Teachers</str>
+                  <str>(EFL) Teachers at English Language Institute</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2015_Bukhari_Application of Mindmapping Techniques to Enhance EFL Learners' Writing</str>
+               </arr>
+               <str name="iris2.references.allauthors">Bukhari (2015)</str>
+               <arr name="iris2.references.author">
+                  <str>Bukhari, Syeda Saima Ferheen</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">bukhari</str>
+               <arr name="iris2.references.placeOfPublication">
+                  <str>Germany</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2015</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Book</str>
+               </arr>
+               <arr name="iris2.references.publisher">
+                  <str>LAP LAMBERT Academic Publishing</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document" url="https://www.iris-database.org/iris/api/resource/york:856964/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

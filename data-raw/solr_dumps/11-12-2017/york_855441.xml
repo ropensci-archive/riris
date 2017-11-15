@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:855441">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">478</int>
+            <lst name="params">
+               <str name="q">PID:york?855441</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:855441</str>
+               <arr name="dc.creator">
+                  <str>Plonsky, Luke</str>
+                  <str>Derrick, Deirdre</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>in press</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>This instrument was used to collect reliability coefficients--and study information that led to those coefficients (e.g., sample info, skills, reliability indexes used)--in a sample of L2 research.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:855441</str>
+               </arr>
+               <arr name="dc.type">
+                  <str>Meta-analysis assessment</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Plonsky, Luke</str>
+                  <str>Derrick, Deirdre</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>in press</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>This instrument was used to collect reliability coefficients--and study information that led to those coefficients (e.g., sample info, skills, reliability indexes used)--in a sample of L2 research.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:855441</str>
+               </arr>
+               <arr name="dc2.type">
+                  <str>Meta-analysis assessment</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Plonsky, Luke</str>
+                  <str>Derrick, Deirdre</str>
+               </arr>
+               <date name="fgs.createdDate">2015-11-05T22:53:58.306Z</date>
+               <date name="fgs.dateCreated.sort">2015-11-05T22:53:58.306Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2017-06-21T22:55:22.49Z</date>
+               <str name="fgs.ownerId">iris-cab02cb6-cea5-4033-8bab-0e46fba10424</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>lukeplonsky@gmail.com</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with materials</str>
+               <arr name="iris.instrument.author">
+                  <str>Plonsky, Luke</str>
+                  <str>Derrick, Deirdre</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Meta-analysis assessment</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">meta-analysis assessment meta-analysis assessment  </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris.instrument.notes">This instrument was used to collect reliability coefficients--and study information that led to those coefficients (e.g., sample info, skills, reliability indexes used)--in a sample of L2 research.</str>
+               <str name="iris.instrument.primaryInstrumentType">Meta-analysis assessment</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Meta-analysis</str>
+                  <str>Research methods</str>
+                  <str>Testing</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Primary studies</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>in press_Plonsky_Derrick_A meta-analysis of reliability coefficients in second language research</str>
+               </arr>
+               <str name="iris.references.allauthors">Plonsky &amp; Derrick (in press)</str>
+               <arr name="iris.references.author">
+                  <str>Plonsky, Luke</str>
+                  <str>Derrick, Deirdre</str>
+               </arr>
+               <str name="iris.references.author.lastnames">plonskyderrick</str>
+               <arr name="iris.references.author.noack">
+                  <str>Plonsky, Luke</str>
+                  <str>Derrick, Deirdre</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>The Modern Language Journal</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>lukeplonsky@gmail.com</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with materials</str>
+               <arr name="iris2.instrument.author">
+                  <str>Plonsky, Luke</str>
+                  <str>Derrick, Deirdre</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Meta-analysis assessment</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">meta-analysis assessment meta-analysis assessment  </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Meta-analysis assessment</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Meta-analysis</str>
+                  <str>Research methods</str>
+                  <str>Testing</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Primary studies</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>in press_Plonsky_Derrick_A meta-analysis of reliability coefficients in second language research</str>
+               </arr>
+               <str name="iris2.references.allauthors">Plonsky &amp; Derrick (in press)</str>
+               <arr name="iris2.references.author">
+                  <str>Plonsky, Luke</str>
+                  <str>Derrick, Deirdre</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">plonskyderrick</str>
+               <arr name="iris2.references.journal">
+                  <str>The Modern Language Journal</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>in press</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files>
+      <file id="INSTRUMENT" mime="application/octet-stream" url="https://www.iris-database.org/iris/api/resource/york:855441/asset/INSTRUMENT?download=true"/>
+   </files>
+</record>

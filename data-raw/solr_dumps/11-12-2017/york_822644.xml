@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<record pid="york:822644">
+   <solr>
+      <response>
+         <lst name="responseHeader">
+            <int name="status">0</int>
+            <int name="QTime">497</int>
+            <lst name="params">
+               <str name="q">PID:york?822644</str>
+            </lst>
+         </lst>
+         <result name="response" numfound="1" start="0">
+            <doc>
+               <str name="PID">york:822644</str>
+               <arr name="dc.creator">
+                  <str>Paradis, Johanne</str>
+               </arr>
+               <arr name="dc.date">
+                  <str>2010</str>
+               </arr>
+               <arr name="dc.description">
+                  <str>The third person singluar and past tense elicitation probes and grammaticality judgement probes used in this study are linked in IRIS.</str>
+               </arr>
+               <arr name="dc.identifier">
+                  <str>york:822644</str>
+               </arr>
+               <str name="dc.title">Grammaticality judgement probes</str>
+               <str name="dc.title.sort">Grammaticality judgement probes</str>
+               <arr name="dc.type">
+                  <str>Receptive grammar test</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc2.creator">
+                  <str>Paradis, Johanne</str>
+               </arr>
+               <arr name="dc2.date">
+                  <str>2010</str>
+               </arr>
+               <arr name="dc2.description">
+                  <str>The third person singluar and past tense elicitation probes and grammaticality judgement probes used in this study are linked in IRIS.</str>
+               </arr>
+               <arr name="dc2.identifier">
+                  <str>york:822644</str>
+               </arr>
+               <str name="dc2.title">Grammaticality judgement probes</str>
+               <arr name="dc2.type">
+                  <str>Receptive grammar test</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+                  <str>http://www.iris-database.org/Instruments</str>
+               </arr>
+               <arr name="dc3.creator">
+                  <str>Paradis, Johanne</str>
+               </arr>
+               <str name="dc3.title">Grammaticality judgement probes</str>
+               <date name="fgs.createdDate">2014-06-06T17:39:53.326Z</date>
+               <date name="fgs.dateCreated.sort">2014-06-06T17:39:53.326Z</date>
+               <str name="fgs.label">IRIS Instrument created by YODL workflow.</str>
+               <date name="fgs.lastModifiedDate">2016-12-02T13:42:44.348Z</date>
+               <str name="fgs.ownerId">iris-580a9f0f-ed9e-4f5f-be7e-877243bddfd0</str>
+               <str name="fgs.state">Active</str>
+               <arr name="iris.email">
+                  <str>johanne.paradis@ualberta.ca</str>
+               </arr>
+               <arr name="iris.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris.instrument.author">
+                  <str>Paradis, Johanne</str>
+               </arr>
+               <arr name="iris.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+               </arr>
+               <str name="iris.instrument.instrumentType.alltypes">receptive receptive grammar test  grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test </str>
+               <arr name="iris.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris.instrument.linguisticTarget">
+                  <str>Morphology</str>
+                  <str>Tense</str>
+                  <str>Gender</str>
+                  <str>Suffixes</str>
+               </arr>
+               <str name="iris.instrument.notes">The third person singluar and past tense elicitation probes and grammaticality judgement probes used in this study are linked in IRIS.</str>
+               <str name="iris.instrument.primaryInstrumentType">Grammaticality / Acceptability judgement test</str>
+               <arr name="iris.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Bilingualism</str>
+                  <str>Complexity</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+               </arr>
+               <arr name="iris.instrument.title">
+                  <str>Grammaticality judgement probes</str>
+               </arr>
+               <arr name="iris.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris.participants.firstLanguage">
+                  <str>French</str>
+                  <str>English</str>
+               </arr>
+               <arr name="iris.participants.participantType">
+                  <str>Native speakers</str>
+                  <str>Bilinguals</str>
+               </arr>
+               <arr name="iris.referenceid">
+                  <str>2010_Paradis_Bilingual children's acquisition of English verb morphology: Effects of language exposure, structure complexity, and task type</str>
+               </arr>
+               <str name="iris.references.allauthors">Paradis (2010); </str>
+               <arr name="iris.references.author">
+                  <str>Paradis, Johanne</str>
+               </arr>
+               <str name="iris.references.author.lastnames">paradis</str>
+               <arr name="iris.references.author.noack">
+                  <str>Paradis, Johanne</str>
+               </arr>
+               <arr name="iris.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris.references.publicationDate">
+                  <str>2010</str>
+               </arr>
+               <arr name="iris.references.publicationDateStr">
+                  <str>2010</str>
+               </arr>
+               <arr name="iris.references.publicationType">
+                  <str>Electronic Resource</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="iris2.email">
+                  <str>johanne.paradis@ualberta.ca</str>
+               </arr>
+               <arr name="iris2.feedback.count">
+                  <str>0</str>
+               </arr>
+               <str name="iris2.hasmaterials">Records with information only (materials not yet held)</str>
+               <arr name="iris2.instrument.author">
+                  <str>Paradis, Johanne</str>
+               </arr>
+               <arr name="iris2.instrument.instrumentType">
+                  <str>Grammar test / Morphosyntax test</str>
+                  <str>Receptive</str>
+                  <str>Grammaticality / Acceptability judgement test</str>
+               </arr>
+               <str name="iris2.instrument.instrumentType.alltypes">receptive receptive grammar test  grammaticality / acceptability judgement test grammaticality / acceptability judgement test grammaticality judgement sentences,grammaticality judgement test,acceptability judgement test,gjt,grammaticality judgment test </str>
+               <arr name="iris2.instrument.licence">
+                  <str>Attribution-NonCommercial-ShareAlike</str>
+               </arr>
+               <arr name="iris2.instrument.linguisticTarget">
+                  <str>Morphology</str>
+                  <str>Tense</str>
+                  <str>Gender</str>
+                  <str>Suffixes</str>
+               </arr>
+               <str name="iris2.instrument.primaryInstrumentType">Grammaticality / Acceptability judgement test</str>
+               <arr name="iris2.instrument.researchArea">
+                  <str>Acquisition</str>
+                  <str>Bilingualism</str>
+                  <str>Complexity</str>
+                  <str>Morphosyntax (grammar)</str>
+               </arr>
+               <arr name="iris2.instrument.secondaryInstrumentType">
+                  <str>Grammar test / Morphosyntax test &gt; Receptive</str>
+               </arr>
+               <arr name="iris2.instrument.typeOfFile">
+                  <str>Text</str>
+               </arr>
+               <arr name="iris2.participants.firstLanguage">
+                  <str>French</str>
+                  <str>English</str>
+               </arr>
+               <arr name="iris2.participants.participantType">
+                  <str>Native speakers</str>
+                  <str>Bilinguals</str>
+               </arr>
+               <arr name="iris2.referenceid">
+                  <str>2010_Paradis_Bilingual children's acquisition of English verb morphology: Effects of language exposure, structure complexity, and task type</str>
+               </arr>
+               <str name="iris2.references.allauthors">Paradis (2010); </str>
+               <arr name="iris2.references.author">
+                  <str>Paradis, Johanne</str>
+               </arr>
+               <str name="iris2.references.author.lastnames">paradis</str>
+               <arr name="iris2.references.journal">
+                  <str>Language Learning</str>
+               </arr>
+               <arr name="iris2.references.publicationDate">
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationDateStr">
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationLatestDate">
+                  <str>2010</str>
+               </arr>
+               <arr name="iris2.references.publicationType">
+                  <str>Electronic Resource</str>
+                  <str>Journal Article</str>
+               </arr>
+               <arr name="oai_dc.dc_xsi:schemaLocation">
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+                  <str>http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd</str>
+               </arr>
+            </doc>
+         </result>
+      </response>
+   </solr>
+   <files/>
+</record>
