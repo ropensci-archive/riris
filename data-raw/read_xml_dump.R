@@ -8,11 +8,11 @@ library(stringr); library(magrittr); library(reshape2); library(rvest)
 #          destfile="data-raw/solr_dumps/5-23-2016/irisdump.zip", mode="wb")
 # unzip ("data-raw/solr_dumps/5-23-2016/irisdump.zip",
 #        exdir = "data-raw/solr_dumps/5-23-2016", overwrite = TRUE)
-
-download.file("https://dlib.york.ac.uk/irisdump.zip",
-         destfile="data-raw/solr_dumps/11-12-2017/irisdump.zip", mode="wb")
-unzip ("data-raw/solr_dumps/11-12-2017/irisdump.zip",
-       exdir = "data-raw/solr_dumps/11-12-2017", overwrite = TRUE)
+# 
+# download.file("https://dlib.york.ac.uk/irisdump.zip",
+#          destfile="data-raw/solr_dumps/11-12-2017/irisdump.zip", mode="wb")
+# unzip ("data-raw/solr_dumps/11-12-2017/irisdump.zip",
+#        exdir = "data-raw/solr_dumps/11-12-2017", overwrite = TRUE)
 
 
 
@@ -21,7 +21,7 @@ unzip ("data-raw/solr_dumps/11-12-2017/irisdump.zip",
 
 
 files <- list.files('data-raw/solr_dumps/11-12-2017', pattern = '.xml') 
-Files <- files[1:6] # for testing the for loops
+# Files <- files[1:6] # for testing the for loops
 
 
 # One big list of all of the files
@@ -43,14 +43,19 @@ xml_data_listcols <- arr %>%{
   )
 } 
 
-xml_data_frame <- xml_data_listcols %$% {
-  tibble(
-    values = map(values, ~ as_data_frame(.x)),
-    attribs = map(attribs, ~ as_data_frame(.x))
-  )
-}
+# %>%
+  # slice(., 1:3) # for drafting
 
 
+data_framing <- xml_data_listcols %>%
+  mutate(attribs = map(attribs, str_replace_all, pattern = "\\.", replacement = "_")) %>%
+  mutate(attribs = map(attribs, str_replace_all, pattern = "dc", replacement = "iris")) %>%
+  mutate(attribs = map(attribs, ~tolower(gsub("([a-z1-9])([A-Z])", "\\1_\\2", .x)))) %>%
+  mutate(values = map(values, as_data_frame),
+         attribs = map(attribs, as_data_frame)) %>%
+  mutate(df = map2(values, attribs, ~bind_cols(.x, .y))) %>%
+  mutate(df = map(df, spread, key = value1, value = value)) %>%
+  mutate(df = map(df, select, contains("iris_")))
 
 data_top <- xml_data %>%
   map(., xmlRoot)
