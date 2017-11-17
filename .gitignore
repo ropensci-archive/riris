@@ -3,3 +3,4 @@
 .RData
 .Ruserdata
 data-raw/solr_dumps/5-23-2016/*.xml
+data-raw/solr_dumps/11-12-2017/instruments/*
