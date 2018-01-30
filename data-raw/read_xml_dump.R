@@ -49,7 +49,7 @@ xml_data_listcols <- arr %>%{
     files = map(fil, xml_attr, "url"),
     record = map(record, xml_attr, "pid")
   )
-}  %>%
+} %>%
   # slice(., 1:6) %>% # for drafting
   unnest(record)%>%
   unnest(files)
