@@ -54,8 +54,7 @@ xml_data_listcols <- arr %>%{
   )
 } %>%
   slice(., 1:6)
-%>%
-  unnest(record)# for drafting
+
 
 # Takes a long time
 
@@ -66,6 +65,7 @@ xml_data_listcols <- arr %>%{
 # }
 # 
 # download(xml_data_listcols$files, xml_data_listcols$record)
+
 
 data_framing <- xml_data_listcols %>%
   unnest(record) 
