@@ -50,20 +50,21 @@ xml_data_listcols <- arr %>%{
     record = map(record, xml_attr, "pid")
   )
 } %>%
-  # slice(., 1:6) %>% # for drafting
-  unnest(record)%>%
-  unnest(files)
+  slice(., 1:6) # for drafting
+  # unnest(record)%>%
+  # unnest(files)
 
 
-download <- function(x, y){
-  for (i in seq_along(x)){
-    download.file(x[i], destfile = paste('data-raw/solr_dumps/11-12-2017/instruments/', y[i], i, sep = "_"))
-  }
-}
-
-download(xml_data_listcols$files, xml_data_listcols$record)
+# download <- function(x, y){
+#   for (i in seq_along(x)){
+#     download.file(x[i], destfile = paste('data-raw/solr_dumps/11-12-2017/instruments/', y[i], i, sep = "_"))
+#   }
+# }
+# 
+# download(xml_data_listcols$files, xml_data_listcols$record)
 
 data_framing <- xml_data_listcols %>%
+  unnest(record) %>%
   group_by(record) %>%
   mutate(attribs = map(attribs, str_replace_all, pattern = "\\.", replacement = "_")) %>%
   mutate(attribs = map(attribs, str_replace_all, pattern = "dc", replacement = "iris")) %>%
