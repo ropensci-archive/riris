@@ -28,7 +28,7 @@ files <- list.files('data-raw/solr_dumps/11-12-2017', pattern = '.xml')
 
 filepath <- file.path("data-raw/solr_dumps/11-12-2017",paste(files, sep=''))
 
-xml_data <- map(filepath, read_xml, encoding = "ISO-8859-1")
+xml_data <- map(filepath, read_xml, encoding = "ISO-8859-1") 
 
 
 # Begin making large searchable list of data frames --------------------------------
@@ -39,42 +39,53 @@ record <- xml_data %>%
 arr <- xml_data %>%
   map(., xml_find_all, '//*/arr')
 
+str <- xml_data %>%
+  map(., xml_find_all, '//*/*/str')
+
 fil <- xml_data %>%
   map(., xml_find_all, '//*/file')
 
 xml_data_listcols <- arr %>%{
   tibble(
     values = map(., xml_text, trim = TRUE),
-    attribs = map(., xml_attr, "name"),
-    files = map(fil, xml_attr, "url"),
-    record = map(record, xml_attr, "pid")
+    attribs = map(., xml_attrs, "name"),
+    files = map(fil, xml_attrs, "url"),
+    record = map(record, xml_attrs, "pid")
   )
-}  %>%
-  # slice(., 1:6) %>% # for drafting
-  unnest(record)%>%
-  unnest(files)
+} %>%
+  slice(., 1:6)
+%>%
+  unnest(record)# for drafting
 
+# Takes a long time
 
-download <- function(x, y){
-  for (i in seq_along(x)){
-    download.file(x[i], destfile = paste('data-raw/solr_dumps/11-12-2017/instruments/', y[i], i, sep = "_"))
-  }
-}
-
-download(xml_data_listcols$files, xml_data_listcols$record)
+# download <- function(x, y){
+#   for (i in seq_along(x)){
+#     download.file(x[i], destfile = paste('data-raw/solr_dumps/11-12-2017/instruments/', y[i], i, sep = "_"))
+#   }
+# }
+# 
+# download(xml_data_listcols$files, xml_data_listcols$record)
 
 data_framing <- xml_data_listcols %>%
-  group_by(record) %>%
-  mutate(attribs = map(attribs, str_replace_all, pattern = "\\.", replacement = "_")) %>%
+  unnest(record) 
+%>%
+  group_by(record) 
+%>%
+  mutate(values = map(values, ~gsub("([a-z])([A-Z])", "\\1 \\2", .x)))
+  mutate(attribs = map(attribs, str_replace_all, pattern = "\\.", replacement = "_")) 
+%>%
   mutate(attribs = map(attribs, str_replace_all, pattern = "dc", replacement = "iris")) %>%
   mutate(attribs = map(attribs, ~tolower(gsub("([a-z1-9])([A-Z])", "\\1_\\2", .x)))) %>%
+  mutate(attribs = map(attribs, str))
   mutate(values = map(values, as_data_frame),
          attribs = map(attribs, as_data_frame)) %>%
   mutate(df = map2(values, attribs, ~bind_cols(.x, .y))) %>%
   mutate(df = map(df, spread, key = value1, value = value)) %>%
   mutate(df = map(df, select, contains("iris_"))) %>%
   unnest(df) %>%
-  mutate(iris_date = map_chr(iris_date, ~trimws(gsub("(.{4})", "\\1 ", .x))))
+  mutate(iris_date = map_chr(iris_date, ~trimws(gsub("(.{4})", "\\1 ", .x)))) %>%
+  select(., -`oai_iris_iris_xsi:schema_location`, -values, -attribs)
   nest()
 
 
