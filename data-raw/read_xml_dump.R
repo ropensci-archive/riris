@@ -3,16 +3,10 @@ library(stringr); library(magrittr); library(reshape2); library(rvest)
 
 
 ## Read in solr dump------------------------------------
-# 
-# download.file("http://dlib.york.ac.uk/irisdump.zip",
-#          destfile="data-raw/solr_dumps/5-23-2016/irisdump.zip", mode="wb")
-# unzip ("data-raw/solr_dumps/5-23-2016/irisdump.zip",
-#        exdir = "data-raw/solr_dumps/5-23-2016", overwrite = TRUE)
-# 
 # download.file("https://dlib.york.ac.uk/irisdump.zip",
-#          destfile="data-raw/solr_dumps/11-12-2017/irisdump.zip", mode="wb")
-# unzip ("data-raw/solr_dumps/11-12-2017/irisdump.zip",
-#        exdir = "data-raw/solr_dumps/11-12-2017", overwrite = TRUE)
+#          destfile="data-raw/solr_dumps/irisdump.zip", mode="wb")
+# unzip ("data-raw/solr_dumps/irisdump.zip",
+#        exdir = "data-raw/solr_dumps/", overwrite = TRUE)
 
 
 
@@ -20,13 +14,13 @@ library(stringr); library(magrittr); library(reshape2); library(rvest)
 # Read in data -----------------------------------------
 
 
-files <- list.files('data-raw/solr_dumps/11-12-2017', pattern = '.xml') 
+files <- list.files('data-raw/solr_dumps', pattern = '.xml') 
 # Files <- files[1:6] # for testing the for loops
 
 
 # One big list of all of the files
 
-filepath <- file.path("data-raw/solr_dumps/11-12-2017",paste(files, sep=''))
+filepath <- file.path("data-raw/solr_dumps",paste(files, sep=''))
 
 xml_data <- map(filepath, read_xml, encoding = "ISO-8859-1") 
 
@@ -52,8 +46,9 @@ xml_data_listcols <- arr %>%{
     files = map(fil, xml_attrs, "url"),
     record = map(record, xml_attrs, "pid")
   )
-} %>%
-  slice(., 1:6) # for drafting
+} 
+# %>%
+  # slice(., 1:6) # for drafting
   # unnest(record)%>%
   # unnest(files)
 
@@ -68,9 +63,13 @@ xml_data_listcols <- arr %>%{
 
 
 
-data_framing <- xml_data_listcols %>%
+data_framing <- xml_data_listcols 
+%>%
   unnest(record) %>%
-  group_by(record) %>%
+  unlist(record)
+%>%
+  group_by(record) 
+%>%
   mutate(values = map(values, ~gsub("([a-z])([A-Z])", "\\1 \\2", .x))) %>%
   mutate(values = map(values, ~gsub("([a-z])(http)", "\\1 \\2", .x))) %>%
   mutate(values = map(values, ~gsub("())([A-Z])", ") \\2", .x))) %>%
