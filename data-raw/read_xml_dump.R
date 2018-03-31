@@ -63,11 +63,7 @@ xml_data_listcols <- arr %>%{
 
 
 
-data_framing <- xml_data_listcols 
-%>%
-  unnest(record) %>%
-  unlist(record)
-%>%
+data_framing <- xml_data_listcols %>%
   group_by(record) 
 %>%
   mutate(values = map(values, ~gsub("([a-z])([A-Z])", "\\1 \\2", .x))) %>%
