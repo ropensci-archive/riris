@@ -34,28 +34,29 @@ arr <- xml_data %>%
   map(., xml_find_all, '//*/arr')
 
 str <- xml_data %>%
-  map(., xml_find_all, '//*/*/str')
+  map(., xml_find_all, "//*/*/str[@name= 'iris.hasmaterials']")
 
 fil <- xml_data %>%
   map(., xml_find_all, '//*/file')
+
+strs <- map(str, xml_text)
 
 xml_data_listcols <- arr %>%{
   tibble(
     values = map(., xml_text, trim = TRUE),
     attribs = map(., xml_attrs, "name"),
     files = map(fil, xml_attrs, "url"),
+    materials = map(str, xml_text, trim = TRUE),
     record = map(record, xml_attrs, "pid")
   )
 } %>%
-  slice(., 1:6) %>%# for drafting
+  # slice(., 1:6) %>%# for drafting
 unnest(record)
-%>%
-  unnest(files)
-
 
 
 data_framing <- xml_data_listcols %>%
   unnest(record) %>%
+  unnest(materials) %>%
   mutate(record = str_replace_all(record, 'york:', "")) %>%
   group_by(record) %>%
   mutate(values = map(values, ~gsub("([a-z])([A-Z])", "\\1 \\2", .x))) %>%
@@ -75,7 +76,7 @@ data_framing <- xml_data_listcols %>%
   mutate(iris_date = map_chr(iris_date, ~trimws(gsub("(.{4})", "\\1 ", .x)))) %>%
   select(., -`oai_iris_iris_xsi:schema_location`, -values, -attribs)
 
-riris_author <- select(data_framing, record, iris_instrument_author, iris_email)
+riris_author <- select(data_framing, record, iris_instrument_author, iris_email, materials, iris_description)
 riris_instrument <- select(data_framing, record, iris_instrument_instrument_type, iris_instrument_licence,
                            iris_instrument_research_area, iris_instrument_linguistic_target,
                            iris_instrument_source_language, iris_instrument_type_of_file, 
@@ -86,6 +87,7 @@ riris_participants <- select(data_framing, record, iris_participants_first_langu
                              iris_participants_participant_type, iris_participants_proficiency_learner,
                              iris_participants_target_language)
 
+devtools::use_data(riris_author, overwrite = TRUE)
 #--------------------- I'd like to get bibtex style citations here using RefManageR or scitations
 
 # riris_references <- select(data_framing, record, iris_referenceid, iris_references_author, iris_references_author_noack,
