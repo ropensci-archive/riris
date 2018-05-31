@@ -1,6 +1,6 @@
 library(XML); library(xml2); library(plyr); library(purrr); library(dplyr); library(tidyr)
 library(stringr); library(magrittr); library(reshape2); library(rvest)
-
+library(tibble)
 
 ## Read in solr dump------------------------------------
 # download.file("https://dlib.york.ac.uk/irisdump.zip",
@@ -32,6 +32,13 @@ record <- xml_data %>%
 
 arr <- xml_data %>%
   map(., xml_find_all, '//*/arr')
+
+titles <- xml_data %>%
+  map(., xml_find_all, "//*/*/arr[@name = 'iris.referenceid']/str") %>%
+  map(., xml_text, trim = TRUE) %>%
+  map(., str_split, "_") %>% 
+  flatten()%>%
+  map(., ~keep(.x, function(.x) str_length(.x) > 14))
 
 str <- xml_data %>%
   map(., xml_find_all, "//*/*/str[@name= 'iris.hasmaterials']")
@@ -85,7 +92,7 @@ riris_file_info <- data_framing %>%
   mutate(files = map(files, enframe)) %>%
   mutate(files = map(files, spread, key = name, value = value))
 
-riris_author <- select(data_framing, record, iris_instrument_author, iris_feedback_email, materials)
+riris_author <- select(data_framing, record, iris_instrument_author, materials, iris_referenceid) 
 riris_instrument <- select(data_framing, record, iris_instrument_instrument_type, iris_instrument_licence,
                            iris_instrument_research_area, iris_instrument_linguistic_target,
                            iris_instrument_source_language, iris_instrument_type_of_file, 
