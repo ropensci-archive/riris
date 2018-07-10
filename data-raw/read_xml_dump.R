@@ -1,5 +1,5 @@
 library(XML); library(xml2); library(plyr); library(purrr); library(dplyr); library(tidyr)
-library(stringr); library(magrittr); library(reshape2); library(rvest)
+library(stringr); library(magrittr); library(reshape2); library(rvest); library(tibble)
 
 
 ## Read in solr dump------------------------------------
@@ -69,7 +69,6 @@ data_framing <- xml_data_listcols %>%
   mutate(attribs = map(attribs, str_replace_all, pattern = "\\.", replacement = "_"))%>%
   mutate(attribs = map(attribs, str_replace_all, pattern = "dc", replacement = "iris"))%>%
   mutate(attribs = map(attribs, ~tolower(gsub("([a-z1-9])([A-Z])", "\\1_\\2", .x)))) %>%
-  # mutate(attribs = map(attribs, str))
   mutate(values = map(values, as_data_frame),
          attribs = map(attribs, as_data_frame)) %>%
   mutate(df = map2(values, attribs, ~bind_cols(.x, .y))) %>%
@@ -77,7 +76,6 @@ data_framing <- xml_data_listcols %>%
   unnest(df, materials, .preserve = 'files')%>%
   mutate(iris_date = map_chr(iris_date, ~trimws(gsub("(.{4})", "\\1; ", .x)))) %>%
   select(., files, record, materials, contains("iris_"), -contains("oai_iris_iris_xsi"))
-
 
 riris_file_info <- data_framing %>%
   select(record, files) %>%
