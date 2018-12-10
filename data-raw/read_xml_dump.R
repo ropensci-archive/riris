@@ -14,7 +14,7 @@ library(stringr); library(magrittr); library(reshape2); library(rvest); library(
 # Read in data -----------------------------------------
 
 
-files <- list.files('data-raw/solr_dumps', pattern = '.xml') 
+files <- list.files('data-raw/solr_dumps', pattern = '.xml')
 # Files <- files[1:6] # for testing the for loops
 
 
@@ -22,7 +22,7 @@ files <- list.files('data-raw/solr_dumps', pattern = '.xml')
 
 filepath <- file.path("data-raw/solr_dumps",paste(files, sep=''))
 
-xml_data <- map(filepath, read_xml, encoding = "ISO-8859-1") 
+xml_data <- map(filepath, read_xml, encoding = "ISO-8859-1")
 
 
 # Begin making large searchable list of data frames --------------------------------
@@ -32,6 +32,58 @@ record <- xml_data %>%
 
 arr <- xml_data %>%
   map(., xml_find_all, '//*/arr')
+
+titles <- xml_data %>%{
+  
+  title <- map(., xml_find_all, "//*/*/arr[@name = 'iris.referenceid']/str")  %>%
+    map(., xml_text, trim = TRUE) %>%
+    map(., str_split, "_", simplify = FALSE) %>%
+    modify_depth(., 2, tail, n = 1) %>%
+    enframe()
+
+  rec <- map(., xml_find_all, '/record')  %>%
+    map(., xml_attrs, "pid") %>%
+    enframe() %>%
+    rename(york_id = value)
+
+  materials <- map(., xml_find_all, "//*/*/str[@name= 'iris.hasmaterials']") %>%
+    map(., xml_text, trim = TRUE) %>%
+    enframe() %>%
+    rename(has_materials = value)
+  
+  files <- map(., xml_find_all, '//*/file') %>%
+    map(., xml_attrs, "url") %>%
+    modify_depth(., 2, tail, n = 2) %>%
+    enframe() %>%
+    unnest(value) %>%
+    unnest(value) %>% {
+          type <- filter(., row_number() %% 2 == 1)
+          url <- filter(., row_number() %% 2 == 0)
+
+          files <- left_join(type, url, by = 'name')
+
+          return(files)
+    } %>%
+    distinct(., value.y, .keep_all = TRUE) %>%
+    rename(file_type = value.x, file_url = value.y) %>%
+    group_by(name)  %>%
+    nest(file_url, file_type)
+
+  comb <- full_join(rec, title, by = 'name') %>%
+    unnest(york_id) %>%
+    unnest(york_id) %>%
+    full_join(., materials, by = 'name') %>%
+    full_join(., files, by = 'name') 
+
+  return(comb)
+} %>%
+  mutate(n_entries_iris = map_dbl(value, length))%>%
+  mutate(n_instruments_iris = map_dbl(data, ~length(.x$file_url)))%>%
+  unnest(value, .preserve = c(has_materials)) %>%
+  unnest(value, .preserve = c(has_materials)) %>%
+  unnest(has_materials) 
+
+readr::write_csv(titles, 'data-raw/iris_titles.csv')
 
 str <- xml_data %>%
   map(., xml_find_all, "//*/*/str[@name= 'iris.hasmaterials']")
@@ -77,16 +129,23 @@ data_framing <- xml_data_listcols %>%
   mutate(iris_date = map_chr(iris_date, ~trimws(gsub("(.{4})", "\\1; ", .x)))) %>%
   select(., files, record, materials, contains("iris_"), -contains("oai_iris_iris_xsi"))
 
+# library(readr)
+# write_rds(data_framing, 'data-raw/iris_data_raw.rds')
+
 riris_file_info <- data_framing %>%
   select(record, files) %>%
   unnest(files) %>%
   mutate(files = map(files, enframe)) %>%
-  mutate(files = map(files, spread, key = name, value = value))
+  mutate(files = map(files, spread, key = name, value = value)) 
+# %>%
+  # unnest() # use this for writing the file below for the citation project
 
-riris_author <- select(data_framing, record, iris_instrument_author, iris_feedback_email, materials)
+# readr::write_csv(riris_file_info, 'data-raw/riris_file_info.csv')
+
+riris_author <- select(data_framing, record, iris_instrument_author, materials, iris_referenceid)
 riris_instrument <- select(data_framing, record, iris_instrument_instrument_type, iris_instrument_licence,
                            iris_instrument_research_area, iris_instrument_linguistic_target,
-                           iris_instrument_source_language, iris_instrument_type_of_file, 
+                           iris_instrument_source_language, iris_instrument_type_of_file,
                            iris_instrument_title) %>%
   rename(iris_instrument_type = iris_instrument_instrument_type)
 
